@@ -1,0 +1,1313 @@
+[
+    {
+        "index": 0,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 7 steps. Turn around. Take 7 steps. Turn left. Turn around. Turn around. Turn left.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 1,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step backward. Take 9 steps left. Take 2 steps backward. Take 6 steps forward. Take 4 steps forward. Take 4 steps backward. Take 3 steps right.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 2,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 5 steps. Turn around. Take 4 steps. Take 1 step. Turn left. Turn around. Turn left.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 3,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Turn left. Turn left. Take 10 steps. Take 6 steps. Turn left. Take 3 steps. Take 3 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 4,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 3 steps right. Take 1 step backward. Take 6 steps left. Take 1 step forward. Take 3 steps right.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 5,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 9 steps. Take 5 steps. Take 2 steps. Take 10 steps. Turn right. Take 10 steps. Take 8 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 4 steps. Take 2 steps. Turn around. Take 6 steps.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 7,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps left. Take 4 steps backward.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 10 steps. Turn left. Turn around. Take 9 steps. Take 8 steps. Turn right. Turn around. Take 8 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 10 steps. Turn left. Turn left. Take 9 steps. Take 3 steps. Take 3 steps. Turn around. Take 5 steps.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 10 steps. Turn around. Take 1 step. Take 9 steps. Turn around.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 11,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 10 steps. Take 8 steps. Turn left. Take 3 steps. Take 1 step. Take 6 steps. Take 7 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps backward. Take 1 step forward. Take 1 step backward. Take 5 steps forward. Take 6 steps backward. Take 8 steps forward.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 7 steps. Take 1 step. Take 7 steps. Turn left. Take 5 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 4 steps. Take 2 steps. Take 7 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps left. Take 8 steps right. Take 10 steps backward. Take 4 steps left.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 10 steps. Turn around. Take 4 steps. Take 6 steps. Turn around.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 17,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 3 steps. Turn right. Turn left. Take 5 steps. Take 10 steps. Take 7 steps. Turn left.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 18,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps left. Take 8 steps right.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 19,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps forward. Take 10 steps right. Take 10 steps backward. Take 3 steps forward. Take 7 steps forward. Take 9 steps left.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 7 steps. Turn right. Turn right. Take 6 steps. Turn right.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 21,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Turn left. Turn left. Turn around. Take 1 step. Take 6 steps. Turn left. Turn left. Take 7 steps.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 22,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Turn right. Take 1 step. Take 7 steps. Take 1 step. Take 5 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 1 step. Take 2 steps. Turn right. Take 6 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps left. Take 10 steps right. Take 7 steps backward. Take 7 steps forward.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps backward. Take 9 steps left.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 8 steps. Take 2 steps. Turn right. Turn right. Take 10 steps.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 7 steps. Take 4 steps. Take 3 steps. Take 10 steps. Turn left. Turn around.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 4 steps forward. Take 5 steps left. Take 6 steps forward. Take 8 steps backward. Take 5 steps backward. Take 1 step backward. Take 1 step backward.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps right. Take 4 steps backward. Take 8 steps left. Take 5 steps left. Take 6 steps backward. Take 9 steps forward. Take 5 steps right. Take 1 step forward. Take 3 steps right.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 30,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step forward. Take 10 steps forward. Take 6 steps backward. Take 7 steps backward. Take 1 step left. Take 10 steps right.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 10 steps. Turn left. Turn left. Take 10 steps.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 32,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Turn left. Turn around. Take 1 step. Take 10 steps. Turn around. Take 7 steps. Take 4 steps.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 33,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 6 steps. Take 5 steps. Take 6 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 3 steps right. Take 5 steps right. Take 2 steps backward.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps left. Take 2 steps right. Take 5 steps backward. Take 8 steps left. Take 7 steps forward. Take 7 steps right. Take 9 steps forward.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps forward. Take 8 steps left. Take 3 steps backward. Take 7 steps right. Take 2 steps forward. Take 4 steps forward. Take 10 steps forward.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 3 steps. Take 10 steps. Take 4 steps. Take 1 step.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 9 steps left. Take 4 steps forward. Take 2 steps forward.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 7 steps backward. Take 4 steps left. Take 7 steps left. Take 7 steps right. Take 8 steps forward.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 3 steps. Take 5 steps. Take 8 steps. Turn right. Turn right. Take 5 steps. Turn around. Take 2 steps. Take 4 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps right. Take 8 steps left.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 42,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps right. Take 5 steps right. Take 7 steps left. Take 3 steps left. Take 7 steps left. Take 6 steps right.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 5 steps. Turn around. Take 10 steps. Turn right. Take 10 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 44,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps forward. Take 4 steps forward. Take 7 steps backward. Take 7 steps backward.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 45,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 1 step right. Take 2 steps forward. Take 2 steps right. Take 4 steps right.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 46,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 3 steps. Take 5 steps. Turn around. Take 3 steps. Take 5 steps. Turn right. Turn right.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 47,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 5 steps left. Take 7 steps left. Take 2 steps left.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps forward. Take 7 steps backward. Take 7 steps backward. Take 8 steps forward.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 49,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 6 steps. Take 8 steps. Take 7 steps. Turn around. Take 6 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 10 steps right. Take 3 steps forward. Take 8 steps right. Take 2 steps right.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 51,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 7 steps. Turn around. Take 7 steps. Turn left.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 52,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 8 steps backward. Take 8 steps forward. Take 10 steps forward. Take 8 steps backward. Take 8 steps right. Take 6 steps backward. Take 7 steps forward. Take 8 steps forward.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 2 steps backward. Take 3 steps backward. Take 3 steps backward. Take 8 steps forward.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 2 steps. Take 10 steps. Take 8 steps.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 55,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Take 1 step. Take 5 steps. Take 10 steps. Take 4 steps. Take 4 steps. Take 1 step. Turn right.",
+        "label": [
+            "B"
+        ],
+        "answer": "No",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "BBH:navigate/Logical Reasoning",
+        "question": "If you follow these instructions, do you return to the starting point? Always face forward. Take 6 steps forward. Take 4 steps forward. Take 9 steps backward. Take 1 step backward.",
+        "label": [
+            "A"
+        ],
+        "answer": "Yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yes",
+            "B. No"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    }
+]

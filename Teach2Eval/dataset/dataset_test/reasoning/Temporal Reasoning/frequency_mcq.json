@@ -1,0 +1,2210 @@
+[
+    {
+        "index": 0,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Oracles' forecast festival' appears quarterly. If it took place in 1854, when did it previously occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It previously occurred in 1855",
+            "B. It previously occurred in 1850",
+            "C. It previously occurred in 1853"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 1,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A TV series releases a new episode every 4 days. If the inaugural episode was released on a Friday, on which day will the 2nd episode be released?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Sunday",
+            "B. Tuesday",
+            "C. Wednesday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Mechanical pulping yields almost a tonne of pulp per tonne of dry wood used, which is why mechanical pulps are sometimes referred to as \"high yield\" pulps. With almost twice the yield as chemical pulping, mechanical pulps is often cheaper. Mass-market paperback books and newspapers tend to use mechanical papers. Book publishers tend to use acid-free paper, made from fully bleached chemical pulps for hardback and trade paperback books. How many times more yield does the mechanical pulping process produce when compared to to the chemical pulping process?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. twice",
+            "B. every other day",
+            "C. once a week"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A particular star becomes visible from Earth every 200 years. If it was last observed in 2010, in which year will it next be visible?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2210",
+            "B. 2212",
+            "C. 2208"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A comet passes Earth every 120 years. If its last appearance was in 1849, when will it next appear?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1968",
+            "B. 1970",
+            "C. 1969"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 5,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "In a spaceship experiencing time dilation, 1 year inside equates to 6 Earth years. If an event occurs inside every year, how frequently is it observed from Earth?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 11",
+            "C. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 6,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A festival is celebrated every 19 years. If it was last celebrated in 1918, when will it next be celebrated?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1935",
+            "B. 1937",
+            "C. 1938"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Fairy's midnight ball' appears once a week. If it was last seen in 1952, when will it next appear?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will appear in 1954",
+            "B. It will appear in 1950",
+            "C. It will appear in 1952"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 8,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Precipitation is rather uniformly distributed throughout the year. However, dry periods lasting several weeks do occur, especially in autumn when long periods of pleasant, mild weather are most common. There is considerable variability in total monthly amounts from year to year so that no one month can be depended upon to be normal. Snow has been recorded during seven of the twelve months. Falls of 3 inches (7.6 cm) or more within 24 hours occur an average once per year. Annual snowfall, however, is usually light, averaging 10.5 inches (27 cm) per season. Snow typically remains on the ground only one or two days at a time, but remained for 16 days in 2010 (January 30 to February 14). Ice storms (freezing rain or glaze) are not uncommon, but they are seldom severe enough to do any considerable damage. How many times does Richmond receive 7.6 centimeters or more of snow in a 24 hour period annually?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. always",
+            "B. once",
+            "C. every year"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Galactic council meetings' appears biannually. If it took place in 1867, when did it previously occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It previously occurred in 1865",
+            "B. It previously occurred in 1863",
+            "C. It previously occurred in 1866"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "How often does Saint Patrick's Day occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Once a year",
+            "B. Every 6 years",
+            "C. Twice a year"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A festival is celebrated every 11 years. If it was last celebrated in 1897, when will it next be celebrated?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1907",
+            "B. 1908",
+            "C. 1910"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "In another major paper from this era, Einstein gave a wave equation for de Broglie waves, which Einstein suggested was the Hamilton-Jacobi equation of mechanics. How often did Einstein publish his wave equation?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. every hour",
+            "B. every second",
+            "C. once"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Apple's Product Launch Events' appears 3 to 4 times a year. If it was last seen in 2008, when will it next appear?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will appear in 2009",
+            "B. It will appear in 2005",
+            "C. It will appear in 2008"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 14,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "At 9:21, it advised the Dulles terminal control facility, and Dulles urged its controllers to look for primary targets. How often did they have to advise Dulles that day?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 300 times",
+            "B. 100 times",
+            "C. once"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 15,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "On Planet Alpha, 1 day is equivalent to 6 Earth days. How many Earth days elapse between daily events on Alpha?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 1",
+            "C. 6"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Naga's underwater basket weaving' (which happens biannually) and 'Gorgon's beauty parlor visits' (which happens once a week).",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Naga's underwater basket weaving is more frequent",
+            "B. Gorgon's beauty parlor visits is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 17,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A species of cicada emerges every 25 years. If they last emerged in 1871, when will they next emerge?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1896",
+            "B. 1899",
+            "C. 1895"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 18,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A festival is celebrated every 6 years. If it was last celebrated in 1990, when will it next be celebrated?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1996",
+            "B. 1999",
+            "C. 1993"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Valentine's Day' and 'Father's Day'.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Valentine's Day is more frequent",
+            "B. Father's Day is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 20,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Ramadan' and 'Father's Day'.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Ramadan is more frequent",
+            "B. Father's Day is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 21,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A particular star becomes visible from Earth every 150 years. If it was last observed in 2015, in which year will it next be visible?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2165",
+            "B. 2163",
+            "C. 2164"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A TV series releases a new episode every 5 days. If the inaugural episode was released on a Thursday, on which day will the 2nd episode be released?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Tuesday",
+            "B. Friday",
+            "C. Monday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Banshee's vocal training' appears biweekly. If it took place in 1935, when did it previously occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It previously occurred in 1937",
+            "B. It previously occurred in 1934",
+            "C. It previously occurred in 1933"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Ramadan' and 'Monaco Grand Prix (F1)'.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Ramadan is more frequent",
+            "B. Monaco Grand Prix (F1) is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 25,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A solar eclipse happens at least 3 times a year. If the first one in 1932 is in October, in which month can we expect the next one?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. November",
+            "B. October",
+            "C. February"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 26,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Dragon flight training' appears biweekly. If it took place in 1873, when did it previously occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It previously occurred in 1875",
+            "B. It previously occurred in 1872",
+            "C. It previously occurred in 1870"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Yom Kippur' and 'Leap Year'.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yom Kippur is more frequent",
+            "B. Leap Year is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A comet passes Earth every 76 years. If its last appearance was in 1888, when will it next appear?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1967",
+            "B. 1964",
+            "C. 1962"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "In a spaceship experiencing time dilation, 1 year inside equates to 83 Earth years. If an event occurs inside every year, how frequently is it observed from Earth?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 83",
+            "B. 85",
+            "C. 78"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Leprechaun gold counting' (which happens daily) and 'Shapeshifter's masquerade ball' (which happens monthly).",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Leprechaun gold counting is more frequent",
+            "B. Shapeshifter's masquerade ball is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 31,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A town hosts a carnival every 4 years in September. If the preceding carnival was in 1848, when will the subsequent one occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. September 1854",
+            "B. September 1851",
+            "C. September 1852"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A particular star becomes visible from Earth every 100 years. If it was last observed in 1810, in which year will it next be visible?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1910",
+            "B. 1912",
+            "C. 1908"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Banshee's vocal training' appears biweekly. If it took place in 1961, when did it previously occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It previously occurred in 1963",
+            "B. It previously occurred in 1958",
+            "C. It previously occurred in 1960"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 34,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "If an athlete trains every 2 days, starting on Saturday, on which day will they train next?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Monday",
+            "B. Saturday",
+            "C. Friday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'MTV Video Music Awards' and 'Australian Federal Election'.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. MTV Video Music Awards is more frequent",
+            "B. Australian Federal Election is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Qixi Festival' and 'Labor Day'.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Qixi Festival is more frequent",
+            "B. Labor Day is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 37,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A particular star becomes visible from Earth every 150 years. If it was last observed in 1822, in which year will it next be visible?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1972",
+            "B. 1970",
+            "C. 1974"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Galactic council meetings' (which happens biannually) and 'Kappa's river party' (which happens quarterly).",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Galactic council meetings is more frequent",
+            "B. Kappa's river party is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 39,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A festival is celebrated every 6 years. If it was last celebrated in 1901, when will it next be celebrated?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1907",
+            "B. 1906",
+            "C. 1908"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A festival is celebrated every 19 years. If it was last celebrated in 1858, when will it next be celebrated?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1876",
+            "B. 1879",
+            "C. 1877"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life. How often does Deborah prepare the lettuce?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. someone know what their status is",
+            "B. every weekday morning",
+            "C. i like to know more about what happened"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A town hosts a carnival every 2 years in February. If the preceding carnival was in 1889, when will the subsequent one occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. February 1891",
+            "B. February 1892",
+            "C. February 1893"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Chimera's talent show' appears biennially. If it took place in 1856, when did it previously occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It previously occurred in 1851",
+            "B. It previously occurred in 1857",
+            "C. It previously occurred in 1854"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Atlantis underwater music festival' appears yearly. If it took place in 1958, when did it previously occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It previously occurred in 1957",
+            "B. It previously occurred in 1960",
+            "C. It previously occurred in 1955"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "If 'Salamander's fire juggling contest' happens once a week, how many times will it occur in 10 years?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will occur 520 times",
+            "B. It will occur 519 times",
+            "C. It will occur 522 times"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A festival is celebrated every 22 years. If it was last celebrated in 1895, when will it next be celebrated?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1917",
+            "B. 1919",
+            "C. 1914"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Annual invisibility cloak fashion show' appears yearly. If it was last seen in 1817, when will it next appear?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will appear in 1820",
+            "B. It will appear in 1817",
+            "C. It will appear in 1818"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "If 'Gorgon's beauty parlor visits' happens once a week, how many times will it occur in 25 years?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will occur 1299 times",
+            "B. It will occur 1302 times",
+            "C. It will occur 1300 times"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 49,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "In a spaceship experiencing time dilation, 1 year inside equates to 55 Earth years. If an event occurs inside every year, how frequently is it observed from Earth?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 55",
+            "B. 52",
+            "C. 59"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "If 'Satyr's flute festival' happens biennially, how many times will it occur in 75 years?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will occur 39 times",
+            "B. It will occur 35 times",
+            "C. It will occur 37 times"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A festival is celebrated every 17 years. If it was last celebrated in 1954, when will it next be celebrated?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1972",
+            "B. 1971",
+            "C. 1968"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 52,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Additionally, Las Vegas had been made a part of Nevada's new Clark County in 1909, a year when the legislature also outlawed gambling. How many times has Las Vegas changed counties?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. once",
+            "B. 350 times",
+            "C. 3150 times"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A town hosts a carnival every 2 years in June. If the preceding carnival was in 1994, when will the subsequent one occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Jun-97",
+            "B. Jun-96",
+            "C. Jun-98"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A species of cicada emerges every 2 years. If they last emerged in 1962, when will they next emerge?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1964",
+            "B. 1962",
+            "C. 1967"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Disguise, as any actor or detective can tell you, is not so much a matter of make- up as suggestion. How often does a detective go in disguise?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5 times per month",
+            "B. 5 times per weekend",
+            "C. every other century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 56,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Flying carpets cleaning' appears once a week. If it took place in 1938, when did it previously occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It previously occurred in 1937",
+            "B. It previously occurred in 1938",
+            "C. It previously occurred in 1936"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "In presidential elections, Montana was long classified as a swing state, though the state has voted for the Republican candidate in all but two elections from 1952 to the present. The state last supported a Democrat for president in 1992, when Bill Clinton won a plurality victory. Overall, since 1889 the state has voted for Democratic governors 60 percent of the time and Democratic presidents 40 percent of the time, with these numbers being 40/60 for Republican candidates. In the 2008 presidential election, Montana was considered a swing state and was ultimately won by Republican John McCain, albeit by a narrow margin of two percent. How often has Montana voted for a Democratic governor?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. once a day",
+            "B. 60 percent",
+            "C. every year"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Monarch butterfly migration' and 'Commonwealth Games'.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Monarch butterfly migration is more frequent",
+            "B. Commonwealth Games is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "By the time the spelling bee arrived Ana and her best friend were sure she would win. How often is the spelling bee held?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. every minute",
+            "B. once a week",
+            "C. once a year"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 60,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Comet Halley appearance' and 'Brood X cicada emergence'.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Comet Halley appearance is more frequent",
+            "B. Brood X cicada emergence is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 61,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "If a particular year occurs every 4 years and the last one was in 1923, when is the next particular year?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1923",
+            "B. 1931",
+            "C. 1927"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A solar eclipse happens at least 3 times a year. If the first one in 1984 is in October, in which month can we expect the next one?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. July",
+            "B. February",
+            "C. September"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 63,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A festival is celebrated every 11 years. If it was last celebrated in 1978, when will it next be celebrated?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1986",
+            "B. 1989",
+            "C. 1990"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 64,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Wizard's duel' appears biweekly. If it took place in 1936, when did it previously occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It previously occurred in 1932",
+            "B. It previously occurred in 1938",
+            "C. It previously occurred in 1935"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 65,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Giants' mountaintop yoga' appears biweekly. If it was last seen in 1802, when will it next appear?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will appear in 1801",
+            "B. It will appear in 1804",
+            "C. It will appear in 1802"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 66,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A town hosts a carnival every 3 years in April. If the preceding carnival was in 1996, when will the subsequent one occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Apr-98",
+            "B. Apr-97",
+            "C. Apr-99"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 67,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Celebration of the underground gnome festival' appears biannually. If it was last seen in 1880, when will it next appear?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will appear in 1879",
+            "B. It will appear in 1882",
+            "C. It will appear in 1883"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 68,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "On Planet Alpha, 1 day is equivalent to 62 Earth days. How many Earth days elapse between daily events on Alpha?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 62",
+            "B. 70",
+            "C. 58"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 69,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Martian holidays' appears once a decade. If it took place in 1911, when did it previously occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It previously occurred in 1901",
+            "B. It previously occurred in 1903",
+            "C. It previously occurred in 1899"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "If 'Shapeshifter's masquerade ball' happens monthly, how many times will it occur in 25 years?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will occur 297 times",
+            "B. It will occur 300 times",
+            "C. It will occur 302 times"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 71,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A festival is celebrated every 15 years. If it was last celebrated in 1918, when will it next be celebrated?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1930",
+            "B. 1933",
+            "C. 1935"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 72,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Geneva International Motor Show' and 'G20 Summit'.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Geneva International Motor Show is more frequent",
+            "B. G20 Summit is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 73,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A town hosts a carnival every 4 years in July. If the preceding carnival was in 1833, when will the subsequent one occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. July 1837",
+            "B. July 1836",
+            "C. July 1838"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 74,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "If 'Giants' mountaintop yoga' happens biweekly, how many times will it occur in 50 years?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will occur 1300 times",
+            "B. It will occur 1299 times",
+            "C. It will occur 1302 times"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 75,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A particular star becomes visible from Earth every 100 years. If it was last observed in 1843, in which year will it next be visible?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1945",
+            "B. 1941",
+            "C. 1943"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 76,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Nibras and Quso delivered money to Khallad in Bangkok during Khallad's January 2000 trip to Kuala Lumpur and Bangkok. How often does Khallad make these trips?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. once a year",
+            "B. every hour",
+            "C. every minute"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 77,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "On Planet Alpha, 1 day is equivalent to 2 Earth days. How many Earth days elapse between daily events on Alpha?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 10",
+            "C. 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 78,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Kraken's deep-sea disco' appears quarterly. If it was last seen in 1898, when will it next appear?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It will appear in 1895",
+            "B. It will appear in 1898",
+            "C. It will appear in 1901"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 79,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "How often does Mid-Autumn Festival occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Every 5 years",
+            "B. Every 3 years",
+            "C. Once a year"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 80,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "If a person's job contract has a renewal every 4 years, and they started working in 1836 and renewed it 1 times without gaps, until what year is their current contract valid?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1847",
+            "B. 1842",
+            "C. 1844"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 81,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "In school, Atta came across as very intelligent and reasonably pleasant, with an excellent command of the German language. How often did Atta speak German in school?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. every night",
+            "B. every day",
+            "C. never"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 82,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Edinburgh Fringe Festival' and 'Monarch butterfly migration'.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Edinburgh Fringe Festival is more frequent",
+            "B. Monarch butterfly migration is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 83,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "She had gotten out of her last day of school and was free for the summer. How often does she get time off?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0.44 times a month",
+            "B. 4 times a second",
+            "C. every summer"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 84,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'G7 Summit' and 'Day of the Dead'.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. G7 Summit is more frequent",
+            "B. Day of the Dead is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 85,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A town hosts a carnival every 3 years in June. If the preceding carnival was in 1884, when will the subsequent one occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. June 1888",
+            "B. June 1886",
+            "C. June 1887"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 86,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "They packed up the car and drove to the library, ready for a fun morning. How often do they drive to the library?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. every week",
+            "B. every few years",
+            "C. once every two seconds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 87,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A comet passes Earth every 120 years. If its last appearance was in 1997, when will it next appear?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2114",
+            "B. 2117",
+            "C. 2119"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 88,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "How often does Microsoft Build occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Once a year",
+            "B. Every 2 years",
+            "C. Every 4 years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 89,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Hajj pilgrimage' and 'Mexican Presidential Election'.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Hajj pilgrimage is more frequent",
+            "B. Mexican Presidential Election is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 90,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "A town hosts a carnival every 4 years in January. If the preceding carnival was in 1952, when will the subsequent one occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Jan-55",
+            "B. Jan-54",
+            "C. Jan-56"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 91,
+        "source": "TRAM:frequency/Temporal Reasoning",
+        "question": "Compare the frequency of 'Hanukkah' and 'International Motor Show Germany'.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Hanukkah is more frequent",
+            "B. International Motor Show Germany is more frequent",
+            "C. Both events are equally frequent"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    }
+]

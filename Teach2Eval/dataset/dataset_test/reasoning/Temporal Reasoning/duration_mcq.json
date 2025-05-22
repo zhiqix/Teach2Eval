@@ -1,0 +1,2210 @@
+[
+    {
+        "index": 0,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Cultural Fest goes on for 1 month. Retro Fair is a third of Cultural Fest, and History Lecture is as long as Cultural Fest and Retro Fair combined. Which event lasts the longest?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Cultural Fest",
+            "B. History Lecture",
+            "C. Retro Fair"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Board Game Night goes on for 11 months. Craft Market is a third of Board Game Night, and Magic Show is as long as Board Game Night and Craft Market combined. Which event lasts the longest?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Craft Market",
+            "B. Board Game Night",
+            "C. Magic Show"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Jazz Concert goes on for 2 weeks, Yoga Session is triple as long, and Theater Play is the average of the two. Which event has the shortest duration?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yoga Session",
+            "B. Jazz Concert",
+            "C. Theater Play"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 3,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The clock does not run during convert attempts in the last three minutes of a half. If the 15 minutes of a quarter expire while the ball is live, the quarter is extended until the ball becomes dead. If a quarter's time expires while the ball is dead, the quarter is extended for one more scrimmage. A quarter cannot end while a penalty is pending: after the penalty yardage is applied, the quarter is extended one scrimmage. Note that the non-penalized team has the option to decline any penalty it considers disadvantageous, so a losing team cannot indefinitely prolong a game by repeatedly committing infractions. How long is a quarter in minutes?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 65 years",
+            "B. 100 years",
+            "C. 15"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted longer: Rescue of the Chilean miners or Hurricane Katrina?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Rescue of the Chilean miners",
+            "B. Hurricane Katrina",
+            "C. Both are same"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "In addition to Somali, Arabic, which is also an Afro-Asiatic tongue, is an official national language in both Somalia and Djibouti. Many Somalis speak it due to centuries-old ties with the Arab world, the far-reaching influence of the Arabic media, and religious education. Somalia and Djibouti are also both members of the Arab League. For how long has Somalia had connections to the Arab world?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. several minutes",
+            "B. several microseconds",
+            "C. centuries"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "To organize a festival, it takes 5 months for vendor coordination, double that time for preparation, and the same duration as vendor coordination for planning. How long does the whole organization process take?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 26 months",
+            "B. 20 months",
+            "C. 22 months"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Between Charity Run that lasts 2 days, Gaming Tournament that is four times longer, and Wine Tasting that's half the total duration of the two, which is the shortest?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Charity Run",
+            "B. Wine Tasting",
+            "C. Gaming Tournament"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "For a conference, keynote lasts for 1 week. If review is double that duration minus 15% of keynote and planning is the sum of keynote and review divided by 2, what's the entire duration?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10.3 weeks",
+            "B. 4.3 weeks",
+            "C. 6.3 weeks"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "It takes 5 years for execution when preparing for a camp. This is triple the time it takes for coordination. How long does it take for both activities?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11.7 years",
+            "B. 7.7 years",
+            "C. 6.7 years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Dance Workshop continues for 1 day. Book Fair lasts as long as Dance Workshop and Math Tournament combined, where Math Tournament is triple of Dance Workshop. Which event has the shortest duration?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Dance Workshop",
+            "B. Book Fair",
+            "C. Math Tournament"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Board Game Night lasts for 6 months. Orchestra Performance is quadruple the duration of Board Game Night. Baking Marathon is half the duration of Orchestra Performance. Which event is the shortest?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Baking Marathon",
+            "B. Orchestra Performance",
+            "C. Board Game Night"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 12,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Era of the Golden Wizards (many years), Great Yeti Expedition (almost a decade), or Fall of the Ice Kingdom (a fortnight)?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Era of the Golden Wizards",
+            "B. Great Yeti Expedition",
+            "C. Fall of the Ice Kingdom"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 13,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "During a camp, campfire takes 3 days, while coordination is three times that duration minus 20% of campfire. If planning takes 30% the sum of campfire and coordination, what's the total duration?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 19.8 days",
+            "B. 16.8 days",
+            "C. 14.8 days"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 14,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The use of time is an important issue in understanding human behavior, education, and travel behavior. Time-use research is a developing field of study. The question concerns how time is allocated across a number of activities (such as time spent at home, at work, shopping, etc.). Time use changes with technology, as the television or the Internet created new opportunities to use time in different ways. However, some aspects of time use are relatively stable over long periods of time, such as the amount of time spent traveling to work, which despite major changes in transport, has been observed to be about 20–30 minutes one-way for a large number of cities over a long period. Travelling to work has been observed to be about how long for a large number of cities over a long period?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 20–30 minutes one-way",
+            "B. 45 days",
+            "C. 3 weeks"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Woodstock Music Festival, Boston Tea Party, or Nelson Mandela Imprisonment?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Woodstock Music Festival",
+            "B. Boston Tea Party",
+            "C. Nelson Mandela Imprisonment"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 16,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Guests could finish a puzzle during Space Camp, set it up during Poetry Slam, but could only sort pieces during Board Game Night. Which event was the shortest?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Poetry Slam",
+            "B. Space Camp",
+            "C. Board Game Night"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 17,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Berlin Airlift, Battle of Waterloo, or Hindenburg disaster?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Berlin Airlift",
+            "B. Battle of Waterloo",
+            "C. Hindenburg disaster"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The total duration of a camp is four times the time of execution which is 2 weeks. If setup is half of execution minus 5% of execution and preparation is twice execution plus 15% of execution, how long do the setup and preparation together take?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6.2 weeks",
+            "B. 5.2 weeks",
+            "C. 9.2 weeks"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The Vedic period is named after the Indo-Aryan culture of north-west India, although other parts of India had a distinct cultural identity during this period. The Vedic culture is described in the texts of Vedas, still sacred to Hindus, which were orally composed in Vedic Sanskrit. The Vedas are some of the oldest extant texts in India. The Vedic period, lasting from about 1750 to 500 BCE, and contributed the foundations of several cultural aspects of Indian subcontinent. In terms of culture, many regions of the subcontinent transitioned from the Chalcolithic to the Iron Age in this period. What was the duration of the Vedic culture?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1750 to 500 BCE",
+            "B. 20 minutes",
+            "C. a couple of days"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Return of the Sun Sorcerers (less than a week), Return of the Galaxy Guardians (less than a week), or Rise and Fall of the Silver Empire (just under a week)?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Return of the Sun Sorcerers",
+            "B. Return of the Galaxy Guardians",
+            "C. Rise and Fall of the Silver Empire"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Filming of The Lord of the Rings trilogy, Tour de France 2021, or World War I?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Filming of The Lord of the Rings trilogy",
+            "B. Tour de France 2021",
+            "C. World War I"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 22,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Between Baking Marathon that lasts 5 months, Board Game Night that is four times longer, and Book Fair that's half the total duration of the two, which is the shortest?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Book Fair",
+            "B. Baking Marathon",
+            "C. Board Game Night"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 23,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "review takes 4 months. If execution is a quarter of review plus 10% of review and registration is four times the length of execution minus 25% of review for a workshop, how long do all the activities last?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10 months",
+            "B. 16 months",
+            "C. 13 months"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted longer: War of the Celestial Spirits (several decades) or Dance of the Star Spirits (a few months)?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. War of the Celestial Spirits",
+            "B. Dance of the Star Spirits",
+            "C. Both are same"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 25,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "On May 20, 2011, Schwarzenegger's entertainment counsel announced that all movie projects currently in development were being halted: \"Schwarzenegger is focusing on personal matters and is not willing to commit to any production schedules or timelines\". On July 11, 2011, it was announced that Schwarzenegger was considering a comeback film despite his legal problems. He appeared in The Expendables 2 (2012), and starred in The Last Stand (2013), his first leading role in 10 years, and Escape Plan (2013), his first co-starring role alongside Sylvester Stallone. He starred in Sabotage, released in March 2014, and appeared in The Expendables 3, released in August 2014. He starred in the fifth Terminator movie Terminator Genisys in 2015 and will reprise his role as Conan the Barbarian in The Legend of Conan. 2013's The Last Stand marked Schwarzenegger's first starring role in how long?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 30 seconds",
+            "B. 10 years",
+            "C. a couple of milliseconds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "In a festival, rehearsal is twice as long as preparation which takes 1 month. If setup is the difference between rehearsal and preparation, how long in total?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8 months",
+            "B. 4 months",
+            "C. 6 months"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Tech Conference spans 4 weeks. Science Fair is double that, but Orchestra Performance is only a third of Tech Conference. Which has the most extended duration?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Science Fair",
+            "B. Orchestra Performance",
+            "C. Tech Conference"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "It takes 1 year for Yoga Session to occur. Robotics Meetup happens in the same amount of time as Yoga Session. Retro Fair occurs in double the time of Robotics Meetup. Which event takes the longest?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Robotics Meetup",
+            "B. Retro Fair",
+            "C. Yoga Session"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "While Summer Parade was just sipping a coffee, Book Fair felt like enjoying a three-course meal, and Ballet Recital was munching on an appetizer. Which event was in the middle in terms of duration?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Book Fair",
+            "B. Ballet Recital",
+            "C. Summer Parade"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 30,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Construction of the Hoover Dam, Deepwater Horizon oil spill, or The Viking Age?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Construction of the Hoover Dam",
+            "B. Deepwater Horizon oil spill",
+            "C. The Viking Age"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "To improve the efficiency of the lamp, the filament usually consists of multiple coils of coiled fine wire, also known as a 'coiled coil'. For a 60-watt 120-volt lamp, the uncoiled length of the tungsten filament is usually 22.8 inches (580 mm), and the filament diameter is 0.0018 inches (0.046 mm). The advantage of the coiled coil is that evaporation of the tungsten filament is at the rate of a tungsten cylinder having a diameter equal to that of the coiled coil. The coiled-coil filament evaporates more slowly than a straight filament of the same surface area and light-emitting power. As a result, the filament can then run hotter, which results in a more efficient light source, while reducing the evaporation so that the filament will last longer than a straight filament at the same temperature. How long is a typical uncoiled tungsten filament for a 60-watt bulb?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 100 years",
+            "B. 7 centuries",
+            "C. 22.8 inches"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The leaders of the Department of Homeland Security now appear before 88 committees and subcommittees of Congress. How long do the appearances last?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. seven weeks",
+            "B. 9 months",
+            "C. less than a day"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted longer: Cold War or Live Aid Concerts?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Cold War",
+            "B. Live Aid Concerts",
+            "C. Both are same"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "While attendees at Tech Conference enjoyed a slow, scenic drive, those at Circus had a brief detour, and Martial Arts Tournament was just starting the car. Which event was the longest?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Circus",
+            "B. Martial Arts Tournament",
+            "C. Tech Conference"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "At Archaeology Expedition, attendees could read a novel cover-to-cover, while during Photography Tour they got through a few chapters, and at Board Game Night they barely skimmed a page. Which event was the longest?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Photography Tour",
+            "B. Board Game Night",
+            "C. Archaeology Expedition"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The Free Movement of Workers Regulation articles 1 to 7 set out the main provisions on equal treatment of workers. First, articles 1 to 4 generally require that workers can take up employment, conclude contracts, and not suffer discrimination compared to nationals of the member state. In a famous case, the Belgian Football Association v Bosman, a Belgian footballer named Jean-Marc Bosman claimed that he should be able to transfer from R.F.C. de Liège to USL Dunkerque when his contract finished, regardless of whether Dunkerque could afford to pay Liège the habitual transfer fees. The Court of Justice held \"the transfer rules constitute[d] an obstacle to free movement\" and were unlawful unless they could be justified in the public interest, but this was unlikely. In Groener v Minister for Education the Court of Justice accepted that a requirement to speak Gaelic to teach in a Dublin design college could be justified as part of the public policy of promoting the Irish language, but only if the measure was not disproportionate. By contrast in Angonese v Cassa di Risparmio di Bolzano SpA a bank in Bolzano, Italy, was not allowed to require Mr Angonese to have a bilingual certificate that could only be obtained in Bolzano. The Court of Justice, giving \"horizontal\" direct effect to TFEU article 45, reasoned that people from other countries would have little chance of acquiring the certificate, and because it was \"impossible to submit proof of the required linguistic knowledge by any other means\", the measure was disproportionate. Second, article 7(2) requires equal treatment in respect of tax. In Finanzamt Köln Altstadt v Schumacker the Court of Justice held that it contravened TFEU art 45 to deny tax benefits (e.g. for married couples, and social insurance expense deductions) to a man who worked in Germany, but was resident in Belgium when other German residents got the benefits. By contrast in Weigel v Finanzlandesdirektion für Vorarlberg the Court of Justice rejected Mr Weigel's claim that a re-registration charge upon bringing his car to Austria violated his right to free movement. Although the tax was \"likely to have a negative bearing on the decision of migrant workers to exercise their right to freedom of movement\", because the charge applied equally to Austrians, in absence of EU legislation on the matter it had to be regarded as justified. Third, people must receive equal treatment regarding \"social advantages\", although the Court has approved residential qualifying periods. In Hendrix v Employee Insurance Institute the Court of Justice held that a Dutch national was not entitled to continue receiving incapacity benefits when he moved to Belgium, because the benefit was \"closely linked to the socio-economic situation\" of the Netherlands. Conversely, in Geven v Land Nordrhein-Westfalen the Court of Justice held that a Dutch woman living in the Netherlands, but working between 3 and 14 hours a week in Germany, did not have a right to receive German child benefits, even though the wife of a man who worked full-time in Germany but was resident in Austria could. The general justifications for limiting free movement in TFEU article 45(3) are \"public policy, public security or public health\", and there is also a general exception in article 45(4) for \"employment in the public service\". In the case Geven v Land Nordrhein-Westfalen, how many hours was the Dutch woman in question working in Germany?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 200 days",
+            "B. between 3 and 14 hours a week",
+            "C. 65 years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Neville Southall holds the record for the most Everton appearances, having played 751 first-team matches between 1981 and 1997, and previously held the record for the most league clean sheets during a season (15). During the 2008–09 season, this record was beaten by American goalkeeper Tim Howard (17). The late centre half and former captain Brian Labone comes second, having played 534 times. The longest serving player is Goalkeeper Ted Sagar who played for 23 years between 1929 and 1953, both sides of the Second World War, making a total of 495 appearances. The club's top goalscorer, with 383 goals in all competitions, is Dixie Dean; the second-highest goalscorer is Graeme Sharp with 159. Dean still holds the English national record of most goals in a season, with 60. How many years did Ted Sagar play for the Everton Football Club?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1 year",
+            "B. 200 days",
+            "C. 23"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "They like to play hopscotch or jump rope but that day they wanted to play tag. How long do they play each day?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12 hours",
+            "B. 0.33 hour",
+            "C. two seconds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The duration of Yoga Session is 3 years. Cultural Fest takes twice as long, and Bird Watching is a third of Cultural Fest. Which has the medium duration?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yoga Session",
+            "B. Bird Watching",
+            "C. Cultural Fest"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 40,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The majority of British Jews live in London, with significant Jewish communities in Stamford Hill, Stanmore, Golders Green, Finchley, Hampstead, Hendon and Edgware in North London. Bevis Marks Synagogue in the City of London is affiliated to London's historic Sephardic Jewish community. It is the only synagogue in Europe which has held regular services continuously for over 300 years. Stanmore and Canons Park Synagogue has the largest membership of any single Orthodox synagogue in the whole of Europe, overtaking Ilford synagogue (also in London) in 1998. The community set up the London Jewish Forum in 2006 in response to the growing significance of devolved London Government. For how long has the Bevis Marks Synagogue in London been conducting religious services continuously?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a couple of milliseconds",
+            "B. 1 year",
+            "C. over 300 years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "In an exam, preparation is twice as long as grading which takes 4 weeks. If feedback is the difference between preparation and grading, how long in total?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 16 weeks",
+            "B. 18 weeks",
+            "C. 22 weeks"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted longer: Marshall Plan or Construction of the International Space Station?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Marshall Plan",
+            "B. Construction of the International Space Station",
+            "C. Both are same"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The Stargazing Event was time for an epic saga, Fashion Show for a short story, and Board Game Night just an anecdote. Which was the longest event?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Board Game Night",
+            "B. Fashion Show",
+            "C. Stargazing Event"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "For a camp, the sum of durations of planning, campfire, and registration is 9 times 3 years. If planning is 3 years and campfire is twice that, how long is registration?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 18 years",
+            "B. 23 years",
+            "C. 20 years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The English held the city for 16 months and defeated several attempts to expel them. English soldiers advanced as far as Requena on the road to Madrid. After the victory of the Bourbons at the Battle of Almansa on 25 April 1707, the English army evacuated Valencia and Philip V ordered the repeal of the privileges of Valencia as punishment for the kingdom's support of Charles of Austria. By the Nueva Planta decrees (Decretos de Nueva Planta) the ancient Charters of Valencia were abolished and the city was governed by the Castilian Charter. The Bourbon forces burned important cities like Xativa, where pictures of the Spanish Bourbons in public places are hung upside down as a protest to this day. The capital of the Kingdom of Valencia was moved to Orihuela, an outrage to the citizens of Valencia. Philip ordered the Cortes to meet with the Viceroy of Valencia, Cardinal Luis de Belluga, who opposed the change of capital because of the proximity of Orihuela, a religious, cultural and now political centre, to Murcia (capital of another viceroyalty and his diocese). Because of his hatred of the city of Orihuela, which had bombarded and looted Valencia during the War of Succession, the cardinal resigned the viceroyalty in protest against the actions of Philip, who finally relented and returned the capital to Valencia. How long did the English occupy Valencia?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a few milliseconds",
+            "B. 16 months",
+            "C. 1 millennium"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "For an art exhibition, the sum of durations of artist meet and greet, preparation, and coordination is 9 times 9 months. If artist meet and greet is 9 months and preparation is twice that, how long is coordination?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 54 months",
+            "B. 55 months",
+            "C. 58 months"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The secondary and high school education system in Swaziland is a five-year programme divided into three years junior secondary and two years senior secondary. There is an external public examination (Junior Certificate) at the end of the junior secondary that learners have to pass to progress to the senior secondary level. The Examination Council of Swaziland (ECOS) administers this examination. At the end of the senior secondary level, learners sit for a public examination, the Swaziland General Certificate of Secondary Education (SGCSE) and International General Certificate of Secondary Education (IGCSE) which is accredited by the Cambridge International Examination (CIE). A few schools offer the Advanced Studies (AS) programme in their curriculum. For how many years is a Swazi student in junior secondary school?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. three",
+            "B. a couple of days",
+            "C. 20 minutes"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "During a sports event, cleanup takes 4 years, while preparation is three times that duration minus 20% of cleanup. If planning takes 30% the sum of cleanup and preparation, what's the total duration?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 23.8 years",
+            "B. 22.8 years",
+            "C. 19.8 years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Tech Conference continues for 1 day. Art Exhibition lasts as long as Tech Conference and Jazz Concert combined, where Jazz Concert is triple of Tech Conference. Which event has the shortest duration?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Art Exhibition",
+            "B. Tech Conference",
+            "C. Jazz Concert"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 50,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Magic Show lasts for 1 year. Science Fair is quadruple the duration of Magic Show. Orchestra Performance is half the duration of Science Fair. Which event is the shortest?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Magic Show",
+            "B. Science Fair",
+            "C. Orchestra Performance"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Astronomy Night lasts for 3 weeks. Charity Run is twice as long as Astronomy Night. Film Screening is the sum of the durations of Astronomy Night and Charity Run. Which event is the shortest?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Charity Run",
+            "B. Astronomy Night",
+            "C. Film Screening"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 52,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The children grew restless during the Musical Theater, but sat through Circus with rapt attention. The Board Game Night, however, made even the adults check their watches. Which was likely the longest?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Musical Theater",
+            "B. Board Game Night",
+            "C. Circus"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 53,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "While Comedy Night felt like sailing on a calm sea, Pottery Class was a brief canoe trip, and Musical Theater was just stepping in a puddle. Which event was probably the shortest?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Musical Theater",
+            "B. Pottery Class",
+            "C. Comedy Night"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 54,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Art Exhibition is for 4 years. Martial Arts Tournament is triple of that duration, and Cultural Fest is double the duration of Art Exhibition. Which event is of medium duration?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Cultural Fest",
+            "B. Martial Arts Tournament",
+            "C. Art Exhibition"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The duration of Pottery Class is 1 day. Theater Play takes twice as long, and Math Tournament is a third of Theater Play. Which has the medium duration?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Math Tournament",
+            "B. Pottery Class",
+            "C. Theater Play"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 56,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Book Fair gave people enough time to assemble a puzzle, at Summer Parade they managed to fit a few pieces, and during Pottery Class they could only sort them. Which was the shortest event?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Pottery Class",
+            "B. Book Fair",
+            "C. Summer Parade"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 57,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Comedy Night continues for 1 day. Rock Climbing Clinic lasts as long as Comedy Night and Business Seminar combined, where Business Seminar is triple of Comedy Night. Which event has the shortest duration?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Comedy Night",
+            "B. Rock Climbing Clinic",
+            "C. Business Seminar"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Science Fair takes 5 months to complete. The duration of Winter Carnival is twice that of Science Fair. History Lecture lasts as long as Science Fair and Winter Carnival combined. Which event finishes the quickest?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. History Lecture",
+            "B. Winter Carnival",
+            "C. Science Fair"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 59,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "For a marathon, the sum of durations of hydration, execution, and coordination is 9 times 4 years. If hydration is 4 years and execution is twice that, how long is coordination?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 24 years",
+            "B. 25 years",
+            "C. 28 years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "The Musical Theater had attendees glued to their seats, the Sculpture Walk had a more relaxed vibe, while Charity Run was described as a 'test of patience'. Which event was probably the shortest?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Musical Theater",
+            "B. Charity Run",
+            "C. Sculpture Walk"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Gaming Tournament spans 3 weeks, while Camping Trip is half as long. Gospel Choir is the sum of the other two. Which event is of medium duration?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Gospel Choir",
+            "B. Camping Trip",
+            "C. Gaming Tournament"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "People could brew and enjoy multiple cups of tea during Gardening Course, steep a single cup in Gaming Tournament, but only think of tea in Baking Marathon. Which was the shortest event?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Gaming Tournament",
+            "B. Gardening Course",
+            "C. Baking Marathon"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 63,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Great Solar Eclipse Festival (several decades), Battle for the Solar Throne (almost a decade), or Fall of the Celestial Titans (about a couple of weeks)?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Great Solar Eclipse Festival",
+            "B. Battle for the Solar Throne",
+            "C. Fall of the Celestial Titans"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 64,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "For a film screening, the sum of durations of execution, preparation, and setup is 9 times 2 weeks. If execution is 2 weeks and preparation is twice that, how long is setup?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12 weeks",
+            "B. 13 weeks",
+            "C. 16 weeks"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 65,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Fashion Show has a duration of 2 days. Business Seminar is three times longer than Fashion Show. Nature Hike is half the duration of Business Seminar. Which event has the longest duration?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Fashion Show",
+            "B. Nature Hike",
+            "C. Business Seminar"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 66,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "People could indulge in a seven-course meal during Classical Music Evening, a three-course meal in Gardening Course, but only an appetizer during Martial Arts Tournament. Which event was in the middle in terms of duration?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Classical Music Evening",
+            "B. Martial Arts Tournament",
+            "C. Gardening Course"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 67,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "It takes 4 years for execution when preparing for an exam. This is triple the time it takes for grading. How long does it take for both activities?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8.3 years",
+            "B. 5.3 years",
+            "C. 9.3 years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 68,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Building of the Solar Railroad (several months), Rise of the Phoenix Kingdom (a handful of years), or Golden Age of the Sun Sorcerers (more than half a century)?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Building of the Solar Railroad",
+            "B. Rise of the Phoenix Kingdom",
+            "C. Golden Age of the Sun Sorcerers"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 69,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "But he told us that he could not drum up much interest in or money for such a purpose from Washington, partly, he thought, because these countries had dictatorial governments. How long did he try to get money from those countries?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5 hours",
+            "B. 1 day",
+            "C. for several days"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Charity Run goes on for 3 weeks. Dance Workshop is a third of Charity Run, and Sailing Race is as long as Charity Run and Dance Workshop combined. Which event lasts the longest?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Sailing Race",
+            "B. Charity Run",
+            "C. Dance Workshop"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 71,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Guests could travel across the city during Presentation, across a district in Wine Tasting, but only a few blocks in History Lecture. Which event was the shortest?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Wine Tasting",
+            "B. History Lecture",
+            "C. Presentation"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 72,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Logs indicate that it began at 9:25 and included the CIA; the FBI; the departments of State, Justice, and Defense; the FAA; and the White House shelter. How long did it last?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3 minutes",
+            "B. 45 centuries",
+            "C. one generation"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 73,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "This sediment has been eroded off areas of land from upstream. How long has the sediment  erosion been occuring?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0.33 day",
+            "B. as long as there's been a stream",
+            "C. 2 minutes"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 74,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "How long did New York City blackout of 1977 last?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 30 hours",
+            "B. 20 hours",
+            "C. 25 hours"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 75,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "For an art exhibition, the sum of durations of cleanup, preparation, and planning is 9 times 3 weeks. If cleanup is 3 weeks and preparation is twice that, how long is planning?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 21 weeks",
+            "B. 18 weeks",
+            "C. 23 weeks"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 76,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Gardening Course lasts 4 years. Musical Theater is triple of that duration, and Yoga Session is half the duration of Musical Theater. Which event has the medium duration?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Yoga Session",
+            "B. Gardening Course",
+            "C. Musical Theater"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 77,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Greco-Persian Wars, Human Genome Project, or Hundred Years' War?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Greco-Persian Wars",
+            "B. Human Genome Project",
+            "C. Hundred Years' War"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 78,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "For a presentation, review lasts for 1 week. If preparation is double that duration minus 15% of review and planning is the sum of review and preparation divided by 2, what's the entire duration?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4.3 weeks",
+            "B. 5.3 weeks",
+            "C. 8.3 weeks"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 79,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Between Theater Play that lasts 6 days, Math Tournament that is four times longer, and Philosophy Discussion that's half the total duration of the two, which is the shortest?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Math Tournament",
+            "B. Philosophy Discussion",
+            "C. Theater Play"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 80,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "After World War II, eastern European countries such as the Soviet Union, Poland, Czechoslovakia, Hungary, Romania and Yugoslavia expelled the Germans from their territories. Many of those had inhabited these lands for centuries, developing a unique culture. Germans were also forced to leave the former eastern territories of Germany, which were annexed by Poland (Silesia, Pomerania, parts of Brandenburg and southern part of East Prussia) and the Soviet Union (northern part of East Prussia). Between 12 and 16,5 million ethnic Germans and German citizens were expelled westwards to allied-occupied Germany. How long did many of the Germans live in the eastern Europe countries before being expelled?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. for centuries",
+            "B. 15 hours",
+            "C. half a millennium"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 81,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "It takes 1 year for preparation when preparing for a film screening. This is triple the time it takes for Q&A. How long does it take for both activities?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3.3 years",
+            "B. 1.3 years",
+            "C. 7.3 years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 82,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Francis Marcus of the International Federation of the Red Cross praised the Chinese rescue effort as \"swift and very efficient\" in Beijing on Tuesday. But he added the scale of the disaster was such that \"we can't expect that the government can do everything and handle every aspect of the needs\". The Economist noted that China reacted to the disaster \"rapidly and with uncharacteristic openness\", contrasting it with Burma's secretive response to Cyclone Nargis, which devastated that country 10 days before the earthquake. How long before the quake did Cyclone Nargis strike Burma?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a few milliseconds",
+            "B. 10 days",
+            "C. a few years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 83,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "If Gardening Course lasts 6 months, Presentation is twice as long, and Charity Run is half of Gardening Course, which event has the medium duration?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Gardening Course",
+            "B. Charity Run",
+            "C. Presentation"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 84,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted longer: Discovery of the Universal Core (about a couple of weeks) or Battle of the Crystal Caves (a couple of weeks)?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Discovery of the Universal Core",
+            "B. Battle of the Crystal Caves",
+            "C. Both are same"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 85,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted longer: The Great Starfall (over a month) or March of the Robots (a few nights)?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The Great Starfall",
+            "B. March of the Robots",
+            "C. Both are same"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 86,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "For a festival, setup takes 2 days. execution is a third of setup plus 10% of setup. If preparation is double the duration of execution minus 15% of setup, how long is the event?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8.3 days",
+            "B. 6.3 days",
+            "C. 4.3 days"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 87,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "In Scotland, anyone wishing to teach must be registered with the General Teaching Council for Scotland (GTCS). Teaching in Scotland is an all graduate profession and the normal route for graduates wishing to teach is to complete a programme of Initial Teacher Education (ITE) at one of the seven Scottish Universities who offer these courses. Once successfully completed, \"Provisional Registration\" is given by the GTCS which is raised to \"Full Registration\" status after a year if there is sufficient evidence to show that the \"Standard for Full Registration\" has been met. How long until the Provisional Registration is upgraded, if requirements are met?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. after a year",
+            "B. a few years",
+            "C. a few milliseconds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 88,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Industrial Revolution, Normandy Landings, or Usain Bolt Olympic career?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Industrial Revolution",
+            "B. Normandy Landings",
+            "C. Usain Bolt Olympic career"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 89,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Which event lasted the longest: Reign of the Comet Emperor (several days), Golden Age of the Galaxy Explorers (a year or so), or The Great Starfall (over a month)?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Reign of the Comet Emperor",
+            "B. Golden Age of the Galaxy Explorers",
+            "C. The Great Starfall"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 90,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "Pottery Class was like enjoying a candlelight dinner, Business Seminar was a snack on the go, and Jazz Concert was like a brunch. Which event was probably the shortest?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Business Seminar",
+            "B. Jazz Concert",
+            "C. Pottery Class"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 91,
+        "source": "TRAM:duration/Temporal Reasoning",
+        "question": "vendor coordination takes 4 years. If preparation is a quarter of vendor coordination plus 10% of vendor coordination and planning is four times the length of preparation minus 25% of vendor coordination for a festival, how long do all the activities last?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11 years",
+            "B. 10 years",
+            "C. 16 years"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    }
+]

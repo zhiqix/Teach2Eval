@@ -1,0 +1,2210 @@
+[
+    {
+        "index": 0,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Four children in bathing suits play on a beach lined with rock and foliage, while other people are visible in the background.\nHypothesisIt is sunny while the children are on the beach.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:People pose with helmets and goggles on while riding snowmobiles.\nHypothesisThere is snow out.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:is it i don't know maybe would you think a better student to teacher ratio do they have too many kids in most day cares for the people they have\nHypothesisA better student to teacher ratio may influence the kids to eat more\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Two white dogs chase after a red ball in a yard in front of a white fence.\nHypothesisTwo dogs are outdoors.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:only thing is those things grow pretty slow you have to\nHypothesisStock shares usually grow slowly.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 5,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:like all of all the students now on campus uh i guess most of them drink or have binges on weekends and\nHypothesisMost of the students on campus study and do research work on the weekends I think.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:However, he thought the human subjects aspect might not belong, because human subjects issues will not affect screening and intervention on a daily basis in the clinical setting.\nHypothesisIn a clinical setting, human subject issues will not affect screening and intervention. \nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Two young children stand in as bride's children during a traditional wedding being held at a church house as the flowers are being dropped down the aisle.\nHypothesisA school dance party\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 8,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:right  and uh wait for an opportunity to use it\nHypothesisThere is an opportunity to use something.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Three ladies are performing a concert on a stage decorated with two big, artistic face drawings that look like suns behind them while three fans gather at center stage.\nHypothesisThree ladies are performing a concert on a stage while three fans gather at center stage.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 10,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A man wearing sunglasses stands before a forested landscape.\nHypothesisThe man is over the age of two.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 11,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:uh but as far as the sentencing by the judge i would have to vote against that since there's a jury because that's what the juries are for is to make the decision um what are your feelings\nHypothesisI vote in favor of the sentencing by the judge.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:I don't even know how to quilt.\nHypothesisthey are an expert when it comes to quilting.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Of Rome's countless inspirational churches and palazzos, it is the Colosseum what Byron called the gladiator's bloody circus 'that is the symbol of the city's eternity.\nHypothesisByron thought that the Colosseum was a pale imitation of Rome's other buildings and that it would not last.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Three people are standing outside while it is snowing.\nHypothesisThe people are being rained on\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:An ethnic woman wearing a purple apron is sitting on the floor shaping round, flat food items while others cook over a fire on a large round, flat pan.\nHypothesisA woman preparing food.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:George W. Bush, on ads for the Diabetes Walk.\nHypothesisThe ads give the date and time of the walk.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 17,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A man in a white and blue vertically striped dress shirt with black hair stands in a room next to other people looking forward.\nHypothesisthe man is white\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:The market for general-interest weekly magazines has long since dried  Look and the Saturday Evening Post are dead.\nHypothesisInterest in the Saturday Evening Post lasted much longer than the Look.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 19,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Three jockeys are wearing colorful outfits while racing their horses on the track.\nHypothesisThe three jockeys feed their horses.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:but i think it's like about sixty dollars a week for two children if i'm not mistaken\nHypothesisThat's firmly outside of most people's budgets.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 21,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Vestiges of the British colonial legacy can still be found, not least in the fact that English is Jamaica's official  the popularity of cricket is another example.\nHypothesisCricket has been declining in popularity recently.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:No, said Tuppence.\nHypothesisTuppence said no, but indicated that she may change her mind tomorrow. \nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A man, who has a nose ring, stares into the camera while brushing his teeth.\nHypothesisHe is brushing his teeth in the bathroom.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 24,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:At the moment, he was relatively free for the first time since they had brought him here, and he wanted to make sure that he could make the most use of the fact.\nHypothesisHe wanted to make the most of his free time.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 25,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A young girl in a white dress watches bubbles while a woman and girl toddler observe.\nHypothesisA woman is blowing bubbles.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 26,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:well yeah yeah i do but i still hated to see it  i mean one of the reasons i voted for Bush was because\nHypothesisI never voted Bush.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Prior to reaching production for its Signature 600 engine, Cummins used many prototypes to complete hundreds of thousands of test hours, accumulating millions of test miles.\nHypothesisThere were hundreds of thousands of test hours used before production for the Signature 600 engine was completed.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:For industry, the policies include voluntary agreements with industry groups to achieve defined energy efficiency and emissions goals, combined with a variety of government programs that strongly support such agreements.\nHypothesisVoluntary agreements with industry groups are never included in the policies. \nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 29,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Recent best-selling memoirs by former agents tell of colleagues who ran drugs and free-lanced as mercenaries . Mossad also brokered secret, dubiously legal, private arms sales to Central American regimes and South Africa's white government.\nHypothesisLooks like nobody bought the memoirs of these mercenaries who spouted out lies about Mossad.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 30,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:You can visit Kat Hing Wai and Lo Wai, villages with their walls still intact.\nHypothesisKat Hing Wai and Lo Wai are still in great shape, evidenced by the still-standing walls.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Various people mill about a park, one man in black shorts and a yellow shirt sticking a thumb out and looking at some of the others while a woman walks on with her hands on her hips.\nHypothesisthe woman is mad at the man\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 32,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:and you didn't you didn't have any notice you know so like if you were doing drugs then like you didn't have a way you know to stop i mean it was still in your body\nHypothesisThere was always proper notice so it was easy to ensure that the drugs were out of your body by testing time.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Most of the staff you'll see in bars and hotels during the summer return to their homes on mainland Greece until the following year.\nHypothesisThere isn't much work after the summer so the staff leaves.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 34,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Half naked man leaning out of window taking pictures.\nHypothesisA half naked man is taking pictures for later use.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A woman in a kitchen, leaps in the air while attempting to balance a glass cup in one hand.\nHypothesisThe woman makes sure the glass cup does not break.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A tan, dark-haired man leaps into the air for a spike during a volleyball game.\nHypothesisa woman sailing a boat\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:I fancy he keeps a bicycle shop in time of peace, explained Tuppence.\nHypothesisTuppence believes that he only sells bikes during wartime. \nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:The girl I am seeing now, like the one before her, has--and this isn't politically correct--a major pair of hooters.\nHypothesisThe girl has large breasts. \nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Meanwhile, the British clerk-turned-soldier Robert Clive won a long campaign against the French for Madras.\nHypothesisThe British clerk Robert Clive, a former soldier, won a long campaign against the French for Madras and he was often compared to Lawrence of Arabia. \nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 40,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A man jumps through the air while snowboarding.\nHypothesisA man can jump while snowboarding.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:I will put down my little case until I need it.\" He did so, on the round table by the window, but it was an illadvised proceeding; for, the top of it being loose, it tilted up, and precipitated the despatch-case on the floor. \nHypothesisThe top of the case was loose and fell on the floor.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A group of guys holding another guy pose for a photo in front of a graffited trailer.\nHypothesisOne of the men was smiling while posing.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 43,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Three children and a woman stand near the water's edge.\nHypothesisPeople are standing next to the ocean.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 44,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:He was Anson, too in th' Rangers for a while, Pa was.\" \nHypothesisPa was never a member of the Rangers. \nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:It's important to enhance the scope and timing of any related audit reports, but it's also important to ensure that firms are both qualified and independent to perform such audits.\nHypothesisFirms need to be qualified before they conduct an audit.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Two young girls, one in a white top and shorts the other in a brown flowered top and white shorts, holding a drawing with the word yo-yo on it, while standing in a crowd.\nHypothesisThe girls are standing on a lost highway in the middle of the desert.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Below the moon (or cow) is a sheep (or dog) who also seems ready to rumble, and to the right of the sheep (or dog) is an eagle with a cloud above its head, or maybe a cartoon balloon showing what the eagle is thinking (it's tough to make out), probably something very funny, indicating that the eagle hopes to get its own comic strip some day.\nHypothesisThe eagle is shown in full flight.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 48,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Like all royal statues, that of Louis XIV was overthrown during the Revolution.\nHypothesisThe Louis XIV statue was destroyed during the Revolution.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:what period yeah no i know which is worse\nHypothesisI have an idea about which is worse\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 50,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Large shops on the fashionable thoroughfares tend to be more expensive than smaller  family  shops tucked away in the side streets.\nHypothesisThe shops located on the thoroughfares are always the least expensive.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Now, about our recommended  Could we have made different recommendations?\nHypothesisWe made no recommendations.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 52,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Jon stabbed hard, aiming for Adrin's left side.\nHypothesisAdrin got away before Jon could stab him.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:a cop, and two females pose for a picture next to an officers vehicle\nHypothesisTwo girls get their photo taken with a police officer.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:and uh running after them or going biking with them or just exploring you know on a little exploration exploration hike you know through the neighborhood it's amazing you know how many earthworms you can find and\nHypothesisI never see worms on my hike.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 55,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A well dressed young woman waits on a bench for the train while a man busy writing something waits nearby.\nHypothesisThe woman is dressed nicely\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:RECOURSE -The rights of a holder in due course of a financial instrument (such as a loan) to force the endorser on the instrument to meet his or her legal obligations for making good the payment of the instrument if dishonored by the maker or acceptor.\nHypothesisThe endorser of a financial instrument has no obligation to make payment to a rights holder.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:With a little luck, by the time I contract a fatal disease, I'll already be dead.\nHypothesisWith any luck, I'll live forever, even if I contract a disease. \nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A woman in an orange shirt walking past a yellow building.\nHypothesisA woman in orange is walking outside.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 59,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A young musician playing a small guitar and singing, while sitting in a white plastic chair.\nHypothesisThe musician is playing his guitar for money.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 60,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Drew was indulgent with his mount's skittishness as they pounded along at the tail of the horse herd bound for Tubacca.\nHypothesisDrew had bought his mount a few months earlier.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:and those and the garbage men also pick those up on Thursdays\nHypothesisThe garbage men sometimes pick those up on Fridays.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 62,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A few tourists taking pictures of their dogs with the cloudy sky as the background.\nHypothesisThe tourists are somewhere they've never been.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 63,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:The woman is washing tin bowls in a tin basin with yellow wristband is smiling.\nHypothesisThere is a women washing clothing items so she can relax later\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 64,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A skinny black child wearing a torn tan shirt is squatting beside a tiny, muddy pond while digging in the dirt with a small object.\nHypothesisA child is in a shopping mall.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 65,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A spots team hugs after a play.\nHypothesisMembers of a team are supporting each other.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 66,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:When the next modernist revolution comes around, he'll be ready.\nHypothesisThe man will be prepared.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 67,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A small black and white dog carries a stick while swimming.\nHypothesisSome of the animals here are wet.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 68,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:He had his first sight, his own clear vision of the world around him, and his second sight, that of San'doro.\nHypothesisSan'doro lifting up his sword was his second sight.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 69,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A girl in a blue and white shirt sleeps on a green pillow, while a cat naps beneath the bed.\nHypothesisA cat sleeps in a bed while a girl cleans her room.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Table 1 (row 2) shows that they require less time than either foot or park-and-loop routes.\nHypothesisTable 1 proves the routes go quicker when they are walking or parking and walking.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 71,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Two children standing very close.\nHypothesisAn adult is standing next to the child.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 72,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Two men are standing against a brick wall, one is one a cellphone.\nHypothesisA man waits while his friend is on the phone.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 73,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Brunette woman wearing a red t-shirt lounging outside with a laptop on her lap.\nHypothesisa woman working on her laptop while getting a tan\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 74,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A congressional agency that funds legal services for low-income Americans is battling Charleston lawyers over control of buildings that once housed legal assistance programs in Charleston, Georgetown and Conway.\nHypothesisA congressional agency is fighting with Charleston lawyers.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 75,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:However, the fundamental principles of providing the right incentives, providing adequate transparency, and ensuring appropriate accountability are even more important and relevant as the new structure and reforms are being established.\nHypothesisThere is always gonna be a certain level of transparency, but we need to work on bringing more of that in the picture.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 76,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Brit  Now that would be a good debate!\nHypothesisSanders and Trump would debate well.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 77,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Although these reforms are not yet fully in place and not all issues have been addressed, many corporate boards are reassessing their roles.\nHypothesisMany corporate boards are making changes in advance of upcoming reforms.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 78,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:so i  don't know why he you know didn't go ahead and project to the fact that eventually that was going to catch up with him but\nHypothesisIf it caught up with him eventually, I'm not sure why he didn't do it sooner. I think it was because he was ill.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 79,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:The official delayed the announcement until the UPS strike was settled, so as not to influence its outcome.\nHypothesisThe announcement was made when the strike started.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 80,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:\"No, just lookin' around.\" Drew longed to ask some things himself, but hesitated.\nHypothesisDrew wanted to ask things, but was afraid.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 81,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:His shows are more 700 Club than Crossfire . His guests almost always share Moyers' belief about the topic at hand.\nHypothesisThe shows are more Crossfire than 700 club.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 82,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:no i've never i was off for about six months too just for some other surgery i'd had but i've never i'd you know i was pretty much in shape walking and and you know this is one of those things like this orthopedist said he said you'd be surprised how many basketball how many people come in here with things like that because they are active\nHypothesisI didn't have to have surgery and I was able to keep walking.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 83,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Quarterback calling a timeout during a game.\nHypothesisThe quarterback is african american.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 84,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:My morning latte just isn't right without it.\nHypothesisI have to put it in my latte.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 85,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Two young boys standing in a corn field after the harvest.\nHypothesisTwo old men standing in a hay field.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 86,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:While one white dog is outside the pool, another white dog with a black spot on its back is jumping into a plastic swimming pool while getting sprayed by a garden hose.\nHypothesisA dog is jumping in the pool while his sister dog watches.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 87,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Exquisite stone carving, wood turning, copper/brasswork, and ceramic tiling are the main features of Islamic architecture and the period buildings, mosques (Islamic places of worship), madrasas (Islamic religious schools), khans and bayts (private homes) are very impressive.\nHypothesisAll of the materials used in the period buildings were rare at the time.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 88,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A young man dressed in black dress clothes lies down with his head resting in the lap of an older man in plain clothes.\nHypothesisOne man is dressed up for a night out while the other is not.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 89,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Newsweek's short article about aggressive driving is also titled Road Rage.\nHypothesisRoad Rage, a short article in Newsweek, mentions fatalities due to aggressive driving.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 90,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:Everywhere you go, you're likely to find this constant contrast between old and young, traditional and modern, past and present.\nHypothesisNo matter where you go you will never find a contrast between the past and present.\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 91,
+        "source": "TRAM:nli_mcq/Temporal Reasoning",
+        "question": "Premise:A woman is sitting on a bench while facing a bright fire.\nHypothesisa man watches his house burn\nDo the hypothesis and premise logically entail each other, contradict each other, or remain undetermined?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. entailment",
+            "B. neutral",
+            "C. contradiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    }
+]

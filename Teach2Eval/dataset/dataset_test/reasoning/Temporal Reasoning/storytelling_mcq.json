@@ -1,0 +1,2118 @@
+[
+    {
+        "index": 0,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Ted was leaving the student union with a crowd of other students. He started down the stone steps when he saw a friend coming up. He started to wave but then missed a step. Ted wobbled but disguised his near fall as an attempt to sit.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Sitting on the step, he grinned and patted the spot next to him.",
+            "B. Ted was hit by a car."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Jane had 15 minutes left and was barely through the exam. She felt a rush of anxiety and started to panic. She dropped her pencil and closed her eyes. She took a few deep breaths to calm her nerves.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She was asked to write a letter to her parents.",
+            "B. She picked up the pencil and returned to work on the exam."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Kennan was born with a proprioceptive disorder. His mom had a hard time explaining to his brother what that meant. Because Kallen didn't understand, the boys fought a lot. This made things very hard for the family.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The parents wished their three daughters would get along better.",
+            "B. They considered seeing a family counselor to help with everything."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:My brother challenged me in a football match with our friend. My friend had the ball and tried to pass it to my brother. After my brother got the ball, I ran after him. I ended up falling on him.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. I was hit by a ball.",
+            "B. His arm became broken."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 4,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Adam just bought a brand new truck last week. Yesterday he got into a car accident. He was texting and driving at the same time. He hit a stopped car and now his insurance went way up.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Adam learned quickly never to text and drive again.",
+            "B. He got a call from his insurance company."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Sanders dog Oscar seemed not to be feeling too well. Sanders had been through this before and knew the remedy. He made some chicken soup with lots of chicken in it. After the soup cooled down Sanders put some in a bowl.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He put the bowl on the floor and Oscar ate the soup and felt better.",
+            "B. Oscar started to get sick."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Rosie wanted to get a cat. She decided to go to the pound to find one. And adorable black cat caught her eye. The associate told her that black cats don't often get adopted.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The cat was adopted by a woman named Lisa.",
+            "B. Rosie ignored superstitions and brought her new friend home."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 7,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Winter break ended and it was time to go back to school. Kelly was ready but quite disappointed. She knew vacation wouldn't last forever. The moment she woke up she didn't want to get up.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She was in the middle of a conversation with her friend.",
+            "B. The only positive was that she could see her friends."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:I was watching tv one day. Suddenly, the power in my house shut off. I got up and called the electric company. I forgot to pay the bill, so i hurriedly paid them.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. After paying them, my power turned back on.",
+            "B. The power came back on."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Bethany loved her yo-yo. Her brother could do all kinds of tricks with his. He always teased her that he was better. She practiced doing tricks.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She got to be better than her older brother!",
+            "B. She was invited to the first ever Yo-Yo Contest."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Kia was walking and texting one day. She stumbled on the sidewalk and dropped her phone. It landed in a puddle! Kia hurried to get it out, but it was too late.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Her phone was broken.",
+            "B. Kia's phone was found by a passerby."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Tom was on a cruise with his family. He had wandered off and got lost near the galley. When he asked an attendant for directions he was handed a map. Tom spent four hours trying to find his way to his room.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. His parents finally found him at the entrance to the casino.",
+            "B. He found his way to the galley."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 12,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Brian was not looking forward to his role in his cousin's wedding. He had to carry a pillow with a ring on it. He figured he'd probably drop in. The day of the wedding he dressed up in his tuxedo.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He managed to get the ring down the aisle without losing it!",
+            "B. He was asked to be a guest at the wedding of a friend of his cousin's."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Tom hadn't spoken to an old friend in years. He was browsing Facebook one day. His old friend came up as a suggestion. Tom decided to add her.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They started talking and being friends again.",
+            "B. \"I'm not sure I want to be friends with you."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Jim flew to Pittsburgh to spend time with his sister and niece. He had only seen his niece once, and didn't feel attached to her. During the week, he and the toddler laughed and played. His niece giggled whenever she saw him.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The toddler's mother, who had been in the hospital for a week, came to visit.",
+            "B. Jim left Pittsburgh feeling closer to his sister and niece."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Tom bought a lottery ticket. He didn't pay much attention to it. After a few days he decided to check to see if he won. Surprisingly Tom matched several numbers.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He won the lottery.",
+            "B. He wound up winning a few thousand dollars."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Mark had a bad day at work. He came home and decided to go for a jog. Mark was not used to exercising and it was hard for him. However, he felt really good afterwards.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He was approached by a man who asked him to come to his house.",
+            "B. Mark decided he was going to start exercising more often."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Irene had never bought a lottery ticket in her life. She bought one that day at the convenience store. When she scratched it, she saw she had won. She jumped everywhere in her apartment.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She was not the only one to win.",
+            "B. She then went back to the store to claim her one dollar."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 18,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:The official blew the whistle. Everyone started to run across the track. Brad was in the lead for several seconds. Ben was able to catch up until he caught a leg cramp.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The medics came onto the track to monitor him.",
+            "B. The official stopped the race."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Jake was failing his Spanish class. Jake had not done his homework for that particular class in weeks. He asked if he could make up his missing assignments after class. His professor agreed to accept his assignments with a late penalty.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Jake made up his assignments and passed the class.",
+            "B. Jake was called to the principal's office."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:A boy grew up with all girls. He had a mother and 3 sisters. He did not get along with his sisters. One day he fell off his bike and broke his arm.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He was adopted by a family of girls.",
+            "B. His sisters brought him to the hospital and he liked them from then on"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Our state switched to no toll booth highways this week. We had to apply for an ez pass. The state had an online application. The app kept bombing out.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The state government decided to go with the online application.",
+            "B. I ended sending my application via snail mail."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 22,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Lucy was in a park playing with her little sister. A big dog appeared in front of them. He started barking. They could not find the owner.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Lucy saw a man in a white suit.",
+            "B. They run away."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Danielle had been looking for a new job for months. One day her friend suggested she try doing manicures. Danielle had always loved giving her friends manicures. Finally Danielle got a job as a manicurist.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She was very happy that her long job search was over.",
+            "B. She was hired as a manicurist at a local salon."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 24,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Neil had just entered Bhutan. He checked into his hotel. Then he slept for ten hours. In the morning, he rose early and set out on his own.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He was stopped by a group of men who asked him to stop.",
+            "B. He was ready and eager to start exploring Bhutan!"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Lester has always wanted to be more artistic. He decides to try to draw a picture of a flower one day. He sits in front of a beautiful orchid and begins to draw. Lester's drawing comes out very well.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He hangs the picture on the wall in his living room.",
+            "B. He decides never to draw anything again."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Will had a birthday coming up. This was a big one - his thirtieth. Will spent the day quietly hoping his friends would surprise him. Will finished work and returned home, dejected.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Turning on the lights, Will was met with a surprise party!",
+            "B. Will's mother called him."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Alex used to go to church. Today his grandfather passed away. Alex went to the funeral, and started asking strange questions. The adults weren't able to give him good answers.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Alex found a book in the library.",
+            "B. Since that day, Alex decided that church was stupid."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 28,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Ursula wanted to bake a cake for her colleagues at work. She prepared to do so early in the morning before leaving for work. But as she looked for ingredients, she saw she missed baking powder. So she made cookies instead.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Her colleagues, unaware of the change, were delighted nonetheless.",
+            "B. The cookies were delicious."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Ronnie was on tinder. He wanted to meet a new girl. He got a match and started talking to her. They scheduled to meet up.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He got a text from her.",
+            "B. She did not show up."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 30,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Jimmy was watching his daughter for the week. She wanted to dress up but Jimmy didn't know how to do hair. He scoured dozens of videos online for advice. Finally, he decided to give it a shot.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Luckily, he managed to put together something decent.",
+            "B. He found that he could do it."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:When Eric passed away he left his coin collection to his grandson Dan. Dan saved the collection and looked at it often. It made him think of his grandfather and all the good times they had. When Dan was 27 he lost his job and couldn't pay the house payment.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He sold the coins to keep his house.",
+            "B. Dan found a coin collection in a box in his grandfather's garage."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Ken was set up on a blind date. He waited at the restaurant for her to arrive. She was late. After a while Ken called her to see where she was.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She never answered or showed up.",
+            "B. She was at the restaurant."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Sammy was in line for Black Friday. She wanted to get a new TV. She waited for hours. She was able to buy a 4K TV for $500.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She watched the football game on her new TV later that night.",
+            "B. She was able to get a new TV for $500."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 34,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Angelina was in her early 40s. She was told she was infertile. So she didn't think that it was important to use birth control. But one day she noticed that she was 2 months late.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She was pregnant.",
+            "B. She took a pregnancy test and it was a big fat positive!"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Sue's boss passed out the new work schedule. Sue shoved it in her purse. When Sue got to work, she clocked in as usual. Sue began working and was called over by the manager.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Sue was called over to the office of the manager.",
+            "B. Sue's manager said she was supposed to be off and she forgot."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 36,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Don was unhappy in his relationship. He started cheating on his girlfriend. One day he told her he was at home when actually on a date. She happened to show up at the same restaurant.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He was there.",
+            "B. Don was confronted and dumped on the spot."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 37,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Alex had to write a book report. He started by reading his favorite book. While he read, he took a lot of notes. When he was done, he wrote the book report.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He was able to write a book report.",
+            "B. He presented it in class the next morning."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 38,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:The hallway was well lit with overhead lights. At the end of it sat the old copy machine. The edges of the floor stained with dark dust from many  old copies. Picking up the top lid made a loose rattle sound.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The door opened.",
+            "B. Pressing the copy button the machine groaned to life."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Juanita had always wanted to learn how to play the flute. She decided to start taking lessons. At first the flute lessons were very difficult. Eventually Juanita improved at playing the flute.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Juanita was invited to the wedding of a friend of her father's.",
+            "B. She was happy that she had finally learned to play the flute."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Katie liked to make hummus. She gathered all the ingredients and mashed them together. When she was finished, she scooped it up with carrots and crackers. Sometimes she added lemon juice as a finishing touch.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Katie's mother, who was a nurse, came to visit.",
+            "B. Katie could eat hummus every day!"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Jim played sports in his lucky jeans. They were lucky because Jim always won in them. He wore them for the big game. Jim scored the highest out of everyone!\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Jim was the only one who could beat the other players.",
+            "B. It was all because of his lucky jeans!"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:My 2 year old granddaughter visited her cousin today. Her cousin is 8. His scout troop was selling lemonade. He had a stand out, and she helped him.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The girl's cousin was a little older than her.",
+            "B. She drank some lemonade as well."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Laura had always wanted to learn how to bake a cake. She gathered a recipe and the ingredients. She followed the instructions perfectly. When the cake came out of the oven, it looked amazing.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The cake was not as good as she had hoped.",
+            "B. Laura couldn't wait to taste it!"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Monday my neighbor grew tired of a local thug stealing his deliveries. Tuesday he devised a plan that included his dog Felicia. Wednesday he fed Felicia food designed to empty her stomach. Thursday he placed Felicia's stomach contents in Priority Mail box.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Friday he watched the thug steal Felicia's stomach poo.",
+            "B. Felicia ate the food and began vomiting."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Gabby was from a poor neighborhood. She wanted to be wealthy. After a lot of work, Gabby made herself pretty. She went out and found a rich man.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Now she is married to a wealthy husband.",
+            "B. The rich man was a woman."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:My family doesn't make much money so we rarely have any food. One time, there was no food at home and my sister had a bag of chips. I was hungry so I stole it from her and ran. I ran straight into a wall, stubbed my toe, and dropped the bag.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She took the bag, laughed, and left me hurt and hungry.",
+            "B. I was caught by a police officer."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Lindsay had a day off and wanted to go to the park. Arriving at the park she noticed a large amount of ducks. Running over to them, they all ran away except for one. This one duck followed Lindsay around the pond for an hour.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. When leaving, Lindsay reached down to pet the duck, who bit her.",
+            "B. The duck was a female."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Bo and Mick went to the lake. There, they rented a paddleboat. Then they took turns paddling it with their feet. They got very far out into the lake.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They found a small, dark, and very deep lake.",
+            "B. Bo and Mick had a great afternoon paddling together!"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Jimmy had never played football before. He was finally old enough for flag football. He got out on the field, excited to play. He threw the ball to his friend running down the field.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The ball hit the ground and bounced up and over the fence.",
+            "B. He caught it and scored a touchdown."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:One day, James went out to fish at the ake. While out fishing, an alligator came up to him near the shore. The gator became excited and lunged towards James and the fish. Frightened, James escaped away from the alligator unharmed.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The gator returned and attacked James again.",
+            "B. The following day, James decided to no longer fish at the lake."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 51,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Jill was allergic to peanuts. She was at a party where sandwiches were being served. Little did she know they peanuts in them. She bit into one and immediately broke out.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Jill had to be rushed to the doctor.",
+            "B. She was diagnosed with peanut allergy."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Frank had been working for 30 years. He finally retired. He was so excited to relax and spend his days however he wanted. He enjoyed all his free time.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He was diagnosed with cancer.",
+            "B. Retirement was great!"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 53,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Amy needed to beat her coffee crash before volleyball practice. She chugged a Red Bull, and bought one for the road. She sipped the second one as she walked to practice. In the 10 minutes it took to walk there, she had drank it all.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Amy was all over the court after two Red Bulls.",
+            "B. She was in the right place at the right time."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Kelly decided to give gift bags to her friends after the party. She made sure to get a bunch of great stuff. Kelly put in chocolate and other candy. When she handed them out, everyone loved them.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Kelly was happy.",
+            "B. Kelly's friend, who was a little bit older than her, asked her to go to the party."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Rene was thrilled to be going wedding dress shopping today. Rene and her bridesmaids went over to Vera Wang to start shopping. The first dress the girls saw was absolutely beautiful. When Rene tried it on it was love at first sight.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Vera Wang was also in the store.",
+            "B. She decided to take it and was very thrilled with her purchase."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Savannah was shopping at the mall on a hot day. She realized she had left her purse in the car and went to get it. Inside the bag, she saw that her makeup had melted in the heat. Everything was gooey and stuck together.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She found herself in a strange place.",
+            "B. All of her things were ruined and had to be replaced."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Ari's friends dared her to spend the night in the local haunted house. Ari tentatively agreed. She climbed in through the house's window. Then she snuggled up with her blanket in the corner.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She lasted the whole night.",
+            "B. She turned on the stove and made herself dinner."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Jenny decided that she wanted to cut her hair. She woke up early one day and headed to the nearest salon. Once there, the owner asked her what sort of look she wanted. Jenny showed her a picture out of a magazine.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The owner asked her to come in and cut her hair.",
+            "B. After the owner was finished, Jenny marveled at her new hair."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 59,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Brad was always a husky boy. One day he befriended Charlie, a skinny boy. Charlie got picked on a lot at school. One day Brad got fed up with it and beat up a kid bullying Charlie.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The next day the police came and took Brad away.",
+            "B. Brad was picked on again."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:There was a scratching at the storm door late one night. Assuming it was a neighbor's cat, I filled a small dish with cat food. Opening the door, I bent down to look into the eyes of a stranger! A huge raccoon moaned with pleasure as it scoffed down Meow Mix.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. When I heard the scratching the following night, I stayed in bed!",
+            "B. The raccoon was a little more than a little bit taller than me."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 61,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Mom thought the living room furniture looked old and shabby. It was time for some new seating. She bought the perfect set. The new furniture looked and felt great.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. My mom missed the old furniture.",
+            "B. The living room had a brand new appeal."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Carla walked into work complaining about her auto insurance policy. Yesterday, a sixteen-year-old driver crashed into her. The teenager didn't have a driver's license plus he was wrong. Carla's insurance agent said Carla can have her car paid off.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. But no insurance company would replace Carla's car.",
+            "B. Carla's insurance agent called her and said that she had to pay $1,000 to get her car back."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 63,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Amber drove home from work one night The road was flooded and she drove into it The tow truck had to come to tow her poor car It had to go to the shop to get repaired\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The car was not damaged at allThe tow truck had to come to tow her poor carIt had to go to the shop to get repairedUnexpectedly, the car was not damaged at allThe tow truck had to come to tow her poor carIt had to go to the shop to get repairedUnexpectedly, the car was not damaged at allThe tow truck had to come to.",
+            "B. It cost her boyfriend a lot of money to get fixed"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 64,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Peter was a truck driver. He was running a little behind on schedule. Peter decided to run past the weigh station. He was stopped by a cop.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The cop asked Peter if he was a truck driver.",
+            "B. Peter ended up running late and getting a fine."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 65,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Lyn started to feel bad. She took her temperature and it was over 100. She decided to go to the doctor. The doctor told her she had the flu.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Lyn was in bed for over a week.",
+            "B. She was diagnosed with the flu."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 66,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:My sister in law Dana has two grandchildren. The other day she went to take them to a doctor's appointment. Her daughter came down with one child only. She said the other child had taken a tantrum and refused to go.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Dana said the child should get counseling.",
+            "B. The other child came down with a fever."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 67,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Tim had never gone golfing before. His first time out he was terrible at it. He was more excited about driving the cart. He was too excited and took a turn too fast.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He was able to get the cart to the hole.",
+            "B. Tim flipped the cart over and was kicked out."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 68,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:They had a bowling league that they played in every year. It was comprised of a bunch of friends of theirs that always played. But one year they were bowling really well. They thought they had a chance to win the championship.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They lost the championship.",
+            "B. And in the last week they won the last game to win the trophy."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 69,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Mary begged her mom for tickets to the concert that weekend. Her mom agreed to buy the tickets if Mary could clean the whole house. So Mary scrubbed, polished, dusted and wiped. When she finished, her mom handed her the concert tickets.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Mary loved it all the more because she truly earned it!",
+            "B. Mary's mom was not happy with the results."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Andrea always wanted to work at a bank. She put in her application. She got a phone call asking her to come in for an interview. Andrew answer all their questions as best as she could.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She was hired.",
+            "B. The next morning she was hired."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 71,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Dolores felt like she was good with people. She decided to get a psychology degree because of her people skills. Dolores studied hard for several years. After she graduated she got a job in therapy.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She met a man named John.",
+            "B. Dolores was proud to use her people skills as a therapist."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 72,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Drew sold several chips and soda in front of the school. After the dismissal bell rung, the students were rushing to get home. Many stopped near Drew's stand. They bought everything from the stand.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Drew's stand was the only one that sold soda.",
+            "B. Drew made a large profit."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 73,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:When Shawn was growing up he collected beanie babies. He had hundreds of them. He was convinced that they would be worth a lot of money. He kept them for almost twenty years before realizing he was wrong.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He is now just a grown man with hundreds of stuffed animals.",
+            "B. Shawn's mother died when he was a teenager."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 74,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:I stayed after-school and needed a ride home. I called my mom and she said that she's on her way. After an hour, I decided to walk home. The walk home lasted about 2-3 hours.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. I was stopped by a police officer.",
+            "B. When I got home, my mom was furious."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 75,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Pete could run faster than any boy he knew. So when a new girl at school challenged him to a race he just laughed. He knew he could beat her easily so he agreed. The day of the race their friends all gathered around.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Pete ran faster than the girl.",
+            "B. She was faster than him, beating him by four seconds!"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 76,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Jim is scheduled to leave San Francisco on Tuesday morning. But a flight opens up on Monday so he takes that one. Later that night there is a massive earthquake in San Francisco. Two hundred people die in the hotel Jim was staying at.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Jim feels very lucky to be alive.",
+            "B. Jim is in the hospital."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 77,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Kay went with her grandmother to her sister's house. She loved her grandmother's sisters cooking. After they ate he aunt brought out a yellow pie. Kay loved the sour lemon and sweet topping.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She decided this was her new favorite pie.",
+            "B. The aunt brought out a yellow pie."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 78,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Rucksack Rod was a traveling hobo. He got by on the kindness of others. The trains would often slow just enough for him to get on. While on the rails one day, he spied a girl who looked hungry.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The girl was a hobo.",
+            "B. Rod shared what food he could with her."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 79,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Maya was making a Mexican meal for her family. Then her husband brought home three extra for dinner! Maya was in a panic. Then she decided to make lots of extra rice.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The rice was delicious! I was so happy to see that I could make rice in my slow cooker.",
+            "B. That helped stretch the food so everyone had plenty to eat!"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 80,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Walter broke into the old apartment. He looked around and saw graffiti on the walls. He realized no one had lived there in years. Walter recalled bad memories of his childhood there.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He fell down and started crying.",
+            "B. Walter found a note on the door."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 81,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Judy loved every kind of soda. She didn't care what brand it was as long as it had caffeine. One day her doctor told her she needed to cut back on the drinks. It was very hard on Judy at first but she persevered.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Eventually she gave up drinking soda completely.",
+            "B. Judy's favorite soda was a soda called \"Caffeine Free\"."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 82,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Ted and his friends were bored one day. Ted's dad suggested the boys play marbles. The boys didn't know how to play! Ted's dad was happy to show them the game.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Soon the boys were happily playing marbles together!",
+            "B. The boys were able to play the game."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 83,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:I used to like to stay up really late at night and sleep late. Now I prefer to get up before the sun comes up. I have time to make coffee and read my bible. The house is quiet and the kids are safe in bed.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. I found myself in a situation where I had to make a decision.",
+            "B. I sit by the window and begin work while watching the sunrise."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 84,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Fred loves to play crazy eights. He tried to start a crazy 8s club in his school. Not many people knew of the game though. He wasn't able to get enough signatures to start it.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He gave up and couldn't start the club.",
+            "B. He was invited to play in the World Cup of Crazy Eights."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 85,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Martin always loved magic. Martin grew up watching magician and wonder at what they could do. He decided to try and learn magic himself. He practice day and night until he was the best.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Martin was accepted into the magic school of the University of St.",
+            "B. Martin spent his life being a magician."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 86,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Toni was going to have a baby. They were driving to the hospital. Her husband was driving very fast. The sound of sirens began.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Toni's husband pulled over.",
+            "B. They were pulled over."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 87,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Carlos lost his control. He looked in his couch and everywhere in his living room. Carlos began to lose his mind. Carlos calmed down.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The door opened.",
+            "B. The control was in the kitchen."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 88,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Tim gave his dog a bath today because he got dirty in the yard. The dog stood in the tub while he ran water over him. He then dribbled shampoo on the dog and began to suds him up. He rinsed him off and let him shake in the tub a few times.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The dog started to bark.",
+            "B. Finally, to dry him off, he took him for a walk in the sun."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 89,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Mary had an important interview. It was for her dream job! She practiced her interview skills. She also polished up her resume.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Mary was so excited for her interview!",
+            "B. She was hired."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 90,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Jill walked from her apartment to the beach. She set her sandals on the boardwalk. Jill couldn't find her sandals after her day on the beach. Jill had to walk back home on the hot pavement.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Jill's feet were burned on the way home.",
+            "B. Jill walked into the house."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 91,
+        "source": "TRAM:storytelling/Temporal Reasoning",
+        "question": "Story:Steve was at the beach with his friends. He had let them bury him in sand for fun. Soon though Steve began to feel really sick. He begged his friends to unbury him.\nWhich of the two endings is the most plausible correct ending to the story?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They freed him and luckily he felt better quickly.",
+            "B. A man came to the beach and picked him up."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    }
+]

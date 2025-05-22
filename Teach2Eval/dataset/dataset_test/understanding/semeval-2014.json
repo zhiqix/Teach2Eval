@@ -1,0 +1,1841 @@
+[
+    {
+        "index": 0,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'I found the food to be outstanding, particulary the salmon dish I had.'",
+        "answer": [
+            [
+                "food",
+                "positive"
+            ],
+            [
+                "salmon dish",
+                "positive"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to food is negative. The sentence's attitude to salmon dish is positive.",
+            "B. The sentence's attitude to food is neutral. The sentence's attitude to salmon dish is positive.",
+            "C. The sentence's attitude to food is positive. The sentence's attitude to salmon dish is neutral.",
+            "D. The sentence's attitude to food is positive. The sentence's attitude to salmon dish is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'For the quality of food, a little too expensive.'",
+        "answer": [
+            [
+                "quality of food",
+                "negative"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to quality of food is neutral.",
+            "B. The sentence's attitude to quality of food is positive.",
+            "C. The sentence's attitude to quality of food is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The acer one computer that I bought is 17 ince screen and its hard to find lap top bags for it, but I like the big screen on it.'",
+        "answer": [
+            [
+                "17 ince screen",
+                "neutral"
+            ],
+            [
+                "screen",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to 17 ince screen is neutral. The sentence's attitude to screen is positive.",
+            "B. The sentence's attitude to 17 ince screen is positive. The sentence's attitude to screen is positive.",
+            "C. The sentence's attitude to 17 ince screen is neutral. The sentence's attitude to screen is negative.",
+            "D. The sentence's attitude to 17 ince screen is neutral. The sentence's attitude to screen is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  '$20 for all you can eat sushi cannot be beaten.'",
+        "answer": [
+            [
+                "sushi",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to sushi is neutral.",
+            "B. The sentence's attitude to sushi is positive.",
+            "C. The sentence's attitude to sushi is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 4,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Still, try it once, since if you end up loving the food, it could be one of your best dining experiences.'",
+        "answer": [
+            [
+                "food",
+                "neutral"
+            ],
+            [
+                "dining experiences",
+                "positive"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to food is negative. The sentence's attitude to dining experiences is negative.",
+            "B. The sentence's attitude to food is neutral. The sentence's attitude to dining experiences is negative.",
+            "C. The sentence's attitude to food is positive. The sentence's attitude to dining experiences is neutral.",
+            "D. The sentence's attitude to food is neutral. The sentence's attitude to dining experiences is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 5,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The only downfall is the volume control.'",
+        "answer": [
+            [
+                "volume control",
+                "negative"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to volume control is negative.",
+            "B. The sentence's attitude to volume control is neutral.",
+            "C. The sentence's attitude to volume control is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Anyways I bought this two months ago and when I first brought it home it kept giving me a message about a vibration in the hard drive and it is putting it temporaly in save zone.'",
+        "answer": [
+            [
+                "hard drive",
+                "negative"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to hard drive is positive.",
+            "B. The sentence's attitude to hard drive is neutral.",
+            "C. The sentence's attitude to hard drive is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Admittedly, this is not the place for gigantic pieces of fish overflowing the plate (and thank goodness, in my opinion) but for simple, elegant sushi there is no better place in New York or anywhere in the US.'",
+        "answer": [
+            [
+                "sushi",
+                "positive"
+            ],
+            [
+                "fish",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to sushi is positive. The sentence's attitude to fish is negative.",
+            "B. The sentence's attitude to sushi is neutral. The sentence's attitude to fish is neutral.",
+            "C. The sentence's attitude to sushi is positive. The sentence's attitude to fish is positive.",
+            "D. The sentence's attitude to sushi is positive. The sentence's attitude to fish is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 8,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Windows is also rather unsteady on its feet and is susceptible to many bugs.'",
+        "answer": [
+            [
+                "Windows",
+                "negative"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to Windows is positive.",
+            "B. The sentence's attitude to Windows is negative.",
+            "C. The sentence's attitude to Windows is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'A few tips: skip the turnip cake, roast pork buns and egg custards.'",
+        "answer": [
+            [
+                "turnip cake",
+                "negative"
+            ],
+            [
+                "roast pork buns",
+                "negative"
+            ],
+            [
+                "egg custards",
+                "negative"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to turnip cake is positive. The sentence's attitude to roast pork buns is negative. The sentence's attitude to egg custards is positive.",
+            "B. The sentence's attitude to turnip cake is positive. The sentence's attitude to roast pork buns is positive. The sentence's attitude to egg custards is positive.",
+            "C. The sentence's attitude to turnip cake is neutral. The sentence's attitude to roast pork buns is neutral. The sentence's attitude to egg custards is positive.",
+            "D. The sentence's attitude to turnip cake is negative. The sentence's attitude to roast pork buns is negative. The sentence's attitude to egg custards is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 10,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'great eats, good times.'",
+        "answer": [
+            [
+                "eats",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to eats is positive.",
+            "B. The sentence's attitude to eats is neutral.",
+            "C. The sentence's attitude to eats is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Good food.'",
+        "answer": [
+            [
+                "food",
+                "positive"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to food is negative.",
+            "B. The sentence's attitude to food is positive.",
+            "C. The sentence's attitude to food is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'It is super easy to use.'",
+        "answer": [
+            [
+                "use",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to use is positive.",
+            "B. The sentence's attitude to use is neutral.",
+            "C. The sentence's attitude to use is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'We were seated promptly as we had reservations, however after that the service was slow.'",
+        "answer": [
+            [
+                "reservations",
+                "positive"
+            ],
+            [
+                "service",
+                "negative"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to reservations is positive. The sentence's attitude to service is neutral.",
+            "B. The sentence's attitude to reservations is neutral. The sentence's attitude to service is negative.",
+            "C. The sentence's attitude to reservations is positive. The sentence's attitude to service is negative.",
+            "D. The sentence's attitude to reservations is neutral. The sentence's attitude to service is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The lamb meat was under-cooked and EXTRMELY CHEWY.'",
+        "answer": [
+            [
+                "lamb meat",
+                "negative"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to lamb meat is neutral.",
+            "B. The sentence's attitude to lamb meat is positive.",
+            "C. The sentence's attitude to lamb meat is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Strengths:Well-shaped Weaknesses:A bad videocard!'",
+        "answer": [
+            [
+                "videocard",
+                "negative"
+            ],
+            [
+                "shaped",
+                "positive"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to videocard is positive. The sentence's attitude to shaped is positive.",
+            "B. The sentence's attitude to videocard is positive. The sentence's attitude to shaped is neutral.",
+            "C. The sentence's attitude to videocard is positive. The sentence's attitude to shaped is negative.",
+            "D. The sentence's attitude to videocard is negative. The sentence's attitude to shaped is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'With today's company fighting over marketshare, its a shame that ASUS can get away with the inept staff answering thephone.'",
+        "answer": [
+            [
+                "staff",
+                "negative"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to staff is positive.",
+            "B. The sentence's attitude to staff is negative.",
+            "C. The sentence's attitude to staff is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'It was not above ordinary and the beef version had cheap (undercooked) beef.'",
+        "answer": [
+            [
+                "beef version",
+                "negative"
+            ],
+            [
+                "beef",
+                "negative"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to beef version is neutral. The sentence's attitude to beef is positive.",
+            "B. The sentence's attitude to beef version is positive. The sentence's attitude to beef is neutral.",
+            "C. The sentence's attitude to beef version is negative. The sentence's attitude to beef is negative.",
+            "D. The sentence's attitude to beef version is negative. The sentence's attitude to beef is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 18,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'BE CAREFUL before you request extra spice.'",
+        "answer": [
+            [
+                "spice",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to spice is negative.",
+            "B. The sentence's attitude to spice is neutral.",
+            "C. The sentence's attitude to spice is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 19,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'My favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.'",
+        "answer": [
+            [
+                "vga port",
+                "positive"
+            ],
+            [
+                "screen",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to vga port is negative. The sentence's attitude to screen is negative.",
+            "B. The sentence's attitude to vga port is positive. The sentence's attitude to screen is positive.",
+            "C. The sentence's attitude to vga port is negative. The sentence's attitude to screen is neutral.",
+            "D. The sentence's attitude to vga port is positive. The sentence's attitude to screen is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 20,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Once again, I was told it was the suspicious  power supply  problem.'",
+        "answer": [
+            [
+                "power supply",
+                "negative"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to power supply is negative.",
+            "B. The sentence's attitude to power supply is neutral.",
+            "C. The sentence's attitude to power supply is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Sake collection was excellent (Try Nanbu Bijin), but pricy.'",
+        "answer": [
+            [
+                "Sake collection",
+                "conflict"
+            ],
+            [
+                "Nanbu Bijin",
+                "positive"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to Sake collection is neutral. The sentence's attitude to Nanbu Bijin is neutral.",
+            "B. The sentence's attitude to Sake collection is negative. The sentence's attitude to Nanbu Bijin is negative.",
+            "C. The sentence's attitude to Sake collection is positive. The sentence's attitude to Nanbu Bijin is positive.",
+            "D. The sentence's attitude to Sake collection is conflict. The sentence's attitude to Nanbu Bijin is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 22,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'I did think it had a camera because that was one of my requirements, but forgot to check in the specifications on this one before I purchased.'",
+        "answer": [
+            [
+                "camera",
+                "neutral"
+            ],
+            [
+                "specifications",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to camera is positive. The sentence's attitude to specifications is neutral.",
+            "B. The sentence's attitude to camera is neutral. The sentence's attitude to specifications is negative.",
+            "C. The sentence's attitude to camera is neutral. The sentence's attitude to specifications is neutral.",
+            "D. The sentence's attitude to camera is negative. The sentence's attitude to specifications is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 23,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'I hope to edit this in the next few hours, I am going to try to install my own copy of Windows 7.'",
+        "answer": [
+            [
+                "Windows 7",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to Windows 7 is negative.",
+            "B. The sentence's attitude to Windows 7 is positive.",
+            "C. The sentence's attitude to Windows 7 is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 24,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'It's so nice to look at and the keys are easy to type with.'",
+        "answer": [
+            [
+                "keys",
+                "positive"
+            ],
+            [
+                "look",
+                "positive"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to keys is positive. The sentence's attitude to look is neutral.",
+            "B. The sentence's attitude to keys is neutral. The sentence's attitude to look is negative.",
+            "C. The sentence's attitude to keys is neutral. The sentence's attitude to look is positive.",
+            "D. The sentence's attitude to keys is positive. The sentence's attitude to look is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The food was good.'",
+        "answer": [
+            [
+                "food",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to food is positive.",
+            "B. The sentence's attitude to food is negative.",
+            "C. The sentence's attitude to food is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The first time the sushi was outstanding, the second time it was a little bland.'",
+        "answer": [
+            [
+                "sushi",
+                "conflict"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to sushi is neutral.",
+            "B. The sentence's attitude to sushi is negative.",
+            "C. The sentence's attitude to sushi is conflict.",
+            "D. The sentence's attitude to sushi is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 27,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Then just the other day, my left \"mouse\" button snapped!'",
+        "answer": [
+            [
+                "left \"mouse\" button",
+                "negative"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to left \"mouse\" button is neutral.",
+            "B. The sentence's attitude to left \"mouse\" button is negative.",
+            "C. The sentence's attitude to left \"mouse\" button is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Speakers doesn't sound that great.'",
+        "answer": [
+            [
+                "Speakers",
+                "negative"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to Speakers is positive.",
+            "B. The sentence's attitude to Speakers is negative.",
+            "C. The sentence's attitude to Speakers is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The fact that the screen reacts to the lighting around you is an added luxury-when you are working around others in dark areas and want privacy or don't want to bother them with bright lighting, it is very convenient to have a darker, softer lit screen.'",
+        "answer": [
+            [
+                "screen",
+                "positive"
+            ],
+            [
+                "screen",
+                "positive"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to screen is positive. The sentence's attitude to screen is negative.",
+            "B. The sentence's attitude to screen is neutral. The sentence's attitude to screen is neutral.",
+            "C. The sentence's attitude to screen is negative. The sentence's attitude to screen is neutral.",
+            "D. The sentence's attitude to screen is positive. The sentence's attitude to screen is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'this computer will last you at least 7 years, thats an amazing life spanned an electronic.'",
+        "answer": [
+            [
+                "life",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to life is positive.",
+            "B. The sentence's attitude to life is neutral.",
+            "C. The sentence's attitude to life is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Drinks got screwed up, she acted put upon.'",
+        "answer": [
+            [
+                "Drinks",
+                "negative"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to Drinks is positive.",
+            "B. The sentence's attitude to Drinks is negative.",
+            "C. The sentence's attitude to Drinks is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The menu is very limited - i think we counted 4 or 5 entrees.'",
+        "answer": [
+            [
+                "menu",
+                "negative"
+            ],
+            [
+                "entrees",
+                "negative"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to menu is positive. The sentence's attitude to entrees is positive.",
+            "B. The sentence's attitude to menu is positive. The sentence's attitude to entrees is neutral.",
+            "C. The sentence's attitude to menu is positive. The sentence's attitude to entrees is negative.",
+            "D. The sentence's attitude to menu is negative. The sentence's attitude to entrees is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'But when I received my replacement, I made BOTH recovery DVDs (4), and a driver/application DVD.'",
+        "answer": [
+            [
+                "recovery DVDs",
+                "neutral"
+            ],
+            [
+                "driver/application DVD",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to recovery DVDs is positive. The sentence's attitude to driver/application DVD is negative.",
+            "B. The sentence's attitude to recovery DVDs is negative. The sentence's attitude to driver/application DVD is neutral.",
+            "C. The sentence's attitude to recovery DVDs is negative. The sentence's attitude to driver/application DVD is positive.",
+            "D. The sentence's attitude to recovery DVDs is neutral. The sentence's attitude to driver/application DVD is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 34,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Summary: I've had this laptop for 2 months, out of the blue the power adapter stops working.'",
+        "answer": [
+            [
+                "power adapter",
+                "negative"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to power adapter is positive.",
+            "B. The sentence's attitude to power adapter is neutral.",
+            "C. The sentence's attitude to power adapter is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Simple comfort food and what hot and lage portions.'",
+        "answer": [
+            [
+                "comfort food",
+                "positive"
+            ],
+            [
+                "portions",
+                "positive"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to comfort food is positive. The sentence's attitude to portions is negative.",
+            "B. The sentence's attitude to comfort food is negative. The sentence's attitude to portions is positive.",
+            "C. The sentence's attitude to comfort food is positive. The sentence's attitude to portions is positive.",
+            "D. The sentence's attitude to comfort food is neutral. The sentence's attitude to portions is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 36,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Also, I issued a replacement RMA for a few dead pixels in the upper zone of the screen, which is noticable to me.'",
+        "answer": [
+            [
+                "screen",
+                "negative"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to screen is neutral.",
+            "B. The sentence's attitude to screen is negative.",
+            "C. The sentence's attitude to screen is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'the speed is fine.'",
+        "answer": [
+            [
+                "speed",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to speed is positive.",
+            "B. The sentence's attitude to speed is neutral.",
+            "C. The sentence's attitude to speed is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The only thing I didn't learn in my research was the software I would need like privacy protection and warranty protection, in case it gets broken, or crashes etc.'",
+        "answer": [
+            [
+                "software",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to software is negative.",
+            "B. The sentence's attitude to software is neutral.",
+            "C. The sentence's attitude to software is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 39,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  '-I propose that they can just swap the hard drives.'",
+        "answer": [
+            [
+                "hard drives",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to hard drives is neutral.",
+            "B. The sentence's attitude to hard drives is positive.",
+            "C. The sentence's attitude to hard drives is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Upon entering, we were greeted by the owners, Steven and Frederick, who went out of their way to be more than gracious hosts.'",
+        "answer": [
+            [
+                "owners",
+                "positive"
+            ],
+            [
+                "hosts",
+                "positive"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to owners is neutral. The sentence's attitude to hosts is positive.",
+            "B. The sentence's attitude to owners is positive. The sentence's attitude to hosts is positive.",
+            "C. The sentence's attitude to owners is positive. The sentence's attitude to hosts is negative.",
+            "D. The sentence's attitude to owners is positive. The sentence's attitude to hosts is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The food and staff always surprise me with the new heights they are taken to.'",
+        "answer": [
+            [
+                "food",
+                "positive"
+            ],
+            [
+                "staff",
+                "positive"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to food is negative. The sentence's attitude to staff is neutral.",
+            "B. The sentence's attitude to food is neutral. The sentence's attitude to staff is positive.",
+            "C. The sentence's attitude to food is positive. The sentence's attitude to staff is positive.",
+            "D. The sentence's attitude to food is neutral. The sentence's attitude to staff is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Now the machine won't connect and Toshiba says that they did replace the connection card in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook.'",
+        "answer": [
+            [
+                "connection card",
+                "neutral"
+            ],
+            [
+                "warranty",
+                "negative"
+            ],
+            [
+                "warranty",
+                "negative"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to connection card is neutral. The sentence's attitude to warranty is negative. The sentence's attitude to warranty is positive.",
+            "B. The sentence's attitude to connection card is negative. The sentence's attitude to warranty is positive. The sentence's attitude to warranty is positive.",
+            "C. The sentence's attitude to connection card is neutral. The sentence's attitude to warranty is negative. The sentence's attitude to warranty is negative.",
+            "D. The sentence's attitude to connection card is negative. The sentence's attitude to warranty is neutral. The sentence's attitude to warranty is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Fast, great visual!'",
+        "answer": [
+            [
+                "visual",
+                "positive"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to visual is negative.",
+            "B. The sentence's attitude to visual is neutral.",
+            "C. The sentence's attitude to visual is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Mermaid Inn is an overall good restaurant with really good seafood.'",
+        "answer": [
+            [
+                "seafood",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to seafood is positive.",
+            "B. The sentence's attitude to seafood is negative.",
+            "C. The sentence's attitude to seafood is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The pizza here is delicious.'",
+        "answer": [
+            [
+                "pizza",
+                "positive"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to pizza is neutral.",
+            "B. The sentence's attitude to pizza is negative.",
+            "C. The sentence's attitude to pizza is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'This is a cute place and could be good but they need to get their act together.'",
+        "answer": [
+            [
+                "place",
+                "positive"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to place is neutral.",
+            "B. The sentence's attitude to place is negative.",
+            "C. The sentence's attitude to place is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 47,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'While lacking some of the functions of the other versions, this was very acceptable for the uses planned for this computer.'",
+        "answer": [
+            [
+                "functions",
+                "conflict"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to functions is neutral.",
+            "B. The sentence's attitude to functions is conflict.",
+            "C. The sentence's attitude to functions is positive.",
+            "D. The sentence's attitude to functions is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 48,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The manager claimed that he could not compensate us for anything on the bill which just shows the lack of sophistication from the entire group.'",
+        "answer": [
+            [
+                "manager",
+                "negative"
+            ],
+            [
+                "bill",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to manager is positive. The sentence's attitude to bill is negative.",
+            "B. The sentence's attitude to manager is positive. The sentence's attitude to bill is neutral.",
+            "C. The sentence's attitude to manager is neutral. The sentence's attitude to bill is neutral.",
+            "D. The sentence's attitude to manager is negative. The sentence's attitude to bill is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Dip the ingredients in with your chopsticks, swirl them around, and eat.'",
+        "answer": [
+            [
+                "ingredients",
+                "neutral"
+            ],
+            [
+                "chopsticks",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to ingredients is negative. The sentence's attitude to chopsticks is negative.",
+            "B. The sentence's attitude to ingredients is neutral. The sentence's attitude to chopsticks is positive.",
+            "C. The sentence's attitude to ingredients is negative. The sentence's attitude to chopsticks is positive.",
+            "D. The sentence's attitude to ingredients is neutral. The sentence's attitude to chopsticks is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 50,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'His wife Tanya, the hostess, completes the comforting atmosphere by being delightfully warm and gracious.'",
+        "answer": [
+            [
+                "hostess",
+                "positive"
+            ],
+            [
+                "atmosphere",
+                "positive"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to hostess is negative. The sentence's attitude to atmosphere is neutral.",
+            "B. The sentence's attitude to hostess is positive. The sentence's attitude to atmosphere is positive.",
+            "C. The sentence's attitude to hostess is negative. The sentence's attitude to atmosphere is positive.",
+            "D. The sentence's attitude to hostess is neutral. The sentence's attitude to atmosphere is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Ask for Usha, the nicest bartender in manhattan.'",
+        "answer": [
+            [
+                "bartender",
+                "positive"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to bartender is neutral.",
+            "B. The sentence's attitude to bartender is negative.",
+            "C. The sentence's attitude to bartender is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The Apple will run Internet Explorer, but at an amazingly slow rate.'",
+        "answer": [
+            [
+                "Internet Explorer",
+                "conflict"
+            ]
+        ],
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to Internet Explorer is negative.",
+            "B. The sentence's attitude to Internet Explorer is neutral.",
+            "C. The sentence's attitude to Internet Explorer is conflict.",
+            "D. The sentence's attitude to Internet Explorer is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 53,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The only thing I don't understand is that the resolution of the screen isn't high enough for some pages, such as Yahoo!Mail.'",
+        "answer": [
+            [
+                "resolution of the screen",
+                "negative"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to resolution of the screen is neutral.",
+            "B. The sentence's attitude to resolution of the screen is negative.",
+            "C. The sentence's attitude to resolution of the screen is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The macbooks are small enough to be very portable yet hold tons of information and performance.'",
+        "answer": [
+            [
+                "performance",
+                "positive"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to performance is negative.",
+            "B. The sentence's attitude to performance is positive.",
+            "C. The sentence's attitude to performance is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'The Prix Fixe menu is worth every penny and you get more than enough (both in quantity AND quality).'",
+        "answer": [
+            [
+                "Prix Fixe menu",
+                "positive"
+            ],
+            [
+                "quantity",
+                "positive"
+            ],
+            [
+                "quality",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to Prix Fixe menu is positive. The sentence's attitude to quantity is positive. The sentence's attitude to quality is positive.",
+            "B. The sentence's attitude to Prix Fixe menu is neutral. The sentence's attitude to quantity is neutral. The sentence's attitude to quality is negative.",
+            "C. The sentence's attitude to Prix Fixe menu is negative. The sentence's attitude to quantity is neutral. The sentence's attitude to quality is neutral.",
+            "D. The sentence's attitude to Prix Fixe menu is negative. The sentence's attitude to quantity is positive. The sentence's attitude to quality is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.'",
+        "answer": [
+            [
+                "place",
+                "positive"
+            ],
+            [
+                "ambience",
+                "positive"
+            ],
+            [
+                "staff",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to place is positive. The sentence's attitude to ambience is positive. The sentence's attitude to staff is positive.",
+            "B. The sentence's attitude to place is neutral. The sentence's attitude to ambience is positive. The sentence's attitude to staff is negative.",
+            "C. The sentence's attitude to place is negative. The sentence's attitude to ambience is negative. The sentence's attitude to staff is positive.",
+            "D. The sentence's attitude to place is neutral. The sentence's attitude to ambience is negative. The sentence's attitude to staff is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Go to Volare for 1st class service and terrific food.'",
+        "answer": [
+            [
+                "service",
+                "positive"
+            ],
+            [
+                "food",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to service is positive. The sentence's attitude to food is positive.",
+            "B. The sentence's attitude to service is neutral. The sentence's attitude to food is positive.",
+            "C. The sentence's attitude to service is neutral. The sentence's attitude to food is neutral.",
+            "D. The sentence's attitude to service is negative. The sentence's attitude to food is positive."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'I do transcription work on the side, and the flatline keyboard makes typing quick and easy as well.'",
+        "answer": [
+            [
+                "flatline keyboard",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to flatline keyboard is positive.",
+            "B. The sentence's attitude to flatline keyboard is neutral.",
+            "C. The sentence's attitude to flatline keyboard is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Hard disk - The new editions gives you more hard disk space (500GB instead of 320GB) but time has taught me never to trust an internal hard disk.'",
+        "answer": [
+            [
+                "Hard disk",
+                "neutral"
+            ],
+            [
+                "hard disk space",
+                "positive"
+            ],
+            [
+                "internal hard disk",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to Hard disk is negative. The sentence's attitude to hard disk space is negative. The sentence's attitude to internal hard disk is neutral.",
+            "B. The sentence's attitude to Hard disk is neutral. The sentence's attitude to hard disk space is negative. The sentence's attitude to internal hard disk is neutral.",
+            "C. The sentence's attitude to Hard disk is neutral. The sentence's attitude to hard disk space is negative. The sentence's attitude to internal hard disk is negative.",
+            "D. The sentence's attitude to Hard disk is neutral. The sentence's attitude to hard disk space is positive. The sentence's attitude to internal hard disk is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 60,
+        "source": "understanding/semeval-2014/test.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Ive been to many Thai restaurants in Manhattan before, and Toons is by far the best Thai food Ive had (except for my mom's of course).'",
+        "answer": [
+            [
+                "Thai food",
+                "positive"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to Thai food is positive.",
+            "B. The sentence's attitude to Thai food is negative.",
+            "C. The sentence's attitude to Thai food is neutral."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'It is a big big, but since it has a 18.4\" screen what would you expect!'",
+        "answer": [
+            [
+                "18.4\" screen",
+                "conflict"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to 18.4\" screen is positive.",
+            "B. The sentence's attitude to 18.4\" screen is conflict.",
+            "C. The sentence's attitude to 18.4\" screen is neutral.",
+            "D. The sentence's attitude to 18.4\" screen is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 62,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.'",
+        "answer": [
+            [
+                "Snow Leopard",
+                "positive"
+            ],
+            [
+                "CPU",
+                "negative"
+            ],
+            [
+                "Office Mac applications",
+                "negative"
+            ],
+            [
+                "Word",
+                "negative"
+            ],
+            [
+                "Excel",
+                "negative"
+            ],
+            [
+                "spinning wheel",
+                "negative"
+            ]
+        ],
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to Snow Leopard is positive. The sentence's attitude to CPU is negative. The sentence's attitude to Office Mac applications is negative. The sentence's attitude to Word is negative. The sentence's attitude to Excel is negative. The sentence's attitude to spinning wheel is negative.",
+            "B. The sentence's attitude to Snow Leopard is negative. The sentence's attitude to CPU is positive. The sentence's attitude to Office Mac applications is neutral. The sentence's attitude to Word is positive. The sentence's attitude to Excel is negative. The sentence's attitude to spinning wheel is negative.",
+            "C. The sentence's attitude to Snow Leopard is positive. The sentence's attitude to CPU is neutral. The sentence's attitude to Office Mac applications is neutral. The sentence's attitude to Word is negative. The sentence's attitude to Excel is positive. The sentence's attitude to spinning wheel is positive.",
+            "D. The sentence's attitude to Snow Leopard is negative. The sentence's attitude to CPU is neutral. The sentence's attitude to Office Mac applications is neutral. The sentence's attitude to Word is positive. The sentence's attitude to Excel is neutral. The sentence's attitude to spinning wheel is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 63,
+        "source": "understanding/semeval-2014/restaurant.jsonl",
+        "question": "Here is a sentence. Analyze the sentiments associated with the different categories mentioned in the sentence and classify them as either positive, neutral or negative. Then, select the appropriate option that matches these sentiments.\nSentence:  'Even out of warranty!'",
+        "answer": [
+            [
+                "warranty",
+                "neutral"
+            ]
+        ],
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sentence's attitude to warranty is positive.",
+            "B. The sentence's attitude to warranty is neutral.",
+            "C. The sentence's attitude to warranty is negative."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    }
+]

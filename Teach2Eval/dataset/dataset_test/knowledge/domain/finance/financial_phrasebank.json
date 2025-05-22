@@ -1,0 +1,6071 @@
+[
+    {
+        "index": 0,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The medium-term operative targets of the company remain unchanged .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "( ADP News ) - Jan 22 , 2009 - Finnish mobile phones maker Nokia Oyj ( OMX : NOK1V ) said today its operating profit decreased to EUR 5 billion ( USD 6.5 bn ) for 2008 from EUR 8 billion for 2007 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Salcomp Oyj , the Finnish maker of mobile phone chargers , Monday posted a EUR1 .49 million loss in the second quarter compared with a 1.70 million profit in the same period the previous year .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Operating loss of the Pulp & Paper Machinery unit was over EUR 3mn in September 2007 - August 2008 , compared to a profit of EUR 3.7 mn a year earlier .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Prothious Engineering ( www.prothious.com ) employs more than 1,000 and has a large portfolio of projects and an annual detailing capacity of more than 100,000 tonnes .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 5,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "As part of the transaction , the +ä+ñnekoski paper mill remained in M-real 's ownership and continued Galerie Art production for Sappi under a long-term contract .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 6,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Net sales fell by 33 % from the third quarter of 2008 to EUR 130.5 mn .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Via the move , the company aims annual savings of some EUR3m , the main part of which are expected to be realized this year .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "R&D Loan ) .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 9,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Metso expects its net sales to increase by about 10 % in 2008 , at comparable exchange rates .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Pretax loss totalled EUR 49.9 mn , compared to a loss of EUR 15.4 mn in the corresponding period in 2008 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 11,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The event can be followed on-line via Orion 's Finnish homepage at www.orion.fi as well as via the Kauppalehti Live web service at www.kauppalehti.fi/live .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "EBITDA for the year 2009 improved to EUR484m , as compared with EUR472m in 2008 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "One of the headboxes will be equipped with a modern consistency control system to ensure cross machine profile of the plasterboard .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 14,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The acquired business main asset is a mobile authentication and signing solution , branded as Tectia MobileID , which provides authentication to web e-mail , SSL-VPN , MS SharePoint , Tectia Secure Solutions and other applications and resources .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 15,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Operating profit totaled EUR 3.8 mn , down from EUR 4.5 mn in the corresponding period in 2005 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Cameco typically prices sales contracts using a 40:60 ratio of fixed prices and spot prices .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 17,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Ruukki 's delivery includes steel structures , including installation , for Krakeroy bascule bridge and steel piles for the bridge foundations .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 18,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Another noticeable thing is that the search for Tata and Airtel brands was mostly related to ` broadband connections ' .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 19,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Operating profit totalled EUR 0.4 mn , up from an operating loss of EUR 0.8 mn year-on-year .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Basware finances the acquisition with a bank loan .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 21,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "No changes in media activity were seen in October compared with September .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "( ADP News ) - Feb 11 , 2009 - Finnish wood products technology supplier Raute Oyj ( HEL : RUTAV ) said today its net profit decreased to EUR 4.7 million ( USD 6.1 m ) for 2008 from EUR 6.6 million for 2007 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "At the end of the review period , Nordic Aluminium 's order book stood at EUR 8.77 mn compared to EUR 7.04 in 2005 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Mobile communication and wireless broadband provider Nokia Inc NYSE : NOK today set new financial targets and forecasts for Nokia and the mobile device industry and also for Nokia Siemens Networks and the mobile and fixed infrastructure and related services market .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 25,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Tiimari , the Finnish retailer , reported to have geenrated quarterly revenues totalling EUR 1.3 mn in the 4th quarter 2009 , up from EUR 0.3 mn loss in 2008 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In January-September 2007 , Finnlines ' net sales rose to EUR 505.4 mn from EUR 473.5 mn in the corresponding period in 2006 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The address location is provided to a local controller , preferably by wireless transmission , which then uses the address location to access the appliance control module .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 28,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Net sales surged by 30 % to EUR 36 million .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Vaisala 's net profit for the third quarter of 2007 dropped to 3.0 mln euro ( $ 4.3 mln ) from 6.8 mln euro ( $ 9.8 mln ) for the same period of 2006 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The company 's market share is continued to increase further .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The adjustments concern staff in both the Specialty Papers and the Fiber Composites segments .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish communication electronics components supplier Scanfil Oyj Tuesday said sales in the first half of 2006 will be 15 % lower than during the same period a year ago .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "( ADP News ) - Dec 11 , 2008 - Finnish construction and engineering company Outotec Oyj ( OMX : OTE1V ) said today it won a EUR 28 million ( USD 36.8 m ) order to expand the phosphate concentrator in Siilinjarvi of Norwegian minera",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The shops are located in the capital region and the Paijat-Hame region .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "com and possibly also through photo-msn .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "About Dopplr Dopplr is a service for smart travellers .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 37,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The share capital of Alma Media Corporation (business ID 1944757-4)is EUR 45,031,513.80 and it is divided into 75,052,523 shares .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 38,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Operating profit improved by 44.0 % to ER 4.7 mn from EUR 3.3 mn in 2004 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "These include software development for internet and mobile telephone content , communications , value-added software , financial services , security applications , systems integration and electronics .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 40,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Berling Capital , Umo Capital and Veikko Laine are the biggest shareholders in Amanda Capital .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 41,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "EUR 220 million of the transaction consideration was paid in the form of four-year interest-bearing vendor notes .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 42,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Kemira 's R&D organization comprises approximately 750 people , the company said .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "`` The implementation of these programs has had , and will have , negative impacts on 2006 and 2007 earnings , '' Mr Meiklejohn said .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Operating margin , however , slipped to 14.4 % from 15.1 % , dragged down by a poor performance in enterprise solutions .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The company had net sales of EUR 10.8 million in 2008 , and today has approximately 120 employees in Finland , Estonia and Poland .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Revenues at the same time grew 14 percent to 43 million euros .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Citigroup , Inc ( NYSE : C ) has announced that its Global Transaction Services ( GTS ) business has been awarded a new mandate by Finland-based Pohjola Bank Group .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The project is expected to be completed in 2009 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 49,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Sampo Bank 's market share of lending was 13.6 % , down from 14.4 % in the first quarter of 2008 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The name of the newspaper publishing and printing division Sanoma will be changed to Sanoma News .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 51,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Net cash from operating activities was a negative EUR 0.3 mn , compared to EUR 30.9 mn in 2009 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In January-September 2010 , Fiskars ' net profit went up by 14 % year-on-year to EUR 65.4 million and net sales to EUR 525.3 million from EUR 487.7 million .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish Sampo Bank , of Danish Danske Bank group , reports profit before taxes of EUR 152.3 mn in 2010 , up from EUR 32.7 mn in 2009 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "A replay will be available until 27 October 2006 in the following numbers : US callers : +1 617-á801-á6888 , non-US callers : +44 20 7365 8427 , access code : 2659 5401 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The segments through which the company operates are Frozen Food business , Seafoods , Vegetable Oil business , Grain Trading and Other business operations .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "in Q1 '10 19 April 2010 - Finnish forest machinery and equipment maker Ponsse Oyj HEL : PON1V said today that it expects to swing to a net profit of some EUR6 .3 m in the first quarter of 2010 , from an EUR9 .6 m loss a year earlier .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The company serves customers in various industries , including process and resources , industrial machinery , architecture , building , construction , electrical , transportation , electronics , chemical , petrochemical , energy , and information technology , as well as catering and households .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Operating profit was EUR 0.6 mn , up from a loss of EUR 19mn a year earlier .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Glaston 's net profit for the third quarter of 2007 dropped to 2.4 mln euro ( $ 3.5 mln ) from 3.5 mln euro ( $ 5.1 mln ) for the corresponding period of 2006 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Profit for the period was EUR 15.6 mn compared to EUR 14.1 mn in 2007 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "German Commerzbank AG 's Hamburg Branch and US JP Morgan ( NYSE : JPM ) participated as arrangers , and Dutch ING ( AMS : INGA ) as co-arranger .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 62,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Combining the two producers will create a strong EU-based fertilizer industry capable of meeting global competition , they added .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 63,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Votorantim Celulose e Papel ( VCP ) is part of the Votorantim Group , a major Brazilian conglomerate .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 64,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "FinancialWire ( tm ) , in cooperation with the Investrend Broadcast Syndicate , also provides complete , daily conference call and webcast schedules as a service to shareholders and investors via the FirstAlert ( tm ) Networks oeFirstAlert ( tm ) Daily .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 65,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Meanwhile , Alfa owns 25.1 % of MegaFon through Altimo , and 4.99 % of Turkcell via an 18.5 % stake in Cukurova Holding .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 66,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Tikkurila Powder Coatings has some 50 employees at its four paint plants , which generated revenues of EUR2 .4 m USD3 .3 m in 2010 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 67,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish construction company YIT Oyj said on November 13 , 2007 it won a 70 mln euro $ 102.8 mln contract to construct the new office building for local property company Tapiola Real Estate Oy .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 68,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In 2009 , Fiskars ' cash flow from operating activities amounted to EUR121m , up from EUR97m in the previous year .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 69,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Production capacity will increase from 36 000 to 85 000 tonnes per year and the raw material will continue to be recycled paper and board .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Profit for the period increased from EUR 2.9 mn to EUR 10.5 mn .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 71,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Glaston 's own glass processing unit , Tamglass Glass Processing , is a manufacturer of high quality safety glass products , and operates in Finland .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 72,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The identity of the buyer is not yet known .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 73,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "National sponsors for The Big Read include National Endowment for the Arts in cooperation with the Institute of Museum and Library Services and Arts Midwest .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 74,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The total scope of the project is about 38,000 square metres and it is valued at a total of around EUR75m .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 75,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The report profiles 614 companies including many key and niche players worldwide such as Black & Decker Corporation , Fiskars Corporation , Fiskars Brands , Inc. , Husqvarna Outdoor Products Inc. , K+S Group , Ryobi Technologies , Inc. , The Scotts Miracle-Gro Company , and Van Group , Inc. .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 76,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Alma Media 's operating profit amounted to EUR 11.9 mn , down from EUR 15.0 mn a year earlier .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 77,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "However , the brokers ' ratings on the stock differ .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 78,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "These products include Personal Communications products such as mobile phones and their parts , Home Communications products such as set-top boxes and electronics for flat panel TVs as well as Communications Networks products such as base-stations , tower-top amplifiers , and microwave systems .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 79,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The new Kroksberg railway tunnel will be built on a new section of track between Harnosand and Veda , forming part of the line that follows the coast of the Gulf of Bothnia .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 80,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Ragutis , which is based in Lithuania 's second-largest city Kaunas , boosted its sales last year 22.3 per cent to 36.4 million liters .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 81,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "ADP News - Apr 22 , 2009 - Finnish business information systems developer Solteq Oyj HEL : STQ1V said today its net loss widened to EUR 189,000 USD 245,000 for the first quarter of 2009 from EUR 10,000 for the same peri",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 82,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The CVs of the proposed members are available for viewing from 12 March 2008 onwards on the Internet at www.sampo.com/ir .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 83,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "8,600 m , and at the time of investment it is fully leased to several tenants .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 84,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Her work at NetApp included strategically repositioning the brand in the category and a major global relaunch .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 85,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The new chain has 700 discount stores and 250 supermarkets .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 86,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "( The acquisition sum has not been disclosed . )",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 87,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish management software solutions provider Ixonos Oyj net profit decreased to 369,000 euro ( $ 575,000 ) for the first quarter of 2008 from 669,000 euro ( $ 1.0 mln ) for the same period of 2007 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 88,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Having a China based operation will not only enable us to fully leverage our resources and expertise in wireless solutions , but also strengthen our capability to offer industry-leading products for our customers in China . ''",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 89,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "CapMan , an asset manager , has EUR 3bn worth of assets under management in the Nordic region .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 90,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The value of the order is nearly EUR400m .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 91,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "( ADP News ) - Feb 12 , 2009 - Finnish IT solutions provider Affecto Oyj ( HEL : AFE1V ) said today its net profit rose to EUR 8.5 million ( USD 11m ) in 2008 from EUR 7 million in 2007 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 92,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Cargotec Germany GmbH has been awarded a contract by Stadtverwaltung Mainz for chassis bodies under Open procedure .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 93,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish electronics contract manufacturer Scanfil had net sales of EUR 52.2 mn in the first quarter of 2007 , down from EUR 60.1 mn a year before .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 94,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Tulikivi manufactures heat-retaining , soapstone and ceramic fireplaces , as well as natural stone products and utility ceramics .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 95,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "For Q2 2010 , consolidated earnings before tax totaled EUR4 .5 m , compared to EUR3 .9 m , and net profit was EUR3 .2 m , compared to EUR2 .9 m in the previous year .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 96,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "ITG 's share in the deal is estimated at some 500,000 euro $ 627,000 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 97,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The most significant capital expenditure items were in the global enterprise resource planning ERP project , product development and production machines .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 98,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Pretax profit rose to EUR 1,019 mn from EUR 1,007 in the corresponding period in 2005 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 99,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "It now owns 80,565 shares in Amer Sports Corporation , equaling 0.11 % of the company 's share capital and voting rights .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 100,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Vaisala 's Present Weather Detector measures visibility up to 20 km , as well as precipitation type and intensity .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 101,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The gross area of eight houses will be 12,167 m2 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 102,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Satama 's net sales would be higher than the year before .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 103,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish steel maker Rautaruukki Oyj ( HEL : RTRKS ) , or Ruukki , said today its net loss contracted to EUR 49 million ( USD 68.2 m ) for the first nine months of 2010 from EUR 229 million for the same period a year ago .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 104,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Operating profit excluding non-recurring items increased by 27 % to EUR 81.9 mn from EUR 64.4 mn in the corresponding period in 2008 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 105,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "An  of the invention , released by the Patent Office , said : `` A non-coherent search matrix is formed of said correlation function matrix .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 106,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish silicon wafer technology company Okmetic Oyj OMX Helsinki : OKM1V said on Wednesday 17 September that it will invest EUR6m in its sensor wafer business during 2009 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 107,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The Samsung Mobile Applications Store was launched in January 2009 by Samsung Mobile Innovator , a program which enables mobile software developers to create applications for use across Samsung mobile devices .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 108,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Nokia Siemens Networks provides mobile and fixed network infrastructure , communications and networks service platforms , as well as professional services , to operators and service providers .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 109,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Teleste 's hybrid TV solution includes components for the whole process of delivering video services to consumers from content acquisition and service creation to delivery through a range of access solutions , including HFC ( hybrid fibre-coaxial ) , xDSL , EttH , and FttH .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 110,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The subscription period of Amer Sports ' 2002 warrant scheme will end on 31 December 2007 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 111,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In 2008 , the deal is likely to bring savings of EUR 20mn-25mn .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 112,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The devices would be launched in the Chinese market in late 2006 , the company said .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 113,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Feed companies Suomen Rehu and Raisio do no import GMO feed .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 114,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "( ADP News ) - Feb 6 , 2009 - Finnish fishing tackle company Rapala VMC Corp ( HEL : RAP1V ) said today its net profit rose to EUR 19.2 million ( USD 24.6 m ) for 2008 from EUR 17.5 million for 2007 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 115,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "RSA 's shares closed at 156.9 p at the time of going to press .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 116,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Ponsse will divide its sales and maintenance service network into six geographical areas .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 117,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Country : , Switzerland Sector : Pharmaceuticals Target : Synosia Therapeutics Holding AG Buyer : Biotie Therapies Corp Deal size in USD : 129.4 m Type : Corporate acquisition Financing : All-stock Status : Closed",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 118,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "LONDON AFX - UK and European brokers ' recommendations issued today , as collated by AFX News from a range of market sources .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 119,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Outotec 's delivery covers the engineering , supply and construction of a circulating fluid bed calcination plant with a capacity of 1,600 tons of alumina per day .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 120,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "At the moment , there are approximately 20 Vianor sales offices in Russia .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 121,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Poyry is a global consulting and engineering firm focusing on the energy , forest industry and infrastructure & environment sectors .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 122,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Digia said its consolidated net sales for January-June 2010 were EUR67 .8 m , up 9.7 % on the same period in 2009 ( EUR61 .9 m ) .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 123,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The value of the order is USD 2.2 mn .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 124,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Raute posted a net profit of 1.8 mln euro $ 2.6 mln for the third quarter of 2007 , compared to a net loss of 299,000 euro $ 430,000 for the corresponding period of 2006 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 125,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish business software group AffectoGenimap Oyj said its net profit halved to 1.2 mln euro ( $ 1.5 mln ) in the first nine months of 2006 from 2.2 mln euro ( $ 2.8 mln ) in the same period of 2005 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 126,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The orders also include a few high-power drives for the control of seismic compressors .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 127,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The output of the contracts totals 72 MWe .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 128,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "1 February 2011 - Finnish textile and clothing company Marimekko Oyj HEL : MMO1V said today its preliminary operating profit grew to EUR8 .2 m in 2010 from EUR6 .3 m in 2009 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 129,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The company said that paper demand increased in all of its main markets , including of publication papers , and that it increased average paper prices by 4 percent compared with last year .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 130,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "ADP News - Nov 13 , 2008 - Finnish printed circuit board PCB maker Aspocomp Group Oyj OMX : ACG1V said today that its net loss narrowed to EUR 2 million USD 2.5 m in the first nine months of 2008 from EUR 57",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 131,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The major breweries increased their domestic beer sales by 4.5 per cent last year , to 256.88 million litres from 245.92 million litres in 2004 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 132,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Performance in the second half of 2009 exceeded expectations .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 133,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Juha Haapakoski will continue as Editor-in-Chief with budget responsibility also with the new publisher .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 134,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Ruukki 's order book at the end of 2010 was 30 % up year-on-year and 10 % up quarter-on-quarter .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 135,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "An earn-out payment of up to 4.0 mln euro ( $ 5.3 mln ) can also be paid depending on Intellibis financial performance in 2007 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 136,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "However , sales volumes in the food industry are expected to remain at relatively good levels in Finland and in Scandinavia , Atria said .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 137,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Jan. 6 -- Ford is struggling in the face of slowing truck and SUV sales and a surfeit of up-to-date , gotta-have cars .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 138,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "That address also happens to house Italian megamart Eataly , meaning that `` Come on , kids , we 're going to the Toy Building ! ''",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 139,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Satama and Trainers ' House will remain as names and independent brands of the business areas .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 140,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "An audio webcast will be available live and archived on Cerner 's Web site at www.cerner.com .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 141,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Cash flow from operations in January-December 2008 was a negative EUR 18.1 mn compared to EUR 39.0 mn in the corresponding period in 2007 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 142,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Nokia was up 0.12 pct to 16.70 eur after kicking off the morning in negative territory .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 143,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Estonia 's Agriculture Minister Helir-Valdor Seeder is in Finland on a two-day visit , in the course of which he will meet with his Finnish counterpart Sirkka-Liisa Anttila .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 144,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "ALEXANDRIA , Va. , March 15 -- Jaakko Vilo of Turku , Finland , has developed a panel press .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 145,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "An international conference call and audio webcast concerning the financial result January-March 2010 will begin at 14.00 EET .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 146,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The building will house , for example , Respecta Oy 's Jyvaskyla premises , as well as other companies to be announced later , says Samuel Koivisto , Director of Technopolis operations in Jyvaskyla .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 147,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The transaction included also the transfer of the lease agreement concerning manufacturing premises and employment agreements related to these operations .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 148,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Profit before taxes was EUR 5.4 mn , up from EUR 3.6 mn a year earlier .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 149,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Seller is the Finnish Elcoteq Group , the largest European electronics manufacturing services company .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 150,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Cash flow from operations totalled EUR 7.4 mn , compared to a negative EUR 68.6 mn in the second quarter of 2008 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 151,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The report will be emailed within 2 business days of an order .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 152,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Nordic banks have already had to write off sizable loans in Latvia , with Swedbank , Nordea , DnB NOR and SEB reporting combined losses in excess of $ 1.35 billion in the period 2007 to 2010 against a backdrop of near economic meltdown in Latvia .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 153,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The orders are for 26 machine-room-less KONE MonoSpace elevators , which would be installed during 2006 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 154,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Aug. 17 , 2010 ( Curbed delivered by Newstex ) -- And now , the latest from Racked , covering shopping and retail from the sidewalks up .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 155,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "- The Group -¦ s profit before taxes was EUR 0,2 7,8 million .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 156,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In Q2 of 2009 , profit before taxes amounted to EUR 13.6 mn , down from EUR 26.8 mn in Q2 of 2008 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 157,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "One can also apply for jobs directly from the iPad , select which CV to attach and which covering letter is most appropriate for each position .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 158,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The diluted loss per share narrowed to EUR 0.27 from EUR 0.86 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 159,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "ABN : 59 087 901 620 now represent 5.10 % of the voting rights and share capital of Citycon Oyj .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 160,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The mall is part of the Baltic Pearl development project in the city of St Petersburg , where Baltic Pearl CJSC , a subsidiary of Shanghai Foreign Joint Investment Company , is developing homes for 35,000 people .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 161,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Teleste was set up in 1954 and is divided into Broadband Cable Networks and Video Networks business areas .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 162,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The value of this kind of order amounts usually between Euro 2 and 3 million .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 163,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Both operating profit and net sales for the 12-month period increased , respectively from EUR20 .8 m and EUR177 .7 m , as compared to the financial year 2004 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 164,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "HK Ruokatalo produces many turkey products , such as cold cuts .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 165,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Pretax loss totaled EUR 117mn compared to a loss of EUR 65mn in the corresponding period .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 166,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Earnings per share for January-June 2010 were EUR0 .30 , an increase of 20 % year-on-year EUR0 .25 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 167,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish Vacon has signed significant deals with Norwegian Scandinavian Electric Systems ( SES ) on the supply of AC drives .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 168,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The changes will take effect on 1 January 2010 , and they are not estimated to have an impact on the number of employees .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 169,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The bond , with a maturity of five years , is part of the bank 's domestic bond program .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 170,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The center will be built in the Kapuli district of Mantsala beside the Hanko-Mantsala-Porvoo road near the new direct rail link between Lahti and Jarvenpaa .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 171,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "It will provide heating in the form of hot water for the sawmill 's needs .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 172,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Timo Penttila has been appointed new manager responsible for the asset management of Nordea 's institutional customers in Finland .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 173,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The utility will also provide services related to electricity management , such as hedging trades and risk management and reporting .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 174,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "EUR928 ,000 in Q1 2010 6 May 2010 - Finnish textile and clothing design company Marimekko Oyj ( HEL : MMO1V ) said today its net profit rose to EUR928 ,000 in the first quarter of 2010 from EUR13 ,000 in the corresponding period a year earlier .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 175,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "( ADP News ) - Sep 30 , 2008 - Finnish security and privacy software solutions developer Stonesoft Oyj said today that it won a USD 1.9 million ( EUR 1.3 m ) order to deliver its StoneGate network security products to an unnamed Russian te",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 176,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Elcoteq SE is Europe 's largest contract electronics maker and has set up a unit in Bangalore in association with Avista Advisory of Mumbai .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 177,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The equipment is designated to Bollore Africa Logistics terminal Societe d'Exploitation du Terminal de Vridi SETV in Abidjan , Ivory Coast and the delivery is scheduled to start in March 2010 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 178,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Talvivaara Mining Company Plc Talvivaara Mining Company is an internationally significant base metals producer with its primary focus on nickel and zinc using a technology known as bioheapleaching to extract metals out of ore .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 179,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Currently , 95 % of Trainers House 's revenues are attributed to the Finnish market .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 180,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Due to the rapid decrease in net sales , personnel reductions have been carried out on a wider scale than initially expected .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 181,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Also , a six-year historic analysis is provided for this market .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 182,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Unit costs for flight operations fell by 6.4 percent .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 183,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Tieto 's service is also used to send , process and receive materials related to absentee voting .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 184,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Neste oil 's board proposed 1.00 eur dividend for the full-year 2007 , compared with 0.90 eur a year ago .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 185,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "CS Cabot 's main consumers on the Czech and Slovak market are tires producers Barum Continental and Matador Continental .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 186,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The size of a cider bottle will remain unchanged .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 187,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Net sales increased to EUR193 .3 m from EUR179 .9 m and pretax profit rose by 34.2 % to EUR43 .1 m. ( EUR1 = USD1 .4 )",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 188,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The latest result included per-share charges of 5 cents for stock compensation , 1 cent for research and development and 1 cent for strategic investments .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 189,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "L+ñnnen Tehtaat 's Food Division was reorganised into two strategic business units , Apetit Frozen Foods and Jams , and Apetit Fish .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 190,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish software developer Basware Oyj said on November 30 , 2006 its U.S. subsidiary Basware , Inc. won an order to provide software for contract lifecycle management to an unnamed U.S. medical technology company .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 191,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Dragonfly Love is another video shot from start to finish using the Nokia N8 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 192,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Total value of the contract is about EUR 10mn .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 193,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Clothing retail chain Sepp+ñl+ñ 's sales increased by 8 % to EUR 155.2 mn , and operating profit rose to EUR 31.1 mn from EUR 17.1 mn in 2004 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 194,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Byline : Tim Moran Cellular phone giant Nokia Corp. is offering $ 8.1 billion for digital map supplier NAVTEQ Corp. , of Chicago .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 195,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "`` Demand for sports equipment was good in 2005 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 196,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The transaction is expected to be completed next spring .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 197,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In sales volume , Coca-Cola 's market share has decreased by 2.2 % to 24.2 % .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 198,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Following the registration , the number of issued and outstanding shares of Basware is 12,890,829 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 199,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Operating profit was EUR 9.8 mn , compared to a loss of EUR 12.7 mn in the corresponding period in 2009 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 200,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "UPM-Kymmene said its has ` not indicated any interest in any domestic consolidations ' .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 201,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The firm 's UK head office is in Rugby Road , Lutterworth .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 202,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The enterprise value of Maritim Food AS has been determined as approximately EUR15m .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 203,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The company offers payroll services , including payroll processing , payroll tax administration , and employee pay services , including direct deposit , check signing , and Readychex .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 204,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "` Nordea 's definitely too big for Sampo to acquire , ' said an analyst ` But Sampo would appear to have an agenda for Nordea ahead of the privatisation .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 205,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Qualcomm estimated a first-quarter profit between 46 and 50 cents a share , excluding certain items , below the analyst estimate of 61 cents a share .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 206,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The acquisition is expected to take place by the end of August 2007 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 207,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "For the first nine months of 2010 , Talvivaara 's net loss narrowed to EUR 8.3 million from EUR 21.9 million for the same period of 2009 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 208,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "+£lemiste City is the environment for a knowledge-based economy providing work for 3,300 people with the total turnover of its companies amounting to EEK 5.4 bn , '' said +£lo P+ñrnits , chairman of the supervisory board of +£lemiste City and Mainor .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 209,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The scheme for TeliaSonera and Altimo is practically identical , except that it involves the merger of their stakes in VimpelCom and Kyivstar .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 210,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Cision says the sale will return its U.K. operation to profitability .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 211,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The profit after taxes was EUR 57.7 11.1 million .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 212,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Construction is scheduled to start in April-June 2007 and to be completed in early 2008 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 213,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "This includes a EUR 39.5 mn change in the fair value of investment properties .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 214,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Loss for the period totalled EUR 15.6 mn compared to a profit of EUR 6.3 mn in 2008 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 215,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Consolidated operating profit from continuing operations decreased by 62.3 % to EUR 51.2 mn from EUR 135.7 mn in 2007 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 216,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In January , traffic , measured in revenue passenger kilometres RPK , went up by 3.2 % and capacity , measured in available seat kilometres ASK , rose by 12.2 % .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 217,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "No decision on such sale of the now issued or existing treasury shares to YA Global has been made yet .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 218,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The pretax profit of the group 's life insurance business increased to EUR36m from EUR27m .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 219,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Its 168 asset management experts manage assets worth over EUR 35 billion .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 220,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Any investment or investment activity to which this communication relates is only available to relevant persons and will be engaged in only with relevant persons .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 221,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The Whitehall Street Real Estate Funds invest in real estate and real estate related assets , principally through the acquisition of real estate companies , real property and mortgage loans .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 222,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In 2008 , Kemira recorded revenue of approximately EUR 2.8 billion and had a staff of 9,400 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 223,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In Finland , the five largest brands control 90 % of the beer market .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 224,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "`` We could be there .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 225,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Department store sales improved by 14 % to EUR 1,070.6 mn .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 226,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Taking a cue from the playbook of the East Dillon Lions , we 've created a special team of heavy-hitting style players , such as boot-cut jeans , tummy tops and , of course , cowboy boots .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 227,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "According to Finnish FIM Bank , Alpro 's price would be around EUR 100mn-150mn .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 228,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Proline Plus is available in both adjustable single and multichannel models and fixed volume single-channel models , in volume ranges from 0.1 micro litres to 10 ml .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 229,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The purchase price will be paid in cash upon the closure of the transaction , scheduled for April 1 , 2009 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 230,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "It also confirmed its earnings guidance for the whole 2009 issued in its report for the whole 2008 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 231,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The decision will have to be made whether the group agrees to the import of Estonian meat and meat products to Finland , the paper added .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 232,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The Internal Revenue Service sees about 20 percent of all taxpayers wait until the last two weeks to file , with about 40 million returns filed in April .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 233,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "After the split , the number of K shares will be 9 540 000 and the number of A shares 26 885 540 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 234,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Net sales of Finnish food industry company L+ñnnen Tehtaat 's continuing operations increased by 13 % in 2008 to EUR 349.1 mn from EUR 309.6 mn in 2007 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 235,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The sale will be finalized in September or October , the company said .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 236,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Before FKI , John Jiang has worked in several general manager or senior business consultant positions for international companies in China .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 237,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Both operating profit and turnover for the six-month period increased , respectively from EUR0 .1 m and EUR29 .0 m , as compared to the corresponding period a year ago .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 238,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The estimated value of the deal is USD 9.2 million .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 239,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "`` After the transaction , Tikkurila has no powder coatings-related operations , '' the company said .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 240,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In future , the plant will focus on the production of flange profiles for wind farm towers .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 241,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The bridge will be 1.2 km long and is located between Anasmotet by the road E20 and the new traffic junction in Marieholm by the road E45 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 242,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The board machine , which will have a wire width of 6.25 m and a design speed of 900 m-min , will produce close to 1,400 tonnes of folding boxboard per day .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 243,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "L&T is operative in Finland , Sweden , Latvia , Russia and Norway .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 244,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "However , the company saw its net profit for the third quarter down to EUR 1.4 million from EUR 1.5 million for the corresponding period of 2009 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 245,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Operating profit fell to EUR 6.2 mn from EUR 8.5 mn in the third quarter of 2007 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 246,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Earnings per share EPS amounted to EUR0 .01 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 247,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "This organization will assume the responsibility for operations in Russia .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 248,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Incap , headquartered in Oulu , Finland , is a electronics contract manufacturer with some 750 employees in Finland , Estonia and India .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 249,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Pretax profit jumped to EUR 21.9 million from EUR 3.1 million .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 250,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The aim of the CEO 's Q&A sessions is to give further clarity on information , which has been made public already earlier .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 251,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The fair value of the investment properties totaled EUR 2,534.9 mn , up from EUR 2,455.1 mn in 2006 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 252,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The cranes would be installed onboard two freighters ordered by Singaporean ship owner Masterbulk .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 253,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The agreement is valid for four years .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 254,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "He joins Technopolis from KONE where he has held various positions within the Group , most recently as Director of Service Business and Business Development for KONE s Middle Eastern operations .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 255,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Orion 's net profit for the third quarter of 2007 decreased to 36.5 mln euro ( $ 52.1 mln ) from 40.3 mln euro ( $ 57.5 mln ) a year earlier .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 256,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The company 's set of services include digital printing , printing preparation , offset-printing , after-treatment services and send out services .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 257,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In the end of 2006 , the number of outlets will rise to 60-70 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 258,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The copying , republication or redistribution of AFX News Content , inculding by framing or similar means , is expressly prohibited without the prior written consent of AFX News .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 259,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The company is presently examining whether the project would be financially feasible .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 260,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Elcoteq SE is listed on the Nasdaq OMX Helsinki Ltd. .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 261,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In the Czech Republic , the smaller profiling unit at Ostrava will be closed and the machinery will be gradually relocated to Ruukki 's bigger plants in Hungary , Poland and Romania by the end of the first quarter of 2009 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 262,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The value of the order is about EUR 30mn .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 263,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finland 's leading metals group Outokumpu said its fourth-quarter net profit more than tripled on the back of strong global demand for stainless steel , soaring base metal prices and proceeds from the sale of its technology unit .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 264,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The tests , conducted at Nokia Siemens ' LTE center of competence in Espoo , Finland , follow the company 's production start of LTE-ready Flexi Multiradio Base Stations for the 800 MHz band in April 2010 , and complement earlier tests with Nokia on the 2100 MHz and 2600 MHz bands .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 265,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish investment group Norvestia Oyj said its net profit fell to 23.5 mln euro $ 30.6 mln in 2006 from 33.5 mln euro $ 43.6 mln in 2005 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 266,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The first of the two project phases is expected to be completed by the end of 2012 .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 267,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Tekla will organize an information meeting for analysts and media at WTC Helsinki Marski meeting room , Aleksanterinkatu 17 , the same day at 12:30 - 1:30 p.m. Light lunch will be served .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 268,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Yvonne Jones is owner of Chameleon Interiors .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 269,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The divested stake represented about 2.7 m shares in Okmetic 's capital .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 270,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Last July , the group said it intended to relocate warehouse and office space in Loudeac and Saint Marcel to Morvillars , in the east of France , where it already operates a hook manufacturing and distribution unit .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 271,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The Group 's business sectors are Building Construction , Infrastructure Construction , Technical Building Services , and Building Products .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 272,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "In 2008 , the steel industry accounted for 64 percent of the cargo volumes transported , whereas the energy industry accounted for 28 percent and other industries for 8 percent .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 273,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "561,470 new shares under 2003 option rights plan Packaging company Huhtamaki Oyj reported on Monday that a total of 561,470 new shares of the company have been issued based on share subscriptions under its 2003 option rights plan .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 274,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "`` We have come out with a decision which is based on our preliminary economic , operational and environmental findings , '' Karvinen said .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 275,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The report goes on to provide detailed profiles of ten leading European specialty chemicals companies , and brief profiles of other major players .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 276,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Some of the most recent technology deliveries include refinery technology to Anrak Aluminium , an iron ore pelletizing plant to Tata Steel and iron ore sintering plants to Bhushan Steel .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 277,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Vacon controls a further 5 % of the company via investment fund Power Fund I. EUR 1.0 = USD 1.397",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 278,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Operating loss totalled EUR 4.0 mn , compared to a profit of EUR 8.6 mn in the second quarter of 2008 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 279,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The value of the order is EUR 2.5 mn .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 280,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The five-storey , eco-efficient building will have a gross floor area of about 15,000 sq m. It will also include apartments .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 281,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "For example , net sales increased by 5.9 % from the first quarter , and EBITDA increased from a negative EUR 0.2 mn in the first quarter of 2009 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 282,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Talentum expects that the net sales of its core business will increase in 2008 , compared to 2007 .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 283,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "CapMan said the deal 's effect on its cash flow for 2009 totals EUR3 .4 m , but the transaction would not affect its financial results for 2009 as it was executed at fair value .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 284,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The group intends to relocate warehouse and office space in Loudeac and Saint Marcel to Morvillars , in the east of the country , where it already operates a hook manufacturing and distribution unit .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 285,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "cents The profile contains business operations , the company history , major products and services , prospects , key competitors , structure and key employees , locations and subsidiaries .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 286,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "However , sales returned to growth in April-June 2010 , CEO Pekka Eloholma said .",
+        "label": [
+            "C"
+        ],
+        "answer": "positive",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 287,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "Finnish textiles and clothing group Marimekko Oyj posted a net profit of 7.99 mln euro $ 10.4 mln for 2006 , compared to 8.4 mln euro $ 10.9 mln for 2005 .",
+        "label": [
+            "B"
+        ],
+        "answer": "negative",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 288,
+        "source": "knowledge/domain/finance/financial_phrasebank/Sentences_AllAgree.json",
+        "question": "The order was worth EUR 8mn .",
+        "label": [
+            "A"
+        ],
+        "answer": "neutral",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. neutral",
+            "B. negative",
+            "C. positive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    }
+]

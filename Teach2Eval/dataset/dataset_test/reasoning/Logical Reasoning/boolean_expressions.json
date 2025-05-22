@@ -1,0 +1,1313 @@
+[
+    {
+        "index": 0,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot True or False or ( True ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse or not True and not not False is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot False and False and False or False is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 3,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse or not not True or not False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot ( False or ( False ) ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 5,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse or ( not False ) and True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 6,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot not not not True and not True is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nTrue or not False and True and False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 8,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot ( True or False ) or True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\n( not False or False and True ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse and not ( False and True ) is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot not not False or False and False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 12,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nTrue or ( True or not False ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot False or False or ( False ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 14,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse or ( not ( False ) ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot False or True and False or False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 16,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse or False or True and not False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 17,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\n( not False ) and False or True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse and not ( not not True ) is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse or ( False ) and not False is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 20,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse or not not not not not False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 21,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot ( True ) and ( False ) is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse and True or ( not False ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot not False or False and not True is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nTrue or not False and ( False ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 25,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot not not not ( not False ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 26,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot False or ( True or True ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot not False or not False or True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 28,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nTrue and not True or False or True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot not not not True or not True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 30,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\n( False ) or False and not True is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 31,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\n( not False or True ) and True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot True or ( True or False ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse or not False and ( False ) is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse or not False or True or True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\n( not True ) and True or True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 36,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nTrue and not ( False or False ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 37,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot False or not not False and False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse or True and not not not False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse and False and not ( True ) is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 40,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nFalse and False and not True and False is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nTrue and False or ( not False ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot False or True or False and False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 43,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\n( False or not False or False ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nTrue or False or not True or False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 45,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot not not True and False and False is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\n( not ( False ) and False ) is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot not not ( False and True ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot ( ( False and True ) ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 49,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot True or False or not not True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\n( False ) or not True and False is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot ( True ) and ( True ) is",
+        "label": [
+            "B"
+        ],
+        "answer": "False",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\n( not False ) or not not False is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\n( not False ) or ( True ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot not not ( True and False ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nnot False and not not True and True is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "BBH:boolean_expressions/Logical Reasoning",
+        "question": "The answer is True or False:\nTrue or False and not ( True ) is",
+        "label": [
+            "A"
+        ],
+        "answer": "True",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    }
+]

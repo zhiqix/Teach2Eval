@@ -1,0 +1,1313 @@
+[
+    {
+        "index": 0,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Ryan O'Reilly hit the wheel route.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 1,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Mookie Betts took a side-step three.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 2,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Jaylen Brown comitted a three second violation.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 3,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Pete Alonso hit a triple in the World Series.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Javier Mascherano took a left footed shot.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Stefon Diggs hit the slant pass.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Klaas Jan Huntelaar shot the puck.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 7,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Jayson Tatum took a side-step three in the NBA Championship.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Malcolm Brogdon drove into the restricted area in the Eastern Conference Finals.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 9,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Jonas Valanciunas beat the buzzer.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 10,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Dejounte Murray took a side-step three.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Deshaun Watson was flagged on the play.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Jonathan Marchessault went five hole.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 13,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Brandon Lowe took a left footed shot.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 14,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Gerrit Cole set the hard screen.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 15,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Freddie Freeman watched the pitch go by.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Juan Soto took ball four.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Robert Lewandowski threw a touchdown.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"James Karinchak worked a full count.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 19,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Mario Balotelli took a left footed shot in the Champions League Final.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Caris LeVert scored a reverse layup.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Adam Thielen scored in added time.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 22,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Kyle Connor eurostepped to the basket in the Western Conference Finals.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Sterling Shepard hit a walkoff homer.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 24,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Sergio Aguero maradona'd the defender.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 25,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Justin Herbert maradona'd the defender.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Sergio Busquets got on base.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 27,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Aaron Nola converted the first down.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 28,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Zach LaVine  shot the puck.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Fred VanVleet scored a freekick in the Champions League Final.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 30,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Ketel Marte got into the endzone.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Santi Cazorla called for the screen.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 32,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Tyler Boyd hit the screen pass in the NFC divisional round.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Khyri Thomas  changed direction in the backfield in the NFC championship.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 34,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Jesus Luzardo was called for slashing.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Anthony Davis beat the buzzer.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 36,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Marcell Ozuna scored a touchdown.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 37,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Philip Rivers launched a hail mary.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 38,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Toni Kroos performed a give and go.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Courtland Sutton hit a triple.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 40,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Joe Burrow caught the back shoulder fade in the Superbowl.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Mitchell Robinson airballed the shot.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Stephan El Shaarawy shot with the left foot.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 43,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Kwadwo Asamoah was flagged on the play.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 44,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Giorgio Chiellini committed a handball in the FA Cup.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Juan Soto did a double stepover.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"DeVante Parker was called for icing.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 47,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Brad Hand hit the wheel route.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 48,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Tom Brady was safe at first.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 49,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Mario Gomez scored a reverse layup.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 50,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Kevin Durant hit a walkoff homer.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Evander Kane hit the slant pass in the AFC divisional round.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 52,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Chris Godwin crossed the blue line in the Stanley Cup.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 53,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Carles Puyol did a maradona on the defender.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 54,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Sterling Shepard converted the first down.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 55,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Diego Forlan did a maradona on the defender.\"",
+        "label": [
+            "A"
+        ],
+        "answer": "yes",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 56,
+        "source": "BBH:sports_understanding/Commonsense Reasoning",
+        "question": "Is the following sentence plausible? \"Domantas Sabonis gained five yards in the AFC championship.\"",
+        "label": [
+            "B"
+        ],
+        "answer": "no",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. yes",
+            "B. no"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    }
+]

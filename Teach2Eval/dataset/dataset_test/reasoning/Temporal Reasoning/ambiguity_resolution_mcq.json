@@ -1,0 +1,2210 @@
+[
+    {
+        "index": 0,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The book launch was slated for 05:27 PM. If the event begins 10 minutes ahead of schedule, when will it start?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6. 27 PM",
+            "B. 5. 17 PM",
+            "C. 6. 12 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 1,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If the date is 12/9/1942 in the Islamic, what is the date in the Hebrew?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2/21/6268",
+            "B. 1/2/6266",
+            "C. 6/9/6266"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 2,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your vacation originally planned for the 2nd week of August has been rescheduled to 4 weeks earlier. In which date is it most likely now?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. July 18th",
+            "B. July 25th",
+            "C. July 11th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 3,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your family reunion during the 1st week of February will now be 1 week earlier. Approximately what's the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. January 18th",
+            "B. January 25th",
+            "C. January 11th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "You typically leave work right at 02:10 PM. If today you decide to stay back for an extra 2 hours 5 minutes, when will you finally head out?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4. 15 PM",
+            "B. 2. 40 PM",
+            "C. 3. 10 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "You receive a memo with the timestamp 'within the coming year'. When should you be prepared?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. just a little while back",
+            "B. a day from today",
+            "C. in the subsequent year"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 6,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The manuscript, completed in 2004, is based on events from 33 years prior. When did those events take place?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1971",
+            "B. 1975",
+            "C. 1974"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The museum trip planned for Sunday has been postponed six days. Which day should you plan for?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Tuesday",
+            "B. Saturday",
+            "C. Sunday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The meal was promised to be on the table at 06:32 AM. If it's going to be 52 minutes postponed, when can you expect to dine?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7. 32 AM",
+            "B. 7. 17 AM",
+            "C. 7. 24 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The manuscript, completed in 1981, is based on events from 257 years prior. When did those events take place?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1730",
+            "B. 1724",
+            "C. 1726"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The ancient tree, cut down in 2017, was estimated to have sprouted 97 years before its removal. When did it most likely sprout?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1925",
+            "B. 1920",
+            "C. 1921"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 11,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "You're aiming to take a break around 01:58 AM. If you push it by a further 49 minutes, when will you actually relax?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2. 47 AM",
+            "B. 2. 28 AM",
+            "C. 2. 13 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The tech conference typically in the 2nd week of July has been moved 4 weeks earlier. Roughly which date should you mark your calendar for?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. June 17th",
+            "B. June 10th",
+            "C. June 24th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 13,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your alarm is precisely set for 08:34 AM. After hitting the snooze and taking an additional 1 hour 45 minutes, when will it sound again?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9. 04 AM",
+            "B. 9. 19 AM",
+            "C. 10. 19 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The document found in 1964 references an event that occurred 545 years earlier. When did that event likely take place?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1419",
+            "B. 1422",
+            "C. 1424"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The store's shutting down time is 03:50 AM. If you're still 1 hour 5 minutes away from reaching, can you make it before the shutters are down?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4. 55 AM",
+            "B. 4. 05 AM",
+            "C. 4. 20 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "You have an exciting date at 07:03 AM. If you're lagging by 1 hour, when will you probably meet your date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7. 18 AM",
+            "B. 7. 48 AM",
+            "C. 8. 03 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The match initially set for Wednesday has now been advanced by three days. Which day is it on now?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Sunday",
+            "B. Friday",
+            "C. Thursday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The match has its kick-off at 01:09 PM. Due to unforeseen reasons, if there's a delay of 39 minutes, when will it get underway?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1. 48 PM",
+            "B. 1. 39 PM",
+            "C. 1. 54 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The art exhibit set for the 3rd week of September will now open 1 week earlier. Around which date is the opening?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. September 1st",
+            "B. September 8th",
+            "C. September 22nd"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 20,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The town carnival usually during the 1st week of February will now be 2 weeks later. About which date is it now?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. February 1st",
+            "B. February 15th",
+            "C. February 8th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The archaeological site dates back to 2012. A significant discovery is made 258 years after its establishment. When did this discovery happen?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2270",
+            "B. 2271",
+            "C. 2275"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If someone mentions that an event will happen 'from time immemorial', when should you anticipate it?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. since ancient times",
+            "B. following day",
+            "C. about 120 minutes ago"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If someone mentions that an event will happen 'before night', when should you anticipate it?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. by the time the sun sets",
+            "B. just before",
+            "C. indefinitely"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "A note suggests meeting 'before long'. When is this suggesting?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. imminently",
+            "B. the next day",
+            "C. before you know it"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 25,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The ice age, which started in 1801, will see a significant climatic change after 640 years. When is that expected?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2443",
+            "B. 2447",
+            "C. 2441"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 26,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The museum trip planned for Wednesday has been postponed four days. Which day should you plan for?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Monday",
+            "B. Saturday",
+            "C. Sunday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 27,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The store's shutting down time is 04:37 AM. If you're still 40 minutes away from reaching, can you make it before the shutters are down?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5. 17 AM",
+            "B. 5. 37 AM",
+            "C. 4. 52 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 28,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The forecast predicts rain 'after a few months'. When is this likely to occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. in several months",
+            "B. without delay",
+            "C. soon"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 29,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The corporate retreat set for the 2nd week of September has been moved 1 week later. Roughly when is it now?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. September 22nd",
+            "B. September 1st",
+            "C. September 15th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The tech conference typically in the 1st week of April has been moved 4 weeks earlier. Roughly which date should you mark your calendar for?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. March 4th",
+            "B. March 18th",
+            "C. March 11th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 31,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The art movement, begun in 1887, is predicted to peak in popularity after 214 years. When will this peak happen?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2106",
+            "B. 2101",
+            "C. 2104"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 32,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If the date is 10/12/1853 in the Islamic, what is the date in the Julian?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8/8/2418",
+            "B. 2/11/2420",
+            "C. 7/18/2421"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your plane is supposed to depart at 04:02 PM. If it's preponed by 7 minutes, when is the revised departure?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5. 02 PM",
+            "B. 3. 55 PM",
+            "C. 4. 17 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 34,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The dynasty which fell in 1892 had risen to power roughly 531 years earlier. When was its establishment?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1362",
+            "B. 1361",
+            "C. 1365"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The movie officially starts at 02:14 PM. If you want to catch a scene 20 minutes after the start, when should you look for it?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2. 59 PM",
+            "B. 2. 34 PM",
+            "C. 2. 44 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The store's shutting down time is 09:57 AM. If you're still 1 hour 35 minutes away from reaching, can you make it before the shutters are down?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10. 57 AM",
+            "B. 10. 27 AM",
+            "C. 11. 32 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your favorite TV show airs every Wednesday. If they move it four days earlier next week, when can you watch it?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Friday",
+            "B. Wednesday",
+            "C. Saturday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 38,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "You're aiming to take a break around 02:12 PM. If you push it by a further 1 hour 50 minutes, when will you actually relax?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4. 02 PM",
+            "B. 2. 27 PM",
+            "C. 2. 57 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The legend speaks of a hero born in 1868. He is expected to save his kingdom after 993 years from his birth. When will that happen?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2862",
+            "B. 2861",
+            "C. 2866"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 40,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The corporate retreat set for the 3rd week of August has been moved 2 weeks later. Roughly when is it now?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. August 21st",
+            "B. August 14th",
+            "C. August 28th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 41,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If the date is 4/14/1921 in the Hebrew, what is the date in the Islamic?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5/11/2536",
+            "B. 4/11/2537",
+            "C. 4/21/2535"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 42,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The bus is set to move at 12:47 AM. If you find yourself at the bus stop 20 minutes after the scheduled time, did you miss your ride?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1. 07 AM",
+            "B. 1. 02 AM",
+            "C. 1. 17 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 43,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The forecast predicts rain 'sunrise'. When is this likely to occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. at the crack of dawn",
+            "B. within a month",
+            "C. very late at night"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "A marathon was supposed to happen this coming Wednesday, but got shifted three days earlier. When will it occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Thursday",
+            "B. Sunday",
+            "C. Tuesday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The weekly town hall usually on Saturday is delayed by a day. When will it happen?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Friday",
+            "B. Monday",
+            "C. Sunday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 46,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The meal was promised to be on the table at 01:22 PM. If it's going to be 4 hours postponed, when can you expect to dine?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1. 52 PM",
+            "B. 5. 22 PM",
+            "C. 2. 07 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 47,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your vacation originally planned for the 3rd week of April has been rescheduled to 2 weeks earlier. In which date is it most likely now?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. April 15th",
+            "B. April 1st",
+            "C. April 8th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 48,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "You've planned a call right at 06:02 PM. If you have to bring it 2 hours 25 minutes ahead, when's the new call time?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7. 02 PM",
+            "B. 3. 37 PM",
+            "C. 6. 17 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 49,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The tech conference typically in the 3rd week of December has been moved 1 week earlier. Roughly which date should you mark your calendar for?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. December 8th",
+            "B. December 22nd",
+            "C. December 1st"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If your interview is originally set for 11:18 AM and you're now told to arrive 11 hours 30 minutes in advance, when should you be there?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12. 03 PM",
+            "B. 11. 48 PM",
+            "C. 11. 48 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 51,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If your birthday is on Monday and you plan a party three days later, when will your party be?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Thursday",
+            "B. Wednesday",
+            "C. Saturday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If the date is 7/28/1961 in the Gregorian, what is the date in the Hebrew?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12/9/5721",
+            "B. 5/15/5721",
+            "C. 8/16/5721"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 53,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The workshop that was planned for Friday got rescheduled six days later. What is the new date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Monday",
+            "B. Saturday",
+            "C. Thursday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your plane is supposed to depart at 03:15 PM. If it's preponed by 4 hours 30 minutes, when is the revised departure?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10. 45 AM",
+            "B. 4. 15 PM",
+            "C. 3. 30 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 55,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "You typically leave work right at 07:28 AM. If today you decide to stay back for an extra 18 minutes, when will you finally head out?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7. 46 AM",
+            "B. 8. 13 AM",
+            "C. 8. 28 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The product launch in the 2nd week of January has been shifted 2 weeks earlier. Around when will it likely be?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. December 11th",
+            "B. December 18th",
+            "C. December 25th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The product launch in the 4th week of August has been shifted 4 weeks earlier. Around when will it likely be?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. July 25th",
+            "B. July 18th",
+            "C. July 11th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your usual spa day on Saturday of every week has been postponed five days. When will it be next week?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Friday",
+            "B. Thursday",
+            "C. Monday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The star, observed to have unique properties in 1972, underwent a transformation 601 years prior. When did this transformation occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1373",
+            "B. 1376",
+            "C. 1371"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If the date is 5/5/1840 in the Islamic, what is the date in the Julian?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11/15/2405",
+            "B. 9/3/2406",
+            "C. 1/28/2407"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your friend's wedding set for the 4th week of January will now be celebrated 3 weeks earlier. Approximately when should you attend?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. January 1st",
+            "B. January 8th",
+            "C. January 15th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 62,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The theater play was initially set to begin at 10:18 AM. If the curtain rises 1 hour 30 minutes earlier, when does the show start?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10. 33 AM",
+            "B. 11. 03 AM",
+            "C. 8. 48 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 63,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The live concert commences at 08:48 PM. If the star performance begins 45 minutes after the start, what's the performance start time?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9. 03 PM",
+            "B. 9. 33 PM",
+            "C. 9. 48 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 64,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If the date is 3/9/1999 in the Islamic, what is the date in the Hebrew?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8/15/6319",
+            "B. 2/14/6321",
+            "C. 1/9/6321"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 65,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The tech conference typically in the 4th week of February has been moved 4 weeks earlier. Roughly which date should you mark your calendar for?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. January 11th",
+            "B. January 18th",
+            "C. January 25th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 66,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "An event is scheduled 'pre-dawn'. When can you expect this to be?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. very late at night",
+            "B. a few hours from now",
+            "C. in the wee hours"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 67,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your virtual class has its start at 08:15 PM. If you decide to pop in 20 minutes after it begins, what's the entry time?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9. 15 PM",
+            "B. 9. 00 PM",
+            "C. 8. 35 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 68,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The store's shutting down time is 11:42 AM. If you're still 45 minutes away from reaching, can you make it before the shutters are down?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12. 42 PM",
+            "B. 12. 27 PM",
+            "C. 12. 12 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 69,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "A historic event is documented to have happened 'in the blink of an eye'. When did it take place?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a day prior",
+            "B. a time that won't occur",
+            "C. in a very short time"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "You receive a memo with the timestamp 'several weeks later'. When should you be prepared?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. imminently",
+            "B. in three weeks",
+            "C. when circumstances are right"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 71,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your regular library day is on Saturday. Next week it is shifted a day. When will it be?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Friday",
+            "B. Monday",
+            "C. Sunday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 72,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The art exhibit set for the 1st week of September will now open 4 weeks later. Around which date is the opening?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. September 28th",
+            "B. September 21st",
+            "C. September 14th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 73,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The corporate retreat set for the 4th week of February has been moved 1 week later. Roughly when is it now?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. March 15th",
+            "B. March 8th",
+            "C. March 1st"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 74,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If the date is 3/5/1941 in the Islamic, what is the date in the Hebrew?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3/12/6264",
+            "B. 7/1/6267",
+            "C. 10/4/6265"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 75,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The meteorite, found in 1910, crashed to Earth approximately 390 years earlier. When did the impact likely occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1522",
+            "B. 1524",
+            "C. 1520"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 76,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If the date is 7/28/1952 in the Gregorian, what is the date in the Julian?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1/27/1950",
+            "B. 7/15/1952",
+            "C. 7/2/1953"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 77,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The corporate retreat set for the 2nd week of May has been moved 1 week later. Roughly when is it now?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. May 1st",
+            "B. May 15th",
+            "C. May 22nd"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 78,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The annual event typically during the 3rd week of June will now happen 4 weeks later. Approximately when will it occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. July 13th",
+            "B. July 27th",
+            "C. July 6th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 79,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The star, observed to have unique properties in 1871, underwent a transformation 386 years prior. When did this transformation occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1490",
+            "B. 1486",
+            "C. 1485"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 80,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "An event is scheduled 'in due time'. When can you expect this to be?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. eventually",
+            "B. recently",
+            "C. end of the day"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 81,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The book launch was slated for 01:39 AM. If the event begins 54 minutes ahead of schedule, when will it start?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2. 39 AM",
+            "B. 12. 45 AM",
+            "C. 2. 24 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 82,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If someone mentions that an event will happen 'much earlier', when should you anticipate it?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. long ago",
+            "B. when the time comes",
+            "C. for a moment"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 83,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The art exhibit set for the 3rd week of June will now open 2 weeks later. Around which date is the opening?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. June 28th",
+            "B. June 21st",
+            "C. June 14th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 84,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your train's regular schedule is 08:53 AM. However, today it's running 17 minutes behind. When will it depart?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9. 08 AM",
+            "B. 9. 53 AM",
+            "C. 9. 10 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 85,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "A marathon was supposed to happen this coming Saturday, but got shifted two days earlier. When will it occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Saturday",
+            "B. Thursday",
+            "C. Monday"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 86,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your virtual class has its start at 12:46 AM. If you decide to pop in 8 hours after it begins, what's the entry time?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1. 01 AM",
+            "B. 8. 46 AM",
+            "C. 1. 46 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 87,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "If the date is 10/24/1805 in the Gregorian, what is the date in the Julian?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6/20/1803",
+            "B. 1/25/1803",
+            "C. 10/12/1805"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 88,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "Your friend's wedding set for the 1st week of November will now be celebrated 1 week earlier. Approximately when should you attend?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. October 25th",
+            "B. October 18th",
+            "C. October 11th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 89,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The meal was promised to be on the table at 11:50 AM. If it's going to be 2 hours 15 minutes postponed, when can you expect to dine?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2. 05 PM",
+            "B. 12. 05 PM",
+            "C. 12. 50 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 90,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The city parade in the 3rd week of July will now take place 3 weeks later. Around which date is it likely to be?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. August 5th",
+            "B. August 12th",
+            "C. August 19th"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 91,
+        "source": "TRAM:ambiguity_resolution/Temporal Reasoning",
+        "question": "The ancient city ruins, discovered in 1909, thrived as a trade center 595 years before its fall. When was its golden period?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1318",
+            "B. 1314",
+            "C. 1316"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    }
+]

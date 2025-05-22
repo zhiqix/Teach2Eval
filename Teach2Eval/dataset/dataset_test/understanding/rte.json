@@ -1,0 +1,1282 @@
+[
+    {
+        "index": 0,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Miller died Thursday night, of congestive heart failure, at his home in Roxbury, Conn., surrounded by his family, his assistant, Julia Bolus, said Friday.\n   text2: Miller died Thursday night, of heart failure, surrounded by family members.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: A light blue 1975 Ford Escort GL once owned by Pope John Paul II sold for $690,000 Saturday to a Houston multimillionaire who said he plans to put it in a museum he wants to build in his hometown.\n   text2: A Houston multimillionaire buys the Pope's Ford Escort.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Tropical Storm Irene on August 11, 2005 at 16:15 UTC. Tropical Storm Irene will increase in strength over the next several days, possibly developing into   a hurricane that will hit the east coast of the United States, said the National Hurricane Center of Miami, Florida in a report today.  Irene was located approximately 975 kilometers south-southeast of Bermuda at 16:00 UTC today. Forecasters say that the storm is now moving in a west-  northwest direction with top sustained winds of 40 miles per hour.\n   text2: A storm called Irene is going to approach the east coast of the US.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: BEIRUT, Nov. 21 (Xinhua) -- Lebanese Industry Minister and Christian leader Pierre Gemayel was shot dead on a street in the suburb of Beirut on Tuesday, al-Jazeera TV channel quoted the Lebanese Interior Ministry as saying.\n   text2: Pierre Gemayel was murdered on a street in the suburb of Beirut.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Jean-Claude Trichet, the European Central Bank president, made it clear, on Wednesday, that he would oppose unwarranted political attempts to remove Antonio Fazio: the Bank of Italy governor, engulfed in controversy over his handling of bank takeover bids.\n   text2: Antonio Fazio is subordinate to Jean-Claude Trichet.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 5,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Cote d'Ivoire's President, Laurent Gbagbo, promulgated new election laws on July 14.\n   text2: President Laurent Gbagbo lives in Cote d'Ivoire.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 6,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Kevin Whitaker, who heads the Cuban affairs office at the Department of State, spoke with Lazo on two occasions about the effort to give his sons visas.\n   text2: Kevin Whitaker is a manager of the Department of State.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The IOC meeting will also review reports submitted by the organizing committees of the 1998 Winter Olympic Games in Nagano, Japan; the 2000 Summer Olympic Games in Sydney, Australia and the 2002 Winter Olympic Games in the Salt Lake City, the United States, respectively.\n   text2: Before Salt Lake City, Winter Olympic Games took place in Nagano.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 8,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Research workers of the German archaeological institute have discovered a mummy in permafrost at excavation work in Mongolia of approximately 2,500 years old.\n   text2: Altai ice maiden triggers major dispute.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Thursday's assassination of Ms. Bhutto has plunged the Pakistani nation into a situation that many perceive as a crisis, with violent protests across the country. Officials say the violence has also caused tens of millions of dollars in damages. Most of the deaths have occurred in southern Sindh province, which is Ms. Bhutto's political stronghold. The worsening security situation prompted President Musharraf on Saturday to order his security chiefs to deal firmly with violent protesters.\n   text2: Musharraf has ordered rioters to take firm action against security forces.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: One of the dead was a child, passing by with his parents, said Iqrar Abbasi, a doctor at Civil Hospital Karachi.\n   text2: A doctor was killed by his parents.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: In clashes between Israeli forces and gunmen, one Palestinian was killed and 10 wounded, hospital officials said.\n   text2: A Palestinian was killed and other people were wounded.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Steve Jobs was attacked by Sculley and other Apple executives for not delivering enough hot new products and resigned from the company a few weeks later.\n   text2: Steve Jobs worked for Apple.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 13,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The Daily Telegraph, most prized asset in Lord Conrad Black's crumbling media empire, has been sold to Britain's Barclay twins.\n   text2: Daily telegraph is sold.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: As regards the headquarters building, the Swiss are stipulating that they would transfer it to the WTO for a value of about 51 million swiss franks.\n   text2: The WTO headquarters are in Switzerland.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Compuware claims that Allan Tortorice and Jim Hildner were among several former employees who revealed trade secrets after they moved to IBM.\n   text2: Trade secrets were stolen.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Security forces were on high alert after an election campaign in which more than 1,000 people, including seven election candidates, have been killed.\n   text2: Security forces were on high alert after a campaign marred by violence.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The town is also home to the Dalai Lama and to more than 10,000 Tibetans living in exile.\n   text2: The Dalai Lama has been living in exile since 10,000.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Capital punishment acts as a deterrent.\n   text2: Capital punishment is a deterrent to crime.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The latest attacks targeted the U-S embassy and a top prosecutor's office in the Uzbek capital.\n   text2: Yesterday's terrorist bombings killed two people at the entrance to the Israeli Embassy in Uzbekistan's capital.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: For US pharmaceutical companies, the impending healthcare reforms promise an era of increased cost-containment and pricing controls.\n   text2: The US government wants to keep drug prices down.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The plan was released by Mr Dean on behalf of the Secretary of Health and Human Services, Tommy Thompson, still recovering from a recent accident, at a Secretarial Summit on Health Information Technology that was attended by many of the nation's leaders in electronic health records.\n   text2: Mr Dean is the Secretary of Health and Human Services.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 22,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: This is a kind of homework from last year's Halifax Summit. Discussions have taken place on how to rationalize and coordinate the various activities of the international organizations.\n   text2: Financial reforms have been proposed at the G7 summit in Halifax.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Huckaby voluntarily submitted herself to questioning Friday night at the Tracy police station, and was arrested less than six hours later. She now resides in the San Joaquin County Jail without bond, awaiting an arraignment hearing on Tuesday. On April 6, the body of Sandra Cantu was discovered stuffed inside the 28-year-old's suitcase at the bottom of a pond a few miles away from her home. The two were neighbors in the Orchard Estates Mobile Home Park and Huckaby's own 5-year-old daughter often played with Cantu. Autopsy results are still pending.\n   text2: Huckaby is accused of killing Sandra Cantu.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 24,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: We look at the cool relationship between these two establishment families and how the party would fare with the son, Texas Gov. George W. Bush, and the wife, Elizabeth Dole, on the 2000 campaign trail.\n   text2: The name of George W. Bush's wife is Laura.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Moscow believes that the waters of the Sea of Azov should remain in common use, but Kiev insists on a clear division.\n   text2: There is a territorial waters dispute.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: singer and actress Britney Spears, 24, has filled papers in Los Angeles County Superior Court to divorce her husband Kevin Federline, 28. A spokeswoman for the court, Kathy Roberts stated that the papers cited irreconcilable differences\" as the reason for the divorce and have, according to the courts, been legally separated as of Monday, November 6, the same day that Spears appeared on Late Night with David Letterman.\n   text2: Spears is to divorce from Kevin Federline.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: India's steelmaker Tata Steel, of the Tata Group, buys Anglo-Dutch steel giant Corus Group for £6.7 billion ($12 billion), making it the world's fifth largest steel manufacturer. 70-year-old Tata group Chairman Ratan Tata, from one of India's best-known business families, won the race against Benjamin Steinbruch, 52, a famous Brazilian executive who is the chief and main owner of Companhia Siderurgica Nacional (CSN). Tata paid investors 608 pence a share, whereas the Brazilians final offer in an auction by the U.K.'s Takeover Panel was 603 pence. The deal triples Tata Steel's capacity to almost 28 million tons a year. Tata: \"This is the first step in showing that Indian industry can step outside its shores into an international market place as a global player.\" Corus, which was created from the merger of British Steel and Hoogovens, currently employs 47,300 people worldwide. Last year the company was the ninth-largest steel maker worldwide. The takeover may start a round of consolidation in the fragmented steel sector.\n   text2: CSN produces 28 million tons of steel per year.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 28,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The memo, written by Marc Allen Connelly (who was general counsel to the funeral services commission at the time) and sent to Dick McNeil (the Bush-appointed chairman of the funeral commission), stated that Connelly \"received information\" from Texas state officials that two of the funeral commissioners worked for SCI.\n   text2: Marc Allen Connelly worked for SCI.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 29,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Egypt on Thursday strongly criticized Israeli new Foreign Minister Avigdor Lieberman for his remarks that he refused to recognize the peace efforts initiated in 2007 in the U.S. city of Annapolis to restore the peace talks with the Palestinians, reported the state MENA news agency. Lieberman's remarks is \"regrettable,\" Egyptian Foreign Ministry spokesman Hossam Zaki was quoted as saying, adding \"his remarks are the first blow to the peace efforts to come from the Israeli new government.\"\n   text2: Hossam Zaki is the new Foreign Minister of Israel.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 30,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: MIDWEST CITY, Okla. -- Fire crews in Oklahoma and Texas raced Thursday to control wind-whipped wildfires that destroyed dozens of homes, seriously injured two people, forced evacuations and shut down parts of a major highway. Howling wind that had gusted to more than 60 mph grounded firefighting efforts by air in both states and drove blazes that scorched neighborhoods like \"a war zone,\" Midwest City police Chief Brandon Clabes said. \"The wind is the biggest issue, because we can't get ahead of the fires,\" Midwest City Fire Marshal Jerry Lojka said. By nightfall, wind gusts dropped to about 30 mph in many areas.\n   text2: Homes were destroyed by wildfires in Oklahoma and Texas.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: With South Carolina being Jesse Jackson's home state, there was a very strong incentive in the black community.\n   text2: Jesse Jackson was born in South Carolina.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 32,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: An American journalist of Russian descent, Klebnikov was shot four times by at least one assassin in a passing car as he stepped outside his office that evening in Moscow.\n   text2: Vladislav Listyev was murdered in Moscow.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 33,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: He also referred to the \"illegal\" arrest on 31 May of Mexican Professor Maria Eugenia Ochoa Garcia, whom the Salvadoran government accused of having connections with the Salvadoran guerrillas.\n   text2: Professor Ochoa Garcia is a member of the Salvadoran government.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 34,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The Cyrillic alphabet is an alphabet used for several East and South Slavic languages; (Belarusian, Bulgarian, Macedonian, Russian, Rusyn, Serbian, and Ukrainian) and many other languages of the former Soviet Union, Asia and Eastern Europe. It has also been used for other languages in the past. Not all letters in the Cyrillic alphabet are used in every language which is written with it.\n   text2: Cyrillic is an alphabet used for certain Slavic languages, such as Russian.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: JERUSALEM (AP) -- In a spiritual climax to his 22-year papacy, Pope John Paul II on Tuesday began the first official visit by a Roman Catholic pontiff to Israel, fulfilling his dream of visiting the land where Christ was born and died.\n   text2: Pope John Paul II was born in Poland.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: NASA estimated, Monday, that it will cost $104 billion to return astronauts to the moon, by 2018, in a new rocket that combines the space shuttle with the capsule of an earlier NASA era.\n   text2: The new space vehicle design uses shuttle rocket parts and an Apollo-style capsule.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 37,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The drugs that slow down or halt Alzheimer's disease work best the earlier you administer them.\n   text2: Alzheimer's disease is treated using drugs.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 38,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: COLOMBO (Reuters) - At least five people were killed and 11 wounded when a suspected Tamil Tiger suicide bomber blew herself up inside a police station in the Sri Lankan capital on Wednesday, shattering more than two years of relative peace.\n   text2: People were killed in Tamil suicide attacks.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 39,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Giuliana Sgrena was freed from captivity in Iraq today. The Italian journalist was abducted in Baghdad exactly a month ago while  she had been reporting for Il Manifesto. The Islamic Jihad Organisation had taken her hostage on the 4th February with the demand that Italy withdraw all of its troops from Iraq. On February 16, a video was released with a clearly distraught Mrs Sgrena begging for Italy to withdraw from Iraq. However despite the video, the Italian Senate voted to extend its miltary forces' stay in Iraq.\n   text2: A female journalist was kidnapped in Iraq.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Thus began the journey that led Hannam, a 29-year-old free-lance journalist, on an international quest to solve one of the greatest mysteries of Asia: What happened to Lin Piao, the Chinese Communist Party leader accused of a 1971 plot to overthrow Chairman Mao.\n   text2: Lin Piao was the Chinese Communist Party leader.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Democrat members of the Ways and Means Committee, where tax bills are written and advanced, do not have strong small business voting records.\n   text2: Democrat members had strong small business voting records.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: California voters recall Gray Davis and elect Arnold Schwarzenegger as their governor.\n   text2: California voters dumped Gov. Gray Davis and replaced him with Arnold Schwarzenegger.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 43,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: An auto analyst for Bombay's Angel Broking, Vaishali Jajoo, predicted that the Nano will add only three percent to Tata's revenues even if it can sell a quarter of a million such cars per annum. \"That doesn't make a significant difference to the top line,\" Jajoo said. \"And for the bottom line, it will take five to six years to break even.\" Environmentalists say that the car will exacerbate traffic problems already rife in India, and help increase pollution levels. Tata, however, stated that its vehicle is the least polluting car in the country.\n   text2: Angel Broking is based in Bombay.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 44,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Hepburn's family will receive the proceeds from the sale.\n   text2: Proceeds go to Hepburn's family.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Leakey believed Kenya's rich wildlife, which underpins a tourist industry worth Dollars 450m (Pounds 308m) a year, could be managed in a profitable and sustainable manner.\n   text2: African countries encourage keeping animals alive to attract tourists.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 46,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The sunset, touching distant hills with ribbons of fire across the waters of the Dead Sea, brings a sense of unreality to culminate a day's visit to the lowest point on earth, some 400 meters below sea level.\n   text2: The lowest point on earth is at the Dead Sea.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Thompson, a renegade journalist whose 'gonzo' style threw out any pretense at objectivity and established the hard-living writer as a counter-culture icon, fatally shot himself at his Colorado home on Sunday night, police said.\n   text2: Thompson's 'gonzo' journalism throws objectivity out of the window.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The biggest newspaper in Norway, Verdens Gang, prints a letter to the editor written by Joe Harrington and myself.\n   text2: Verdens Gang is a Norwegian newspaper.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Texas Data Recovery is also successful at retrieving lost data from notebooks and laptops, regardless of age, make or model.\n   text2: In the event of a disaster you could use Texas Data Recovery and you will have the capability to restore lost data.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 50,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Hurricane Katrina petroleum-supply outlook improved somewhat, yesterday, as U.S. and European governments agreed to release 2 million barrels a day, of oil and refined products, from their reserves.\n   text2: 60 million barrels of oil and gasoline will be available to the marketplace.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 51,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Deceased U.S. soldiers and their effects were evacuated to Japan and then shipped home in refrigerated containers for interment in the U.S.\n   text2: The U.S. military evacuated U.S. citizens.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 52,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: While Bush was in the air, the White House was evacuated, with many employees running away from the premises on orders from Secret Service agents.\n   text2: The U.S. military evacuated U.S. citizens.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 53,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Increased storage isn't all Microsoft will be offering its Hotmail users--they can also look forward to free anti-virus protection.\n   text2: Microsoft won't offer increased storage to its users.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The Tuesday drawing of the Italian Superenalotto game has awarded the biggest prize ever won in a betting game in Italy. The single winner of the first category prize (6 numbers guessed) will receive an amount, including the jackpot from previous un-won draws, of €72.090.405,19 (US$93 million.) The prize money will be received in full without further taxation, since taxes in prizes of that type are taken at a fixed rate by the Italian State from the money paid for the bet.\n   text2: Superenalotto awarded a prize of more than 72 million euros.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: About half were along a 20-mile stretch of Santa Monica Bay from Topanga Canyon Boulevard to the Palos Verdes Peninsula.\n   text2: The coastline of Santa Monica Bay is 50 miles long.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 56,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Asprin, an inexpensive drug helps protect survivors of heart attack and stroke from subsequent heart attacks and death, and even helps reduce the number of deaths that occur within the first hours following a heart attack.\n   text2: People experienced adverse effects while taking aspirin.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Mount Olympus towers up from the center of the earth.\n   text2: Mount Olympus is in the center of the earth.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 58,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: As spacecraft commander for Apollo XI, the first manned lunar landing mission, Armstrong was the first man to walk on the Moon. \"That's one small step for a man, one giant leap for mankind.\" With these historic words, man's dream of the ages was fulfilled.\n   text2: Neil Armstrong was the first man who landed on the Moon.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: The Qin (from which the name China is derived) established the approximate boundaries and basic administrative system that all subsequent dynasties were to follow.\n   text2: Qin Shi Huang was the first Chinese Emperor.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: A closely divided U.S. Supreme Court said on Thursday its 2002 ruling that juries and not judges must impose a death sentence applies only to future cases, a decision that may affect more than 100 death row inmates.\n   text2: The Supreme Court decided that only judges can impose the death sentence.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 61,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Known as \"heap leach\" mining, the method has become popular in the last decade because it enables microscopic bits of gold to be economically extracted from low-grade ore.\n   text2: The mining industry uses a method known as heap leaching.",
+        "answer": "entailment",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: Despite Bjork making her first live performance in two years, the crowd of 10,000 people was only half of what the hall in the Tokyo suburb of Makuhari could hold.\n   text2: 10,000 people live in Tokyo.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 63,
+        "source": "understanding/rte/validation.jsonl",
+        "question": "Given the two sentences below, choose the correct relationship between them: \n    text1: As a result of these weaknesses, computer systems and the operations that rely on the systems were highly vulnerable to tampering, disruption, and misuse from both internal and external sources.\n   text2: Non-authorized personnel illegally entered into computer networks.",
+        "answer": "not entailment",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. text 1 and text 2 are unrelated or contradict each other",
+            "B. text 1 entails Text 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    }
+]

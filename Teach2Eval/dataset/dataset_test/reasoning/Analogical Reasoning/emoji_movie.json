@@ -1,0 +1,1302 @@
+[
+    {
+        "index": 0,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 😄😢😡😰🤢",
+        "label": [
+            "A"
+        ],
+        "answer": "inside out",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. inside out",
+            "B. high noon",
+            "C. casino",
+            "D. the usual suspects",
+            "E. alice's adventures in wonderland"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🏴󠁧󠁢󠁳󠁣󠁴󠁿❤️🗡",
+        "label": [
+            "A"
+        ],
+        "answer": "braveheart",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. braveheart",
+            "B. ran",
+            "C. batman begins",
+            "D. high noon",
+            "E. for a few dollars more"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🧝‍♂️🧙‍♂️🪄👖🚐",
+        "label": [
+            "A"
+        ],
+        "answer": "onward",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. onward",
+            "B. mr. smith goes to washington",
+            "C. no country for old men",
+            "D. dr. strangelove or: how i learned to stop worrying and love the bomb",
+            "E. brokeback mountain"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 3,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👸😘🐸",
+        "label": [
+            "A"
+        ],
+        "answer": "the princess and the frog",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the princess and the frog",
+            "B. stand by me",
+            "C. monsters inc.",
+            "D. american history x",
+            "E. reservoir dogs"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 4,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👦➡️🧔",
+        "label": [
+            "A"
+        ],
+        "answer": "big",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. big",
+            "B. the 400 blows",
+            "C. das boot",
+            "D. groundhog day",
+            "E. the pianist"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 5,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🇮🇹👴🔫",
+        "label": [
+            "A"
+        ],
+        "answer": "the godfather",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the godfather",
+            "B. la haine",
+            "C. 12 angry men",
+            "D. hotel rwanda",
+            "E. the third man"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 6,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👦🧸🤠👨‍🚀",
+        "label": [
+            "A"
+        ],
+        "answer": "toy story",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. toy story",
+            "B. beauty and the beast",
+            "C. for a few dollars more",
+            "D. thelma & louise",
+            "E. throne of blood"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 7,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 😈👭👭",
+        "label": [
+            "A"
+        ],
+        "answer": "mean girls",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. mean girls",
+            "B. cinema paradiso",
+            "C. the bourne ultimatum",
+            "D. princess mononoke",
+            "E. ferris bueller's day off"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👧🐟🐠🐡",
+        "label": [
+            "A"
+        ],
+        "answer": "finding nemo",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. finding nemo",
+            "B. the wolf of wall street",
+            "C. se7en",
+            "D. the shining",
+            "E. mr. smith goes to washington"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👹🏭👧",
+        "label": [
+            "A"
+        ],
+        "answer": "monsters inc.",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. monsters inc.",
+            "B. joker",
+            "C. strangers on a train",
+            "D. dog day afternoon",
+            "E. the dark knight"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🪲🐜🕷🐞",
+        "label": [
+            "A"
+        ],
+        "answer": "a bug's life",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a bug's life",
+            "B. the tale of the princess kaguya",
+            "C. full metal jacket",
+            "D. raging bull",
+            "E. modern times"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🦍🏙✈️",
+        "label": [
+            "A"
+        ],
+        "answer": "king kong",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. king kong",
+            "B. sunset blvd.",
+            "C. reservoir dogs",
+            "D. gangs of wasseypur",
+            "E. the treasure of the sierra madre"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 12,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🚕🧔🗽",
+        "label": [
+            "A"
+        ],
+        "answer": "taxi driver",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. taxi driver",
+            "B. life is beautiful",
+            "C. raiders of the lost ark",
+            "D. jodaeiye nader az simin",
+            "E. pulp fiction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 13,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🦓🦁🦒🐧🏝",
+        "label": [
+            "A"
+        ],
+        "answer": "madagascar",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. madagascar",
+            "B. sunset blvd.",
+            "C. the little mermaid",
+            "D. psycho",
+            "E. the princess bride"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 😈👠",
+        "label": [
+            "A"
+        ],
+        "answer": "the devil wears prada",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the devil wears prada",
+            "B. whiplash",
+            "C. 8½",
+            "D. brokeback mountain",
+            "E. batman begins"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 15,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👦🏽📺💰",
+        "label": [
+            "A"
+        ],
+        "answer": "slumdog millionaire",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. slumdog millionaire",
+            "B. roman holiday",
+            "C. a clockwork orange",
+            "D. the wolf of wall street",
+            "E. toy story"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🛶🦈🏖",
+        "label": [
+            "A"
+        ],
+        "answer": "jaws",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. jaws",
+            "B. citizen kane",
+            "C. the wages of fear",
+            "D. slumdog millionaire",
+            "E. joker"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👴➡️👶",
+        "label": [
+            "A"
+        ],
+        "answer": "the curious case of benjamin button",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the curious case of benjamin button",
+            "B. the wages of fear",
+            "C. bicycle thieves",
+            "D. papillon",
+            "E. interstellar"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 18,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 💍🧝‍♀️🌋",
+        "label": [
+            "A"
+        ],
+        "answer": "the lord of the rings",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the lord of the rings",
+            "B. gone girl",
+            "C. rebecca",
+            "D. dial m for murder",
+            "E. schindler's list"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 19,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👩❤️🌊👹",
+        "label": [
+            "A"
+        ],
+        "answer": "the shape of water",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the shape of water",
+            "B. the king's speech",
+            "C. donnie darko",
+            "D. pirates of the caribbean: the curse of the black pearl",
+            "E. 3 idiots"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 20,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👧🏽👽👹🏄‍♀️🏝",
+        "label": [
+            "A"
+        ],
+        "answer": "lilo & stitch",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. lilo & stitch",
+            "B. the truman show",
+            "C. casino",
+            "D. monsters, inc.",
+            "E. the lord of the rings: the two towers"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 21,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👰‍♀️🗡👊",
+        "label": [
+            "A"
+        ],
+        "answer": "kill bill",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. kill bill",
+            "B. incendies",
+            "C. reservoir dogs",
+            "D. get out",
+            "E. metropolis"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 22,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🤥",
+        "label": [
+            "A"
+        ],
+        "answer": "pinocchio",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. pinocchio",
+            "B. heat",
+            "C. the big sleep",
+            "D. inception",
+            "E. lilo & stitch"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 23,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🤠❤️🤠",
+        "label": [
+            "A"
+        ],
+        "answer": "brokeback mountain",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. brokeback mountain",
+            "B. saving private ryan",
+            "C. it happened one night",
+            "D. oldeuboi",
+            "E. happy feet"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 24,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👨🏿👓🎺🪦🐱",
+        "label": [
+            "A"
+        ],
+        "answer": "soul",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. soul",
+            "B. inception",
+            "C. das boot",
+            "D. all about eve",
+            "E. mary poppins"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👨🧸",
+        "label": [
+            "A"
+        ],
+        "answer": "ted",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ted",
+            "B. gone with the wind",
+            "C. elite squad: the enemy within",
+            "D. chinatown",
+            "E. rebecca"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 26,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🤼‍♂️🎟🧼",
+        "label": [
+            "A"
+        ],
+        "answer": "fight club",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. fight club",
+            "B. witness for the prosecution",
+            "C. paths of glory",
+            "D. frozen",
+            "E. memories of murder"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 27,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🤕🥁👨‍🦲",
+        "label": [
+            "A"
+        ],
+        "answer": "whiplash",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. whiplash",
+            "B. high school musical",
+            "C. the thing",
+            "D. get out",
+            "E. unforgiven"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👸💇‍♀️",
+        "label": [
+            "A"
+        ],
+        "answer": "tangled",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. tangled",
+            "B. forrest gump",
+            "C. thelma & louise",
+            "D. gandhi",
+            "E. interstellar"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👦🏠🎄",
+        "label": [
+            "A"
+        ],
+        "answer": "home alone",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. home alone",
+            "B. once upon a time in the west",
+            "C. downfall",
+            "D. big",
+            "E. a bug's life"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🤖🪳🌱🌎",
+        "label": [
+            "A"
+        ],
+        "answer": "wall-e",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. wall-e",
+            "B. rush",
+            "C. léon: the professional",
+            "D. big",
+            "E. l.a. confidential"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🔬🦖🦕🎢",
+        "label": [
+            "A"
+        ],
+        "answer": "jurassic park",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. jurassic park",
+            "B. yojimbo",
+            "C. rush",
+            "D. moana",
+            "E. the deer hunter"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🐰🦊🚔🏙",
+        "label": [
+            "A"
+        ],
+        "answer": "zootopia",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. zootopia",
+            "B. strangers on a train",
+            "C. the sound of music",
+            "D. incendies",
+            "E. the apartment"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🗡👧🐲",
+        "label": [
+            "A"
+        ],
+        "answer": "raya and the last dragon",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. raya and the last dragon",
+            "B. la strada",
+            "C. coco",
+            "D. the apartment",
+            "E. oldeuboi"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👸🍎💎",
+        "label": [
+            "A"
+        ],
+        "answer": "snow white and the seven dwarfs",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. snow white and the seven dwarfs",
+            "B. incendies",
+            "C. you've got mail",
+            "D. the third man",
+            "E. gran torino"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🤰🏃‍♂️👨‍🎤",
+        "label": [
+            "A"
+        ],
+        "answer": "juno",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. juno",
+            "B. apocalypse now",
+            "C. x-men: days of future past",
+            "D. cinema paradiso",
+            "E. raging bull"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 36,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 😴🏢🏢⏳",
+        "label": [
+            "A"
+        ],
+        "answer": "inception",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. inception",
+            "B. cast away",
+            "C. the help",
+            "D. the sting",
+            "E. princess mononoke"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 37,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👧🔄👩",
+        "label": [
+            "A"
+        ],
+        "answer": "freaky friday",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. freaky friday",
+            "B. snow white and the seven dwarfs",
+            "C. antz",
+            "D. oldeuboi",
+            "E. the princess and the frog"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👦🚗🕶☀️",
+        "label": [
+            "A"
+        ],
+        "answer": "ferris bueller's day off",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ferris bueller's day off",
+            "B. the great dictator",
+            "C. 2001: a space odyssey",
+            "D. home alone",
+            "E. the princess and the frog"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🐀👨‍🍳👩‍🍳",
+        "label": [
+            "A"
+        ],
+        "answer": "ratatouille",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ratatouille",
+            "B. e.t. the extra-terrestrial",
+            "C. zootopia",
+            "D. a clockwork orange",
+            "E. mad max: fury road"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 40,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🎋👸",
+        "label": [
+            "A"
+        ],
+        "answer": "the tale of the princess kaguya",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the tale of the princess kaguya",
+            "B. donnie darko",
+            "C. v for vendetta",
+            "D. the silence of the lambs",
+            "E. for a few dollars more"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 41,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👵🌂👒👫",
+        "label": [
+            "A"
+        ],
+        "answer": "mary poppins",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. mary poppins",
+            "B. the green mile",
+            "C. cinderella",
+            "D. la strada",
+            "E. the incredibles"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 42,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🤡🔫",
+        "label": [
+            "A"
+        ],
+        "answer": "joker",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. joker",
+            "B. saving private ryan",
+            "C. aladdin",
+            "D. cast away",
+            "E. cinderella"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🔴🔵💊",
+        "label": [
+            "A"
+        ],
+        "answer": "the matrix",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the matrix",
+            "B. the great escape",
+            "C. raging bull",
+            "D. whiplash",
+            "E. get out"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👳‍♂️🧞‍♂️",
+        "label": [
+            "A"
+        ],
+        "answer": "aladdin",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. aladdin",
+            "B. ted",
+            "C. cast away",
+            "D. inglourious basterds",
+            "E. lolita"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 45,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🕷🕸🐷",
+        "label": [
+            "A"
+        ],
+        "answer": "charlotte's web",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. charlotte's web",
+            "B. guardians of the galaxy",
+            "C. the big lebowski",
+            "D. 12 years a slave",
+            "E. big"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 46,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👸💤😚",
+        "label": [
+            "A"
+        ],
+        "answer": "sleeping beauty",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. sleeping beauty",
+            "B. sin city",
+            "C. django unchained",
+            "D. schindler's list",
+            "E. gone girl"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 47,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👧🏽🏝⛵️🌋",
+        "label": [
+            "A"
+        ],
+        "answer": "moana",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. moana",
+            "B. wall-e",
+            "C. there will be blood",
+            "D. shutter island",
+            "E. throne of blood"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 🌙👨🏿❤️👨🏿",
+        "label": [
+            "A"
+        ],
+        "answer": "moonlight",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. moonlight",
+            "B. ikiru",
+            "C. twelve monkeys",
+            "D. monsters, inc.",
+            "E. up"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "BB:emoji_movie/Analogical Reasoning",
+        "question": "What movie does this emoji describe? 👩⛰🎶🧒👦",
+        "label": [
+            "A"
+        ],
+        "answer": "the sound of music",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the sound of music",
+            "B. interstellar",
+            "C. gandhi",
+            "D. roman holiday",
+            "E. city of god"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    }
+]

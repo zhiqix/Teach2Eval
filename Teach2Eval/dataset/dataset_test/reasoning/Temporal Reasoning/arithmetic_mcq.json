@@ -1,0 +1,2302 @@
+[
+    {
+        "index": 0,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If a man starts doing homework at 5 AM and finishes at 8 PM, how many hours did he spend on homework?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 17 hours",
+            "B. 14 hours",
+            "C. 15 hours",
+            "D. 13 hours"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 26 weeks and 5 days to the date 02-27-1977, what will be the new date?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8/30/1976",
+            "B. 8/27/1976",
+            "C. 8/31/1976",
+            "D. 8/24/1976"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 2,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "In which week of year 1217 does the date 10-12-1217 occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Week 41",
+            "B. Week 35",
+            "C. Week 4",
+            "D. Week 1"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What will be the time 44 years and 3 months after May 1784?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. November 1831",
+            "B. August 1828",
+            "C. September 1831",
+            "D. October 1830"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 127 days to the date 05-22-1602, what will be the new date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10-01-1602",
+            "B. 10-24-1602",
+            "C. 09-26-1602",
+            "D. 10-19-1602"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 5,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Convert 402 minutes into hours.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6.7",
+            "B. 3.3",
+            "C. 12.7",
+            "D. 3.7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 6,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which year was 7 years before 1809?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1848",
+            "B. 1805",
+            "C. 1830",
+            "D. 1802"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 06:23 PM - 02:39?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2. 36 PM",
+            "B. 2. 27 PM",
+            "C. 3. 44 PM",
+            "D. 4. 55 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 8,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 24 weeks and 1 day to the date 11-08-1834, what will be the new date?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 05-23-1834",
+            "B. 05-25-1834",
+            "C. 05-29-1834",
+            "D. 05-27-1834"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 9,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What will be the time 15 years and 8 months after March 1695?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. February 1712",
+            "B. November 1710",
+            "C. December 1711",
+            "D. February 1714"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 10,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 3 months and 28 days to the date 12-15-1389, what will be the new date?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 05-10-1390",
+            "B. 04-22-1390",
+            "C. 04-16-1390",
+            "D. 04-12-1390"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 11,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "In which week of year 1407 does the date 09-29-1407 occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Week 40",
+            "B. Week 18",
+            "C. Week 29",
+            "D. Week 14"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 12,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 1 month and 14 days to the date 01-28-1320, what will be the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 03-20-1320",
+            "B. 03-13-1320",
+            "C. 04-10-1320",
+            "D. 03-24-1320"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 13,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which year comes 17 years after 1546?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1556",
+            "B. 1539",
+            "C. 1563",
+            "D. 1587"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 6 months and 27 days to the date 08-23-1573, what will be the new date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 02-07-1573",
+            "B. 02-05-1573",
+            "C. 01-27-1573",
+            "D. 02-22-1573"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 15,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "In which week of year 1915 does the date 10-31-1915 occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Week 16",
+            "B. Week 15",
+            "C. Week 43",
+            "D. Week 41"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 16,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Add 58 minutes 21 seconds and 56 minutes 55 seconds.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 120 minutes 21 seconds",
+            "B. 115 minutes 16 seconds",
+            "C. 113 minutes 14 seconds",
+            "D. 111 minutes 12 seconds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 11:15 PM + 08:13?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5. 18 AM",
+            "B. 7. 28 AM",
+            "C. 6. 22 AM",
+            "D. 6. 16 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 18,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 44 weeks and 4 days to the date 09-29-1371, what will be the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11-25-1370",
+            "B. 11-21-1370",
+            "C. 11-23-1370",
+            "D. 11-27-1370"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 19,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 09:54 PM + 04:48?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1. 31 AM",
+            "B. 2. 42 AM",
+            "C. 12. 28 AM",
+            "D. 3. 59 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 20,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "A transportation operates with a constant speed of 261 km/h. How long will it take to travel a distance of 1926 kilometers in minutes?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 458",
+            "B. 473",
+            "C. 443",
+            "D. 413"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "In which week of year 1288 does the date 02-04-1288 occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Week 47",
+            "B. Week 38",
+            "C. Week 6",
+            "D. Week 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 22,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 22 weeks and 1 day to the date 11-05-1926, what will be the new date?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6/3/1926",
+            "B. 6/10/1926",
+            "C. 6/9/1926",
+            "D. 6/4/1926"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What will be the time 41 year and 7 months after July 1184?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. February 1226",
+            "B. April 1227",
+            "C. March 1229",
+            "D. May 1229"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 52 weeks and 6 days to the date 01-07-1082, what will be the new date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 01-05-1081",
+            "B. 01-03-1081",
+            "C. 01-02-1081",
+            "D. 01-07-1081"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 25,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 19 weeks and 4 days to the date 12-15-1038, what will be the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 08-06-1038",
+            "B. 07-31-1038",
+            "C. 08-04-1038",
+            "D. 08-03-1038"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 26,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 13 weeks and 3 days to the date 02-01-1070, what will be the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 05-12-1070",
+            "B. 05-06-1070",
+            "C. 05-08-1070",
+            "D. 05-11-1070"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 27,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If a girl was 7 years 9 months old when she joined school and now she is 8 years 0 month old, for how long has she been in school?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0 years 3 months",
+            "B. 0 years 2 months",
+            "C. 0 years 4 months",
+            "D. 1 year 5 months"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which year comes 1 year after 1994?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2043",
+            "B. 1964",
+            "C. 2006",
+            "D. 1995"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "In which week of year 1550 does the date 12-29-1550 occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Week 14",
+            "B. Week 26",
+            "C. Week 52",
+            "D. Week 29"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 30,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 3 months and 25 days to the date 09-28-1060, what will be the new date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 06-29-1060",
+            "B. 06-18-1060",
+            "C. 06-03-1060",
+            "D. 06-14-1060"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If it's 5 PM on December 24, 1027 in US/Pacific, what's the date and time in US/Eastern?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9 PM on December 24, 1027",
+            "B. 7 PM on December 24, 1027",
+            "C. 8 PM on December 24, 1027",
+            "D. 1 AM on December 25, 1027"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 32,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 07:01 AM - 02:05?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3. 52 AM",
+            "B. 2. 51 AM",
+            "C. 7. 06 AM",
+            "D. 4. 56 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 33,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Add 53 minutes 25 seconds and 22 minutes 45 seconds.",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 79 minutes 13 seconds",
+            "B. 67 minutes 1 second",
+            "C. 75 minutes 9 seconds",
+            "D. 76 minutes 10 seconds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What will be the time 4 years and 1 month after August 1208?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. December 1213",
+            "B. November 1214",
+            "C. September 1212",
+            "D. October 1214"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If a woman is advised to take medicine every 46 minutes, how many times will she take the medicine in a day?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 31",
+            "B. 33",
+            "C. 29",
+            "D. 32"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If a boy walks at a speed of 9 km/hr and after every km, he takes a rest for 4 minutes, how many minutes will it take he to cover 4 km?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 38",
+            "B. 43",
+            "C. 36",
+            "D. 45"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 11 months and 15 days to the date 10-25-1324, what will be the new date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10-19-1325",
+            "B. 10-21-1325",
+            "C. 10-10-1325",
+            "D. 11-03-1325"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 38,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 08:30 AM - 08:10?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10. 06 PM",
+            "B. 12. 20 AM",
+            "C. 1. 36 AM",
+            "D. 1. 29 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 39,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 26 weeks and 6 days to the date 02-18-1127, what will be the new date?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 08-14-1126",
+            "B. 08-21-1126",
+            "C. 08-20-1126",
+            "D. 08-15-1126"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 1 weeks and 2 days to the date 05-18-1620, what will be the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 05-11-1620",
+            "B. 05-09-1620",
+            "C. 05-13-1620",
+            "D. 05-16-1620"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 11:38 - 12:38?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1. 06",
+            "B. 2. 05",
+            "C. 2. 09",
+            "D. 23. 00"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which year comes 1 year after 1966?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2001",
+            "B. 1996",
+            "C. 1959",
+            "D. 1967"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What will be the time 39 years and 10 months after December 1403?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. January 1447",
+            "B. December 1444",
+            "C. October 1443",
+            "D. January 1446"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 44,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 6 months and 2 days to the date 08-06-1617, what will be the new date?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 02-08-1617",
+            "B. 02-16-1617",
+            "C. 02-10-1617",
+            "D. 02-04-1617"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 45,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 21:08 - 20:15?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0. 53",
+            "B. 3. 08",
+            "C. 2. 56",
+            "D. 3. 04"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 06:38 - 03:16?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3. 22",
+            "B. 2. 14",
+            "C. 2. 21",
+            "D. 5. 34"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If a man walks at a speed of 5 km/hr and after every km, he takes a rest for 5 minutes, how many minutes will it take he to cover 10 km?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 158",
+            "B. 160",
+            "C. 165",
+            "D. 169"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If a flight takes off at 5 AM and the duration of the flight is 16 hours, at what time will it land?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9. 00 PM",
+            "B. 10. 00 PM",
+            "C. 11. 00 PM",
+            "D. 8. 00 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 09:05 AM + 02:39?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9. 39 AM",
+            "B. 11. 44 AM",
+            "C. 1. 48 PM",
+            "D. 9. 31 AM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 01:46 - 07:24?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 21. 37",
+            "B. 18. 22",
+            "C. 19. 33",
+            "D. 21. 38"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 51,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which year comes 2 years after 1126?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1128",
+            "B. 1089",
+            "C. 1099",
+            "D. 1133"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Convert 49 minutes into hours.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10.81666667",
+            "B. 0.816666667",
+            "C. 3.816666667",
+            "D. 3.183333333"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 11:33 AM + 07:43?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9. 23 PM",
+            "B. 5. 04 PM",
+            "C. 7. 16 PM",
+            "D. 8. 30 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 20:56 + 17:56?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 13. 51",
+            "B. 17. 53",
+            "C. 18. 11",
+            "D. 14. 52"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 55,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which year comes 3 years after 1453?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1485",
+            "B. 1409",
+            "C. 1456",
+            "D. 1410"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 42 weeks and 4 days to the date 06-19-1370, what will be the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 08-26-1369",
+            "B. 08-25-1369",
+            "C. 08-30-1369",
+            "D. 08-27-1369"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which year was 5 years before 1567?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1568",
+            "B. 1528",
+            "C. 1562",
+            "D. 1574"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which year was 15 years before 1062?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1066",
+            "B. 1086",
+            "C. 1047",
+            "D. 1025"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What will be the time 4 years and 4 months after September 1743?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. April 1749",
+            "B. April 1751",
+            "C. April 1750",
+            "D. January 1748"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 60,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 292 days to the date 08-03-1596, what will be the new date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10-23-1595",
+            "B. 10-27-1595",
+            "C. 10-16-1595",
+            "D. 11-05-1595"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 07:48 PM - 07:08?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11. 36 AM",
+            "B. 1. 55 PM",
+            "C. 11. 28 AM",
+            "D. 12. 40 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What will be the time 43 years and 6 months after July 1126?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. January 1170",
+            "B. April 1173",
+            "C. February 1173",
+            "D. April 1171"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 63,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 6 months and 13 days to the date 07-10-1520, what will be the new date?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12-28-1519",
+            "B. 01-02-1520",
+            "C. 01-28-1520",
+            "D. 01-27-1520"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 64,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "In which week of year 1507 does the date 06-02-1507 occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Week 22",
+            "B. Week 39",
+            "C. Week 43",
+            "D. Week 49"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 65,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If a man is advised to take medicine every 122 minutes, how many times will he take the medicine in a day?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 11",
+            "C. 9",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 66,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 43 weeks and 3 days to the date 05-13-1165, what will be the new date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 03-15-1166",
+            "B. 03-20-1166",
+            "C. 03-13-1166",
+            "D. 03-14-1166"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 67,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "In which week of year 1648 does the date 02-01-1648 occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Week 8",
+            "B. Week 5",
+            "C. Week 13",
+            "D. Week 16"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 68,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which year comes 12 years after 2015?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2076",
+            "B. 2074",
+            "C. 2029",
+            "D. 2027"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 69,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 302 days to the date 05-25-1476, what will be the new date?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 08-07-1475",
+            "B. 07-31-1475",
+            "C. 08-10-1475",
+            "D. 07-28-1475"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 3 months and 28 days to the date 07-12-1880, what will be the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12-01-1880",
+            "B. 11-09-1880",
+            "C. 11-26-1880",
+            "D. 11-28-1880"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 71,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If a boy was 3 years 8 months old when he joined school and now he is 7 years 1 month old, for how long has he been in school?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3 years 5 months",
+            "B. 2 years 4 months",
+            "C. 4 years 6 months",
+            "D. 3 years 7 months"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 72,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 8 months and 17 days to the date 01-17-1241, what will be the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 05-17-1240",
+            "B. 04-30-1240",
+            "C. 05-05-1240",
+            "D. 05-15-1240"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 73,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 2 months and 5 days to the date 06-13-1749, what will be the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 09-02-1749",
+            "B. 08-18-1749",
+            "C. 08-20-1749",
+            "D. 09-14-1749"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 74,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If it's 2 AM on March 22, 1786 in Europe/Paris, what's the date and time in UTC?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4 AM on March 22, 1786",
+            "B. 1 PM on March 22, 1786",
+            "C. 1 AM on March 22, 1786",
+            "D. 3 AM on March 22, 1786"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 75,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "In which week of year 1555 does the date 04-15-1555 occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Week 43",
+            "B. Week 15",
+            "C. Week 32",
+            "D. Week 28"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 76,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 3 weeks and 3 days to the date 07-11-1369, what will be the new date?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 06-22-1369",
+            "B. 06-17-1369",
+            "C. 06-19-1369",
+            "D. 06-20-1369"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 77,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "A transportation operates with a constant speed of 116 km/h. How long will it take to travel a distance of 1485 kilometers in minutes?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 768",
+            "B. 753",
+            "C. 738",
+            "D. 783"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 78,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 18:31 + 12:16?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3. 41",
+            "B. 5. 41",
+            "C. 6. 47",
+            "D. 5. 40"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 79,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which year was 11 years before 1481?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1470",
+            "B. 1448",
+            "C. 1519",
+            "D. 1476"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 80,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 8 months and 18 days to the date 04-10-1705, what will be the new date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 07-25-1704",
+            "B. 08-12-1704",
+            "C. 07-23-1704",
+            "D. 08-23-1704"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 81,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you subtract 30 days to the date 09-30-1274, what will be the new date?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 09-12-1274",
+            "B. 09-01-1274",
+            "C. 08-31-1274",
+            "D. 09-26-1274"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 82,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "In which week of year 1411 does the date 02-25-1411 occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Week 13",
+            "B. Week 52",
+            "C. Week 9",
+            "D. Week 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 83,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 39 weeks and 3 days to the date 05-29-1903, what will be the new date?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3/3/1904",
+            "B. 3/4/1904",
+            "C. 3/5/1904",
+            "D. 2/29/1904"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 84,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 09:34 PM - 05:41?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3. 53 PM",
+            "B. 5. 10 PM",
+            "C. 1. 45 PM",
+            "D. 1. 42 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 85,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 6 months and 14 days to the date 03-27-1512, what will be the new date?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11-04-1512",
+            "B. 10-28-1512",
+            "C. 10-29-1512",
+            "D. 10-11-1512"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 86,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What will be the time 8 years and 2 months after February 1034?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. July 1043",
+            "B. May 1044",
+            "C. April 1042",
+            "D. July 1044"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 87,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "What is 10:25 PM - 02:54?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7. 31 PM",
+            "B. 6. 16 PM",
+            "C. 6. 12 PM",
+            "D. 5. 29 PM"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 88,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If a girl walks at a speed of 15 km/hr and after every km, she takes a rest for 5 minutes, how many minutes will it take she to cover 10 km?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 93",
+            "B. 77",
+            "C. 82",
+            "D. 85"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 89,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "Which month was 3 months before October?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. January",
+            "B. October",
+            "C. April",
+            "D. July"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 90,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 5 months and 18 days to the date 10-16-1772, what will be the new date?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 04-24-1773",
+            "B. 04-07-1773",
+            "C. 04-18-1773",
+            "D. 04-03-1773"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 91,
+        "source": "TRAM:arithmetic/Temporal Reasoning",
+        "question": "If you add 12 months and 1 day to the date 11-26-1728, what will be the new date?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12-02-1729",
+            "B. 11-28-1729",
+            "C. 12-26-1729",
+            "D. 11-27-1729"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    }
+]

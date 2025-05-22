@@ -1,0 +1,1313 @@
+[
+    {
+        "index": 0,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: To start with, no devotee of FC Pyunik is a critic of AZ Alkmaar or a devotee of Fehérvár FC. Now, whoever is a critic of AZ Alkmaar is not an admirer of FC Augsburg. Moreover, whoever is a devotee of Fehérvár FC is not an admirer of FC Augsburg. All this entails that no devotee of FC Pyunik is an admirer of FC Augsburg.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 1,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First, being an ancestor of Christy is necessary for being a daughter of Denise. Second, not being a cousin of Maryann is sufficient for not being an ancestor of Christy. We may conclude that whoever is not a daughter of Denise is a cousin of Maryann.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 2,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: To begin with, no admirer of Racing Club de Strasbourg Alsace is a devotee of CS Marítimo or a fan of SK Rapid Wien. Moreover, Byron is a devotee of CS Marítimo. We may conclude: Byron is not an admirer of Racing Club de Strasbourg Alsace.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: To start with, there is somebody who is a follower of FC Spartak Trnava and a critic of AS Trenčín. Now, whoever is a friend of RCD Espanyol and an ex-supporter of FK Mladá Boleslav is not a critic of AS Trenčín. From this follows: There is somebody who is a follower of FC Spartak Trnava and not both a friend of RCD Espanyol and an ex-supporter of FK Mladá Boleslav.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First of all, being a critic of GNK Dinamo Zagreb or not being a devotee of FC Mariupol is sufficient for being an ex-fan of Villarreal CF. Next, Gerald is a devotee of FC Mariupol. All this entails that it is not the case that Gerald is an ex-fan of Villarreal CF.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First premise: Being a great-grandmother of Elizabeth is sufficient for not being a sister of Gillian. Second premise: Every great-grandmother of Elizabeth is a sister of Gillian or an ancestor of Helen or a great-grandmother of Heather. Third premise: Being a great-grandmother of Elizabeth is sufficient for not being a great-grandmother of Heather. It follows that everyone who is a great-grandmother of Elizabeth is an ancestor of Helen, too.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: To start with, every critic of FC Ufa is a supporter of İstanbul Başakşehir. Now, every critic of FC Ufa is a supporter of İstanbul Başakşehir or a critic of PFC CSKA Moskva or an expert of Randers FC. Therefore, every critic of FC Ufa is a critic of PFC CSKA Moskva or an expert of Randers FC.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First premise: Whoever is an occasional purchaser of Suave shampoo is not a regular user of Ivory soap. We may conclude that being a regular user of Ivory soap is sufficient for not being an occasional purchaser of Suave shampoo.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: To begin with, whatever is an ingredient of Vertica Rush and an ingredient of Liqua Versa Gel is not an ingredient of Eyeshadow Quad. It follows that every ingredient of Eyeshadow Quad is not an ingredient of Liqua Versa Gel or not an ingredient of Vertica Rush.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: First, every fan of Heracles Almelo is neither a supporter of Aberdeen FC nor an admirer of FC Slovan Liberec. Second, every supporter of AIK is either a supporter of Aberdeen FC or an admirer of FC Slovan Liberec, or both. Therefore, being a supporter of AIK is sufficient for not being a fan of Heracles Almelo.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: Being a half-brother of Guadalupe is necessary for being a half-brother of Ronald. Being an uncle of Tom is sufficient for being a half-brother of Guadalupe. To be a half-brother of Ronald or an uncle of Tom is necessary for being an ancestor of Francesco. So, necessarily, every ancestor of Francesco is a half-brother of Guadalupe.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to grasp who is consuming which products. The following argument pertains to this question: First of all, every occasional purchaser of Matrix shampoo is an occasional purchaser of Organix Hair shampoo. Next, Linda is an occasional purchaser of Organix Hair shampoo. It follows that Linda is an occasional purchaser of Matrix shampoo.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 12,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First premise: Being a workmate of Monte is necessary for not being an ancestor of Patrick. Second premise: Not being an ancestor of Nathan is sufficient for not being a workmate of Monte. It follows that being an ancestor of Nathan is necessary for not being an ancestor of Patrick.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 13,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: To begin with, it is false that Retinyl acetate is an ingredient of Spider Hero Tattoo. Moreover, every ingredient of Peach Whip is an ingredient of Spider Hero Tattoo. It follows that it is false that Retinyl acetate is an ingredient of Peach Whip.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: To start with, somebody is an ex-supporter of FC Basel 1893 and a devotee of AS Trenčín. Now, no ex-supporter of Paris Saint-Germain is a devotee of AS Trenčín. In consequence, not every ex-supporter of FC Basel 1893 is an ex-supporter of Paris Saint-Germain.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: First premise: Being an ingredient of The Wuss Bubble Bar or not being an ingredient of 6 Color Eyeshadow is sufficient for being an ingredient of PERFECTION PRIMER. Second premise: Phenacemide is an ingredient of 6 Color Eyeshadow. It follows that Phenacemide is not an ingredient of PERFECTION PRIMER.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First premise: Being a nephew of Henry is necessary for being a brother of Edward. Second premise: Some ancestor of Carlos is a workmate of Efrain and a nephew of Henry. Third premise: Being a brother of Edward is sufficient for being a workmate of Efrain. Hence, somebody is an ancestor of Carlos and a brother of Edward.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 17,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to grasp who is consuming which products. The following argument pertains to this question: First of all, being a frequent consumer of KMS shampoo is necessary for being a regular consumer of Yardley London soap. Next, whoever is a regular user of Joico shampoo is not a frequent consumer of KMS shampoo. All this entails that no regular consumer of Yardley London soap is a regular user of Joico shampoo.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: To begin with, there is no expert of Manchester United FC who is a follower of FC Barcelona yet not a critic of Vitesse. Moreover, whoever is an expert of Manchester United FC is not a critic of Vitesse. So, necessarily, no expert of Manchester United FC is a follower of FC Barcelona.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First premise: Everybody who is neither an ancestor of Andy nor a nephew of Donald is however a cousin of Ralph. Second premise: Dale is neither a nephew of Donald nor an ancestor of Andy. We may conclude: Dale is a cousin of Ralph.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: To start with, whoever is a loyal buyer of Bentley Organic soap is not a regular user of Paul Mitchell soap. Now, whoever is an owner of a Lush soap and an infrequent user of Proactiv soap is not a loyal buyer of Bentley Organic soap. We may conclude: Every owner of a Lush soap who is an infrequent user of Proactiv soap is also a regular user of Paul Mitchell soap.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 21,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: To start with, Garry is an opponent to Sevilla FC. Now, every admirer of FC Pyunik is neither an opponent to Sevilla FC nor a supporter of RC Celta de Vigo. In consequence, Garry is not an admirer of FC Pyunik.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First, every close friend of Krista is not a niece of Gwendolyn or not an ancestor of Terrie. Second, everyone who is a cousin of Laurie is a close friend of Krista, too. We may conclude that no cousin of Laurie is both an ancestor of Terrie and a niece of Gwendolyn.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First, every son of Hugh is not a great-grandfather of Vernon and not a nephew of Forrest. Therefore, no nephew of Forrest and no great-grandfather of Vernon is a son of Hugh.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First, being an ex-supporter of FC Sion is necessary for being a devotee of FK Kukësi. Second, it is not the case that Kylie is an ex-supporter of FC Sion. So, necessarily, it is false that Kylie is a devotee of FK Kukësi.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First of all, nobody is neither a classmate of Marisa nor a schoolmate of Karen. Next, not every sister of Ruth is a schoolmate of Karen. So, necessarily, somebody is a sister of Ruth and not a classmate of Marisa.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First premise: There is somebody who is a devotee of FC Krasnodar and not a backer of SCR Altach. Second premise: Every opponent to FC Augsburg is a backer of SCR Altach. From this follows: Some devotee of FC Krasnodar is not an opponent to FC Augsburg.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: To start with, being a half-brother of Jordon is sufficient for not being an ancestor of Ignacio. Now, Sydney is not a half-brother of Jordon. Therefore, it is false that Sydney is an ancestor of Ignacio.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 28,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: First premise: Every opponent to AS Roma is a backer of Hertha BSC Berlin or a fan of AC Sparta Praha or not a fan of FCSB. Second premise: No fan of FCSB is an expert of FK Sūduva. Third premise: Every fan of AC Sparta Praha is an expert of FK Sūduva. Fourth premise: Being an expert of FK Sūduva is necessary for being a backer of Hertha BSC Berlin. Hence, being an expert of FK Sūduva is necessary for being an opponent to AS Roma.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 29,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: To begin with, whatever is both an ingredient of Immense Mascara and an ingredient of I Adore You is an ingredient of Crawford's Wine or an ingredient of Bioglitz Color 9N.moreover, being an ingredient of lip2cheek is necessary for being an ingredient of Bioglitz Color 9N. Finally, everything that is an ingredient of Crawford's Wine is an ingredient of lip2cheek, too. Therefore, whatever is an ingredient of Immense Mascara and an ingredient of I Adore You is also an ingredient of lip2cheek.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: First premise: Being an expert of Aberdeen FC is sufficient for not being a follower of Club Atlético de Madrid. Second premise: Every expert of Aberdeen FC is not a fan of AZ Alkmaar or not a follower of Club Atlético de Madrid. Therefore, whoever is an expert of Aberdeen FC is not a fan of AZ Alkmaar.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 31,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First, not being a niece of Ashley is sufficient for being a schoolmate of Latisha and a close friend of Jaime. Second, Bernice is a schoolmate of Latisha or a close friend of Jaime. In consequence, it is false that Bernice is a niece of Ashley.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 32,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First of all, whoever is a schoolmate of Sondra is not a stepsister of Pricilla. In consequence, whoever is not a stepsister of Pricilla is a schoolmate of Sondra.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 33,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First, every fan of FC Lugano is neither a devotee of PFC CSKA Moskva nor an ex-supporter of SV Zulte Waregem. We may conclude: Whoever is none of this: a devotee of PFC CSKA Moskva or ex-supporter of SV Zulte Waregem, is a fan of FC Lugano.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 34,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First premise: Julie is a member of SL Benfica or a follower of FC Ufa. Second premise: Everyone who is not an ex-fan of FC Astana is however a member of SL Benfica and a follower of FC Ufa. We may conclude that Julie is not an ex-fan of FC Astana.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 35,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: To begin with, every ingredient of Brightening Veil is an ingredient of Clear mascara or an ingredient of Lip Gloss SPF 15. Moreover, no ingredient of Reel Him In is an ingredient of Lip Gloss SPF 15 or an ingredient of Clear mascara. Hence, whatever is an ingredient of Brightening Veil is not an ingredient of Reel Him In.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to grasp who is consuming which products. The following argument pertains to this question: First, every frequent consumer of Pears soap who is an infrequent user of Mysore soap is not a regular consumer of Purpose soap. Second, being a regular consumer of Purpose soap is necessary for not being a loyal buyer of Colgate-Palmolive soap. Therefore, every infrequent user of Mysore soap who is a frequent consumer of Pears soap is also a loyal buyer of Colgate-Palmolive soap.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First of all, everyone who is a close friend of Glenna is a close friend of Tamara, too. Next, whoever is neither a half-sister of Deborah nor a workmate of Nila is a close friend of Glenna. Hence, whoever is none of this: a half-sister of Deborah or workmate of Nila, is a close friend of Tamara.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Siri a stepsister of Mary? Is Susan related to Kate? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First of all, whoever is not a classmate of Shanika is a daughter of Candace. Therefore, being a classmate of Shanika is necessary for not being a daughter of Candace.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: To begin with, every ex-fan of FC Bayern München is a follower of Rangers FC. Moreover, being a follower of Rangers FC is necessary for being a friend of Sporting Clube de Portugal. Finally, whoever is neither a member of FC Mariupol nor an expert of Stade Rennais FC is an ex-fan of FC Bayern München or a friend of Sporting Clube de Portugal.so, necessarily, not being a follower of Rangers FC is sufficient for being a member of FC Mariupol or not being an expert of Stade Rennais FC.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 40,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First premise: Not being a close friend of Williams is sufficient for not being a nephew of Rolando. All this entails that every nephew of Rolando is a close friend of Williams.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 41,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: Everything that is both an ingredient of HONEY LIPS and an ingredient of Renewal Cream is an ingredient of Take A Bow or an ingredient of LashGrip Clear. Every ingredient of Take A Bow is not an ingredient of Renewal Cream and not an ingredient of HONEY LIPS. From this follows: Everything that is not both an ingredient of HONEY LIPS and an ingredient of Renewal Cream is an ingredient of LashGrip Clear.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 42,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First of all, every owner of a Finesse shampoo is either a regular consumer of TIGI shampoo or a loyal buyer of Paul Mitchell soap, or both. Next, every rare consumer of Alterna Haircare shampoo is not a regular consumer of TIGI shampoo or not a loyal buyer of Paul Mitchell soap. We may conclude: Whoever is an owner of a Finesse shampoo is not a rare consumer of Alterna Haircare shampoo.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 43,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Siri a stepsister of Mary? Is Susan related to Kate? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: To start with, being a close friend of Catherine is necessary for not being a classmate of Leslie. Now, being a granddaughter of Courtney is necessary for not being a classmate of Leslie. Moreover, whoever is not a classmate of Mary is however a close friend of Catherine or a granddaughter of Courtney. In consequence, whoever is not a classmate of Leslie is a classmate of Mary.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 44,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: Every expert of AS Saint-Étienne is an admirer of FC Krasnodar. Every ex-fan of FC Sion is not an expert of AS Saint-Étienne or not an ex-fan of Osmanlıspor. Being an admirer of FC Krasnodar is necessary for being an ex-fan of Osmanlıspor. We may conclude: Being an ex-fan of FC Sion is sufficient for being an admirer of FC Krasnodar.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 45,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a cousin of Robert? Is Joe related to Bob? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: First of all, every great-grandfather of Chad is an ancestor of Douglas or a cousin of Henry. Next, every schoolmate of Trevor is neither a cousin of Henry nor an ancestor of Douglas. Hence, no great-grandfather of Chad is a schoolmate of Trevor.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 46,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Fred a fan of Liverpool? Are supporters of Real Madrid devotees of PSG? In European football, it is sometimes difficult to keep track of the mutual admiration and dislike. The following argument seeks to clarify some such relations: To begin with, every backer of Athletic Club is an ex-supporter of KKS Lech Poznań. Moreover, whoever is neither a devotee of Everton FC nor an ex-fan of KV Oostende is a backer of Athletic Club or an expert of Leicester City FC.finally, every expert of Leicester City FC is an ex-supporter of KKS Lech Poznań. We may conclude that everyone who is not an ex-supporter of KKS Lech Poznań is a devotee of Everton FC or not an ex-fan of KV Oostende.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 47,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: First premise: Being an ingredient of Totally Concealed is sufficient for not being an ingredient of Venus di Violet. All this entails that whatever is an ingredient of Venus di Violet is not an ingredient of Totally Concealed.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 48,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: First of all, Donald is an infrequent user of CHI shampoo. Next, every infrequent user of CHI shampoo and every loyal buyer of Lifebuoy soap is an infrequent user of Natural Bar soap. It follows that Donald is an infrequent user of Natural Bar soap.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 49,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: First premise: There is something that is an ingredient of Tiki Tiki Langa and an ingredient of Liquid Lip Color. Second premise: Being an ingredient of Pale Almond Powder is necessary for not being an ingredient of Liquid Lip Color. Therefore, some ingredient of Pale Almond Powder is not an ingredient of Tiki Tiki Langa.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 50,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: To begin with, everyone who is neither a cousin of Valerie nor a classmate of Mitzi is a close friend of Kathryn or a workmate of Anita. Moreover, every close friend of Kathryn is a classmate of Mitzi or a cousin of Valerie. It follows that whoever is none of this: a cousin of Valerie or classmate of Mitzi, is a workmate of Anita.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: First, every ingredient of LIP SYNC is not an ingredient of UV SHIELD SPF40 and not an ingredient of 070 FRUITY LIPSTICK. Therefore, whatever is none of this: an ingredient of 070 FRUITY LIPSTICK or ingredient of UV SHIELD SPF40, is an ingredient of LIP SYNC.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 52,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"It is not always easy to see who is related to whom -- and in which ways. The following argument pertains to this question: First of all, every stepbrother of Mathew is an ancestor of Derrick. Next, there exists an ancestor of Martin who is not an ancestor of Derrick or not an ancestor of Jose. Plus,being an ancestor of Jose is necessary for being a stepbrother of Mathew. Therefore, somebody is an ancestor of Martin and not a stepbrother of Mathew.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Siri a stepsister of Mary? Is Susan related to Kate? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: To begin with, every daughter of Milagros is not a great-grandmother of Courtney or not an ancestor of Christy. Moreover, nobody is neither a great-grandmother of Courtney nor a niece of Lynn. Finally, being a niece of Lynn is necessary for not being an ancestor of Christy. We may conclude that every daughter of Milagros is a niece of Lynn.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "A"
+        ],
+        "answer": "valid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Is Siri a stepsister of Mary? Is Susan related to Kate? In large families, it is sometimes difficult to keep track of all one's relatives. The following argument seeks to clarify some such relations: Whoever is not a workmate of Hilda is a stepsister of Heather. Every workmate of Hilda is either a stepsister of Heather or an aunt of Clara, or both. We may conclude: Being an aunt of Clara is necessary for being a workmate of Hilda.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 55,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Here comes a perfectly valid argument: To start with, everyone who is both a rare consumer of Pantene shampoo and an occasional purchaser of Herbal Essences shampoo is a frequent consumer of Tom's of Maine soap or a regular user of Mysore soap. Now, every frequent consumer of Tom's of Maine soap is neither a rare consumer of Pantene shampoo nor an occasional purchaser of Herbal Essences shampoo. We may conclude that everyone who is not both a rare consumer of Pantene shampoo and an occasional purchaser of Herbal Essences shampoo is however a regular user of Mysore soap.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 56,
+        "source": "BBH:formal_fallacies/Logical Reasoning",
+        "question": "\"Some football fans admire various clubs, others love only a single team. But who is a fan of whom precisely? The following argument pertains to this question: To begin with, nobody is neither an expert of FC Shakhtar Donetsk nor an opponent to PFC CSKA Moskva. Moreover, some opponent to PFC CSKA Moskva is not both a friend of Real Sociedad de Fútbol and an expert of FC Pyunik. Hence, there is somebody who is a friend of Real Sociedad de Fútbol, an expert of FC Pyunik, and an expert of FC Shakhtar Donetsk.\"\nIs the argument, given the explicitly stated premises, deductively valid or invalid?",
+        "label": [
+            "B"
+        ],
+        "answer": "invalid",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valid",
+            "B. invalid"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    }
+]
