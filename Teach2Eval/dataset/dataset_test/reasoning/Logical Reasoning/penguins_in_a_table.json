@@ -1,0 +1,1302 @@
+[
+    {
+        "index": 0,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the second youngest penguin?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 1,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is two years younger than Vincent?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the 60 cm tall penguin?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nWhich is the tallest penguin?",
+        "label": [
+            "E"
+        ],
+        "answer": "E",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nAnd here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nHow many animals are more than 5 years old?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5",
+            "B. 6",
+            "C. 7",
+            "D. 8",
+            "E. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nAnd here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nWhich is the oldest penguin?",
+        "label": [
+            "E"
+        ],
+        "answer": "E",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nWhat is the name of the last penguin?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the heaviest penguin?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is older than Gwen?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nWe then delete the penguin named Bernard from the table.\nWhat is the name of the first penguin sorted by alphabetic order?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 10,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nHow many animals are listed in the tables?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5",
+            "B. 6",
+            "C. 7",
+            "D. 8",
+            "E. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nWe then delete the penguin named Bernard from the table.\nWhat is the cumulated weight of the penguins?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 37",
+            "B. 49",
+            "C. 50",
+            "D. 62",
+            "E. 63"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 12,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  what is the number of the column with the weights (1, 2, 3 or 4)?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nHow many penguins are there in the table?",
+        "label": [
+            "E"
+        ],
+        "answer": "E",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nAnd here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nWhat is the cumulated age of the penguins?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 26",
+            "B. 29",
+            "C. 41",
+            "D. 55",
+            "E. 67"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.\nHow many animals are listed in the table?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 16,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nHow many species are listed in the tables?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 17,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is taller than the other ones?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nWe then delete the penguin named Bernard from the table.\nWhat is the name of the last penguin sorted by alphabetic order?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are less than 10 years old?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 20,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are more than 8 years old?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nWhich is the shortest penguin?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 22,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nHow many penguins are less than 10 years old?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 23,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are less than 8 years old?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nAnd here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nWhat is the cumulated age of the animals?",
+        "label": [
+            "E"
+        ],
+        "answer": "E",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 26",
+            "B. 29",
+            "C. 41",
+            "D. 55",
+            "E. 67"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 25,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nWhat is the cumulated age of the penguins?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 26",
+            "B. 29",
+            "C. 41",
+            "D. 55",
+            "E. 67"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.\nWhat is the cumulated age of the penguins?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 24",
+            "B. 29",
+            "C. 36",
+            "D. 41",
+            "E. 48"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.\nWhat is the average height of the penguins?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 60",
+            "B. 65",
+            "C. 70",
+            "D. 75",
+            "E. 80"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.\nWhich is the younest penguin?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 29,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the first penguin sorted by alphabetic order?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 30,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nAnd here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nWhat is the name of the last penguin sorted by alphabetic order?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 31,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the shortest height?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 50",
+            "B. 80",
+            "C. 60",
+            "D. 70",
+            "E. 90"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is older than Bernard and younger than Gwen?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 33,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nWhat is the cumulated weight of the penguins?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 37",
+            "B. 49",
+            "C. 50",
+            "D. 62",
+            "E. 63"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many animals are listed in the table?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nAnd here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nHow many penguins are there in the tables?",
+        "label": [
+            "E"
+        ],
+        "answer": "E",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 36,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nHow many penguins are less than 8 years old and weight more than 12 kg?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 37,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nAnd here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nWhat is the name of the last giraffe?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Jody",
+            "B. Gladys",
+            "C. Marian",
+            "D. Donna",
+            "E. Louise"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 38,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.\nWhat is the cumulated weight of the penguins?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 37",
+            "B. 49",
+            "C. 50",
+            "D. 62",
+            "E. 63"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 39,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nAnd here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nHow many penguins are more than 5 years old?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 40,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nHow many penguins are more than 5 years old?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 41,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nWe then delete the penguin named Bernard from the table.\nWhich is the oldest penguin?",
+        "label": [
+            "E"
+        ],
+        "answer": "E",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nWhat is the cumulated age of the giraffes?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 26",
+            "B. 29",
+            "C. 41",
+            "D. 55",
+            "E. 67"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  what is the number of the column with the names (1, 2, 3 or 4)?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:\nJames, 12, 90, 12\nWhat is the shortest height?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 50",
+            "B. 80",
+            "C. 60",
+            "D. 70",
+            "E. 90"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the oldest penguin?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.\nHow many penguins are more than 8 years old?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are more than 5 years old?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4",
+            "E. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 48,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the shortest penguin?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 49,
+        "source": "BBH:penguins_in_a_table/Logical Reasoning",
+        "question": "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is one year younger than Vincent?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Louis",
+            "B. Bernard",
+            "C. Vincent",
+            "D. Gwen",
+            "E. James"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    }
+]

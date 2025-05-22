@@ -1,0 +1,1102 @@
+[
+    {
+        "index": 0,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Dave bought 12 boxes of chocolate candy and gave 5 to his little brother. If each box has 3 pieces inside it, how many pieces did Dave still have? ",
+        "answer": "21",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 21",
+            "B. 24",
+            "C. 15",
+            "D. 18"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Cody had 45 dollars. For his birthday he got 9 more dollars but spent 19 on a new game. How much money does he have now? ",
+        "answer": "35",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 25",
+            "B. 35",
+            "C. 45",
+            "D. 54"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Oliver is at the library helping put away books. There are 46 book to put away total but a librarian takes 10 of them and leaves Oliver with the rest. If he can fit 4 books on a shelf, how many shelves will he need? ",
+        "answer": "9",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 9",
+            "C. 10",
+            "D. 11"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " A pet store had 38 siamese cats and 25 house cats. During a sale they sold 45 cats. How many cats do they have left? ",
+        "answer": "18",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 18",
+            "B. 23",
+            "C. 12",
+            "D. 20"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " For the school bake sale Carol made 19 cupcakes. If she sold 6 of them and then made 27 more, how many cupcakes would she have? ",
+        "answer": "40",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 40",
+            "B. 30",
+            "C. 33",
+            "D. 20"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Sam had to wash 40 short sleeve shirts and 23 long sleeve shirts before school. If he had only washed 29 of them by the time school started, how many did he not wash? ",
+        "answer": "34",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 34",
+            "B. 36",
+            "C. 38",
+            "D. 32"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Victor was working as a sacker at a grocery store where he made 6 dollars an hour. On Monday he worked 5 hours and on Tuesday he worked 5 hours. How much money did Victor make in those two days? ",
+        "answer": "60",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 50",
+            "B. 30",
+            "C. 70",
+            "D. 60"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Mike made 42 dollars mowing lawns over the summer. If he spent 10 dollars buying new mower blades, how many 8 dollar games could he buy with the money he had left? ",
+        "answer": "4",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3",
+            "B. 5",
+            "C. 6",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Will was working as a sacker at a grocery store where he made 8 dollars an hour. On Monday he worked 8 hours and on Tuesday he worked 2 hours. How much money did Will make in those two days? ",
+        "answer": "80",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 72",
+            "B. 64",
+            "C. 96",
+            "D. 80"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " In a video game, each enemy defeated gives you 9 points. If a level has 11 enemies total and you destroy all but 3 of them, how many points would you earn? ",
+        "answer": "72",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 99",
+            "B. 72",
+            "C. 81",
+            "D. 63"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Megan picked 19 carrots from her garden. If she threw out 4 of them and then picked 46 more the next day, how many carrots would she have total? ",
+        "answer": "61",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 55",
+            "B. 65",
+            "C. 51",
+            "D. 61"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 11,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " The cafeteria had 96 apples. For lunch they handed out 42 to students and decided to use the rest to make pies. If each pie takes 6 apples, how many pies could they make? ",
+        "answer": "9",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9",
+            "B. 12",
+            "C. 8",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " A teacher had 34 worksheets to grade. If she graded 7, but then another 36 were turned in, how many worksheets would she have to grade? ",
+        "answer": "63",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 70",
+            "B. 57",
+            "C. 63",
+            "D. 34"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Sam had 10 socks. If he threw away 3 old ones that didn't fit and bought 36 new ones, how many socks would he have? ",
+        "answer": "43",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 40",
+            "B. 43",
+            "C. 33",
+            "D. 46"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Ned was trying to expand his game collection. He bought 50 games from a friend and bought 27 more at a garage sale. If 74 of the games didn't work, how many good games did he end up with? ",
+        "answer": "3",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 27",
+            "B. 50",
+            "C. 3",
+            "D. 74"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " In fourth grade there were 10 students at the start of the year. During the year 4 students left and 42 new students came to school. How many students were in fourth grade at the end? ",
+        "answer": "48",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 46",
+            "B. 38",
+            "C. 48",
+            "D. 50"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Wendy was playing a video game and had 10 lives. In a hard part of the game she lost 6 lives. If she got 37 more lives in the next level, how many lives would she have? ",
+        "answer": "41",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 41",
+            "B. 31",
+            "C. 47",
+            "D. 35"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Bianca picked 39 tulips and 49 roses to make flower bouquets. If she only used 81 of the flowers though, how many extra flowers did Bianca pick? ",
+        "answer": "7",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11",
+            "B. 7",
+            "C. 9",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " A chef needs to cook 12 potatoes. He has already cooked 6. If each potato takes 6 minutes to cook, how long will it take him to cook the rest? ",
+        "answer": "36",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 18",
+            "B. 48",
+            "C. 24",
+            "D. 36"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " For Halloween Katie and her sister combined the candy they received. Katie had 8 pieces of candy while her sister had 23. If they ate 8 pieces the first night, how many pieces do they have left? ",
+        "answer": "23",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 25",
+            "B. 23",
+            "C. 20",
+            "D. 18"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Katie had 7 pages of math homework and 3 pages of reading homework. If each page had 9 problems on it, how many problems did she have to complete total? ",
+        "answer": "90",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 54",
+            "B. 90",
+            "C. 63",
+            "D. 72"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " John earned 8 dollars for each lawn he mowed. If he had 15 lawns to mow, but forgot to mow 7 of them, how much money did he actually earn? ",
+        "answer": "64",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 64",
+            "B. 80",
+            "C. 56",
+            "D. 120"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " April's discount flowers was having a sale where each flower was 3 dollars. If Emily bought 2 roses and 2 daisies, how much did she spend? ",
+        "answer": "12",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 10",
+            "C. 6",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Rachel was playing a video game where she scores 9 points for each treasure she finds. If she found 5 treasures on the first level and 2 on the second, what would her score be? ",
+        "answer": "63",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 72",
+            "B. 45",
+            "C. 63",
+            "D. 54"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Wendy uploaded 22 pictures from her phone and 2 from her camera to facebook. If she sorted the pics into 4 different albums with the same amount of pics in each album, how many pictures were in each of the albums? ",
+        "answer": "6",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7",
+            "B. 6",
+            "C. 4",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums? ",
+        "answer": "5",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 7",
+            "C. 4",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " A waiter at 'The Greasy Spoon' restaurant had 39 customers to wait on. During the lunch rush he added another 12 customers. If 49 of the customers didn't leave him a tip, how many customers did leave a tip? ",
+        "answer": "2",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4",
+            "B. 12",
+            "C. 10",
+            "D. 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 27,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Will had 59 pieces of clothing to wash. He put 32 of them in one load, but decided to split the rest into 9 equal loads. How many pieces of clothing could go in each of the small loads? ",
+        "answer": "3",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5",
+            "B. 3",
+            "C. 2",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Adam had 48 books. If he sold 19 of them and used the money he earned to buy 38 new books, how many books would Adam have? ",
+        "answer": "67",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 57",
+            "B. 67",
+            "C. 77",
+            "D. 47"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 29,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " A group of 4 friends went into a restaurant. The chef already had 9 chicken wings cooked but cooked 7 more for the group. If they each got the same amount how many would each person get? ",
+        "answer": "4",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 4",
+            "C. 5",
+            "D. 3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " A trivia team had 5 members total, but during a game 2 members didn't show up. If each member that did show up scored 6 points, how many points were scored total? ",
+        "answer": "18",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 30",
+            "C. 18",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Kaleb bought 14 boxes of chocolate candy and gave 5 to his little brother. If each box has 6 pieces inside it, how many pieces did Kaleb still have? ",
+        "answer": "54",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 59",
+            "B. 49",
+            "C. 54",
+            "D. 64"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Emily was planting vegetables in her garden. She started with 41 seeds and planted 29 of them in the big garden and in each of her small gardens put 4 seeds each. How many small gardens did Emily have? ",
+        "answer": "3",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5",
+            "B. 4",
+            "C. 3",
+            "D. 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 33,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " A toy store had 17 giant stuffed bears in stock when they got another shipment with 10 bears in it. The put the bears onto shelves with 9 on each shelf. How many shelves did they use? ",
+        "answer": "3",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2",
+            "B. 4",
+            "C. 3",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Megan earned 8 points for each bag of cans she recycled. If she had 14 bags, but didn't recycle 5 of them, how many points would she have earned? ",
+        "answer": "72",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 112",
+            "B. 72",
+            "C. 64",
+            "D. 84"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Frank and his friend were buying trick decks from the magic shop for 7 dollars each. How much did they spend if Frank bought 3 decks and his friend bought 2 decks? ",
+        "answer": "35",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 42",
+            "B. 14",
+            "C. 35",
+            "D. 21"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Isabel baked 3 brownies, but needed 5 total for her party. If she used 5 cups of flour on each one, how much cups of flour does she still need? ",
+        "answer": "10",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 20",
+            "B. 5",
+            "C. 15",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " A group of 3 friends went into a restaurant. The chef already had 8 chicken wings cooked but cooked 10 more for the group. If they each got the same amount how many would each person get? ",
+        "answer": "6",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 5",
+            "C. 6",
+            "D. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Carol and her mom were picking carrots from their garden. Carol picked 29 and her mother picked 16. If only 38 of the carrots were good, how many bad carrots did they have? ",
+        "answer": "7",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 8",
+            "C. 9",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Bianca was organizing her book case making sure each of the shelves had exactly 8 books on it. If she had 5 shelves of mystery books and 4 shelves of picture books, how many books did she have total? ",
+        "answer": "72",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 74",
+            "B. 72",
+            "C. 80",
+            "D. 64"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " George had 30 dollars. For his birthday he got 16 more dollars but spent 38 on a new game. How much money does he have now? ",
+        "answer": "8",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 9",
+            "C. 10",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Paige had 11 songs on her mp3 player. If she deleted 9 old songs from it and then added 8 new songs, how many songs does she have on her mp3 player? ",
+        "answer": "10",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12",
+            "B. 8",
+            "C. 14",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 42,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " For a birthday party Jerry bought 41 regular sodas and 22 diet sodas. If his fridge would only hold 9 on each shelf, how many shelves would he fill up? ",
+        "answer": "7",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 5",
+            "C. 7",
+            "D. 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " There were 8 friends playing a video game online when 2 more players joined the game. If each player had 6 lives, how many lives did they have total? ",
+        "answer": "60",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 60",
+            "B. 72",
+            "C. 54",
+            "D. 48"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " The schools debate team had 26 boys and 46 girls on it. If they were split into groups of 9 how many groups could they make? ",
+        "answer": "8",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 9",
+            "C. 7",
+            "D. 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 45,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Will made 104 dollars mowing lawns over the summer. If he spent 41 dollars buying new mower blades, how many 9 dollar games could he buy with the money he had left? ",
+        "answer": "7",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 8",
+            "C. 7",
+            "D. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Megan baked 71 cupcakes for her school's bake sale. If her brother, Todd, ate 43 of them how many packages could she make if she put 7 cupcake in each package? ",
+        "answer": "4",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 5",
+            "C. 3",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Nancy was organizing her book case making sure each of the shelves had exactly 6 books on it. If she had 2 shelves of mystery books and 6 shelves of picture books, how many books did she have total? ",
+        "answer": "48",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 48",
+            "B. 54",
+            "C. 42",
+            "D. 36"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " Wendy bought 4 new chairs and 4 new tables for her house. If she spent 6 minutes on each piece furniture putting it together, how many minutes did it take her to finish? ",
+        "answer": "48",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 36",
+            "B. 48",
+            "C. 24",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/MultiArith/test.json",
+        "question": " A florist had 50 roses. If she sold 15 of them and then later picked 21 more, how many roses would she have? ",
+        "answer": "56",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 35",
+            "B. 56",
+            "C. 50",
+            "D. 55"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    }
+]

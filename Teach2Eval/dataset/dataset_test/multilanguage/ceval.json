@@ -1,0 +1,6844 @@
+[
+    {
+        "index": 0,
+        "source": "multilanguage/ceval/urban_and_rural_planner_val.csv",
+        "question": "以下不属于液化石油气气化站与混气站的布置原则的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 液化石油气气化站与混气站的站址应靠近负荷区",
+            "B. 站址应是地势平坦、开阔、不易积存液化石油气的地段",
+            "C. 站址应与站外建筑物保持规范所规定的防火间距要求",
+            "D. 作为机动气源的混气站不能与气源厂、城市煤气储配站合设"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "某供热企业为增值税一般纳税人，2020年10月取得不含税供热收入860万元，其中向居民个人收取120万元，当月外购原材料取得增值税专用发票注明税额70万元。该企业2020年10月可以抵扣的进项税额为____万元。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 15.13",
+            "B. 24.9",
+            "C. 28.94",
+            "D. 60.23"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 2,
+        "source": "multilanguage/ceval/basic_medicine_val.csv",
+        "question": "全身营养不良时，首先发生萎缩的组织或器官是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 骨骼肌",
+            "B. 脂肪组织",
+            "C. 肝",
+            "D. 脑"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "一胎龄为38周的新生儿，出生体重为3500g，其体重位于同胎龄体重标准的第85百分位，下列哪个诊断最为全面而准确____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 足月儿，适于胎龄儿",
+            "B. 足月儿，大于胎龄儿",
+            "C. 过期产儿，巨大儿",
+            "D. 过期产儿，大于胎龄儿"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "泵房内管道管外底距地面的距离，当管径DN≤150mm时，不应小于____；当管径DN≥200mm时，不应小于____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0.20m；0.25m",
+            "B. 0.30m；0.35m",
+            "C. 0.20m；0.30m",
+            "D. 0.15m；0.25m"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "multilanguage/ceval/high_school_history_val.csv",
+        "question": "西周时期，用于解决血亲贵族之间在权力、财产和土地继承上矛盾的制度是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 分封制",
+            "B. 宗法制",
+            "C. 井田制",
+            "D. 禅让制"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "以下说法正确的是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 在const成员函数中不可以使用this指针；",
+            "B. 在static成员函数中不可以使用this 指针；",
+            "C. 抽象类的成员函数都是纯虚函数；",
+            "D. 抽象类的派生类必须实现抽象类中的纯虚函数。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 7,
+        "source": "multilanguage/ceval/high_school_politics_val.csv",
+        "question": "企业社会责任是指企业在追求经济效益、实现自我发展的同时，还应承担对经济、环境和社会可持续发展的责任。以下属于企业社会责任的有____\n①发展经济，稳定物价\n②以利润为目标，制定正确的经营战略\n③自觉依法诚信纳税，积极参加社会公益事业\n④规范生产经营，为社会提供优质的商品和服务",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ①②",
+            "B. ②③",
+            "C. ③④",
+            "D. ①④"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "已知一个有向图的邻接矩阵表示，要删除所有从第i个结点发出的边，应____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 将邻接矩阵的第i行删除",
+            "B. 将邻接矩阵的第i行元素全部置为0",
+            "C. 将邻接矩阵的第i列删除",
+            "D. 将邻接矩阵的第i列元素全部置为0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "根据学习动机的社会意义，可以把学习动机分为____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 社会动机与个人动机",
+            "B. 工作动机与提高动机",
+            "C. 高尚动机与低级动机",
+            "D. 交往动机与荣誉动机"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 10,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "线性表若采用链式存储结构时，要求内存中可用存储单元的地址____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 必须是连续的",
+            "B. 部分地址必须是连续的",
+            "C. 一定是不连续的",
+            "D. 连续不连续都可以"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "multilanguage/ceval/high_school_physics_val.csv",
+        "question": "一个质量为2kg的物体同时受到两个力的作用，这两个力的大小分别为2N和6N，当两个力的方向发生变化时，物体的加速度大小不可能为____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $1m/s^{2}$",
+            "B. $2m/s^{2}$",
+            "C. $3m/s^{2}$",
+            "D. $4m/s^{2}$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "6个月女婴，因贫血住院，试验检查血清叶酸小于3μg/L，诊断营养性巨幼红细胞贫血，给予叶酸治疗，为了提高疗效，应同时服____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. VitB2",
+            "B. VitD",
+            "C. VitC",
+            "D. VitA"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "multilanguage/ceval/middle_school_mathematics_val.csv",
+        "question": "甲、乙两班学生参加植树造林，已知甲班每天比乙班多植5棵树，甲班植80棵树所用的天数与乙班植70棵树所用的天数相等．若设甲班每天植树x棵，则根据题意得出的方程是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $\\frac{80}{x-5}=\\frac{70}{x}$",
+            "B. $\\frac{80}{x}=\\frac{70}{x+5}$",
+            "C. $\\frac{80}{x+5}=\\frac{70}{x}$",
+            "D. $\\frac{80}{x}=\\frac{70}{x-5}$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 14,
+        "source": "multilanguage/ceval/urban_and_rural_planner_val.csv",
+        "question": "下列不属于堆肥方法运用于固体垃圾处理优点的是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 占地较小",
+            "B. 投资较低",
+            "C. 产品可用作肥料",
+            "D. 无害化程度很高"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 15,
+        "source": "multilanguage/ceval/middle_school_geography_val.csv",
+        "question": "世界上使用人数最多、使用泛围最广泛的语言分别是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 英语、法语",
+            "B. 汉语、英语",
+            "C. 阿拉伯语、西班牙语",
+            "D. 俄语、英语"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "根据《行政诉讼法》规定，下列关于行政诉讼二审程序的说法中，错误的是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 二审法院可以不开庭审理",
+            "B. 二审法院审理上诉案件，一般应当在收到上诉状之日起6个月内作出终审判决",
+            "C. 当事人不服一审判决提起上诉的，应当在判决书送达之日起15日内提起",
+            "D. 二审法院审理上诉案件时，应当对原审法院的裁判和被诉行政行为进行全面审查"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 17,
+        "source": "multilanguage/ceval/high_school_physics_val.csv",
+        "question": "提出“电场线”的科学家是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 库仑",
+            "B. 法拉第",
+            "C. 麦克斯韦",
+            "D. 爱因斯坦"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "multilanguage/ceval/business_administration_val.csv",
+        "question": "下列各项中，属于狭义在产品的是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 正在车间加工的在制品",
+            "B. 本步骤已完工，但还需继续加工的半成品",
+            "C. 已完工，但尚未验收入库的产成品",
+            "D. 已完工，但需对外销售的自制半成品"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 19,
+        "source": "multilanguage/ceval/computer_network_val.csv",
+        "question": "一个TCP连接的数据传输阶段，如果发送端的发送窗口值由2000变为3000，意味着发送端可以____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 在收到一个确认之前可以发送3000个TCP报文段",
+            "B. 在收到一个确认之前可以发送1000字节",
+            "C. 在收到一个确认之前可以发送3000字节",
+            "D. 在收到一个确认之前可以发送2000个TCP报文段"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 20,
+        "source": "multilanguage/ceval/middle_school_biology_val.csv",
+        "question": "洋葱表皮细胞与人的口腔上皮细胞的区别是后者没有的是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 细胞壁",
+            "B. 细胞膜",
+            "C. 细胞核",
+            "D. 细胞质"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "multilanguage/ceval/logic_val.csv",
+        "question": "新疆的哈萨克人用经过训练的金雕在草原上长途追击野狼。某研究小组为研究金雕的飞行方向和判断野狼群的活动范围，将无线电传导器放置在一只金雕身上进行追踪。野狼为了觅食，其活动范围通常很广。因此，金雕追击野狼的飞行范围通常也很大。然而两周以来，无线电传导器不断传回的信号显示，金雕仅在放飞地3公里的范围内飞行。以下哪项如果为真，最有助于解释上述金雕的行为?____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 金雕放飞地周边重峦叠嶂，险峻异常。",
+            "B. 金雕的放飞地2公里范围内有一牧羊草场，成为狼群袭击的目标。",
+            "C. 由于受训金雕的捕杀，放飞地广阔草原的野狼几乎灭绝了。",
+            "D. 无线电传导信号仅能在有限的范围内传导。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "multilanguage/ceval/high_school_history_val.csv",
+        "question": "1880年，日本政府的一项教育指令称：应利用“古今之画像照片”宣传忠孝精神；与其过分关注高深的理论和外语，不如对农商庶民施以生存的实际教育。结合所学判断，该指令____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 试图阻止西方科技的传播",
+            "B. 表明忠孝精神已在日本瓦解",
+            "C. 旨在强化日本社会的等级制度",
+            "D. 旨在培养掌握现代技能的忠顺臣民"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 23,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "个体品德的核心部分是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 道德认知",
+            "B. 道德观念",
+            "C. 道德情感",
+            "D. 道德行为"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 24,
+        "source": "multilanguage/ceval/plant_protection_val.csv",
+        "question": "在衰老的植物组织或器官中，蛋白质含量显著下降，其主要原因是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 蛋白质周转速率降低",
+            "B. 氨基酸的生物合成受阻",
+            "C. 蛋白质水解酶活性增加",
+            "D. 土壤中氮素含量下降"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 25,
+        "source": "multilanguage/ceval/basic_medicine_val.csv",
+        "question": "以$IP_3$和DAG为第二信使的双信号途径是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. cAMP-蛋白激酶途径",
+            "B. $Ca^{2+}$-磷脂依赖性蛋白激酶途径",
+            "C. cGMP-蛋白激酶途径",
+            "D. 酪氨酸蛋白激酶途径"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "multilanguage/ceval/high_school_mathematics_val.csv",
+        "question": "若抛物线$y^2=2px$的焦点与椭圆$\\frac{x^2}{6}+\\frac{y^2}{2}=1$的右焦点重合，则p的值为____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. -2",
+            "B. 2",
+            "C. -4",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "multilanguage/ceval/mao_zedong_thought_val.csv",
+        "question": "当今时代的主题是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 战争与革命",
+            "B. 和平与发展",
+            "C. 开放与合作",
+            "D. 和谐与共赢"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "multilanguage/ceval/veterinary_medicine_val.csv",
+        "question": "____不是蛋白质的性质之一。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 处于等电状态时溶解度最小",
+            "B. 加入少量中性盐溶解度增加",
+            "C. 变性蛋白质的溶解度增加",
+            "D. 有紫外吸收特性"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "在均衡价格下____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 价格趋于下降",
+            "B. 供给量超过需求量",
+            "C. 价格趋于上升",
+            "D. 价格不应变动"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "企业购买生产要素所引起的成本为____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 显成本",
+            "B. 隐成本",
+            "C. 固定成本",
+            "D. 机会成本"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "multilanguage/ceval/urban_and_rural_planner_val.csv",
+        "question": "大修的城市道路竣工后____年内不得挖掘；因特殊情况需要挖掘的，须经县级以上城市人民政府批准。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 6"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 32,
+        "source": "multilanguage/ceval/teacher_qualification_val.csv",
+        "question": "学期结束时，班主任王老师会对学生思想品德的发展变化情况进行评价。这项工作属于____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 工作总结",
+            "B. 工作计划",
+            "C. 操行评定",
+            "D. 建立学生档案"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "multilanguage/ceval/law_val.csv",
+        "question": "下列选项中，可以适用不当得利主张请求权的情形是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 甲为自己正在读大学的弟弟乙支付学费，后甲要求乙返还",
+            "B. 丙明知不欠丁的钱而执意向丁还钱，后丙要求丁返还该金钱",
+            "C. 张某偿还了欠李某的赌债，后张某要求李某返还赌资",
+            "D. 陈某和吴某同在河边放牛，后陈某的一头牛走入吴某的牛群中，而吴某对此并不知情"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 34,
+        "source": "multilanguage/ceval/middle_school_history_val.csv",
+        "question": "改革开放以来，我国的外交事业取得重大成就的根本原因是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 综合国力的增强",
+            "B. 独立自主的和平外交政策",
+            "C. 中国是联合国安理会常任理事国",
+            "D. 成功举办亚太经合组织会议"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "使用自有资金也应计算利息收入，这种利息从成本角度看是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 固定成本",
+            "B. 隐含成本",
+            "C. 会计成本",
+            "D. 生产成本"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "两座多层建筑，其防火间距可以按规定减少25%的条件是相邻两面外墙均为不燃性墙体，且无外露的可燃性屋檐，每面外墙上无防火保护的门、窗、洞口不正对开设，同时门、窗、洞口面积之和各不大于该外墙面积的____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4%",
+            "B. 5%",
+            "C. 6%",
+            "D. 8%"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 37,
+        "source": "multilanguage/ceval/urban_and_rural_planner_val.csv",
+        "question": "下列不符合《人民防空法》规定的是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 城市是人民防空的重点",
+            "B. 国家对城市实行分类防护",
+            "C. 城市防护类别、防护标准由中央军事委员会规定",
+            "D. 城市人民政府应当制定防空袭方案及实施计划，必要时可以组织演习"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 38,
+        "source": "multilanguage/ceval/logic_val.csv",
+        "question": "办公室主任：本办公室不打算使用循环再利用纸张。给用户的信件必须能留下好的印象。不能打印在劣质纸张上。文具供应商：循环再利用纸张不一定是劣质的。事实上，最初的纸张就是用可回收材料制造的。一直到19世纪50年代，由于碎屑原料供不应求，才使用木纤维作为造纸原料。以下哪项最为恰当地概括了文具供应商的反驳中存在的漏洞?____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 没有意识到办公室主任对于循环再利用纸张的偏见是由于某种无知。",
+            "B. 使用了不相关的事实来证明一个关于产品质量的断定。",
+            "C. 不恰当地假设办公室主任忽视了环境保护。",
+            "D. 不恰当地假设办公室主任了解纸张的制造工艺。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 39,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "关于构造函数，下列说法错误的是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 构造函数必须指定类型说明；",
+            "B. 构造函数的函数名与类名相同；",
+            "C. 构造函数可以设置缺省参数；",
+            "D. 构造函数可以重载。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "狭义的教育主要是指____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 家庭教育",
+            "B. 学校教育",
+            "C. 社会教育",
+            "D. 职业教育"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 41,
+        "source": "multilanguage/ceval/college_physics_val.csv",
+        "question": "在波长为λ的驻波中两个相邻波节之间的距离为：____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. λ",
+            "B. 3λ/4",
+            "C. λ/2",
+            "D. λ/4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "multilanguage/ceval/middle_school_geography_val.csv",
+        "question": "下列地区的农业生产符合因地制宜原则的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 在黄土高原地区大力发展粮食生产",
+            "B. 在珠江三角洲大力发展林业",
+            "C. 在新疆地区大力发展水稻生产",
+            "D. 在长江中下游地区大力发展淡水养殖业"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 43,
+        "source": "multilanguage/ceval/high_school_biology_val.csv",
+        "question": "下列关于生物育种的叙述，正确的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 多倍体育种不能产生新物种",
+            "B. 单倍体育种会产生定向变异",
+            "C. 杂交育种的子代间会产生生殖隔离",
+            "D. 诱变育种可改变种群基因频率"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "multilanguage/ceval/accountant_val.csv",
+        "question": "下列关于诉讼时效中止的表述，不正确的是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 中止诉讼时效的事由包括不可抗力与其他障碍",
+            "B. 诉讼时效中止使已经进行的诉讼时效期间全部归于无效",
+            "C. 只有在诉讼时效期间的最后6个月内发生不可抗力的情况和其他障碍，才能中止时效的进行",
+            "D. 中止事由发生前已经经过的诉讼时效期限仍然有效，自中止时效的原因消除之日起满6个月，诉讼时效期间屑满"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "厂房内设置甲、乙类中间仓库时，其储量不宜超过____的需要量。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 一天",
+            "B. 两天",
+            "C. 一夜",
+            "D. 一昼夜"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "multilanguage/ceval/mao_zedong_thought_val.csv",
+        "question": "党的十八大提出，面对资源约束趋紧、环境污染严重、生态系统退化的严峻形势，必须树立尊重自然、顺应自然、保护自然的生态文明理念。人与自然相处时应秉持的首要态度是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 尊重自然",
+            "B. 顺应自然",
+            "C. 保护自然",
+            "D. 征服自然"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "甲公司2019年年度财务报告经董事会批准于2020年4月20日报出。甲公司在2020年1月1日至4月20日之间发生的下列事项中，属于资产负债表日后调整事项的是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2020年3月10日，法院判决某项诉讼败诉，并需支付赔偿金额80万元，甲公司在2019年年末已经确认预计负债65万元",
+            "B. 2020年2月10日发生产品销售退回，该批产品系2020年1月对外销售",
+            "C. 2020年2月18日董事会提出资本公积转增资本方案",
+            "D. 2020年3月18日公司仓库发生火灾导致存货部分毁损"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 48,
+        "source": "multilanguage/ceval/civil_servant_val.csv",
+        "question": "2009年有两次“立春”，很容易让人联想到“第二春”“二度春”，可想而知这样的婚姻不稳定，所以网络上有“2009年不能结婚，或者2009年爱情不会长久”等传闻。但是，大多数年轻人认为，登记结婚是件水到渠成的事，不会因为赶日子仓促提前或延迟。 根据这段文字，下列说法正确的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 作者认为2009年不适合结婚",
+            "B. 大多数年轻人认为2009年是结婚的好年头",
+            "C. 2009年结婚会使婚姻不稳定的说法是无稽之谈",
+            "D. 大多数年轻人不会因为2009年有两次“立春”而改变自己的结婚计划"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "multilanguage/ceval/accountant_val.csv",
+        "question": "截至2015年秋，U国N航空公司与M航空公司合并已有5年，但原N公司和M公司机舱服务员的劳工合约仍未统一。为此，原N公司与M公司的机舱服务员在临近圣诞节期间，发起抗议行动，有效推动了该项问题的解决。本案例中原N公司与M公司机舱服务员的权力来源于____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 在管理层次中的地位",
+            "B. 个人的素质和影响",
+            "C. 参与或影响企业战略决策与实施过程",
+            "D. 利益相关者集中或联合的程度"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "假定A是一个类的名字，下面四个语句总共会引发类A构造函数的调用多少次____\n①A *p=newA;\n②A p2[10];\n③A p3;\n④A *p4[10];",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11",
+            "B. 12",
+            "C. 21",
+            "D. 22"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 51,
+        "source": "multilanguage/ceval/middle_school_chemistry_val.csv",
+        "question": "垃圾分类已成为新时尚。下列物质应该放入可回收垃圾箱的是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 矿泉水瓶",
+            "B. 果皮",
+            "C. 废电池",
+            "D. 废口罩"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "通过学习而形成的合乎法则的心智活动方式即是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 智力技能",
+            "B. 知识迁移",
+            "C. 智力",
+            "D. 思维程序"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 53,
+        "source": "multilanguage/ceval/high_school_mathematics_val.csv",
+        "question": "已知$平面\\alpha // 平面\\beta$，$m\\subset\\alpha$，$n\\subset\\beta$，则下列结论一定正确是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. m,n是平行直线",
+            "B. m,n是异面直线",
+            "C. m,n是共面直线",
+            "D. m,n是不相交直线"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "multilanguage/ceval/high_school_chinese_val.csv",
+        "question": "填入下文划线处恰当的一句是____\r\n自从“五四”以来，翻译介绍先进国家的文化成果，就成了中国人民的迫切要求。____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 这些翻译作品促进了中国学术文化的发展，同时也影响了中国的书面语言",
+            "B. 翻译作品日渐其多，一方面这些作品提高了中国学术文化的素养，另一方面也促进了中国书面语言的发展",
+            "C. 翻译作品日见其多，这些作品促进了中国学术文化的发展，同时也影响了中国的书面语言",
+            "D. 这些翻译作品提高了中国学术文化的素养，同时也促进了中国书面语言的发展"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "明确提出教育目的是为“完满的生活”做准备的教育家是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 杜威",
+            "B. 斯宾塞",
+            "C. 陶行知",
+            "D. 陈鹤琴"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 56,
+        "source": "multilanguage/ceval/environmental_impact_assessment_engineer_val.csv",
+        "question": "燃油、燃气锅炉烟囱高度应按批准的环境影响报告书(表)要求确定，但不得低于____m。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 8",
+            "C. 10",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 57,
+        "source": "multilanguage/ceval/civil_servant_val.csv",
+        "question": "按照行政层级标准来划分，我国政府机构的类型有____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 一般地方国家行政机关和基层国家行政机关两大类",
+            "B. 常设机构与非常设机构两类",
+            "C. 领导机构、办公办事机构、职能机构和派出机构四类",
+            "D. 中央国家行政机关和地方国家行政机关两大类"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "multilanguage/ceval/discrete_mathematics_val.csv",
+        "question": "设A={2，3，4，6，9，12，18}，A中的整除关系R是偏序关系，那么在偏序集<A，R>中，下列说法正确的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A的最大元素是18；",
+            "B. A 的最小元素是2；",
+            "C. B= {3，9}的上界只有 18；",
+            "D. B= {4，9} 没有上下界。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 59,
+        "source": "multilanguage/ceval/legal_professional_val.csv",
+        "question": "上海长宁区人李希将与苏州平江区人汪京签订买卖大米的合同。约定履行地在扬州广陵区，实际大米在南京雨花区交付，两人约定发生纠纷后，由南京雨花区法院管辖。后因汪京不支付合同货款，李希为要回款项，下列说法正确的是?____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 本案应由扬州广陵区法院管辖",
+            "B. 本案应由上海市长宁区法院管辖",
+            "C. 本案应由南京雨花区法院管辖",
+            "D. 本案由苏州平江区法院管辖"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "multilanguage/ceval/professional_tour_guide_val.csv",
+        "question": "英国为了打开中国市场，在____发动了鸦片战争，清朝战败。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1780年",
+            "B. 1820年",
+            "C. 1840年",
+            "D. 1860年"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "multilanguage/ceval/sports_science_val.csv",
+        "question": "西周的“国学”和“乡学”的教学内容为____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 宗教和军事",
+            "B. 习射及传习多种武艺",
+            "C. 礼、乐、射、御、书、数",
+            "D. “五项竞技”"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "multilanguage/ceval/high_school_physics_val.csv",
+        "question": "“神舟六号”飞船从发射至返回的各阶段中，机械能守恒的是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 加速升空阶段",
+            "B. 在圆轨道绕地球运行阶段",
+            "C. 进入大气层减速阶段",
+            "D. 降落伞张开后下降阶段"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 63,
+        "source": "multilanguage/ceval/middle_school_physics_val.csv",
+        "question": "下列过程，属于内能转化为机械能的是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 从滑梯上滑下时臀部发热",
+            "B. 电热水壶烧水",
+            "C. 内燃机的做功冲程",
+            "D. 向下压活塞引燃棉花"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 64,
+        "source": "multilanguage/ceval/high_school_politics_val.csv",
+        "question": "国务院强调2013年工作重心放到加快转变经济发展方式和调整经济结构上，放到提高经济增长的质量和效益上，推动经济持续健康发展。确立上述工作重心的根本目的是：____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 优化产业结构，实现国家产业结构布局更趋合理",
+            "B. 增强我国国际竞争力，应对经济全球化危机",
+            "C. 让全体人民共享改革发展成果，社会生产目的的落实奠定物质基础",
+            "D. 增加社会财富以提升社会积累率"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 65,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "根据使用场所不同，闭式细水雾灭火系统可以分为____种形式。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 66,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "补钾速度一般每小时不宜超过____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10mmol",
+            "B. 20mmol",
+            "C. 30mmol",
+            "D. 40mmol"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 67,
+        "source": "multilanguage/ceval/modern_chinese_history_val.csv",
+        "question": "孙中山三民主义思想的核心是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 驱除鞑虏",
+            "B. 恢复中华",
+            "C. 创立民国",
+            "D. 平均地权"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 68,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "下列关于售后回购交易的会计处理符合企业会计准则规定的是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 企业因存在与客户的远期安排而负有回购义务或企业享有回购权利的，回购价格低于售价，应当视为租赁交易",
+            "B. 企业到期未行使回购权利的，应当在该回购权利到期时终止确认金融负债，但无需确认收入",
+            "C. 企业负有应客户要求回购商品义务的，客户具有行使该要求权重大经济动因的，企业应当将售后回购作为融资交易",
+            "D. 企业负有应客户要求回购商品义务的，客户不具有行使该要求权重大经济动因的，应当将其作为正常销售交易"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 69,
+        "source": "multilanguage/ceval/logic_val.csv",
+        "question": "甲被指控犯罪，乙是此项起诉的主要证人。关于这个案件，有如下断定：(1)基于乙提供的有关证词，就可以宣判甲有罪。(2)乙的证词说明他自己实际上也参加了甲的犯罪活动。(3)甲被指控的犯罪活动只可能由一个人独立完成。如果以上断定都是真的，则以下哪项最可能是审判的结果?____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 甲和乙都被宣判在乙起诉的案件中有罪。",
+            "B. 除了在乙已被指控的案件中，甲和乙还被宣判为在其他案件中有罪。",
+            "C. 甲被宣判为有罪，而乙被宣判为无罪。",
+            "D. 甲被宣判为无罪。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "multilanguage/ceval/modern_chinese_history_val.csv",
+        "question": "中国各民主党派是阶级联盟性质的政党，其形成时的社会基础主要是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 开明绅士、地产实力派",
+            "B. 工人、农民、小资产阶级",
+            "C. 工人、农民、小资产阶级、民族资产阶级",
+            "D. 民族资产阶级、城市小资产阶级以及同这些阶级相联系的知识分子和其他爱国分子"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 71,
+        "source": "multilanguage/ceval/logic_val.csv",
+        "question": "未来深海电缆的外皮是由玻璃制成的，而不是特殊的钢材或铝合金。原因是金属具有颗粒状的微观结构，在深海压力之下，粒子交结处的金属外皮易于断裂。玻璃外皮就不会有这种情况，因为玻璃看起来是固体，由于它在压力之下可以流动，所以可将之视为液体。以下哪项最有可能从上述议论中推出?____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 液体没有颗粒状的微观结构。",
+            "B. 所有称之为固体的东西只不过是移动极其缓慢的液体。",
+            "C. 只有断裂的玻璃是微观粒状的。",
+            "D. 作为一种建筑材料，玻璃优于钢材和铝材。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 72,
+        "source": "multilanguage/ceval/high_school_chemistry_val.csv",
+        "question": "对于淀粉和纤维素两种物质，下列说法正确的是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 两者都能水解，且水解的最终产物相同",
+            "B. 两者含C、H、O三种元素的质量分数相同，且互为同分异构体",
+            "C. 它们都属于糖类，且都是溶于水的高分子化合物",
+            "D. 都可 用$\\left ( C_6H_6O_5\\right )_n$表示，但淀粉能发生银镜反应，而纤维素不能"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 73,
+        "source": "multilanguage/ceval/high_school_politics_val.csv",
+        "question": "近年来，北京市推动老旧厂房从“产业园区”迈向“文化园区”。城市的工业遗存在新时代里逐渐融入人们的生活，日益成为城市的文化富矿。这说明事物____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 在辩证否定中发展",
+            "B. 在量变中实现质变",
+            "C. 在曲折中不断前进",
+            "D. 在对立中实现统一"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 74,
+        "source": "multilanguage/ceval/business_administration_val.csv",
+        "question": "关于损失，下列说法中正确的是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 损失是指由企业日常活动所发生的、会导致所有者权益减少的经济利益的流出",
+            "B. 损失只能计入所有者权益项目，不能计入当期损益",
+            "C. 损失是指由企业非日常活动所发生的、会导致所有者权益减少的、与向所有者分配利润无关的经济利益的流出",
+            "D. 损失只能计入当期损益，不能计入所有者权益项目"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 75,
+        "source": "multilanguage/ceval/discrete_mathematics_val.csv",
+        "question": "一个无向图有五个结点，其中4个的度数是1,2,3,4,则第5个结点的度数不可能是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0",
+            "B. 2",
+            "C. 4",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 76,
+        "source": "multilanguage/ceval/college_chemistry_val.csv",
+        "question": "某溶液的pH=0.04,则其中$H^+$的浓度为____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $0.912mol/dm^3$",
+            "B. $0.91mol/dm^3$",
+            "C. $0.9mol/dm^3$",
+            "D. $1.1mol/dm^3$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 77,
+        "source": "multilanguage/ceval/college_chemistry_val.csv",
+        "question": "根据酸碱质子理论、HCI、HAc和$NH_4^+$酸性由弱到强的顺序为____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $NH_4^+<HAc<HCl$",
+            "B. $HAc<HCl<NH_4^+$",
+            "C. $NH_4^+<HCl<HAc$",
+            "D. $HAc<NH_4^+<HCl$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 78,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "下列消费品，属于消费税征税范围的是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 合成宝石首饰",
+            "B. 洗发水",
+            "C. 大客车",
+            "D. 轮胎"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 79,
+        "source": "multilanguage/ceval/art_studies_val.csv",
+        "question": "《钦差大臣》是____创作的。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 萧伯纳",
+            "B. 契诃夫",
+            "C. 易卜生",
+            "D. 果戈理"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 80,
+        "source": "multilanguage/ceval/teacher_qualification_val.csv",
+        "question": "张老师根据自己班级的情况，为解决班级内部班干部的人际关系问题，建立和谐融洽的班级氛围，自主开发了“和谐人际”的班级课程，这体现了教师____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 是教育教学的研究者",
+            "B. 是课程的建设者和开发者",
+            "C. 是学生学习的促进者",
+            "D. 是社区型的开放教师"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 81,
+        "source": "multilanguage/ceval/veterinary_medicine_val.csv",
+        "question": "氨基酸分子既含有酸性的羧基(一COOH)，又含有碱性的氨基(一$NH_2$ )。前者能提供质子变成一COO一；后者能接受质子变成一$NH_3^+$ 。有的氨基酸还有可解离的侧链基团。因此，氨基酸是两性电解质。其解离状态与溶液的pH值有直接关系，当pH值等于pI时，蛋白质____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 带正电荷",
+            "B. 带负电荷",
+            "C. 所带电荷不确定",
+            "D. 所带正、负电荷相等"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 82,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "根据费雪的消费理论，如果实际利率为正，那么____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 用第一期的收入衡量的第二期消费成本低于同等数量的第一期消费",
+            "B. 第二期的收入比第一期的同等数量的收入值得更多",
+            "C. 消费者将不愿借钱，从而其第一期的消费小于第一期的收入",
+            "D. A、B、C均正确"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 83,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "依活动过程的特点，可以将动机分为____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 交往动机和威信动机",
+            "B. 社会动机和局部动机",
+            "C. 外部动机和内部动机",
+            "D. 近景动机和远景动机"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 84,
+        "source": "multilanguage/ceval/urban_and_rural_planner_val.csv",
+        "question": "地下电力缆保护区的宽度为地下电力电缆线路地面标桩两侧各____所形成两平行线内区域。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0.5m",
+            "B. 0.75m",
+            "C. 1.0m",
+            "D. 1.5m"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 85,
+        "source": "multilanguage/ceval/discrete_mathematics_val.csv",
+        "question": "设G为平面图，则下面可能不正确的选项是_____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. G = (G*)*",
+            "B. G*= ((G*)*)*",
+            "C. (G*)* = (G*)*)*)*",
+            "D. ((G*)*)*= ((((G*)*)*)*)*"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 86,
+        "source": "multilanguage/ceval/operating_system_val.csv",
+        "question": "在Unix的两个文件系统之间建立文件或目录的链接命令是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ln",
+            "B. ln –s",
+            "C. ls –n",
+            "D. ls –i"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 87,
+        "source": "multilanguage/ceval/middle_school_politics_val.csv",
+        "question": "当今世界，科学技术日新月异，全球竞争不断升级，中国要把握世界的发展趋势，积极谋求自身发展，提高国际竞争力，促进发展，要把提升____放在首位。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 发展质量",
+            "B. 制造业",
+            "C. 国防实力",
+            "D. 传统产业"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 88,
+        "source": "multilanguage/ceval/environmental_impact_assessment_engineer_val.csv",
+        "question": "工业污水生产周期在8h以内的，每____采样一次。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2h",
+            "B. 4h",
+            "C. 5h",
+            "D. 6h"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 89,
+        "source": "multilanguage/ceval/middle_school_history_val.csv",
+        "question": "历史上第一个圆了人类飞上蓝天的梦想而被称为“航天飞行器的先驱”的是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 奥托",
+            "B. 莱特兄弟",
+            "C. 富兰克林",
+            "D. 蒙特哥菲尔兄弟"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 90,
+        "source": "multilanguage/ceval/marxism_val.csv",
+        "question": "社会规律与自然规律的区别在于____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 自然规律是客观的，社会规律是主观的",
+            "B. 自然规律是自发起作用的，社会规律则是通过人的有意识的活动实现的",
+            "C. 自然规律是可以被认识的，社会规律则是不可捉摸的",
+            "D. 自然规律没有政治倾向，社会规律有政治倾向"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 91,
+        "source": "multilanguage/ceval/computer_architecture_val.csv",
+        "question": "单地址双目运算类指令中，除地址码指明的一个操作数以外，另一个操作数通常采用____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 堆栈寻址方式",
+            "B. 立即寻址方式",
+            "C. 间接寻址方式",
+            "D. 隐含指定方式"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 92,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "现今的软件或是操作系统往往都有32位和64位的不同的版本，主要的区别就是32位的应用程序中，使用32个二进制位（即4字节）来表示内存地址，64位软件则是用64个二进制位表示内存地址。于是，当我们在将一个程序编译为64位的程序时，有下列语句\ncout<<sizeof(int)<<\"\"<<sizeof(int*)<<\"\";\ncout<<sizeof(double)<<\"\"<<sizeof(double*)<<endl;\n其输出会是____;",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4 4 8 8",
+            "B. 4 4 8 4",
+            "C. 4 8 8 8",
+            "D. 4 8 4 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 93,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "垄断竞争厂商获得最大利润的方法有____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 质量竞争",
+            "B. 调整价格从而确定产量",
+            "C. 广告竞争",
+            "D. 上述方法都可以"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 94,
+        "source": "multilanguage/ceval/electrical_engineer_val.csv",
+        "question": "光伏发电站调度管辖设备供电电源应采用不间断电源装置(UPS)或站内直流电源系统供电，在交流供电电源消失后，不间断电源装置带负荷运行时间应大于____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 30min",
+            "B. 40min",
+            "C. 60min",
+            "D. 120min"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 95,
+        "source": "multilanguage/ceval/college_physics_val.csv",
+        "question": "把一平凸透镜放在平玻璃上，构成牛顿环装置．当平凸透镜慢慢地向上平移时，由反射光形成的牛顿环____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 向中心收缩，条纹间隔变小",
+            "B. 向中心收缩，环心呈明暗交替变化",
+            "C. 向外扩张，环心呈明暗交替变化",
+            "D. 向外扩张，条纹间隔变大"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 96,
+        "source": "multilanguage/ceval/high_school_biology_val.csv",
+        "question": "下列叙述中最符合自由水生理功能的是:____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 运输营养物质和代谢废物",
+            "B. 与细胞内的其他物质结合",
+            "C. 作为溶剂，使无机盐成为离子状态",
+            "D. 细胞结构的组成成分"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 97,
+        "source": "multilanguage/ceval/discrete_mathematics_val.csv",
+        "question": "设图G是有6个顶点的连通图，总度数为20，则从G中删去____边后使之变成树。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 5",
+            "C. 3",
+            "D. 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 98,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "实验研究的情境和被试的代表性主要影响实验的____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 内在效度",
+            "B. 外在效度",
+            "C. 难度",
+            "D. 区分度"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 99,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "若供给曲线上每一点的点弹性都等于1，则供给曲线只能是一条____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 过原点的45线",
+            "B. 过原点的直线",
+            "C. 平行于横轴的直线",
+            "D. 垂直于横轴的直线"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 100,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "现代学位制度确立的标志是德国柏林大学创设的____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 文学博士学位",
+            "B. 医学博士学位",
+            "C. 理学博士学位",
+            "D. 哲学博士学位"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 101,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "1981年6月，在上海举行的第一次全国医学伦理道德学术讨论会确立了医德基本原则____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 救死扶伤",
+            "B. 以上都是",
+            "C. 实行社会主义人道主义",
+            "D. 全心全意为人民服务"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 102,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "在顺序表（长度为127）中插入一个元素平均要移动____个元素。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 63.5",
+            "C. 63",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 103,
+        "source": "multilanguage/ceval/veterinary_medicine_val.csv",
+        "question": "将RNA转移到硝基纤维素膜上的技术叫____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Southern印迹",
+            "B. Northern印迹",
+            "C. Western印迹",
+            "D. Eastern印迹"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 104,
+        "source": "multilanguage/ceval/middle_school_politics_val.csv",
+        "question": "现在的世界是____\r\n\r\n ①一个开放的世界 ②一个发展的世界\r\n ③一个紧密联系的世界 ④一个没有贫困和战争的世界",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ①②③",
+            "B. ①②④",
+            "C. ②③④",
+            "D. ①③④"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 105,
+        "source": "multilanguage/ceval/mao_zedong_thought_val.csv",
+        "question": "我国实施改革的目的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 巩固社会主义制度",
+            "B. 发扬社会主义民主",
+            "C. 调动广大人民群众的积极性",
+            "D. 发展社会主义的生产力"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 106,
+        "source": "multilanguage/ceval/advanced_mathematics_val.csv",
+        "question": "设$D$是全平面，$f\\left(x\\right)=\\begin{cases}\r\nx\\text{，}-1\\leq x\\leq2\\\\\r\n0\\text{，}\\text{其他}\\\\\r\n\\end{cases}$；计算$\\iint_D{f\\left(x\\right)f\\left(x^2-y\\right)}\\mathrm{d}\\sigma=$____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $\\frac{9}{4}$",
+            "B. $\\frac{5}{2}$",
+            "C. $\\frac{11}{4}$",
+            "D. 3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 107,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "把多种学科的相关内容融合在一起，构成新的课程，这是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 活动课程",
+            "B. 综合课程",
+            "C. 学科课程",
+            "D. 必修课程"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 108,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "进行税务咨询服务的核心是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 弄清咨询问题所涉及的税种",
+            "B. 收集咨询问题相关的税收政策文件",
+            "C. 分析税收政策适用条款",
+            "D. 根据需要作必要的沟通说明"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 109,
+        "source": "multilanguage/ceval/middle_school_physics_val.csv",
+        "question": "自行车的各个部分中，减小了有害摩擦的是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 车胎",
+            "B. 车把",
+            "C. 车轴",
+            "D. 脚踏板面"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 110,
+        "source": "multilanguage/ceval/mao_zedong_thought_val.csv",
+        "question": "毛泽东思想达到成熟的标志是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 新民主主义理论科学体系的形成",
+            "B. 农村包围城市革命道路理论的形成",
+            "C. 新民主主义革命基本经验的提出",
+            "D. 毛泽东军事路线的完整形成"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 111,
+        "source": "multilanguage/ceval/middle_school_mathematics_val.csv",
+        "question": "一元二次方程$x^2-3x=1$的两个实数根为$\\alpha$,$\\beta$,则$\\alpha+\\beta$的值为____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3",
+            "B. -1",
+            "C. -3",
+            "D. 1"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 112,
+        "source": "multilanguage/ceval/basic_medicine_val.csv",
+        "question": "关于维生素缺乏症的叙述，不正确的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 维生素A缺乏——夜盲症",
+            "B. 维生素D缺乏——软骨病",
+            "C. 维生素$B_1$ 缺乏——脚气病",
+            "D. 维生素$B_6$缺乏——口角炎"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 113,
+        "source": "multilanguage/ceval/electrical_engineer_val.csv",
+        "question": "无功功率不足的电力系统中，首先应采用的措施是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 改变变压器的变比",
+            "B. 采用无功补偿装置补偿无功的缺额",
+            "C. 增加发电机的有功出力",
+            "D. 调节发电机的励磁电流"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 114,
+        "source": "multilanguage/ceval/civil_servant_val.csv",
+        "question": "我们以往所理解的“现代化”概念仅仅局限于物质层面，局限于表层经济现代化，这也是迟发展国家长期存在的一个普遍性问题：在物质层面上求变的欲望很强，而在制度层面和观念层面上却是文化守成主义的，这种状况对于现代化实际进程的影响自不必说，它对于学术的影响是导致知识的流俗化。不断地更换新词语，在新词语的装潢下重复古老的思想观念，结果是词语和口号不断地更换而社会精神气质则没有实质性的变化。 这段文字要表达的主要意思是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 现代化应包括物质的、制度的、观念的三个层面",
+            "B. 片面理解现代化是迟发展国家长期存在的一个普遍性问题",
+            "C. 物质层面的落后现状是迟发展国家片面理解现代化的一个重要因素",
+            "D. 片面理解现代化会导致知识的流俗化"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 115,
+        "source": "multilanguage/ceval/high_school_history_val.csv",
+        "question": "清末民初，在广大乡村，以传统畜力车及木船为主，虽有自行车和公共汽车，但发展缓慢。这说明当时我国____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 农村封闭状态严重",
+            "B. 城乡交通差距较大",
+            "C. 新旧交通工具并存",
+            "D. 近代交通开始改革"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 116,
+        "source": "multilanguage/ceval/modern_chinese_history_val.csv",
+        "question": "七届二中全会召开的地点是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 北平",
+            "B. 延安",
+            "C. 西柏坡",
+            "D. 上海"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 117,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "M公司资金周转出现困难，其法定代表人甲向好友乙借款100万元，甲把自己的宝马汽车抵押给乙，抵押合同中约定若甲不能按时还钱，甲的宝马汽车归乙所有。下列说法正确的是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 该抵押未登记，乙的抵押权未生效",
+            "B. 甲、乙的约定无效",
+            "C. 甲、乙的约定经登记才有效",
+            "D. 甲应把自己的汽车交付给乙，抵押权才生效"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 118,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "系统的周期性检查维护中，每季度至少进行一次检查与维护的是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 喷头完好情况",
+            "B. 报警阀组的试水阀放水及其启动性能测试",
+            "C. 电磁阀启动测试",
+            "D. 水泵接合器通水加压测试"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 119,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "根据生命周期假说，消费者的消费对积累的财富的比率的变化情况是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 在退休前，这个比率是上升的，退休后，这个比率是下降的",
+            "B. 在退休前后，这个比率保持不变",
+            "C. 在退休前后，这个比率都下降",
+            "D. 在退休前，这个比率下降，退休后，则会上升"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 120,
+        "source": "multilanguage/ceval/art_studies_val.csv",
+        "question": "____创作的《大卫》是第一件复兴了古代裸体雕像传统的作品。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 吉贝尔蒂",
+            "B. 布鲁内莱斯基",
+            "C. 多纳泰罗",
+            "D. 马萨乔"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 121,
+        "source": "multilanguage/ceval/operating_system_val.csv",
+        "question": "文件保密的目的是指防止文件被____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 篡改",
+            "B. 破坏",
+            "C. 窃取",
+            "D. 删除"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 122,
+        "source": "multilanguage/ceval/clinical_medicine_val.csv",
+        "question": "急性粒细胞性白血病时，瘤细胞在骨膜下浸润，聚集成肿块，称为____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 棕色瘤",
+            "B. 黄色瘤",
+            "C. 绿色瘤",
+            "D. Wilms瘤"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 123,
+        "source": "multilanguage/ceval/ideological_and_moral_cultivation_val.csv",
+        "question": "马克思主义理想信念的基础是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 信仰",
+            "B. 科学",
+            "C. 坚定",
+            "D. 革命"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 124,
+        "source": "multilanguage/ceval/electrical_engineer_val.csv",
+        "question": "根据电力系统承受大扰动能力的安全稳定标准，发生____故障时允许采取切机和切负荷等稳定控制措施。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 任一发电机跳闸或失磁",
+            "B. 直流输电线路单极",
+            "C. 受端系统任一变压器故障退出运行",
+            "D. 任一段母线"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 125,
+        "source": "multilanguage/ceval/college_chemistry_val.csv",
+        "question": "HCl，HBr，HI三种物质的沸点依次升高的主要原因是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 范德华力减小",
+            "B. 取向力增大",
+            "C. 诱导力增大",
+            "D. 色散力增大"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 126,
+        "source": "multilanguage/ceval/college_chemistry_val.csv",
+        "question": "若$[ML_4]^{2+}$的$K_f=a$，$[MY_4]^{2-}$的$K_f=b$，则反应$[ML_4]^{2+}+4Y^-=[MY_4]^{2-}+4L$的平衡常数K为____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ab",
+            "B. a+b",
+            "C. a/b",
+            "D. b/a"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 127,
+        "source": "multilanguage/ceval/business_administration_val.csv",
+        "question": "边际贡献率和变动成本率____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 反方向变化",
+            "B. 同方向变化",
+            "C. 同比例变化",
+            "D. 反比例变化"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 128,
+        "source": "multilanguage/ceval/civil_servant_val.csv",
+        "question": "下列没有歧义的一项是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 几个派出所的民警。",
+            "B. 法院门前的石狮子。",
+            "C. 这份起诉书我写不好。",
+            "D. 咬死了主人的藏獒。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 129,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "将一棵有100个结点的完全二叉树从根这一层开始，每一层上从左到右依次对结点进行编号，根结点的编号为1，则编号为49的结点的左孩子编号为____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 98",
+            "B. 99",
+            "C. 50",
+            "D. 48"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 130,
+        "source": "multilanguage/ceval/high_school_chinese_val.csv",
+        "question": "下列各句中加下划线的成语使用恰当的一句是：____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 你的这个$\\underline{不情之请}$让我很为难，过两天我再答复你吧。",
+            "B. 对于学到的原理，他都要拿实物来做实验，求得彻底了解，决不$\\underline{囫囵吞枣}$，马虎了事。",
+            "C. 峨眉山是闻名中外的旅游胜地，素有“峨眉天下秀”之誉其巍峨磅礴，重峦叠嶂，山山有奇景，十里不同天，真是$\\underline{巧夺天工}$。",
+            "D. 在学习上也是这样，吃别人嚼过的馍不香，要善于动脑筋，$\\underline{师心自用}$，才能学深学透。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 131,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "新凯恩斯主义者认为，劳动供过于求时，____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 会产生非自愿性失业",
+            "B. 工资会跌落",
+            "C. 一方面会产生非自愿性失业，一方面工资会跌落",
+            "D. 工资并不会跌落，非自愿性失业也不会产生"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 132,
+        "source": "multilanguage/ceval/middle_school_physics_val.csv",
+        "question": "下列实例中关于压强和摩擦力的说法正确的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 轴承中装有滚珠是为了增大摩擦",
+            "B. 磁悬浮列车悬浮行驶是为了增大摩擦",
+            "C. 鸟的嘴很尖细，在凿树时可以减小压强",
+            "D. 月球车装有很多轮子是为了减小压强"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 133,
+        "source": "multilanguage/ceval/accountant_val.csv",
+        "question": "甲公司是牛肉生产、加工及零售企业。近期甲公司开始考虑将其业务扩展到国际市场，在劳工成本较低的越南设立统一的牛肉加工厂，并在多个国家从事牛肉加工食品零售业务。甲公司管理层采用集权式管理方式，为确保牛肉加工食品的质量，甲公司计划将所有原料牛在日本农场饲养。根据以上内容，适合甲公司选择的国际化发展战略是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 多元化成长战略",
+            "B. 全球化战略",
+            "C. 多国化战略",
+            "D. 跨国化战略"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 134,
+        "source": "multilanguage/ceval/middle_school_physics_val.csv",
+        "question": "歌词“小小竹排江中游，巍巍青山两岸走”，前句描述的运动物体和后一句的参照物分别是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 青山 青山",
+            "B. 竹排 青山",
+            "C. 竹排 竹排",
+            "D. 青山 竹排"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 135,
+        "source": "multilanguage/ceval/accountant_val.csv",
+        "question": "注册会计师甲选择了A公司2017年整个会计期间的会计分录和其他调整进行会计分录测试时，在确定对总体完整性时执行了下列程序中不恰当的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 从被审计单位会计信息系统中导出所有待测试会计分录和其他调整，并将总账与财务报表核对，以检查是否存在其他调整",
+            "B. 加计从会计信息系统中导出的所有会计分录和其他调整中的本期发生额，与科目余额表中的各科目本期发生额核对相符",
+            "C. 将系统生成的重要账户余额与明细账和总账及科目余额表中的余额核对，测试计算准确性",
+            "D. 检查所有结账前作出的与本期财务报表有关的会计分录和其他调整，测试其完整性"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 136,
+        "source": "multilanguage/ceval/college_physics_val.csv",
+        "question": "设用频率为ν_1和ν_2的两种单色光，先后照射同一种金属均能产生光电效应。已知金属的红限频率为ν_0，测得两次照射时的遏止电压|U_{a2}|=2|U_{a1}|，则这两种单色光的频率有如下关系：____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ν_2=ν_1-ν_0",
+            "B. ν_2=ν_1+ν_0",
+            "C. ν_2=2ν_1-ν_0",
+            "D. ν_2=ν_1-2ν_0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 137,
+        "source": "multilanguage/ceval/operating_system_val.csv",
+        "question": "在请求分页系统中，页面置换算法常用的是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 最优淘汰算法",
+            "B. 首次适应算法",
+            "C. 最近最少使用淘汰算法",
+            "D. 最佳适应算法"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 138,
+        "source": "multilanguage/ceval/basic_medicine_val.csv",
+        "question": "乙型脑炎的特征性病变是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 血管淋巴套形成",
+            "B. 软化灶形成",
+            "C. 胶质细胞增生",
+            "D. 卫星现象"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 139,
+        "source": "multilanguage/ceval/modern_chinese_history_val.csv",
+        "question": "北伐战争对准的军阀是____①吴佩孚②孙传芳③张作霖④段祺瑞",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ①②③",
+            "B. ②③④",
+            "C. ①③④",
+            "D. ①②③④"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 140,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "三个关节同时受累，称为____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 单关节炎",
+            "B. 多关节炎",
+            "C. 对称性关节炎",
+            "D. 少关节炎"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 141,
+        "source": "multilanguage/ceval/middle_school_chemistry_val.csv",
+        "question": "逻辑推理是学习化学常用的思维方法，下列推理正确的是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 物质燃烧都能放热，能放热的化学反应都是燃烧",
+            "B. 有机化合物都含有碳元素，则含有碳元素的化合物都是有机物",
+            "C. 碱性溶液可以使石蕊溶液变蓝，则能使石蕊溶液变蓝的溶液都显碱性",
+            "D. 中和反应生成盐和水，则生成盐和水的反应都是中和反应"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 142,
+        "source": "multilanguage/ceval/sports_science_val.csv",
+        "question": "柔道项目中的“得意技”指的是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 基本技术",
+            "B. 特长技术",
+            "C. 高难度技术",
+            "D. 全面技术"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 143,
+        "source": "multilanguage/ceval/middle_school_politics_val.csv",
+        "question": "要坚持市场在资源配置中起决定性作用，其原因有____ \r\n\r\n①为了保持经济发展的活力 ②市场配置资源是最有效率的形式\r\n③政府履行职能可以保持宏观经济的稳定 ④可以加强和优化公共服务，促进共同富裕",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ①②",
+            "B. ①③",
+            "C. ②④",
+            "D. ③④"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 144,
+        "source": "multilanguage/ceval/legal_professional_val.csv",
+        "question": "张三和李四的房屋纠纷一案，经武汉市洪山区基层法院判决房屋归张三所有。生效法律文书作出后，王五认为房屋归自己所有，向法院提起第三人撤销之诉，检察院认为原判决错误，提起抗诉，法院裁定再审。下列关于这两种程序说法哪一项是正确的?____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 王五的第三人撤销之诉和检察院的抗诉均应向武汉市中级人民法院提出",
+            "B. 因王五先提起第三人撤销之诉，法院应先审理第三人撤销之诉，中止再审程序",
+            "C. 法院应该优先审理再审，将第三人撤销之诉并人再审",
+            "D. 法院应该优先审理再审，将第三人撤销之诉并人再审，但张三、李四恶意串通损害王五合法权益的，则第三人撤销之诉优先"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 145,
+        "source": "multilanguage/ceval/clinical_medicine_val.csv",
+        "question": "慢性胃溃疡最常见的并发症是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 幽门狭窄",
+            "B. 穿孔",
+            "C. 出血",
+            "D. 癌变"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 146,
+        "source": "multilanguage/ceval/accountant_val.csv",
+        "question": "下列各项中，不能增加企业核心竞争力的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 产品差异化",
+            "B. 购买生产专利权",
+            "C. 创新生产技术",
+            "D. 聘用生产外包商"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 147,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "社会技术进步导致部分人不适应工作岗位要求，由此产生的失业属于____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 自愿性失业",
+            "B. 结构性失业",
+            "C. 需求不足的失业",
+            "D. 摩擦性失业"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 148,
+        "source": "multilanguage/ceval/accountant_val.csv",
+        "question": "目前越来越普遍的显示主要绩效数据的方法是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 以图解方法通过屏幕显示",
+            "B. 以口头的方式公开展示",
+            "C. 以文字的形式出版展示",
+            "D. 以报表的形式对外列报"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 149,
+        "source": "multilanguage/ceval/metrology_engineer_val.csv",
+        "question": "长方形面积是通过测量其长度和宽度用其乘积来确定的，同体密度是根据测量物体的质量和体积的结果，按密度定义公式计算的。这种测量方法通常称为____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 定义测量法",
+            "B. 替代测量法",
+            "C. 间接测量法",
+            "D. 符合测量法"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 150,
+        "source": "multilanguage/ceval/operating_system_val.csv",
+        "question": "为了文件的保密，可以用____的方法使文件的内容对其他主体无意义。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 存取控制表",
+            "B. 隐蔽文件目录",
+            "C. 设置口令",
+            "D. 使用密码"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 151,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "整个社会实践活动过程中，____得到充分体现。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 教师的主体性",
+            "B. 学生的主体性",
+            "C. 教师的指导作用",
+            "D. 活动的灵活性"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 152,
+        "source": "multilanguage/ceval/civil_servant_val.csv",
+        "question": "3，5，16，82，1315，____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 107834",
+            "B. 12849",
+            "C. 12847",
+            "D. 108847"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 153,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "下列关于火灾自动报警系统通讯常见故障的排除方法叙述，错误的是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 更换设备，使设备供电正常，关闭报警控制器",
+            "B. 检查区域报警控制器与集中报警控制器的通讯线路，若存在开路、短路、接地接触不良等故障，更换线路",
+            "C. 检查区域报警控制器与集中报警控制器的通讯板，若存在故障，维修或更换通讯板",
+            "D. 若因为探测器或模块等设备造成通讯故障，更换或维修相应设备"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 154,
+        "source": "multilanguage/ceval/business_administration_val.csv",
+        "question": "最早对管理的具体职能加以概括和系统论述的是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 泰罗",
+            "B. 法约尔",
+            "C. 孔茨",
+            "D. 韦伯"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 155,
+        "source": "multilanguage/ceval/business_administration_val.csv",
+        "question": "当两个投资方案为互斥选择时，应优先选择____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 净现值大的方案",
+            "B. 现值指数大的方案",
+            "C. 内含报酬率大的方案",
+            "D. 投资额小的方案"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 156,
+        "source": "multilanguage/ceval/business_administration_val.csv",
+        "question": "下列各项，对一般纳税企业来说，一般不构成外购存货成本的是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 入库前的仓储费",
+            "B. 进口关税",
+            "C. 支付的增值税",
+            "D. 运输费用"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 157,
+        "source": "multilanguage/ceval/legal_professional_val.csv",
+        "question": "王某系聋哑人，因涉嫌盗窃罪被提起公诉。关于本案，下列哪一选项是正确的?____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 讯问王某时，如有必要可通知通晓聋哑手势的人参加",
+            "B. 王某没有委托辩护人，应通知法律援助机构指派律师为其提供辩护",
+            "C. 辩护人经通知未到庭，经王某同意，法院决定开庭审理",
+            "D. 因事实清楚且王某认罪，实行独任审判"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 158,
+        "source": "multilanguage/ceval/probability_and_statistics_val.csv",
+        "question": "设随机变量$X$和$Y$相互独立，且X$\\sim N(0，1)，Y\\sim N(0$，2)，则$D\\left(X^2Y^2\\right)=$____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 20",
+            "C. 32",
+            "D. 45"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 159,
+        "source": "multilanguage/ceval/high_school_physics_val.csv",
+        "question": "在物理学的重大发现中科学家们创造出了许多物理学研究方法，如理想实验法、控制变量法 、极限思想法、微元法和建立物理模型法等。以下关于所用物理学研究方法的叙述正确的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 在物体本身的大小和形状对研究的问题影响非常小时，物体可简化为一个具有质量的点，这种方法叫极限思想法",
+            "B. 根据功率的定义式，当时间间隔非常小时，就可以用这一间隔内的平均功率表示间隔内某一时刻的瞬时功率，这应用了控制变量法",
+            "C. 如果一个力的作用效果与另外两个力的作用效果相同，这个力就是那两个力的合力。这里采用了理想实验法",
+            "D. 在推导弹簧弹力做功的表达式时，把整个做功过程划分成很多小段，每一小段近似看作恒力做功，然后把各小段弹力所做的功相加，这里采用了微元法"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 160,
+        "source": "multilanguage/ceval/chinese_language_and_literature_val.csv",
+        "question": "音位是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 最小的语音语义结合体",
+            "B. 一个语音系统中能区别意义的最小语音单位",
+            "C. 语言中最小的能区别意义的语音特征单位",
+            "D. 语言中有区别性特征的最小语音单位"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 161,
+        "source": "multilanguage/ceval/high_school_geography_val.csv",
+        "question": "1992年韩国三星电子在惠州建工厂首要的有利条件是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 劳动力充足，薪资水平低",
+            "B. 我国市场巨大",
+            "C. 治理污染费用较低",
+            "D. 地价便宜"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 162,
+        "source": "multilanguage/ceval/electrical_engineer_val.csv",
+        "question": "普通变压器组距离风力发电机组的距离满足DL/T 5383—2007《风力发电场设计技术规范》5.1.5中的规定。箱式变压器组距离风力发电机组____10m。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 不应大于",
+            "B. 不应小于",
+            "C. 应大于",
+            "D. 应小于"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 163,
+        "source": "multilanguage/ceval/clinical_medicine_val.csv",
+        "question": "男性，65岁。昏迷10小时。血气分析：$pH$ 7．26，$PaCO_2$82mmHg，$PaO_2$ 45mmHg。下列哪项处理不适宜____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 机械通气",
+            "B. 呼吸兴奋剂",
+            "C. 支持疗法",
+            "D. 高浓度给氧"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 164,
+        "source": "multilanguage/ceval/business_administration_val.csv",
+        "question": "《价格法》并没有对所有的价格歧视都加以禁止，应加以禁止的价格歧视行为是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 甲企业对乙企业和丙企业提供相同的商品或服务，但实行不同的价格",
+            "B. 运输企业对老人、在岗人员和学生制定不同的价格",
+            "C. 寒暑假期间，民航对乘坐飞机的教师可凭教师证给予7折优惠",
+            "D. 电信部门对单位用市话和家庭用市话制定不同的收费标准"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 165,
+        "source": "multilanguage/ceval/plant_protection_val.csv",
+        "question": "与保卫细胞的水势变化关系最密切的离子是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $Ca^{2+}$",
+            "B. $K^+$",
+            "C. $Cl^-$",
+            "D. $Mg^{2+}$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 166,
+        "source": "multilanguage/ceval/college_physics_val.csv",
+        "question": "对于沿曲线运动的物体，以下几种说法中哪一种是正确的____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 切向加速度必不为零",
+            "B. 法向加速度必不为零（拐点处除外）",
+            "C. 由于速度沿切线方向，法向分速度必为零，因此法向加速度必为零",
+            "D. 若物体作匀速率运动，其总加速度必为零"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 167,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "目前认为多数人类肾小球疾病是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 遗传性疾病",
+            "B. 是细菌感染性疾病",
+            "C. 免疫介导的疾病",
+            "D. 免疫缺陷性疾病"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 168,
+        "source": "multilanguage/ceval/marxism_val.csv",
+        "question": "我国改革开放20多年来发生了历史性的巨变，但仍然是一个发展中国家，这体现了____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 世界的物质统一性原理",
+            "B. 物质和意识的辩证关系原理",
+            "C. 物质运动和时空不可分割的观点",
+            "D. 运动和静止相统一的观点"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 169,
+        "source": "multilanguage/ceval/urban_and_rural_planner_val.csv",
+        "question": "为了定量分析采取某项措施对于减少城市污染的效果，所开发的系统属于____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 决策支持系统",
+            "B. 事务管理系统",
+            "C. 管理信息系统",
+            "D. 专家系统"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 170,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "男，60岁，便秘、间断便血10余年，便后有肿物自肛门脱出，质软，可以还纳，诊断为____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 内痔脱出",
+            "B. 肠完全脱出",
+            "C. 外痔",
+            "D. 血栓外痔"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 171,
+        "source": "multilanguage/ceval/high_school_history_val.csv",
+        "question": "中国读书人历来“耻于言商，耻于言利”，而清末状元张謇却放弃仕途，投身于近代工商业。这里反映出的时代观念是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 实业救国",
+            "B. 工商皆本",
+            "C. 重利轻义",
+            "D. 重商轻农"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 172,
+        "source": "multilanguage/ceval/logic_val.csv",
+        "question": "陈先生在鼓励他的孩子时说道：“不要害怕暂时的困难和挫折。不经历风雨怎么见彩虹?”他孩子不服气地说：“您说得不对。我经历了那么多风雨，怎么就没见到彩虹呢?”陈先生孩子的回答最适宜用来反驳以下哪项____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 即使经历了风雨，也可能见不到彩虹。",
+            "B. 只要经历了风雨，就可以见到彩虹。",
+            "C. 只有经历风雨，才能见到彩虹。",
+            "D. 如果想见到彩虹，就必须经历风雨。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 173,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "关于爆炸极限在消防上的应用，下列说法错误的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 爆炸极限是评定可燃气体火灾危险性大小的依据",
+            "B. 爆炸范围越大，下限越低，火灾危险性就越大",
+            "C. 根据爆炸极限可以确定建筑物耐火等级、层数、安全疏散距离等",
+            "D. 生产、储存爆炸下限＞10%的可燃气体，应选用隔爆型防爆电气设备"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 174,
+        "source": "multilanguage/ceval/accountant_val.csv",
+        "question": "宏远海运公司为了加强对损失事件的管理成立了一家附属机构，其职责是用母公司提供的资金建立损失储备金，并为母公司提供保险。宏远海运公司管理损失的方法是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 专业自保",
+            "B. 保险",
+            "C. 损失融资",
+            "D. 风险成本"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 175,
+        "source": "multilanguage/ceval/middle_school_chemistry_val.csv",
+        "question": "物质的性质决定物质的用途，下列物质的用途与化学性质相关的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 铜丝用作导线",
+            "B. 金刚石用于切割玻璃",
+            "C. 干冰用于人工降雨",
+            "D. 熟石灰用于改良酸性土壤"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 176,
+        "source": "multilanguage/ceval/sports_science_val.csv",
+        "question": "腿部肌肉中快肌纤维百分组成占优势的人，较适宜从事的运动项目是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 800m跑",
+            "B. 1 500m跑",
+            "C. 100m跑",
+            "D. 1 500m游泳"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 177,
+        "source": "multilanguage/ceval/teacher_qualification_val.csv",
+        "question": "近代原子核物理学之父是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 普朗克",
+            "B. 卢瑟福",
+            "C. 玻尔",
+            "D. 霍金"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 178,
+        "source": "multilanguage/ceval/probability_and_statistics_val.csv",
+        "question": "设随机变量$(X,Y)$的概率密度为$f(x,y)=\\left\\{\\begin{array}{cc}6y,&0<x<1,0<y<x，\\\\0,&\\text{其他.}\\end{array}\\right.$,$$\\text{则}P\\left(X>\\frac{1}{2}\\mid Y=\\frac{1}{3}\\right)=$$____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $\\frac{3}{4}$",
+            "B. $\\frac{2}{3}$",
+            "C. $\\frac{1}{4}$",
+            "D. $\\frac{1}{3}$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 179,
+        "source": "multilanguage/ceval/chinese_language_and_literature_val.csv",
+        "question": "关于词的本义和基本义的关系，下列表述正确的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 完全不一致",
+            "B. 完全一致",
+            "C. 本义比基本义更常用",
+            "D. 基本义比本义更常用"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 180,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "财政政策和货币政策的有效性在很大程度上取决于____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 决策人的意愿",
+            "B. IS和LM曲线的交点",
+            "C. IS和LM曲线的斜率",
+            "D. 货币供应量"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 181,
+        "source": "multilanguage/ceval/urban_and_rural_planner_val.csv",
+        "question": "下列关于建筑与等高线之间关系的表述，错误的是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 建筑与等高线平行",
+            "B. 建筑与等高线垂直",
+            "C. 建筑与等高线重合",
+            "D. 建筑与等高线斜交"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 182,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "罗杰斯提出的学习动机理论是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 需要层次论",
+            "B. 强化理论",
+            "C. 自我效能感理论",
+            "D. 自由学习理论"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 183,
+        "source": "multilanguage/ceval/veterinary_medicine_val.csv",
+        "question": "主要分布在肝脏的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 碱性磷酸酶",
+            "B. 酸性磷酸酶",
+            "C. 单胺氧化酶",
+            "D. 谷丙转氨酶"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 184,
+        "source": "multilanguage/ceval/computer_architecture_val.csv",
+        "question": "某计算机字长32位，其存储容量是1MB。若按字编址，它的寻址范围是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0～1M",
+            "B. 0～512K",
+            "C. 0～256K",
+            "D. 0～256KB"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 185,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "甲、乙、丙成立一家科贸有限公司，约定公司注册资本100万元，甲、乙、丙各按20%、30%、50%的比例出资。甲、乙缴足了出资，丙仅实缴30万元。公司章程对于红利分配没有特别约定。当年年底公司进行分红。对此，下列说法中正确的是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 丙只能按30%的比例分红",
+            "B. 应按实缴注册资本80万元，由甲、乙、丙按各自的实际出资比例分红",
+            "C. 由于丙违反出资义务，其他股东可通过决议取消其当年分红资格",
+            "D. 丙有权按50%的比例分红，但应当承担未足额出资的违约责任"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 186,
+        "source": "multilanguage/ceval/middle_school_mathematics_val.csv",
+        "question": "下列判断错误的的是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $2x^{2}y^{2}$是二次单项式",
+            "B. 单项式 $a$的系数和次数都是 1",
+            "C. 数字3是单项式",
+            "D. $2\\pi r$的系数是$2\\pi$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 187,
+        "source": "multilanguage/ceval/metrology_engineer_val.csv",
+        "question": "稳定性是指测量仪器保持其计量特性随时间____的能力。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 响应变化",
+            "B. 慢变化",
+            "C. 稳定",
+            "D. 恒定"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 188,
+        "source": "multilanguage/ceval/high_school_geography_val.csv",
+        "question": "高技术工业区通常的特点有____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 研究开发人员多",
+            "B. 生产产品全部面向国内市场",
+            "C. 产品更新换代快",
+            "D. 从业人员全部是科学家和工程师"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 189,
+        "source": "multilanguage/ceval/art_studies_val.csv",
+        "question": "在西方音乐历史上被誉为“交响乐之父”的是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 贝多芬",
+            "B. 莫扎特",
+            "C. 海顿",
+            "D. 舒伯特"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 190,
+        "source": "multilanguage/ceval/high_school_chinese_val.csv",
+        "question": "下列各句中，没有语病的一项是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 以“伟大历程辉煌成就”为主题的纪念新中国成立70周年展览在北京拉开帷幕，该展览采用编年体的形式为主全方位回顾了中国人民走过的辉煌历程。",
+            "B. 经过主创团队对经典故事的大胆改编，《哪吒》不仅保留了原作精华，还融入了具有时代元素的内容，因此成功斩获暑期电影最佳口碑。",
+            "C. 网络谣言对社会的破坏力是巨大的，如不及时扑灭，对公众造成的创伤，乃至引起社会动荡，也不是完全不可能的。",
+            "D. 垃圾分类工作能否执行到位，一方面取决于政府相关法律法规的约束力，另一方面也取决于市民的环保意识，尤其是对垃圾分类意义的认识。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 191,
+        "source": "multilanguage/ceval/ideological_and_moral_cultivation_val.csv",
+        "question": "人生观的核心____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 人生价值",
+            "B. 人生目的",
+            "C. 人生态度",
+            "D. 人生信仰"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 192,
+        "source": "multilanguage/ceval/advanced_mathematics_val.csv",
+        "question": "$x=1$是函数$f\\left(x\\right)=\\frac{bx^2+x+1}{ax+1}$的可去间断点，求$a,b$的值？____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $a=-1,b=-2$",
+            "B. $a=-2,b=-1$",
+            "C. $a=-2,b=-2$",
+            "D. $a=-1,b=0$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 193,
+        "source": "multilanguage/ceval/electrical_engineer_val.csv",
+        "question": "为节省投资、减少工程量，除用户有特殊要求外，一般工程宜采用____巡查方式。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 在线式",
+            "B. 离线式",
+            "C. 在线与离线结合",
+            "D. 以上均可"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 194,
+        "source": "multilanguage/ceval/ideological_and_moral_cultivation_val.csv",
+        "question": "爱国主义包含着情感、思想、行为三个方面，其中____是灵魂",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 情感",
+            "B. 思想",
+            "C. 行为",
+            "D. 意志"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 195,
+        "source": "multilanguage/ceval/middle_school_chemistry_val.csv",
+        "question": "将100mL水与100mL酒精混合，所得溶液体积小于200mL。下列对此现象的解释最合理的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 分子是由原子构成的",
+            "B. 分子的质量和体积都是很小的",
+            "C. 分子是不断运动的",
+            "D. 分子间是有间隔的"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 196,
+        "source": "multilanguage/ceval/civil_servant_val.csv",
+        "question": "外资银行进入新兴市场国家，新兴市场国家银行业的各主体为了维持自身的生存，会尽可能争取较大的市场份额，充分拓展自身竞争优势，努力向客户提供质优价廉的金融产品和金融服务，这个过程必然带动银行业微观效率的提升。 “这个过程”指的是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 外资银行进入新兴市场国家的过程",
+            "B. 新兴市场国家银行业发展的过程",
+            "C. 外资银行提供优质服务的过程",
+            "D. 新兴市场国家银行业扩大市场份额的过程"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 197,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "技术进步一般会导致____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 供给曲线右移",
+            "B. 供给量沿着供给曲线减少",
+            "C. 一个人增加他所消费的所有商品的数量",
+            "D. 供给量沿着供给曲线增加"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 198,
+        "source": "multilanguage/ceval/basic_medicine_val.csv",
+        "question": "cGMP能激活____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 磷脂酶C",
+            "B. 蛋白激酶A",
+            "C. 蛋白激酶G",
+            "D. 酪氨酸蛋白激酶"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 199,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "下列关于外币交易会计处理的表述中，错误的是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 外币交易在初始确认时，可以采用按照系统合理的方法确定的、与交易日即期汇率近似的汇率折算",
+            "B. 资产负债表日，对于外币货币性项目应当根据汇率变动计算汇兑差额作为财务费用，无需再计提减值准备",
+            "C. 外币交易应当在初始确认时，采用交易发生日的即期汇率或近似汇率将外币金额折算为记账本位币金额",
+            "D. 资产负债表日，对以历史成本计量的外币非货币性项目，仍采用交易发生日的即期汇率折算，不改变记账本位币金额"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 200,
+        "source": "multilanguage/ceval/clinical_medicine_val.csv",
+        "question": "附睾精液囊肿____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 精子自附睾管溢出至周围组织形成的囊肿",
+            "B. 睾丸网或输出小管扩张形成囊肿，囊肿液中可见精子或精子碎片",
+            "C. 囊肿为质硬的圆形包块",
+            "D. 囊肿与周围组织界限不清"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 201,
+        "source": "multilanguage/ceval/accountant_val.csv",
+        "question": "下列属于中央固定收入的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 增值税",
+            "B. 城市维护建设税",
+            "C. 资源税",
+            "D. 车辆购置税"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 202,
+        "source": "multilanguage/ceval/sports_science_val.csv",
+        "question": "下列能最好评价肺通气功能的指标是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 肺通气量",
+            "B. 肺活量",
+            "C. 补吸气量",
+            "D. 时间肺活量"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 203,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "供给的增加会降低价格，除非____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 供给是完全无弹性的",
+            "B. 需求是完全有弹性的",
+            "C. 需求量增加",
+            "D. 需求高度缺乏弹性"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 204,
+        "source": "multilanguage/ceval/professional_tour_guide_val.csv",
+        "question": "对我国名山的描述正确的是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 泰山有“天下第一山”之称，被列入世界自然与文化双重遗产",
+            "B. 黄山有“五岳独秀”之称，被列入世界自然与文化双重遗产",
+            "C. 华山最高峰南峰海拔1800米，自古以险闻名遐迩",
+            "D. 衡山有七十二峰，三大主峰莲花峰、天都峰、祝融峰都超过1800米"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 205,
+        "source": "multilanguage/ceval/college_chemistry_val.csv",
+        "question": "____都是广度性质。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $C_v$，Q，V，S",
+            "B. w，U，V，H",
+            "C. P，U，V，G",
+            "D. $\\mu_i$，U，H，S"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 206,
+        "source": "multilanguage/ceval/clinical_medicine_val.csv",
+        "question": "不符合病毒性肺炎描述的是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 病灶可呈小叶性分布",
+            "B. 肺泡腔内有大量渗出物",
+            "C. 可有透明膜形成",
+            "D. 肉眼观病变不明显"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 207,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "骨骼肌中Ca离子的结合位点是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 肌纤蛋白",
+            "B. 原肌凝蛋白",
+            "C. 肌钙蛋白亚单位I",
+            "D. 肌钙蛋白亚单位C"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 208,
+        "source": "multilanguage/ceval/metrology_engineer_val.csv",
+        "question": "社会公用计量标准器具由____级以上地方人民政府计量行政部门根据本地区的需要统一组织建立。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 省",
+            "B. 市",
+            "C. 县",
+            "D. 相关部门"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 209,
+        "source": "multilanguage/ceval/business_administration_val.csv",
+        "question": "下列关于不存在减值迹象的可供出售金融资产会计处理的表述，正确的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 取得时将发生的相关交易费用计入当期损益",
+            "B. 将出售的剩余部分重分类为交易性金融资产",
+            "C. 资产负债表日将公允价值与账面价值的差额计入当期损益",
+            "D. 将出售时实际收到的金额与账面价值之间的差额计入当期损益"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 210,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "下列关于电子信息机房灭火系统的设置说法不正确的是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A级信息机房的主机房应设置洁净气体灭火系统",
+            "B. B级信息机房的主机房，以及A级和B级机房中的变配电、不间断电源系统和电池室，除了可设置洁净气体灭火系统，也可设置高压细水雾灭火系统",
+            "C. C级信息机房及其他区域，可设置高压细水雾灭火系统或自动喷水灭火系统，自动喷水灭火系统宜采用湿式自动喷水灭火系统",
+            "D. 凡设置固定灭火系统及火灾探测器的计算机房，其吊顶的上、下级活动地板下，均应设置探测器和喷嘴"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 211,
+        "source": "multilanguage/ceval/metrology_engineer_val.csv",
+        "question": "某计量技术机构拟建立以一等铂电阻温度计为计量标准器的计量标准，用于检定二等铂电阻温度计，则该计量标准应命名为____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 一等铂电阻温度计检定装置",
+            "B. 一等铂电阻温度计标准装置",
+            "C. 二等铂电阻温度计标准装置",
+            "D. 二等铂电阻温度计标准器组"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 212,
+        "source": "multilanguage/ceval/teacher_qualification_val.csv",
+        "question": "有的成语与历史人物密切相关。下列选项中，与“狡兔三窟”相关的历史人物是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 管仲与齐桓公",
+            "B. 毛遂与平原君",
+            "C. 冯谖与孟尝君",
+            "D. 曹刿与鲁庄公"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 213,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "政府对餐馆的营业收入征收20%的营业税；营业收入以餐馆向顾客开具发票的总金额来确定。法律规定顾客有权索取发票。假定发票对于顾客没有任何价值，因此顾客都不开发票。这时，政府为了增加税收，推出了发票抽奖的活动。每开具100元的发票，顾客可从政府那里得到的中奖收入为10元。根据科斯定理并运用供求理论，你预计政府引入这一做法的后果是：____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 顾客开发票；政府税收增加，餐馆收入下降",
+            "B. 顾客不开发票，政府税收不变，餐馆收入下降",
+            "C. 顾客不开发票，政府税收不变，餐馆收入不变",
+            "D. 顾客开发票，政府税收不变，餐馆收入不变"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 214,
+        "source": "multilanguage/ceval/college_physics_val.csv",
+        "question": "有三个直径相同的金属小球．小球1和小球2带等量异号电荷，两者的距离远大于小球直径，相互作用力为F．小球3不带电并装有绝缘手柄．用小球3先和小球1碰一下，接着又和小球2碰一下，然后移去．则此时小球1和2之间的相互作用力为____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0",
+            "B. F/4",
+            "C. F/3",
+            "D. F/2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 215,
+        "source": "multilanguage/ceval/veterinary_medicine_val.csv",
+        "question": "蛋白质不能吸收可见光，但能吸收一定波长范围内的紫外光。大多数蛋白质在280nm波长附近有一个吸收峰，这主要与蛋白质中____的紫外吸收有关。因此，可以利用紫外吸收法，根据蛋白质溶液在280nm波长的吸收值测定蛋白质浓度",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 碱性氨基酸",
+            "B. 酸性氨基酸",
+            "C. 含硫氨基酸",
+            "D. 芳香族氨基酸"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 216,
+        "source": "multilanguage/ceval/electrical_engineer_val.csv",
+        "question": "中性点不直接接地系统的输电线路的干扰计算应符合以下____项规定。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 考虑多条输电线路的合成干扰影响",
+            "B. 对音频双线电话的干扰影响应按输电线路正常运行状态计算，同时应考虑输电线路基波和谐波电压的感应影响",
+            "C. 对音频双线电话的干扰影响应按输电线路单相接地短路故障状态计算，同时应考虑输电线路基波和谐波电压的感应影响",
+            "D. 对线-地电报回路的干扰影响应按输电线路单相接地短路故障状态计算，同时应考虑输电线路基波电流、电压的感应影响"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 217,
+        "source": "multilanguage/ceval/environmental_impact_assessment_engineer_val.csv",
+        "question": "根据《中华人民共和国环境影响评价法》，环境影响报告书除包括实施该规划对环境可能造成影响的分析、预测和评估；预防或者减轻不良环境影响的对策和措施外，还应当包括____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 规划内容",
+            "B. 环境影响评价结论",
+            "C. 详细规划情况",
+            "D. 规划情况"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 218,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "下列不属于教育科学研究方法论原则的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 理论联系实际",
+            "B. 注意理论的层次性",
+            "C. 加强综合研究",
+            "D. 改进研究的效率"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 219,
+        "source": "multilanguage/ceval/high_school_history_val.csv",
+        "question": "李四光是我国20世纪杰出的科学家，他对祖国的贡献是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 研究“两弹一星”",
+            "B. 为我国勘探石油提供了理论依据",
+            "C. 培育出高产水稻",
+            "D. 研制出巨型计算机"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 220,
+        "source": "multilanguage/ceval/middle_school_history_val.csv",
+        "question": "近代中国面临着严重的民族危机，无数仁人志士都在探求救国救民的出路。下列选项搭配不正确的是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 李鸿章→洋务运动",
+            "B. 魏源→戊戌变法",
+            "C. 孙中山→辛亥革命",
+            "D. 陈独秀→新文化运动"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 221,
+        "source": "multilanguage/ceval/professional_tour_guide_val.csv",
+        "question": "黑龙江在我国境内的最长支流是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 松花江",
+            "B. 海河",
+            "C. 鸭绿江",
+            "D. 辽河"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 222,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "下列支出不能作为长期待摊费用的是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 固定资产的大修理支出",
+            "B. 租入固定资产的改建支出",
+            "C. 外购房屋发生的装修费用",
+            "D. 已足额提取折旧的固定资产的改建支出"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 223,
+        "source": "multilanguage/ceval/law_val.csv",
+        "question": "下列不属于告诉才处理的情形是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 侵占罪",
+            "B. 侮辱罪未严重危害社会秩序和国家利益的",
+            "C. 虐待罪致使被害人重伤、死亡的",
+            "D. 暴力干涉婚姻自由罪，未致使被害人死亡的"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 224,
+        "source": "multilanguage/ceval/advanced_mathematics_val.csv",
+        "question": "设函数$f\\left(x\\right)$连续，且$f\\left(x\\right)>0$，求积分：$int_0^1{\\ln f\\left(x+t\\right)}\\mathrm{d}t=$____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $\\int_0^x{\\ln \\frac{f\\left( t+2 \\right)}{f\\left( t \\right)}}\\mathrm{d}t+\\int_0^1{\\ln f\\left( t \\right)}\\mathrm{d}t$",
+            "B. $\\int_0^1{\\ln \\frac{f\\left( t+2 \\right)}{f\\left( t \\right)}}\\mathrm{d}t+\\int_0^1{\\ln f\\left( t \\right)}\\mathrm{d}t$",
+            "C. $\\int_0^2x{\\ln \\frac{f\\left( t+1 \\right)}{f\\left( t \\right)}}\\mathrm{d}t+\\int_0^1{\\ln f\\left( t \\right)}\\mathrm{d}t$",
+            "D. $\\int_0^x{\\ln \\frac{f\\left( t+2 \\right)}{f\\left( t \\right)}}\\mathrm{d}t+\\int_0^1{\\ln f\\left( t \\right)}\\mathrm{d}t$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 225,
+        "source": "multilanguage/ceval/environmental_impact_assessment_engineer_val.csv",
+        "question": "某省建设一公路，需经过一自然保护区，则该建设项目的评价等级应为____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 一级",
+            "B. 二级",
+            "C. 三级",
+            "D. 四级"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 226,
+        "source": "multilanguage/ceval/high_school_chemistry_val.csv",
+        "question": "X、Y、Z、W、R是5种短周期元素，其原子序数依次增大。X是周期表中原子半径最小的元素，Y原子最外层电子数是次外层电子数的3倍，Z、W、R处于同一周期，R与Y处于同一主族，Z、W原子的核外电子数之和与Y、R原子的核外电子数之和相等。下列说法正确的是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 元素Y、Z、W具有相同电子层结构的离子，其半径依次增大",
+            "B. 元素X不能与元素Y形成化合物$X_2Y_2$",
+            "C. 元素Y、R分别与元素X形成的化合物的热稳定性：$X_mY > X_mR$",
+            "D. 元素W、R的最高价氧化物的水化物都是强酸"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 227,
+        "source": "multilanguage/ceval/mao_zedong_thought_val.csv",
+        "question": "我国人民代表大会制度组织和活动的基本原则是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 人民当家作主的原则",
+            "B. 民主集中制的原则",
+            "C. 在宪法和法律范围内活动的原则",
+            "D. 公平、公正、公开的原则"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 228,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "以下关于迁移的理解中，错误的是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 从一般平行四边形有关内容的掌握影响菱形的学习，属于自上而下的垂直迁移",
+            "B. 在同化迁移中，原有认知结构在迁移中不发生实质性改变，只得到某种充实",
+            "C. 处于同一概括水平的经验之间的相互影响是垂直迁移",
+            "D. 定势迁移的影响表现为促进和阻碍"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 229,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "境外旅客购物离境退税的方式包括现金退税和银行转账退税两种方式。自行选择退税方式时，退税额应未超过____元。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 500",
+            "B. 1000",
+            "C. 5000",
+            "D. 10000"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 230,
+        "source": "multilanguage/ceval/logic_val.csv",
+        "question": "许多公司目前都为雇员免费提供健身、缓解压力或戒烟的服务项目。这些项目增加了员工的生产力，减少了缺勤率，并降低了员工的健康保险费。因此，这些服务项目不但有益于公司，而且有利于员工个人。以下哪项如果为真，最能构成对上述论证的支持?____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 健身是公司为员工所提供的最常见的服务项目。",
+            "B. 有研究表明，在有压力的管理环境中，训练对许多人都是无效的。",
+            "C. 有规律的锻炼可以减少心脏病发病率并使人的精力更加充沛。",
+            "D. 过快地参加大运动量的健身活动有时会造成运动伤害。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 231,
+        "source": "multilanguage/ceval/accountant_val.csv",
+        "question": "下列关于货币市场的表述中，正确的是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 交易的证券期限长",
+            "B. 利率或要求的报酬率较高",
+            "C. 主要功能是保持金融资产的流动性",
+            "D. 主要功能是进行长期资本的融通"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 232,
+        "source": "multilanguage/ceval/high_school_politics_val.csv",
+        "question": "工业遗产作为城市历史文化的缩影，具备得天独厚的城市属性，而工业遗产的可持续利用在其重新定义自身价值的同时，更能够织补城市空间，为城市注入发展新动能。以新首钢园区为代表，充分挖掘工业遗产的历史文化和时代价值，植入冬奥元素和文化功能，为市民创造新的城市活力空间，以重大赛会带动区域的整体更新。如今，首钢园已经由老旧工业厂房蜕变为城市新兴空间，成为市民休闲娱乐的“网红打卡地”。这一做法有利于____\n①拓展城市文化空间，增强城市文化氛围\n②秉持修旧如旧原则，重新恢复企业原貌\n③抓住奥运商机，保证体育产业企业盈利\n④盘活原有资源，提升公共文化服务水平",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ①③",
+            "B. ①④",
+            "C. ②③",
+            "D. ②④"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 233,
+        "source": "multilanguage/ceval/middle_school_chemistry_val.csv",
+        "question": "下列成语中不涉及化学变化的是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 星火燎原",
+            "B. 披荆斩棘",
+            "C. 死灰复燃",
+            "D. 百炼成钢"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 234,
+        "source": "multilanguage/ceval/electrical_engineer_val.csv",
+        "question": "某变电站有一组双星形接线的35kV电容器组，每星的每相有2个串联段，每段由5台1000kvar电容器并联组成，此电容器组的总容量为____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 15000kvar",
+            "B. 20000kvar",
+            "C. 30000kvar",
+            "D. 60000kvar"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 235,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "在不考虑税收和补贴的情况下，企业将资本的租金成本计算为____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 实际利率",
+            "B. 资本品价格×(名义利率减去通货膨胀率再加上折旧率)",
+            "C. 名义利率减去折旧率",
+            "D. 名义利率"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 236,
+        "source": "multilanguage/ceval/middle_school_history_val.csv",
+        "question": "英国资产阶级革命前，新贵族和旧贵族的主要区别在于他们____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 对君主专制的态度",
+            "B. 身份和地位",
+            "C. 对人民的态度",
+            "D. 采用的生产方式"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 237,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "下列设施中，不属于消防车取水用的设施是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 市政消火栓",
+            "B. 水泵接合器",
+            "C. 消防水池取水口",
+            "D. 消防水鹤"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 238,
+        "source": "multilanguage/ceval/mao_zedong_thought_val.csv",
+        "question": "九届人大二次会议正式将“依法治国”写入宪法，这一政策的核心是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 人民当家作主",
+            "B. 民主与法制的结合",
+            "C. 法治代替人治",
+            "D. 有法可依，有法必依，执法必严，违法必究"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 239,
+        "source": "multilanguage/ceval/middle_school_history_val.csv",
+        "question": "七年级（一）班本月负责学校文化长廊的黑板报设计，他们选定的主题是“唐代的中外交往”，并拟定了如下四个标题，请你帮他们指出哪一项是不恰当的____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 文成公主与松赞干布成亲",
+            "B. 鉴真东渡宣扬中国文化",
+            "C. 玄奘西游天竺取经",
+            "D. 日本派遣唐使来华"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 240,
+        "source": "multilanguage/ceval/middle_school_geography_val.csv",
+        "question": "从有利于人类生存的角度看，你应该把“家”选在____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 南极地区",
+            "B. 撒哈拉沙漠",
+            "C. 喜马拉雅山",
+            "D. 长江中下游平原"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 241,
+        "source": "multilanguage/ceval/college_physics_val.csv",
+        "question": "在双缝干涉实验中，两条缝的宽度原来是相等的。若其中一缝的宽度略变窄(缝中心位置不变)，则____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 干涉条纹的间距变宽",
+            "B. 干涉条纹的间距变窄",
+            "C. 干涉条纹的间距不变，但原极小处的强度不再为零",
+            "D. 不再发生干涉现象"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 242,
+        "source": "multilanguage/ceval/environmental_impact_assessment_engineer_val.csv",
+        "question": "根据《环境影响评价技术导则生态影响》(HJ19—2011)，生态现状评价涉及受保护的敏感物种时，应重点分析该敏感物种的____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 生态学特征",
+            "B. 结构",
+            "C. 变化趋势",
+            "D. 功能"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 243,
+        "source": "multilanguage/ceval/marxism_val.csv",
+        "question": "划分唯物主义同唯心主义的唯一的标准是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 世界是否可知的问题",
+            "B. 思维和存在何者第一性的问题",
+            "C. 世界是否运动变化的问题",
+            "D. 是否承认世界统一的问题"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 244,
+        "source": "multilanguage/ceval/probability_and_statistics_val.csv",
+        "question": "设总体$X$服从拉普拉斯分布$f(x,\\lambda)=\\frac{1}{4\\lambda}e^{-\\frac{|x|}{2\\lambda}},-\\infty<x<\\infty$,其中$\\lambda>0$。则$E(|X|)=$____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $\\frac{1}{2 \\lambda}$",
+            "B. $\\frac{1}{\\lambda}$",
+            "C. $2 \\lambda$",
+            "D. $\\lambda$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 245,
+        "source": "multilanguage/ceval/accountant_val.csv",
+        "question": "因土地规模化耕种需要，农村居民张某经批准搬迁，搬迁前住宅占用耕地220平方米，搬迁后新建自用住宅占用耕地260平方米(规定用地标准内)，当地耕地占用税税额每平方米20元，张某应缴纳耕地占用税____元。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0",
+            "B. 400",
+            "C. 800",
+            "D. 2600"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 246,
+        "source": "multilanguage/ceval/college_physics_val.csv",
+        "question": "两瓶不同种类的理想气体，它们的温度和压强都相同，但体积不同，则单位体积内的气体分子数$n$，单位体积内的气体分子的总平动动能($E_K/V$)，单位体积内的气体质量$\\rho$，分别有如下关系：____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $n$不同，($E_K/V$)不同，$\\rho$不同",
+            "B. $n$不同，($E_K/V$)不同，$\\rho$相同",
+            "C. $n$相同，($E_K/V$)相同，$\\rho$不同",
+            "D. $n$相同，($E_K/V$)相同，$\\rho$相同"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 247,
+        "source": "multilanguage/ceval/education_science_val.csv",
+        "question": "依据赫尔巴特的教学阶段论，当学生的兴趣处于“期待”时，教学阶段是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 明了",
+            "B. 联想",
+            "C. 系统",
+            "D. 方法"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 248,
+        "source": "multilanguage/ceval/high_school_biology_val.csv",
+        "question": "用普通小麦（为六倍体）的花粉经花药离体培养技术培育成的植株是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 单倍体，体细胞内含有一个染色体组",
+            "B. 单倍体，体细胞内含有三个染色体组",
+            "C. 三倍体，体细胞内含有三个染色体组",
+            "D. 六倍体，体细胞内含有六个染色体组"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 249,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "下列情况灭火器及灭火器箱质量保证文件检查判定为不合格的是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 每具灭火器及其挂钩、托架等附件，灭火器箱，发光指示标志均有对应的出厂合格证",
+            "B. 到场灭火器箱、灭火器及其配件的类型、规格、数量，以及灭火器的灭火级别等，与经消防设计审核、备案检查合格的建设工程消防设计文件要求一致",
+            "C. 到场灭火器、灭火器箱的外观、标志、规格型号、结构部件、材料、性能参数等与其型式检验报告相一致，生产厂名及其厂址不一致",
+            "D. 每具灭火器及其附件均有使用说明书，其内容包括灭火器及其附件安装、操作和维护保养的说明、警告和提示；并有灭火器维修、再充装时阅读生产厂家维修手册的提示"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 250,
+        "source": "multilanguage/ceval/high_school_politics_val.csv",
+        "question": "某人善耕而不善牧，另一人善牧而不善耕，善耕者想以谷物与善牧者交换牛羊，如果善牧者拒绝交换的话，则原因可能是____\n①善耕者出价太低                     ②谷物非交换之物\n③牛羊非剩余之物                     ④牛羊非交换之物",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ①②",
+            "B. ②③",
+            "C. ①③",
+            "D. ②④"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 251,
+        "source": "multilanguage/ceval/middle_school_chemistry_val.csv",
+        "question": "推理是学习化学的重要方法之一，但盲目地类摧又可能得出错误结论。下列类推正确的是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 硫和氧气的反应既是氧化反应也是化合反应，则物质和氧气的反应均是化合反应",
+            "B. 一般情况下，合金的熔点和硬度都比组成合金的纯金属的高",
+            "C. 碱的溶液能使酚酞溶液变红，但能使酚酞溶液变红的溶液不一定是碱的溶液",
+            "D. 锌能与稀硫酸反应放出氢气，则铜也能与稀硫酸反应放出氢气"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 252,
+        "source": "multilanguage/ceval/middle_school_history_val.csv",
+        "question": "清代皇帝在北京西郊建造的中西合璧的皇家园林──圆明园是在中____被____毁掉的。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 鸦片战争、英国",
+            "B. 第二次鸦片战争、英国和法国",
+            "C. 甲午中日战争、日本",
+            "D. 八国联军侵华战争、八国"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 253,
+        "source": "multilanguage/ceval/electrical_engineer_val.csv",
+        "question": "在系统的初始运行条件、故障持续时间均完全相同的情况下，导致系统的暂态稳定性最差的是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 单相接地短路",
+            "B. 两相短路",
+            "C. 三相短路",
+            "D. 断相故障"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 254,
+        "source": "multilanguage/ceval/environmental_impact_assessment_engineer_val.csv",
+        "question": "根据《建设项目环境风险评价技术导则》(HJ169—2018)，建设项目环境风险潜势划分为____级。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Ⅰ、Ⅱ、Ⅲ、Ⅳ、Ⅴ",
+            "B. Ⅰ、Ⅱ、Ⅲ、ⅣV/Ⅳ+",
+            "C. Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+            "D. Ⅰ、Ⅱ、Ⅲ"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 255,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "下列各种引流管，不正确的处理是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 要注意观察各种引流管是否通畅",
+            "B. 仔细记录引流液的色泽和容量",
+            "C. 留置胆管内的“T”形管可在术后1周拔除",
+            "D. 胃肠功能恢复后可将胃肠减压管除去"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 256,
+        "source": "multilanguage/ceval/modern_chinese_history_val.csv",
+        "question": "率领北平国民党军队接受和平改编的国民党将领是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 张治中",
+            "B. 蔡廷锴",
+            "C. 杜聿明",
+            "D. 傅作义"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 257,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "实现一个银行系统，包括存钱、取钱、转账等多项业务，最恰当的资源组合方式是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 继承",
+            "B. 重载",
+            "C. 组合",
+            "D. 实例化"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 258,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "医疗机构从业人员基本行为规范是哪些人应当遵守的。____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 医生",
+            "B. 护士",
+            "C. 所有从业人员",
+            "D. 其他人员"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 259,
+        "source": "multilanguage/ceval/electrical_engineer_val.csv",
+        "question": "客房设置火灾应急广播专用扬声器时，其功率不宜小于____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0.5W",
+            "B. 0.8W",
+            "C. 1W",
+            "D. 1.2W"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 260,
+        "source": "multilanguage/ceval/college_chemistry_val.csv",
+        "question": "二氧化氮通入NaOH溶液，得到的主要产物是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $NaNO_2$",
+            "B. $NaNO_2$和$O_2$",
+            "C. $NaNO_3$和NO",
+            "D. $NaNO_3$和$NaNO_2$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 261,
+        "source": "multilanguage/ceval/high_school_chemistry_val.csv",
+        "question": "下列家庭小实验最合理的是____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 将适量的苏打粉放在容器中加热，观察气体的产生",
+            "B. 在洁净的水杯中先加入小苏打粉，再加入食醋，观察气体的产生",
+            "C. 往稀白粥中加入少量加碘食盐，检验加碘食盐中含有$I_2$",
+            "D. 在一瓣橘子上插入两根铜线并与小灯泡连接，验证电流的产生"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 262,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "对于栈操作数据的原则是____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 先进先出",
+            "B. 后进先出",
+            "C. 后进后出",
+            "D. 不分顺序"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 263,
+        "source": "multilanguage/ceval/urban_and_rural_planner_val.csv",
+        "question": "在城市规划分析中，下列用来反映数据离散程度的是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 平均数",
+            "B. 众数",
+            "C. 标准差",
+            "D. 频数分布"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 264,
+        "source": "multilanguage/ceval/urban_and_rural_planner_val.csv",
+        "question": "在城市详细规划阶段预测用电负荷，一般采用下列哪种方法?____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 人均综合用电量指标法",
+            "B. 单位建设用地负荷指标法",
+            "C. 单位建筑面积负荷指标法",
+            "D. 电力弹性系数法"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 265,
+        "source": "multilanguage/ceval/legal_professional_val.csv",
+        "question": "下面关于法的规范作用，说法不正确的是：____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 《民法通则》规定，当事人一方不履行合同义务或者履行合同义务不符合约定条件的，另一方有权要求履行或者采取补救措施，并有权要求赔偿损失。这一法条体现了法的指引作用",
+            "B. 一富家子弟在闹市飙车将一行人撞死，在围观的人群中有人说，肇事者应当以危害公共安全罪论处。围观者的言论体现法的评价作用",
+            "C. 一建筑商为承包某工程，便向主管该项目的市领导张某送去5万元的见面钱，张某义正词严地对建筑商说，你这种行为我如果收下，国家将会制裁我，所以我不能接受。这体现了法的预测作用",
+            "D. 某私营煤矿的矿主因违规开矿发生重大矿难，被法院以重大安全事故罪判处有期徒刑6年，这体现了法的教育作用"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 266,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "易燃材料的露天堆场宜设置在天然水源充足的地方，并宜布置在本单位或本地区全年最小频率风向的____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 上风侧",
+            "B. 下风侧",
+            "C. 侧风向",
+            "D. 下风或侧风向"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 267,
+        "source": "multilanguage/ceval/teacher_qualification_val.csv",
+        "question": "在讲解方程时，王老师先讲一元一次方程，再讲二元一次方程，然后讲一元二次方程，逐步加深难度。这种教学方式所遵循的原则是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 理论联系实际原则",
+            "B. 启发性原则",
+            "C. 循序渐进原则",
+            "D. 巩固性原则"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 268,
+        "source": "multilanguage/ceval/advanced_mathematics_val.csv",
+        "question": "已知曲线C是圆$(x-1)^{2}+(y-6)^{2}=25$上从点$A(1,1)$沿逆时针方向到$B(4,2)$的一段弧，则$\\oint_{C}(3\\ln(1+y)+5x^{2})\\mathrm{d}x+\\Bigl({\\frac{3x}{1+y}}-2y\\Bigr)\\mathrm{d}y=$____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $108+3\\ln\\Bigl(\\frac{27}{2}\\Bigr)$",
+            "B. $3\\ln\\left(\\dfrac{81}{2}\\right)-102$",
+            "C. $102+3\\ln\\Bigl(\\frac{81}{2}\\Bigr)$",
+            "D. $3\\ln\\left(\\dfrac{27}{2}\\right)-97$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 269,
+        "source": "multilanguage/ceval/business_administration_val.csv",
+        "question": "对于下列长期股权投资，应采用权益法核算的是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 对联营企业的投资",
+            "B. 不具有共同控制或重大影响关系且在活跃的市场中没有报价、公允价值，不能可靠计量的投资",
+            "C. 对控股子公司的投资",
+            "D. 不具有共同控制或重大影响关系，但在活跃的市场中有报价、公允价值，能够可靠计量的投资"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 270,
+        "source": "multilanguage/ceval/veterinary_medicine_val.csv",
+        "question": "血液非蛋白氮中含量最多的物质是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 尿素",
+            "B. 肌酸",
+            "C. 蛋白质",
+            "D. 尿酸"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 271,
+        "source": "multilanguage/ceval/computer_architecture_val.csv",
+        "question": "执行for循环时，需要传送循环次数值给某专用寄存器，一般使用的寻址方式是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 立即寻址",
+            "B. 直接寻址",
+            "C. 基址寻址",
+            "D. 相对寻址"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 272,
+        "source": "multilanguage/ceval/electrical_engineer_val.csv",
+        "question": "计算输电线路对邻近电信线路感应产生的磁危险影响，应考虑____年电力系统发展的规划容量。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3～5",
+            "B. 6～8",
+            "C. 4～7",
+            "D. 5～10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 273,
+        "source": "multilanguage/ceval/computer_architecture_val.csv",
+        "question": "中断发生时，程序计数器内容的保护和更新是由____完成的。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 硬件自动",
+            "B. 进栈指令和转移指令",
+            "C. 访存指令",
+            "D. 中断服务程序"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 274,
+        "source": "multilanguage/ceval/law_val.csv",
+        "question": "关于我国宪法修改，下列哪一选项是正确的____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 我国修宪实践中既有对宪法的部分修改，也有对宪法的全面修改",
+            "B. 经1/10以上的全国人大代表提议，可以启动宪法修改程序",
+            "C. 全国人大常委会是法定的修宪主体",
+            "D. 宪法修正案是我国宪法规定的宪法修改方式"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 275,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "在C++中，一个函数为void f(int=1,char='a'),另一个函数为void f(int),则它们____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 不能在同一程序中定义",
+            "B. 可以在同一程序中定义并可重载",
+            "C. 可以在同一程序中定义，但不可重载",
+            "D. 以上说法都不正确"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 276,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "下列各项行为中，应征收个人所得税的是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 离婚析产分割房屋产权",
+            "B. 军人的转业费、复员费、退役金",
+            "C. 按照国家统一规定发放的退休费、离休费",
+            "D. 个人购买福利彩票，一次中奖收入12000元"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 277,
+        "source": "multilanguage/ceval/college_programming_val.csv",
+        "question": "若一个线性表中最常用的操作是取第1个元素和我第1个元素的前趋元素，则采用____存储方式最节省时间。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 顺序表",
+            "B. 单链表",
+            "C. 双链表",
+            "D. 单循环链表"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 278,
+        "source": "multilanguage/ceval/sports_science_val.csv",
+        "question": "下面不属于克服自身体重的练习是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 引体向上",
+            "B. 倒立推起",
+            "C. 使用拉力器",
+            "D. 纵跳"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 279,
+        "source": "multilanguage/ceval/business_administration_val.csv",
+        "question": "某企业只生产一种产品，单价5元，销量100件，变动成本率30%，则贡献边际为____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 150元",
+            "B. 250元",
+            "C. 350元",
+            "D. 450元"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 280,
+        "source": "multilanguage/ceval/physician_val.csv",
+        "question": "下列哪项指标最能反映糖尿病酮症酸中毒的严重程度____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 血糖",
+            "B. 血钠",
+            "C. 尿酮体",
+            "D. 血碳酸氢根"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 281,
+        "source": "multilanguage/ceval/plant_protection_val.csv",
+        "question": "在植物对逆境的适应中最为重要的植物激素是____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 细胞分裂素",
+            "B. 乙烯",
+            "C. 茉莉酸甲酯",
+            "D. 脱落酸"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 282,
+        "source": "multilanguage/ceval/tax_accountant_val.csv",
+        "question": "关于土地增值税的清算，下列说法错误的是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 销售合同所载商品房面积与实际测量面积不一致并在清算前已补或退房款的，在计算土地增值税时应予调整",
+            "B. 未全额开具商品房销售发票的，按照销售合同所载金额及其他收益确认收入",
+            "C. 未开具商品房销售发票的，按照实际收取金额确认收入",
+            "D. 已全额开具商品房销售发票的，按照发票所栽金额确认收入"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 283,
+        "source": "multilanguage/ceval/computer_network_val.csv",
+        "question": "现在大量的计算机是通过诸如以太网这样的局域网连入广域网的，而局域网与广域网的互联是通过____实现的。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 路由器",
+            "B. 资源子网",
+            "C. 桥接器",
+            "D. 中继器"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 284,
+        "source": "multilanguage/ceval/civil_servant_val.csv",
+        "question": "政府职能与成本问题一直备受争议，但这方面的研究似乎还处于一种观点与立场远未一致的状态，一个重要原因是研究视角与方法的局限。大体上看，这类研究有两条思路，一条是信守新古典经济学理论预设，认为市场可以有效解决经济社会发展中的问题，持“小政府”观点；另一条是信守政府干预主义理论预设，认为政府不时干预是市场能够健康运转的必要条件。笔者认为，要解决这种困境，必须有新的理论视野和新的研究方法，而新兴古典经济学理论就是其中之一。 这段文字接下来最有可能讲述的是____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 新兴古典经济学的理论框架与研究方法",
+            "B. 新理论视野对提高政府的行政效率有何帮助",
+            "C. 新古典经济学理论预设的局限性",
+            "D. 政府职能与成本之间矛盾难解的原因"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 285,
+        "source": "multilanguage/ceval/ideological_and_moral_cultivation_val.csv",
+        "question": "下列关于人的社会关系与自然关系的表述错误的是____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 人在与自然发生关系的过程中结成了社会关系",
+            "B. 人与人的社会关系极大地影响着人与自然的关系",
+            "C. 自然关系是社会关系的基础，社会关系是自然关系的延伸",
+            "D. 协调好人与自然的关系，就需要协调好人与人之间的社会关系"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 286,
+        "source": "multilanguage/ceval/middle_school_chemistry_val.csv",
+        "question": "$Na_2CO_3$俗称纯碱，侯德榜为纯碱工业的发展做出了杰出贡献。$Na_2CO_3$属于____",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 氧化物",
+            "B. 盐",
+            "C. 有机物",
+            "D. 混合物"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 287,
+        "source": "multilanguage/ceval/mao_zedong_thought_val.csv",
+        "question": "毛泽东思想达到成熟的主要标志是____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 新民主主义革命理论的创立",
+            "B. 中国革命道路理论的提出",
+            "C. 革命军队建设和军事战略的理论的创立",
+            "D. 党的建设理论的创立"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 288,
+        "source": "multilanguage/ceval/ideological_and_moral_cultivation_val.csv",
+        "question": "社会主义荣誉观是____的重要组成部分",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 科学发展观",
+            "B. 马克思注意历史观",
+            "C. 马克思主义世界观",
+            "D. 社会主义道德观"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 289,
+        "source": "multilanguage/ceval/middle_school_history_val.csv",
+        "question": "形成日后华夏族的主要部落是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 黄帝、蚩尤部落",
+            "B. 炎帝、蚩尤部落",
+            "C. 黄帝、炎帝、蚩尤部落",
+            "D. 黄帝、炎帝部落"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 290,
+        "source": "multilanguage/ceval/middle_school_politics_val.csv",
+        "question": "2019年5月10日，国家市场监管总局就“西安奔驰漏油事件”及相关问题约谈奔驰，明确要求，经销商不得以提供金融服务为由收取费用，必须发布服务公约和收费清单，确保收费公开透明。此项规定有助于保护消费者的____\r\n\r\n①安全权 ②自主选择权 \r\n③知情权 ④公平交易权",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ①②③",
+            "B. ①②④",
+            "C. ②③④",
+            "D. ①③④"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 291,
+        "source": "multilanguage/ceval/basic_medicine_val.csv",
+        "question": "转氨酶的辅酶____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 生物素",
+            "B. 叶酸",
+            "C. 磷酸吡哆醛",
+            "D. 硫胺素"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 292,
+        "source": "multilanguage/ceval/college_physics_val.csv",
+        "question": "设有一个带正电的导体球壳，当球壳内充满电介质、球壳外是真空时，球壳外一点的场强大小和电势用E1，U1表示；而球壳内、外均为真空时，壳外一点的场强大小和电势用E2，U2表示，则两种情况下壳外同一点处的场强大小和电势大小的关系为____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. E1 = E2，U1 = U2",
+            "B. E1 = E2，U1 > U2",
+            "C. E1 > E2，U1 > U2",
+            "D. E1 < E2，U1 < U2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 293,
+        "source": "multilanguage/ceval/college_physics_val.csv",
+        "question": "一特殊的轻弹簧，弹性力F=-kx3，k为一常量系数，x为伸长(或压缩)量。现将弹簧水平放置于光滑的水平面上，一端固定，一端与质量为m的滑块相连而处于自然长度状态。今沿弹簧长度方向给滑块一个冲量，使其获得一速度v，压缩弹簧，则弹簧被压缩的最大长度为____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. \\sqrt{m/k}v",
+            "B. \\sqrt{k/m}v",
+            "C. (4mv/k)^(1/4)",
+            "D. (2mv^2/k)^(1/4)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 294,
+        "source": "multilanguage/ceval/advanced_mathematics_val.csv",
+        "question": "设$n$为正整数，求极限：$\\lim_{x\\rightarrow+\\infty}\\left[\\frac{x^n}{\\left(x-1\\right)\\left(x-2\\right)\\cdots\\left(x-n\\right)}\\right]^x=$____",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $e^{\\frac{(n-1)(n+1)}{2}}$",
+            "B. $e^{\\frac{(n-1)n}{2}}$",
+            "C. $e^{\\frac{n(n+1)}{2}}$",
+            "D. $e^{\\frac{n^{2}}{2}}$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 295,
+        "source": "multilanguage/ceval/fire_engineer_val.csv",
+        "question": "某学校为落实消防安全教育工作，针对不同年龄段的学生分批开展消防安全宣传工作。在各级各类学校开展的消防安全工作中，每名学生在校期间参加消防安全志愿活动应不少于____。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4h",
+            "B. 6h",
+            "C. 8h",
+            "D. 12h"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 296,
+        "source": "multilanguage/ceval/high_school_physics_val.csv",
+        "question": "质量为m的滑块沿高为h，长为l的粗糙斜面匀速下滑，在滑块从斜面顶端滑至低端的过程中____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 重力对滑块所做的功为$mgh$",
+            "B. 滑块克服摩擦所做的功为$mgl$",
+            "C. 滑块的机械能保持不变",
+            "D. 滑块的重力势能增加了$mgh$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 297,
+        "source": "multilanguage/ceval/chinese_language_and_literature_val.csv",
+        "question": "《杜十娘怒沉百宝箱》出自____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 《传奇》",
+            "B. 《聊斋志异》",
+            "C. “三言”",
+            "D. “二拍”"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 298,
+        "source": "multilanguage/ceval/law_val.csv",
+        "question": "《刑法》第115条第2款规定“过失犯前款罪的……”，属于____。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 简单罪状",
+            "B. 叙明罪状",
+            "C. 空白罪状",
+            "D. 引证罪状"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 299,
+        "source": "multilanguage/ceval/logic_val.csv",
+        "question": "某市2018年的人口发展报告显示，该市常住人口1170万，其中常住外来人口440万，户籍人口730万。从区级人口分布情况来看，该市G区常住人口240万，居各区之首；H区常住人口200万，位居第二；同时，这两个区也是吸纳外来人口较多的区域，两个区常住外来人口200万，占全市常住外来人口的45％以上。根据以上陈述，可以得出以下哪项？____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 该市G区的户籍人口比H区的常住外来人口多。",
+            "B. 该市H区的户籍人口比G区的常住外来人口多。",
+            "C. 该市H区的户籍人口比H区的常住外来人口多。",
+            "D. 该市G区的户籍人口比G区的常住外来人口多。"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 300,
+        "source": "multilanguage/ceval/legal_professional_val.csv",
+        "question": "营业地在甲国的A公司作为买方，和营业地在乙国的B公司作为卖方，签订了一份成套设备买卖合同。关于本合同，以下说法正确的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 双方可以约定适用《联合国国际货物买卖合同公约》(以下简称《公约》)，但是不能修改《公约》中的规定",
+            "B. 若双方约定B公司负责运输，且价格术语为CIF，则双方关于投保险种的问题适用公约》的有关规定",
+            "C. 若甲国为中国，则国际货物销售合同不是必须以书面形式订立或者证明",
+            "D. 若B公司出售的成套设备，是通过拍卖方式销售给A公司的，则关于买卖双方的权利、义务不适用《公约》"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 301,
+        "source": "multilanguage/ceval/college_economics_val.csv",
+        "question": "一厂商的生产函数为f(x，y，z)=(x+y)0.5z0.5，三种要素x，y，z的价格为1，2，3。假如y价格升为原来的2倍，其他两种的价格不变，则总的生产成本____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 增加了50%",
+            "B. 增加了2倍",
+            "C. 不变",
+            "D. 以上说法都不对"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 302,
+        "source": "multilanguage/ceval/plant_protection_val.csv",
+        "question": "G蛋白是由α、β、γ3种亚基构成的异三聚体，与GTP结合的活性位点在____上。",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. α亚基",
+            "B. β亚基",
+            "C. γ亚基",
+            "D. βγ亚基复合体"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 303,
+        "source": "multilanguage/ceval/legal_professional_val.csv",
+        "question": "由于各国法律关于住所的规定不同，自然人的住所也会发生冲突，依据我国法律规定：____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 当事人有几个住所的，以后取得的住所地为准",
+            "B. 当事人有几个住所的，以当事人现在居住地为准",
+            "C. 当事人有几个住所的，以与当事人最密切联系的住所为准",
+            "D. 当事人没有住所的，以当事人的经常居住地为准"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 304,
+        "source": "multilanguage/ceval/middle_school_history_val.csv",
+        "question": "2005年是中国电影诞生100周年。百年前，我国拍摄的第一部电影是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 《马路天使》",
+            "B. 《渔光曲》",
+            "C. 《定军山》",
+            "D. 《十字街头》"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 305,
+        "source": "multilanguage/ceval/professional_tour_guide_val.csv",
+        "question": "上海豫园鱼乐榭有一上实下空的墙，遮挡了原来流水较近的短处，产生了源远流长的效果，这是____的神来之笔。",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 抑景",
+            "B. 框景",
+            "C. 借景",
+            "D. 障景"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 306,
+        "source": "multilanguage/ceval/teacher_qualification_val.csv",
+        "question": "下列选项中，与“图书”和“音乐书”的逻辑关系相同的一组是____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. “钢笔”和“铅笔”",
+            "B. “蛋糕”和“香油”",
+            "C. “水果”和“西瓜”",
+            "D. “白菜”和“黄瓜”"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 307,
+        "source": "multilanguage/ceval/high_school_mathematics_val.csv",
+        "question": "某一电子集成块有三个元件a，b，c并联构成，三个元件是否有故障相互独立．已知至少1个元件正常工作，该集成块就能正常运行．若每个元件能正常工作的概率均为$\\frac{4}{5}$则在该集成块能够正常工作的情况下，有且仅有一个元件出现故障的概率为____",
+        "answer": null,
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. $\\frac{12}{31}$",
+            "B. $\\frac{48}{125}$",
+            "C. $\\frac{16}{25}$",
+            "D. $\\frac{16}{125}$"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 308,
+        "source": "multilanguage/ceval/art_studies_val.csv",
+        "question": "《十五贯》又叫____。",
+        "answer": null,
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 《清忠谱》",
+            "B. 《双熊梦》",
+            "C. 《十五贯戏言成巧祸》",
+            "D. 《奈何天》"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 309,
+        "source": "multilanguage/ceval/computer_network_val.csv",
+        "question": "一个TCP连接的数据传输阶段，如果发送端的发送窗口值由2000变为3000，意味着发送端可以____。",
+        "answer": null,
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 在收到一个确认之前可以发送3000个TCP报文段",
+            "B. 在收到一个确认之前可以发送1000B",
+            "C. 在收到一个确认之前可以发送3000B",
+            "D. 在收到一个确认之前可以发送2000个TCP报文段"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 310,
+        "source": "multilanguage/ceval/modern_chinese_history_val.csv",
+        "question": "下列关于洋务运动叙述不正确的是____",
+        "answer": null,
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 洋务运动是封建统治阶级为了维护自己的统治而进行的一场自救运动",
+            "B. 客观上促进了资本主义的发展",
+            "C. 口号是“自强”和 “求富”",
+            "D. 触及到了封建统治的根基"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    }
+]

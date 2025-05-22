@@ -1,0 +1,1152 @@
+[
+    {
+        "index": 0,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The boy spent the afternoon building a model airplane. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He wanted to learn how to play the trombone.",
+            "B. He was fascinated by aviation and enjoyed assembling models."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The dog was barking frantically early this morning. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A package was delivered to the house.",
+            "B. A stranger was loitering near the house."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 2,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The university postponed the date of the final exams. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. There was a power outage scheduled for the original date.",
+            "B. A new course was introduced in the curriculum."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The museum started opening in the evenings. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They started offering yoga classes.",
+            "B. They wanted to accommodate people who work during the day."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The river running through the town dried up over the course of the summer. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A prolonged drought condition coupled with increased water extraction led to the reduced water level in the river.",
+            "B. There was a massive rainstorm."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The family decided to have a late-night barbecue. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They bought a new set of garden furniture.",
+            "B. The weather forecast predicted a cool and clear night."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "He makes it a point to replace the batteries in his smoke detectors every six months. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He wants to ensure they are always functioning for safety.",
+            "B. He has a phobia of batteries."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "A company developed a COVID-19 vaccine in record time. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The development team wanted to compete in a vaccine competition.",
+            "B. The urgent need to curb the pandemic propelled the rapid development."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The factory decided to shut down its operations every Sunday. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It gave employees a regular weekly break and maintain machinery.",
+            "B. A new comet entered the solar system."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The company moved the quarterly meeting forward by a month. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The meeting room was already booked for the original date.",
+            "B. They needed to address urgent matters arising from a dip in the quarterly sales."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 10,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The business owner decided to open the shop an hour earlier than usual. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A new bus route started, bringing more commuters in the morning.",
+            "B. The neighboring shop changed its hours of operation."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "She chose to walk to work every day. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She enjoyed the exercise and the opportunity to clear her mind before starting work.",
+            "B. She was collecting leaves for a herbarium."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The travelers experienced jet lag after their flight. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They ate airline food during the flight.",
+            "B. They traveled across several time zones."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The park started closing earlier as the winter season approached. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The park staff wanted to have a longer evening break.",
+            "B. The days were getting shorter, resulting in reduced daylight hours."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The scheduled launch of the new smartphone was delayed. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A new species of bird was discovered.",
+            "B. There was a shortage of semiconductor chips."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "A person's bones are getting weaker as they age. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It is because they have been lifting heavy weights.",
+            "B. It is due to the natural decrease in bone density over time."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "Meteor showers occur periodically. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It happens when Earth passes through a trail of debris left by a comet or asteroid.",
+            "B. It happens due to the sudden appearance of new stars in the night sky."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The villagers celebrated the onset of the spring season. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They wanted to stay awake all night.",
+            "B. The harsh winter had finally ended."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "She had to retake the year-long course. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She failed the final examination.",
+            "B. The professor praised her project."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The young man dressed up in a nice suit and tie this morning. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He decided to go for a swim.",
+            "B. He had a job interview scheduled for later in the day."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The radio station changed the time slot of a popular show. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The analytics indicated a more active listener base in the new time slot.",
+            "B. The host of the show got a new pet."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The gardener planted the flowers a month earlier than last year. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The seeds were on sale.",
+            "B. The meteorological department predicted an early spring."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 22,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "At the break of dawn, the farmer was already in the fields working. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He wanted to finish most of his work before it got too hot.",
+            "B. He preferred working under the moonlight."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The amusement park extended its hours into the evening. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The summer days were hot and evenings were more comfortable.",
+            "B. A new roller coaster was opened."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 24,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The hospital implemented a rapid response team available 24/7. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It wanted to ensure immediate care for critical cases at any time of the day.",
+            "B. A celebrity was visiting the city."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "Over the past decade, the small fishing town transformed into a popular tourist destination. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The town started hosting an annual sea festival that gradually gained international attention.",
+            "B. The town experienced a series of thunderstorms."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The lake froze solid very early this year. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Many families visited the lake during the summer.",
+            "B. There was a sudden drop in temperatures in the fall."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "They decided to retire early. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They wanted to enjoy their freedom while they were still young.",
+            "B. They wanted to open a bakery."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The archaeologist dedicated his entire career to studying ancient civilizations. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. He wanted to become a novelist.",
+            "B. He was deeply fascinated by history and wanted to uncover the secrets of the past."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The alarm system went off at the office over the weekend. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The company was hosting a corporate event.",
+            "B. There was a break-in attempt."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "She was caught speeding by a traffic officer. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She was trying to complete a painting.",
+            "B. She was in a hurry to reach her office on time."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The clock tower chimed twelve times. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It was noon or midnight.",
+            "B. It was mid-afternoon."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The company decided to grant its employees a sabbatical leave every seven years. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They wanted to allow employees time to recharge and pursue personal interests.",
+            "B. They wanted to cut down on yearly holiday events."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "A community witnessed a decline in the prevalence of a certain disease over a span of a few years. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A comprehensive vaccination campaign was undertaken, gradually building herd immunity.",
+            "B. A famous celebrity moved into the community."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The university changed the time of the graduation ceremony to the afternoon. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Many parents requested a later time to accommodate their travel plans.",
+            "B. The printing of the graduation programs was delayed."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "A small startup company became a multinational corporation over a decade. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The company maintained the exact same business model for the decade.",
+            "B. The company consistently innovated and adapted to market demands, gaining a substantial customer base over time."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The park was more crowded in the morning than in the afternoon. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A famous celebrity was visiting the park in the afternoon.",
+            "B. The weather was cooler and more comfortable in the morning."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "I turned the page on the calendar. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. I marked an appointment on the calendar.",
+            "B. It was the beginning of a new month."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The yearly migration of a certain bird species came much earlier this season. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A famous movie was released.",
+            "B. There were changes in climate patterns."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The family gathered around to look at the old photo album. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It was the grandparent's golden wedding anniversary.",
+            "B. The latest blockbuster movie was released."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The woman celebrated her diamond jubilee with her family. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. She had won a lottery.",
+            "B. She reached the milestone age of 75, a remarkable period of her life."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "I lingered in bed upon awakening. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. I was hungry.",
+            "B. It was Saturday."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 42,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The city council moved the annual festival to a later date. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The previous year's festival had a lower turnout.",
+            "B. They wanted to ensure it did not coincide with a national election."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 43,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "A rare solar eclipse occurred. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. People around the world decided to skip lunch that day.",
+            "B. The moon was positioned between the earth and the sun at that specific time."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The roads were slippery this morning. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. There was a heatwave.",
+            "B. It had snowed overnight."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "They celebrated New Year's Eve at home instead of going out. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They bought a new TV.",
+            "B. There was a severe snowstorm forecasted for that night."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "When the clock struck six in the evening, the city streets were filled with people rushing home. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. There was a free concert in the main square.",
+            "B. People were getting off work and returning to their homes."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The airline decided to offer more flights during the early morning hours. What's the more plausible CAUSE?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The airline acquired new planes.",
+            "B. Analysis showed that business travelers preferred early morning flights to reach their destinations sooner."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "A small island nation became a global hub for renewable energy innovations. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The government actively fostered research and development in renewable energy, providing grants and incentives over years.",
+            "B. A pop star held a concert on the island."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "TRAM:causality/Temporal Reasoning",
+        "question": "The crime rates in the city have significantly decreased in the past few years. What's the more plausible CAUSE?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The city implemented community policing and social programs targeted at reducing crime.",
+            "B. A superhero started patrolling the streets."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    }
+]

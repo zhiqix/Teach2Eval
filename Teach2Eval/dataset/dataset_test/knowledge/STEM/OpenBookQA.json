@@ -1,0 +1,2532 @@
+[
+    {
+        "index": 0,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Scraping an object",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. may cause the object to grow in size",
+            "B. may cause the object to fall",
+            "C. may cause pieces to flake off the object",
+            "D. may cause the object to snap in half"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Photosynthesis can be performed by",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a cabbage cell",
+            "B. a bee cell",
+            "C. a bear cell",
+            "D. a cat cell"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "An octopus protects itself with",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. water splashing",
+            "B. running fast",
+            "C. long hands",
+            "D. pigment squirting"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A company makes notebooks for college courses, so their main material is",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. chips",
+            "B. water",
+            "C. grass",
+            "D. trees"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "small reptile's diet consists mostly of",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. invertebrates",
+            "B. insects",
+            "C. mammals",
+            "D. fish"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 5,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Someone wants their electromagnets to work, but is having difficulty powering them. In order to make them work, they need to",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. run wire through currants",
+            "B. run a continuous current",
+            "C. run around the wire",
+            "D. currently run wire through"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "How is electricity produced from the ocean?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. decaying organic material from sealife",
+            "B. energy is accessed underwater from tides",
+            "C. drills to access oil supplies",
+            "D. chemical reactions produced from the salt in the water"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Banging on a drum causes",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. music to be loud",
+            "B. music to be appealing",
+            "C. reverberations to strike the eardrum",
+            "D. concerts to sell out"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 8,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which of the following human activities can lead to a change in the local ecosystem?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. swimming in a lake",
+            "B. building a new subdivision",
+            "C. dancing in a field",
+            "D. going for a hike"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which animal lays eggs",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. emus",
+            "B. dogs",
+            "C. squirrels",
+            "D. giraffes"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which pair don't reproduce the same way?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. rabbit and hare",
+            "B. mule and hinny",
+            "C. cat and catfish",
+            "D. caterpillar and butterfly"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Cutting down trees in a forest",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. leads to more habitats for animals",
+            "B. decreases the chance of erosion",
+            "C. increases the number of trees in the forest",
+            "D. leads to less habitats for animals"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 12,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "When a kid slams on the brakes on their bike what is caused?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. bike helmet",
+            "B. avoiding accidents",
+            "C. friction",
+            "D. gearing"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Why would a perennial plant with an elongated stem a frequently used for lumber fall to the ground?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It's dead",
+            "B. For water",
+            "C. For food",
+            "D. For sun"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 14,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The light that appears dimmest is",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the light in the hall",
+            "B. a light in the room",
+            "C. a star outside the window",
+            "D. a streetlight outside the window"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A small lamb, two days old, is walking with its mother. The mother feels ill, so refuses food, which dries up her milk production. The lack of lactation causes the lamb to",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. weaken",
+            "B. strengthen",
+            "C. coexist",
+            "D. thrive"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What happens as water levels rise?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. fish swim more",
+            "B. homes are built",
+            "C. land is taller",
+            "D. beaches shrink"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What animal eats plants?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. eagles",
+            "B. robins",
+            "C. owls",
+            "D. leopards"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 18,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "a compass is a kind of tool for determining direction by pointing",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. to western Canada shoreline",
+            "B. to the lower pole",
+            "C. to the upper pole",
+            "D. directly to the equator"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 19,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Fossil fuels",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. come from old age",
+            "B. come from expired life",
+            "C. take two years to create",
+            "D. are created in a year"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A bear cub learns to stay away from unknown bears because",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. they are much bigger than the cub",
+            "B. the other bears look like its mother",
+            "C. their mother teaches them to keep their distance",
+            "D. the unknown bears look harmless"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Evaporation of water can lead to",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. waterfalls",
+            "B. blizzards",
+            "C. earthquakes",
+            "D. hot springs"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 22,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The spring season brings",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Bees",
+            "B. Snow",
+            "C. More Oxygen",
+            "D. Dust"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 23,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A tree is not the habitat of a",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. squirrel",
+            "B. woodpecker",
+            "C. monkey",
+            "D. lion"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which item urinates?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. airplane",
+            "B. car",
+            "C. mammal",
+            "D. boat"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "the  oceans are full of",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. water lilies",
+            "B. guppies",
+            "C. sea life",
+            "D. fresh water"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which beverage would dissolve solids the best?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A glass of ice-cold water",
+            "B. A boiling hot mug of tea",
+            "C. A cup of warm milk",
+            "D. A room temperature glass of water"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The body is negatively impacted by",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. white blood cells",
+            "B. vitamins",
+            "C. rotavirus",
+            "D. nasal decongestants"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which of these would create the most sound if struck with a metal spoon?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the plastic water bottle",
+            "B. the backside of a person",
+            "C. the hair on a doll",
+            "D. the chassis of a car"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "what kind of temperature causes fur shedding?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. in freezing cold",
+            "B. a high temperature",
+            "C. in any temperature",
+            "D. a low temperature"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 30,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A deer is eating in a field, and wants more food. Regardless of how hard the deer tries, the deer is unable to produce",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. longer antlers",
+            "B. food for itself",
+            "C. baby deer",
+            "D. urine"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "which of these are you most likely to find in a desert?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a hammer head shark",
+            "B. a big tilapia fish",
+            "C. a prickly horned male lizard",
+            "D. none of these"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "is it normal for an adult animal to lay eggs?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. it has never happened",
+            "B. yes it is standard",
+            "C. it is abnormal and weird",
+            "D. all of these"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The leading cause of soil and rock erosion is",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. H2O",
+            "B. CO2",
+            "C. NaCl",
+            "D. Fe"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What is the best way to guess a babies eye color?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The surroundings they are born in.",
+            "B. Their parents usual diet.",
+            "C. Just take a random guess.",
+            "D. The genealogy records of their family."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Burning something that reproduces usually will:",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. impair its well being in some way",
+            "B. weed out weaker members of the species",
+            "C. speed up its biological functions",
+            "D. increase its population growth"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "When trying to pull a rose out of the ground why do you encounter resistance?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. roots",
+            "B. tensile strength",
+            "C. plant temperature",
+            "D. plant color"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Birds carrying away fruit helps the tree",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. grow",
+            "B. fertilize",
+            "C. reproduce",
+            "D. conquer"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 38,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Did pasteurization get invented by Thomas Edison?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. negative",
+            "B. positive",
+            "C. all of these",
+            "D. maybe it was"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A person speaks English as her first language because",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. media is mainly in English",
+            "B. school is in English",
+            "C. she was genetically predisposed",
+            "D. she watched her parents speak"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "An electric car runs on electricity via",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. gasoline",
+            "B. a power station",
+            "C. electrical conductors",
+            "D. fuel"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Owls are likely to hunt at",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3pm",
+            "B. 2am",
+            "C. 6pm",
+            "D. 7am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A Mola Mola might live where?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Lake Michigan",
+            "B. The Mississippi River",
+            "C. Bay of Bengal",
+            "D. Lake Eerie"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What type of useful product can be made from the moving winds?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. wood",
+            "B. bananas",
+            "C. electricity",
+            "D. metal"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What could I use as biofuel",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Gold",
+            "B. Car",
+            "C. Diamonds",
+            "D. Pine Needles"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "what are eaten by honey producing insects?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. they consume plants",
+            "B. they eat cows",
+            "C. plant reproduction parts",
+            "D. they eat flowers"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 46,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A satellite orbits a",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. empty space",
+            "B. ocean",
+            "C. terrestrial body",
+            "D. air pocket"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 47,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A sailor needs to navigate to the shore, and does this by",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. closing the sails quickly",
+            "B. setting out to sea",
+            "C. making an adjustment to the rudder",
+            "D. taking the afternoon off"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A woman sells bracelets that she makes. The bracelets gain popularity, and the woman makes incredibly large amounts of money from the sales. After a while, very few people are still buying the bracelets, so",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the woman makes more money",
+            "B. the woman makes the same amount of money",
+            "C. the woman spends more money",
+            "D. the woman makes less money"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "exposure to fire could result in",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. wet items",
+            "B. cold items",
+            "C. none of these",
+            "D. combusted items"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "One of the negative consequences of offshore oil platforms is",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. evaporation of the surrounding water",
+            "B. discharge of liquid petroleum in the surrounding sea",
+            "C. improvement in the conditions of sea life",
+            "D. increase in the birthrate of sea birds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Members of rock bands often perform with",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. flutes",
+            "B. sandals",
+            "C. earplugs",
+            "D. gloves"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 52,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Seals are most likely to be found in what type of environment?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. desert",
+            "B. arctic",
+            "C. Mediterranean",
+            "D. tropical"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Rain is usually guaranteed when all are present but",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. cirrus clouds",
+            "B. cumulus clouds",
+            "C. hail stones",
+            "D. direct sunshine"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which source provides the safest water?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. River",
+            "B. Sea",
+            "C. Ocean",
+            "D. Rain"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Glucose travels",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. from roots to leaves of a daffodil",
+            "B. from a rose's leaves to the atmosphere",
+            "C. from a daisy's leaves into it's underground support system",
+            "D. from the sun to a sunflower's buds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 56,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which item has a higher altitude?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Tile Floor",
+            "B. Cars",
+            "C. A 6'' Man",
+            "D. A Picture Book"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 57,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The appropriate place to put this item is the recycling bin",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. used motor oil",
+            "B. used soda can",
+            "C. used Styrofoam plates",
+            "D. left over medicine"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 58,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A balloon is filled with helium for a party. After the party, the balloons are left in the living room, where a fireplace is heating the room. The balloons",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. expand",
+            "B. melt",
+            "C. shrink",
+            "D. fall"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The life work of a flower is to",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. provide nice scents",
+            "B. be successfully fertilized",
+            "C. grow very tall",
+            "D. look pretty"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which of these has shape that changes depending on the container which it resides within?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. paper",
+            "B. wood",
+            "C. stone",
+            "D. orange juice"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 61,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A plant will grow strong if it has",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. love",
+            "B. heat",
+            "C. earth",
+            "D. sand"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "if you put wine from a jug into a thin bottle, how come it conforms?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. it exhibits absolute rigidity",
+            "B. it is a solid mass",
+            "C. all of these",
+            "D. it is a variable substance"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 63,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A teacher wants to show how to combine two substances together. The two things that he can use in order to mix them completely are",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. water and soda",
+            "B. water and oil",
+            "C. sand and rocks",
+            "D. salt and bark"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 64,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What are iron nails made out of?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. wood",
+            "B. plastic",
+            "C. metal",
+            "D. glass"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 65,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Coal-fire power stations heat coal to incredible temps in order to",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. produce energy",
+            "B. use heat energy",
+            "C. burn energy",
+            "D. fuel the world"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 66,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Summertime  happens during June in all but which location?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Australia",
+            "B. in Canada",
+            "C. United States",
+            "D. Europe"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 67,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The lunar cycle also changes",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. water",
+            "B. colors",
+            "C. the sun",
+            "D. planets"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 68,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Organisms covered by layers of sediment",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. become fossils over night",
+            "B. may end up reanimated over time",
+            "C. develop characteristics for survival",
+            "D. may end up fueling a car"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 69,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "the closest star to our planet delivers solar energy to the planet",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. maybe",
+            "B. all of these",
+            "C. this is sure",
+            "D. this is uncertain"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 70,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "How can we see how wind effects sand?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. sand is always moving",
+            "B. sandstorms create ripples in sand",
+            "C. sand is easy to move through",
+            "D. beaches often have waves in the sand"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 71,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The amount of brush in a park has been decreasing. What could be a cause?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the season has been quite dry",
+            "B. There has been a lot of rain",
+            "C. snakes shelter under the brush",
+            "D. People have been walking by the brush on the trails"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 72,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Global warming is lowering the world's amount of",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. hurricanes",
+            "B. ocean levels",
+            "C. carbon dioxide",
+            "D. ice"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 73,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Wind frequently helps transport from one place to another",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. marble statues",
+            "B. molten magma",
+            "C. subterranean termites",
+            "D. exposed topsoil"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 74,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "if the population in a habitat is on a steady decline, what condition is the habitat?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. it is a place to emigrate from",
+            "B. it is an ideal habitat",
+            "C. it is an unsustainable habitat",
+            "D. it is a thriving abode"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 75,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A toaster converts electrical energy into heat energy for toasting much like",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a campfire toasts bread",
+            "B. a microwave heats soup",
+            "C. a fire burns paper",
+            "D. a small oven works"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 76,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The special tissues in plants that transport minerals throughout the plant are similar to",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a wick",
+            "B. a funnel",
+            "C. a knife",
+            "D. a whisk"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 77,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Cellular respiration's trash is",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a bug's treasure",
+            "B. a cow's treasure",
+            "C. a plant's treasure",
+            "D. everyone's trash"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 78,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which musical instrument is the same type as a guitar?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. flute",
+            "B. cello",
+            "C. drum",
+            "D. trumpet"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 79,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Dunes can be made out of the same thing as",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. clothes",
+            "B. food",
+            "C. forests",
+            "D. castles"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 80,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "To improve health, what is a good strategy?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. high risk lifestyle",
+            "B. restaurant food",
+            "C. business trip",
+            "D. a spa trip"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 81,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Shining a light through a diamond can",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. make a lot of bright lights shine",
+            "B. summon a brilliant wave of color",
+            "C. heat up a room",
+            "D. make a lot of money"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 82,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The pull the human planet space rock orbiter has on certain bodies of dihydrogen monooxide results in?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. telescope views",
+            "B. water level fluctuations",
+            "C. animal",
+            "D. plant harvesting"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 83,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Building new areas to dispose of refuse may lead to",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. community concerns over environmental impact",
+            "B. better air and soil quality",
+            "C. higher value on land parcels",
+            "D. improvement in water supply"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 84,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Evaporation",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. causes puddles to become dried out mud",
+            "B. causes fields of crops to grow faster",
+            "C. causes flowers to bloom abundantly",
+            "D. fills up irrigation ponds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 85,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "When approaching an elephant from a great distance,",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. it stays large",
+            "B. it grows larger",
+            "C. it gets bigger",
+            "D. it looks bigger"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 86,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Earth revolves around",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the moon",
+            "B. outer space",
+            "C. another planet",
+            "D. an energy source"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 87,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The size of an object and the ability to see it more easily have what kind of relationship?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. equal",
+            "B. inverse",
+            "C. direct",
+            "D. reverse"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 88,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A rabbit may enjoy",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. meat",
+            "B. compost",
+            "C. peas",
+            "D. pebbles"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 89,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "The harder a child pushes a toy car",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. decreases the distance it will travel",
+            "B. the further it will roll across the floor",
+            "C. the quicker the child will want to play with another toy",
+            "D. determines how long the child with play with it"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 90,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "After a storm",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ponds may dry out",
+            "B. flowers will wilt and wither",
+            "C. creek beds may be spilling over",
+            "D. drinking water will be in short supply"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 91,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A lake environment is a good setup for what to happen to organic remains?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. bleaching",
+            "B. burning",
+            "C. fossilization",
+            "D. drying"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 92,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What is used for sensing visual things?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. nerves",
+            "B. tibia",
+            "C. nostril",
+            "D. cornea"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 93,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Every evening a child can look into the night sky and see that the moon is",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. gone",
+            "B. breaking",
+            "C. falling",
+            "D. moving upwards"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 94,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "In a hypothetical world, black bears decrease in numbers until there are zero black bears left on this world. The black bear species",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. would cease existing",
+            "B. would be troubled",
+            "C. would be thriving",
+            "D. would be endangered"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 95,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "There is a heightened threat of landslide in",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the desert",
+            "B. The Andes",
+            "C. the ocean",
+            "D. Indiana"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 96,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "When a plane is in the sky and is several miles away, the light seen is barely visible, but when it is drawing near",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. light is far away",
+            "B. light is more easily seen",
+            "C. light is more distant",
+            "D. light is further away"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 97,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Some animals use a liquid coming from their skin to adjust to",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. cold",
+            "B. water",
+            "C. heat",
+            "D. humidity"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 98,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Moon phases",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. change the moon into cheese",
+            "B. alter the way the moon's facade looks",
+            "C. change moon lakes into vapor",
+            "D. cause lunar eclipse every day"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 99,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What could be a positive aspect of a tree being cut down?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the plants that were under the tree will have access to more light",
+            "B. the squirrels that were in that tree will have an easier time getting to their home",
+            "C. Plants under the tree will get cooled off by the shade",
+            "D. The sun will shine brighter than before"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 100,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Live birth is exemplified in",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. snakes slithering out of eggs",
+            "B. a calf emerging from a mother giraffe",
+            "C. owlets pecking out of their encasement",
+            "D. sea turtles emerging from their shells"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 101,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What would Occur once between January 1st and December 31st",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The moons orbit around the year",
+            "B. One rotation on mercury",
+            "C. The distance between earth and Jupiter when traveling at light speed",
+            "D. A Solar Year on earth"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 102,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A renewable resource is",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. fossil fuel",
+            "B. turbine produced electricity",
+            "C. copper",
+            "D. coal lumps"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 103,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A food that is a source of heat is",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ramen",
+            "B. salad",
+            "C. ice cream",
+            "D. sushi"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 104,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What animal is more difficult for predators to see in water?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a fish",
+            "B. a duck",
+            "C. an octopus",
+            "D. a crab"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 105,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What likely explains deforestation?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Increased insect populations",
+            "B. Clearing for farming",
+            "C. reduction in rainfall",
+            "D. More carbon dioxide"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 106,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "When it's flying, a plane has no friction with the",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. wings",
+            "B. ground",
+            "C. air",
+            "D. clouds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 107,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A plant needs a specific climate to grow and",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. wither",
+            "B. persist",
+            "C. die",
+            "D. decay"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 108,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "If a bird is a carnivore, then it is likely a(n)",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. prey",
+            "B. predator",
+            "C. herbivore",
+            "D. canary"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 109,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What kind of object does light bounce off of?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. tadpole",
+            "B. any object",
+            "C. item that reflects",
+            "D. black hole"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 110,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "A warm-weather organism can be found in",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the Sahara",
+            "B. the mountains",
+            "C. the ocean",
+            "D. the sewers"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 111,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "What is an example of clear weather meaning sunny weather?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. more stars are visible on clear nights",
+            "B. cloud cover protects from sunburn",
+            "C. clear days will be warmer",
+            "D. fewer clouds allow for more sunlight"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 112,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "All of the following are examples of evaporation apart from",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Warm breath fogging up a mirror",
+            "B. Morning dew drying on the grass",
+            "C. The water level in a glass decreasing",
+            "D. Sweat drying on skin"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 113,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "When the eggs hatch, the offspring are",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. killed",
+            "B. hurt",
+            "C. born",
+            "D. cold"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 114,
+        "source": "knowledge/STEM/OpenBookQA/test.jsonl",
+        "question": "Which is recyclable?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. An Elephant",
+            "B. A school notebook",
+            "C. A boat",
+            "D. A lake"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    }
+]

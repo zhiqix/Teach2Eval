@@ -1,0 +1,2210 @@
+[
+    {
+        "index": 0,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "St. John's economy is connected to both its role as the provincial capital of Newfoundland and Labrador and to the ocean. The civil service which is supported by the federal, provincial and municipal governments has been the key to the expansion of the city's labour force and to the stability of its economy, which supports a sizable retail, service and business sector. The provincial government is the largest employer in the city, followed by Memorial University. With the collapse of the fishing industry in Newfoundland and Labrador in the 1990s, the role of the ocean is now tied to what lies beneath it - oil and gas - as opposed to what swims in or travels across it. The city is the centre of the oil and gas industry in Eastern Canada and is one of 19 World Energy Cities. ExxonMobil Canada is headquartered in St. John's and companies such as Chevron, Husky Energy, Suncor Energy and Statoil have major regional operations in the city. Three major offshore oil developments, Hibernia, Terra Nova and White Rose, are in production off the coast of the city and a fourth development, Hebron, is expected to be producing oil by 2017. What year is Hebron projected to start producing oil in St. John's?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1996",
+            "B. 2017",
+            "C. 15th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"The Stamp Act is introduced into the American colonies by the British Parliament.\" occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1765",
+            "B. 1764",
+            "C. 1768"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "There is disagreement about the origin of the term, but general consensus that \"cardinalis\" from the word cardo (meaning 'pivot' or 'hinge') was first used in late antiquity to designate a bishop or priest who was incorporated into a church for which he had not originally been ordained. In Rome the first persons to be called cardinals were the deacons of the seven regions of the city at the beginning of the 6th century, when the word began to mean “principal,” “eminent,” or \"superior.\" The name was also given to the senior priest in each of the \"title\" churches (the parish churches) of Rome and to the bishops of the seven sees surrounding the city. By the 8th century the Roman cardinals constituted a privileged class among the Roman clergy. They took part in the administration of the church of Rome and in the papal liturgy. By decree of a synod of 769, only a cardinal was eligible to become pope. In 1059, during the pontificate of Nicholas II, cardinals were given the right to elect the pope under the Papal Bull In nomine Domini. For a time this power was assigned exclusively to the cardinal bishops, but the Third Lateran Council in 1179 gave back the right to the whole body of cardinals. Cardinals were granted the privilege of wearing the red hat by Pope Innocent IV in 1244. In what year did the pope allow cardinals to wear the red hats?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1984",
+            "B. 1244",
+            "C. 2009"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In 1795, North Carolina opened the first public university in the United States-the University of North Carolina (now named the University of North Carolina at Chapel Hill). More than 200 years later, the University of North Carolina system encompasses 17 public universities including North Carolina State University, North Carolina A&T State University, North Carolina Central University, the University of North Carolina at Chapel Hill, the University of North Carolina at Greensboro, East Carolina University, Western Carolina University, Winston-Salem State University, the University of North Carolina at Asheville, the University of North Carolina at Charlotte, the University of North Carolina at Pembroke, UNC Wilmington, Elizabeth City State University, Appalachian State University, Fayetteville State University, and UNC School of the Arts, and . Along with its public universities, North Carolina has 58 public community colleges in its community college system.The largest university in North Carolina is currently North Carolina State University, with more than 34,000 students. North Carolina is home to many excellent universities as well as dozens of community colleges and private universities. What year was the first public university opened in the United States?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1998",
+            "B. 1795",
+            "C. 2013"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"France annexes Cambodia.\" occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1863",
+            "B. 1865",
+            "C. 1866"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 5,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "London is a leading global city, with strengths in the arts, commerce, education, entertainment, fashion, finance, healthcare, media, professional services, research and development, tourism, and transport all contributing to its prominence. It is one of the world's leading financial centres and has the fifth-or sixth-largest metropolitan area GDP in the world depending on measurement.[note 3] London is a world cultural capital. It is the world's most-visited city as measured by international arrivals and has the world's largest city airport system measured by passenger traffic. London is one of the world's leading investment destinations, hosting more international retailers and ultra high-net-worth individuals than any other city. London's 43 universities form the largest concentration of higher education institutes in Europe, and a 2014 report placed it first in the world university rankings. According to the report London also ranks first in the world in software, multimedia development and design, and shares first position in technology readiness. In 2012, London became the first city to host the modern Summer Olympic Games three times. When did London most recently host the Summer Olympics?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 17th century",
+            "B. 2012",
+            "C. 1988"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "From the middle of the 3rd century Germanic tribes regularly invaded the Roman territories. Around 275 the Romans could no longer maintain the northern border and Utrecht was abandoned. Little is known about the next period 270-650. Utrecht is first spoken of again several centuries after the Romans left. Under the influence of the growing realms of the Franks, during Dagobert I's reign in the 7th century, a church was built within the walls of the Roman fortress. In ongoing border conflicts with the Frisians this first church was destroyed. When did the Romans leave Utrecht",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2000",
+            "B. 2nd century",
+            "C. Around 275 the Romans could no longer maintain the northern border and Utrecht was abandoned"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In the revival movement France held a foremost place, owing to the reputation and convincing power of the orator, Jean-Baptiste Henri Lacordaire (1802-1861). He took the habit of a Friar Preacher at Rome (1839), and the province of France was canonically erected in 1850. From this province were detached the province of Lyon, called Occitania (1862), that of Toulouse (1869), and that of Canada (1909). The French restoration likewise furnished many laborers to other provinces, to assist in their organization and progress. From it came the master general who remained longest at the head of the administration during the 19th century, Père Vincent Jandel (1850-1872). Here should be mentioned the province of St. Joseph in the United States. Founded in 1805 by Edward Fenwick, afterwards first Bishop of Cincinnati, Ohio (1821-1832), this province has developed slowly, but now ranks among the most flourishing and active provinces of the order. In 1910 it numbered seventeen convents or secondary houses. In 1905, it established a large house of studies at Washington, D.C., called the Dominican House of Studies. There are now four Dominican provinces in the United States. When was the province of France canonically erected?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1850",
+            "B. 2010",
+            "C. 4th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Some researchers believe that the first Russian settlement in Alaska was established in the 17th century. According to this hypothesis, in 1648 several koches of Semyon Dezhnyov's expedition came ashore in Alaska by storm and founded this settlement. This hypothesis is based on the testimony of Chukchi geographer Nikolai Daurkin, who had visited Alaska in 1764-1765 and who had reported on a village on the Kheuveren River, populated by \"bearded men\" who \"pray to the icons\". Some modern researchers associate Kheuveren with Koyuk River. During what time period do some researchers believe Russians settled in Alaska?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 15-Mar",
+            "B. 2008",
+            "C. 17th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Church and state are officially separated since 1916 in Uruguay. The religion with most followers in Montevideo is Roman Catholicism and has been so since the foundation of the city. The Roman Catholic Archdiocese of Montevideo was created as the Apostolic Vicariate of Montevideo in 1830. The vicariate was promoted to the Diocese of Montevideo on 13 July 1878. Pope Leo XIII elevated it to the rank of a metropolitan archdiocese on 14 April 1897. The new archdiocese became the Metropolitan of the suffragan sees of Canelones, Florida, Maldonado-Punta del Este, Melo, Mercedes, Minas, Salto, San José de Mayo, Tacuarembó. When was the Roman Catholic Archdiocese of Montevideo created?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1830",
+            "B. 1986",
+            "C. 1965"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Following World War II, Aung San negotiated the Panglong Agreement with ethnic leaders that guaranteed the independence of Myanmar as a unified state. Aung Zan Wai, Pe Khin, Bo Hmu Aung, Sir Maung Gyi, Dr. Sein Mya Maung, Myoma U Than Kywe were among the negotiators of the historical Panglong Conference negotiated with Bamar leader General Aung San and other ethnic leaders in 1947. In 1947, Aung San became Deputy Chairman of the Executive Council of Myanmar, a transitional government. But in July 1947, political rivals assassinated Aung San and several cabinet members. When did and how did Aung San pass away ?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3rd century",
+            "B. July 1947, political rivals assassinated Aung San",
+            "C. 28-Jun-14"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Currently, the army is divided into the Regular Army, the Army Reserve, and the Army National Guard. The army is also divided into major branches such as Air Defense Artillery, Infantry, Aviation, Signal Corps, Corps of Engineers, and Armor. Before 1903 members of the National Guard were considered state soldiers unless federalized (i.e., activated) by the President. Since the Militia Act of 1903 all National Guard soldiers have held dual status: as National Guardsmen under the authority of the governor of their state or territory and, when activated, as a reserve of the U.S. Army under the authority of the President. In what year did the Milita Act take place?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 28-Jun-14",
+            "B. 6-Aug-45",
+            "C. 1903"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"OpenAI launched ChatGPT, an AI chatbot\" occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2022",
+            "B. 2017",
+            "C. 2024"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In 1882, Tesla began working for the Continental Edison Company in France, designing and making improvements to electrical equipment. In June 1884, he relocated to New York City:57-60 where he was hired by Thomas Edison to work at his Edison Machine Works on Manhattan's lower east side. Tesla's work for Edison began with simple electrical engineering and quickly progressed to solving more difficult problems. When did Tesla begin working for the Continental Edison Company?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1882",
+            "B. 1965",
+            "C. 5th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In 1661 another Jesuit, Johann Grueber, crossed Tibet from Sining to Lhasa (where he spent a month), before heading on to Nepal. He was followed by others who actually built a church in Lhasa. These included the Jesuit Father Ippolito Desideri, 1716-1721, who gained a deep knowledge of Tibetan culture, language and Buddhism, and various Capuchins in 1707-1711, 1716-1733 and 1741-1745, Christianity was used by some Tibetan monarchs and their courts and the Karmapa sect lamas to counterbalance the influence of the Gelugpa sect in the 17th century until in 1745 when all the missionaries were expelled at the lama's insistence. When did Jesuit Father Ippolito Desideri spend time in Tibet?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2009",
+            "B. 1716-1721",
+            "C. 2007"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The German equivalent was used with the founding of the North German Confederation whose constitution granted legislative power over the protection of intellectual property (Schutz des geistigen Eigentums) to the confederation. When the administrative secretariats established by the Paris Convention (1883) and the Berne Convention (1886) merged in 1893, they located in Berne, and also adopted the term intellectual property in their new combined title, the United International Bureaux for the Protection of Intellectual Property. When was the Paris Convention?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2009",
+            "B. 1883",
+            "C. 17th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"Chola dynasty rises in prominence.\" occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. c. 90 BCE",
+            "B. c. 105 BCE",
+            "C. c. 100 BCE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "After Madonna signed a singles deal with Sire, her debut single, \"Everybody\", was released in October 1982, and the second, \"Burning Up\", in March 1983. Both became big club hits in the United States, reaching number three on Hot Dance Club Songs chart compiled by Billboard magazine. After this success, she started developing her debut album, Madonna, which was primarily produced by Reggie Lucas of Warner Bros. However, she was not happy with the completed tracks and disagreed with Lucas' production techniques, so decided to seek additional help. When was \"Everybody\" released?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Oct-82",
+            "B. 2nd century",
+            "C. 1988"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The first four Saturn I test flights were launched from LC-34, with only live first stages, carrying dummy upper stages filled with water. The first flight with a live S-IV was launched from LC-37. This was followed by five launches of boilerplate CSMs (designated AS-101 through AS-105) into orbit in 1964 and 1965. The last three of these further supported the Apollo program by also carrying Pegasus satellites, which verified the safety of the translunar environment by measuring the frequency and severity of micrometeorite impacts. When did the launches of boilerplate CSMs occur in orbit?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1998",
+            "B. 1991",
+            "C. 1964 and 1965"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"2005 Valentine's Day bombings.\" occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2005",
+            "B. 2008",
+            "C. 2006"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 20,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"completion of Stonehenge\" occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2200 BCE",
+            "B. 2159 BCE",
+            "C. 2156 BCE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 21,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "English Freemasonry spread to France in the 1720s, first as lodges of expatriates and exiled Jacobites, and then as distinctively French lodges which still follow the ritual of the Moderns. From France and England, Freemasonry spread to most of Continental Europe during the course of the 18th century. The Grande Loge de France formed under the Grand Mastership of the Duke of Clermont, who exercised only nominal authority. His successor, the Duke of Orléans, reconstituted the central body as the Grand Orient de France in 1773. Briefly eclipsed during the French Revolution, French Freemasonry continued to grow in the next century. When did Freemasonry spread to most of the Continental Europe?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1983",
+            "B. 1986",
+            "C. the 18th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Initially the companies affected were those directly involved in home construction and mortgage lending such as Northern Rock and Countrywide Financial, as they could no longer obtain financing through the credit markets. Over 100 mortgage lenders went bankrupt during 2007 and 2008. Concerns that investment bank Bear Stearns would collapse in March 2008 resulted in its fire-sale to JP Morgan Chase. The financial institution crisis hit its peak in September and October 2008. Several major institutions either failed, were acquired under duress, or were subject to government takeover. These included Lehman Brothers, Merrill Lynch, Fannie Mae, Freddie Mac, Washington Mutual, Wachovia, Citigroup, and AIG. On Oct. 6, 2008, three weeks after Lehman Brothers filed the largest bankruptcy in U.S. history, Lehman's former CEO found himself before Representative Henry A. Waxman, the California Democrat who chaired the House Committee on Oversight and Government Reform. Fuld said he was a victim of the collapse, blaming a \"crisis of confidence\" in the markets for dooming his firm. When did Lehman's former CEO appear before Representative Henry A. Waxman?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Oct. 6, 2008",
+            "B. 1st century",
+            "C. 1988"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The Reformation in Europe officially began in 1517 with Martin Luther (1483-1546) and his 95 Theses. The Reformation greatly changed the Baltic region. Its ideas came quickly to the Livonian Confederation and by the 1520s were widespread. Language, education, religion and politics were transformed. Church services were now conducted in the vernacular instead of in Latin, previously used. During the Livonian War in 1561, northern Estonia submitted to Swedish control. In the 1560s two voivodeships of present-day southern Estonia, Dorpat Voivodeship (Tartu region) and Parnawa Voivodeship (Pärnu region), became the autonomous Duchy of Livonia within the Polish-Lithuanian Commonwealth, under joint control of the Polish Crown and the Grand Duchy. In 1629, mainland Estonia came entirely under Swedish rule. Estonia was administratively divided between the provinces of Estonia in the north and Livonia in southern Estonia and northern Latvia. This division persisted until the early twentieth century. When did the The Reformation in Europe start?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1517",
+            "B. 1983",
+            "C. 1960"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "During the years 1940-1955, the rate of decline in the U.S. death rate accelerated from 2% per year to 8% per year, then returned to the historical rate of 2% per year. The dramatic decline in the immediate post-war years has been attributed to the rapid development of new treatments and vaccines for infectious disease that occurred during these years. Vaccine development continued to accelerate, with the most notable achievement of the period being Jonas Salk's 1954 development of the polio vaccine under the funding of the non-profit National Foundation for Infantile Paralysis. The vaccine process was never patented, but was instead given to pharmaceutical companies to manufacture as a low-cost generic. In 1960 Maurice Hilleman of Merck Sharp & Dohme identified the SV40 virus, which was later shown to cause tumors in many mammalian species. It was later determined that SV40 was present as a contaminant in polio vaccine lots that had been administered to 90% of the children in the United States. The contamination appears to have originated both in the original cell stock and in monkey tissue used for production. In 2004 the United States Cancer Institute announced that it had concluded that SV40 is not associated with cancer in people. In what year was the polio vaccine created?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1954",
+            "B. 2018",
+            "C. 14th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In the floor, just inside the great west door, in the centre of the nave, is the tomb of The Unknown Warrior, an unidentified British soldier killed on a European battlefield during the First World War. He was buried in the abbey on 11 November 1920. This grave is the only one in the abbey on which it is forbidden to walk.[citation needed] When was The Unknown Warrior buried?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2003",
+            "B. 1976",
+            "C. 11-Nov-20"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The community of Casas Adobes is also on the Northwest Side, with the distinction of being Tucson's first suburb, established in the late 1940s. Casas Adobes is centered on the historic Casas Adobes Plaza (built in 1948). Casas Adobes is also home to Tohono Chul Park (a nature preserve) near the intersection of North Oracle Road and West Ina Road. The attempted assassination of Representative Gabrielle Giffords, and the murders of chief judge for the U.S. District Court for Arizona, John Roll and five other people on January 8, 2011, occurred at the La Toscana Village in Casas Adobes. The Foothills Mall is also located on the northwest side in Casas Adobes. When was the Casas Adobes Plaza built?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1948",
+            "B. 1971",
+            "C. 10th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The principal battles of the stalemate include the Battle of Bloody Ridge (18 August-15 September 1951), the Battle of the Punchbowl (31 August-21 September 1951), the Battle of Heartbreak Ridge (13 September-15 October 1951), the Battle of Old Baldy (26 June-4 August 1952), the Battle of White Horse (6-15 October 1952), the Battle of Triangle Hill (14 October-25 November 1952), the Battle of Hill Eerie (21 March-21 June 1952), the sieges of Outpost Harry (10-18 June 1953), the Battle of the Hook (28-29 May 1953), the Battle of Pork Chop Hill (23 March-16 July 1953), and the Battle of Kumsong (13-27 July 1953). What year was the Battle of Bloody Ridge?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1975",
+            "B. 2008",
+            "C. 1951"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "This led to the discovery that the Earths crust was broken up into regions, or plates. When was the discovery made?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 16200",
+            "B. 2979 b.c",
+            "C. 1824"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"The Second Chechen War begins.\" occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1994",
+            "B. 1999",
+            "C. 2001"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 30,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Russian is one of the official languages (or has similar status and interpretation must be provided into Russian) of the United Nations, International Atomic Energy Agency, World Health Organization, International Civil Aviation Organization, UNESCO, World Intellectual Property Organization, International Telecommunication Union, World Meteorological Organization, Food and Agriculture Organization, International Fund for Agricultural Development, International Criminal Court, International Monetary Fund, International Olympic Committee, Universal Postal Union, World Bank, Commonwealth of Independent States, Organization for Security and Co-operation in Europe, Shanghai Cooperation Organisation, Eurasian Economic Community, Collective Security Treaty Organization, Antarctic Treaty Secretariat, International Organization for Standardization, GUAM Organization for Democracy and Economic Development, International Mathematical Olympiad. The Russian language is also one of two official languages aboard the International Space Station - NASA astronauts who serve alongside Russian cosmonauts usually take Russian language courses. This practice goes back to the Apollo-Soyuz mission, which first flew in 1975. When did Apollo-Soyuz fly?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1973",
+            "B. 15-Mar",
+            "C. 1975"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Nobles were born into a noble family, adopted by a noble family (this was abolished in 1633) or ennobled by a king or Sejm for various reasons (bravery in combat, service to the state, etc.-yet this was the rarest means of gaining noble status). Many nobles were, in actuality, really usurpers, being commoners, who moved into another part of the country and falsely pretended to noble status. Hundreds of such false nobles were denounced by Hieronim Nekanda Trepka in his Liber generationis plebeanorium (or Liber chamorum) in the first half of the 16th century. The law forbade non-nobles from owning nobility-estates and promised the estate to the denouncer. Trepka was an impoverished nobleman who lived a townsman life and collected hundreds of such stories hoping to take over any of such estates. It does not seem he ever succeeded in proving one at the court. Many sejms issued decrees over the centuries in an attempt to resolve this issue, but with little success. It is unknown what percentage of the Polish nobility came from the 'lower' orders of society, but most historians agree that nobles of such base origins formed a 'significant' element of the szlachta. When did the denouncing of many nobles take place?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. first half of the 16th century",
+            "B. 1st century",
+            "C. 17th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"War of the Austrian Succession.\" occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1744-1741",
+            "B. 1740-1748",
+            "C. 1747-1750"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Born in 1926, Harper Lee grew up in the Southern town of Monroeville, Alabama, where she became close friends with soon-to-be famous writer Truman Capote. She attended Huntingdon College in Montgomery (1944-45), and then studied law at the University of Alabama (1945-49). While attending college, she wrote for campus literary magazines: Huntress at Huntingdon and the humor magazine Rammer Jammer at the University of Alabama. At both colleges, she wrote short stories and other works about racial injustice, a rarely mentioned topic on such campuses at the time. In 1950, Lee moved to New York City, where she worked as a reservation clerk for British Overseas Airways Corporation; there, she began writing a collection of essays and short stories about people in Monroeville. Hoping to be published, Lee presented her writing in 1957 to a literary agent recommended by Capote. An editor at J. B. Lippincott , who bought the manuscript, advised her to quit the airline and concentrate on writing. Donations from friends allowed her to write uninterrupted for a year. What year did Harper Lee pack up to go live in New York City?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1995",
+            "B. 6th century",
+            "C. 1950"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In Italy, Freemasonry has become linked to a scandal concerning the Propaganda Due lodge (a.k.a. P2). This lodge was chartered by the Grande Oriente d'Italia in 1877, as a lodge for visiting Masons unable to attend their own lodges. Under Licio Gelli's leadership, in the late 1970s, P2 became involved in the financial scandals that nearly bankrupted the Vatican Bank. However, by this time the lodge was operating independently and irregularly, as the Grand Orient had revoked its charter and expelled Gelli in 1976. When did the Grand Orient d'italia expel Licio Gelli and revoked the charter of P2?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2005",
+            "B. 2015",
+            "C. 1976"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Washington University has a large number of student-run musical groups on campus, including 12 official a cappella groups. The Pikers, an all-male group, is the oldest such group on campus. The Greenleafs, an all-female group is the oldest (and only) female group on campus. The Mosaic Whispers, founded in 1991, is the oldest co-ed group on campus. They have produced 9 albums and have appeared on a number of compilation albums, including Ben Folds' Ben Folds Presents: University A Cappella! The Amateurs, who also appeared on this album, is another co-ed a cappella group on campus, founded in 1991. They have recorded seven albums and toured extensively. After Dark is a co-ed a cappella group founded in 2001. It has released three albums and has won several Contemporary A Capella Recording (CARA) awards. In 2008 the group performed on MSNBC during coverage of the vice presidential debate with specially written songs about Joe Biden and Sarah Palin. The Ghost Lights, founded in 2010, is the campus's newest and only Broadway, Movies, and Television soundtrack group. They have performed multiple philanthropic concerts in the greater St. Louis area and were honored in November 2010 with the opportunity to perform for Nobel Laureate Douglass North at his birthday celebration. When did the group After Dark perform MSNBC?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3rd century",
+            "B. 2008",
+            "C. 2019"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In addition to the change in the mean length of the calendar year from 365.25 days (365 days 6 hours) to 365.2425 days (365 days 5 hours 49 minutes 12 seconds), a reduction of 10 minutes 48 seconds per year, the Gregorian calendar reform also dealt with the accumulated difference between these lengths. The canonical Easter tables were devised at the end of the third century, when the vernal equinox fell either on 20 March or 21 March depending on the year's position in the leap year cycle. As the rule was that the full moon preceding Easter was not to precede the equinox the equinox was fixed at 21 March for computational purposes and the earliest date for Easter was fixed at 22 March. The Gregorian calendar reproduced these conditions by removing ten days. In order to account for the full moon coming after the equinox, when was the equinox set?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2013",
+            "B. 2015",
+            "C. 22-Mar"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "South Tucson is actually the name of an independent, incorporated town of 1 sq mi (2.6 km2), completely surrounded by the city of Tucson, sitting just south of downtown. South Tucson has a colorful, dynamic history. It was first incorporated in 1936, and later reincorporated in 1940. The population consists of about 83% Mexican-American and 10% Native American residents. South Tucson is widely known for its many Mexican restaurants and the architectural styles which include bright outdoor murals, many of which have been painted over due to city policy. What year was South Tuscon reincorperated?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1940",
+            "B. 1995",
+            "C. 12th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Madonna gave another provocative performance later that year at the 2003 MTV Video Music Awards, while singing \"Hollywood\" with Britney Spears, Christina Aguilera, and Missy Elliott. Madonna sparked controversy for kissing Spears and Aguilera suggestively during the performance. In October 2003, Madonna provided guest vocals on Spears' single \"Me Against the Music\". It was followed with the release of Remixed & Revisited. The EP contained remixed versions of songs from American Life and included \"Your Honesty\", a previously unreleased track from the Bedtime Stories recording sessions. Madonna also signed a contract with Callaway Arts & Entertainment to be the author of five children's books. The first of these books, titled The English Roses, was published in September 2003. The story was about four English schoolgirls and their envy and jealousy of each other. Kate Kellway from The Guardian commented, \"[Madonna] is an actress playing at what she can never be-a JK Rowling, an English rose.\" The book debuted at the top of The New York Times Best Seller list and became the fastest-selling children's picture book of all time. When was the The English Roses published?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 22-Nov-63",
+            "B. 3-Sep",
+            "C. 1986"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"The first railway track in Indonesia was laid between Semarang and Tanggung, Central Java by the Dutch colonial government.\" occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1864",
+            "B. 1860",
+            "C. 1862"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 40,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"The Beach Boys release Pet Sounds.\" occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1971",
+            "B. 1966",
+            "C. 1968"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "As of 2015, Universal is the only studio to have released three billion-dollar films in one year; this distinction was achieved in 2015 with Furious 7, Jurassic World and Minions. In what year did Universal release three billion-dollar films?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2015",
+            "B. 11th century",
+            "C. 1969"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"End of Cultural Revolution.\" occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1977",
+            "B. 1978",
+            "C. 1976"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In 2012, news was released about a new farming site discovered in Munam-ri, Goseong, Gangwon Province, South Korea, which may be the earliest farmland known to date in east Asia. \"No remains of an agricultural field from the Neolithic period have been found in any East Asian country before, the institute said, adding that the discovery reveals that the history of agricultural cultivation at least began during the period on the Korean Peninsula\". The farm was dated between 3600 and 3000 B.C. Pottery, stone projectile points, and possible houses were also found. \"In 2002, researchers discovered prehistoric earthenware, jade earrings, among other items in the area\". The research team will perform accelerator mass spectrometry (AMS) dating to retrieve a more precise date for the site. When was the earliest known Asian farm site found in South Korea?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1990",
+            "B. 2012",
+            "C. 1983"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The UK government has spent £250 million in the construction of the island's airport. Expected to be fully operational early 2016, it is expected to help the island towards self-sufficiency and encourage economic development, reducing dependence on British government aid. The airport is also expected to kick start the tourism industry, with up to 30,000 visitors expected annually. As of August, 2015 ticketing was postponed until an airline could be firmly designated. When was the airport expected to be fully functional?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1970",
+            "B. 11th century",
+            "C. early 2016"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Israelites enjoyed political independence twice in ancient history, first during the periods of the Biblical judges followed by the United Monarchy.[disputed - discuss] After the fall of the United Monarchy the land was divided into Israel and Judah. The term Jew originated from the Roman \"Judean\" and denoted someone from the southern kingdom of Judah. The shift of ethnonym from \"Israelites\" to \"Jews\" (inhabitant of Judah), although not contained in the Torah, is made explicit in the Book of Esther (4th century BCE), a book in the Ketuvim, the third section of the Jewish Tanakh. In 587 BC Nebuchadnezzar II, King of the Neo-Babylonian Empire, besieged Jerusalem, destroyed the First Temple, and deported the most prominent citizens of Judah. In 586 BC, Judah itself ceased to be an independent kingdom, and its remaining Jews were left stateless. The Babylonian exile ended in 539 BCE when the Achaemenid Empire conquered Babylon and Cyrus the Great allowed the exiled Jews to return to Yehud and rebuild their Temple. The Second Temple was completed in 515 BCE. Yehud province was a peaceful part of the Achaemenid Empire until the fall of the Empire in c. 333 BCE to Alexander the Great. Jews were also politically independent during the Hasmonean dynasty spanning from 140 to 37 BCE and to some degree under the Herodian dynasty from 37 BCE to 6 CE. Since the destruction of the Second Temple in 70 CE, most Jews have lived in diaspora. As an ethnic minority in every country in which they live (except Israel), they have frequently experienced persecution throughout history, resulting in a population that has fluctuated both in numbers and distribution over the centuries.[citation needed] When did the Babylonian exile end?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7th century",
+            "B. 1962",
+            "C. 539 BCE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The Bell Telephone Company was created in 1877, and by 1886, more than 150,000 people in the U.S. owned telephones. Bell Company engineers made numerous other improvements to the telephone, which emerged as one of the most successful products ever. In 1879, the Bell company acquired Edison's patents for the carbon microphone from Western Union. This made the telephone practical for longer distances, and it was no longer necessary to shout to be heard at the receiving telephone. In what year was the Bell Telephone Company founded?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1877",
+            "B. 11-Sep-01",
+            "C. 12th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "On 7 January 1900, Tesla left Colorado Springs.[citation needed] His lab was torn down in 1904, and its contents were sold two years later to satisfy a debt. When did Tesla depart from Colorado Springs?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1900",
+            "B. 1962",
+            "C. 2017"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In 1901 the accession of Edward VII saw new life breathed into the palace. The new King and his wife Queen Alexandra had always been at the forefront of London high society, and their friends, known as \"the Marlborough House Set\", were considered to be the most eminent and fashionable of the age. Buckingham Palace-the Ballroom, Grand Entrance, Marble Hall, Grand Staircase, vestibules and galleries redecorated in the Belle époque cream and gold colour scheme they retain today-once again became a setting for entertaining on a majestic scale but leaving some to feel King Edward's heavy redecorations were at odds with Nash's original work. When did King Edward VII take the throne?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1901",
+            "B. 2015",
+            "C. 1981"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The first documented visit by a European was in 1524 by Giovanni da Verrazzano, a Florentine explorer in the service of the French crown, who sailed his ship La Dauphine into New York Harbor. He claimed the area for France and named it \"Nouvelle Angoulême\" (New Angoulême). In what year did the first European arrive in the New York area?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1524",
+            "B. 7-Dec-41",
+            "C. 1993"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "By the time of John Seller's Atlas Maritima of 1670, \"India Beyond the Ganges\" had become \"the East Indies\" including China, Korea, southeast Asia and the islands of the Pacific in a map that was every bit as distorted as Ptolemy's, despite the lapse of approximately 1500 years. That \"east\" in turn was only an English translation of Latin Oriens and Orientalis, \"the land of the rising sun,\" used since Roman times for \"east.\" The world map of Jodocus Hondius of 1590 labels all of Asia from the Caspian to the Pacific as India Orientalis, shortly to appear in translation as the East Indies. What year did Jodocus Hondius make his world map?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1989",
+            "B. 1997",
+            "C. 1590"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "On 11 July 2011, Neptune completed its first full barycentric orbit since its discovery in 1846, although it did not appear at its exact discovery position in the sky, because Earth was in a different location in its 365.26-day orbit. Because of the motion of the Sun in relation to the barycentre of the Solar System, on 11 July Neptune was also not at its exact discovery position in relation to the Sun; if the more common heliocentric coordinate system is used, the discovery longitude was reached on 12 July 2011. Using the heliocentric coordinate system, when did Neptune reach the discovery longitude?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12-Jul-11",
+            "B. 2017",
+            "C. 4-Apr-68"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The origins of the Samoans are closely studied in modern research about Polynesia in various scientific disciplines such as genetics, linguistics and anthropology. Scientific research is ongoing, although a number of different theories exist; including one proposing that the Samoans originated from Austronesian predecessors during the terminal eastward Lapita expansion period from Southeast Asia and Melanesia between 2,500 and 1,500 BCE. The Samoan origins are currently being reassessed due to new scientific evidence and carbon dating findings from 2003 and onwards. What year marks the end of the period of the terminal eastward Lapita expansion?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1989",
+            "B. 2nd century",
+            "C. 1,500 BCE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Although the LaserDisc format was supplanted by DVD by the late 1990s, many LD titles are still highly coveted by movie enthusiasts (for example, Disney's Song of the South which is unavailable in the US in any format, but was issued in Japan on LD). This is largely because there are many films that are still only available on LD and many other LD releases contain supplemental material not available on subsequent DVD versions of those films. Until the end of 2001, many titles were released on VHS, LD, and DVD in Japan. By what year had DVD taken over the LaserDisc market?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1981",
+            "B. late 1990s",
+            "C. 1994"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "During 2009, the federal government enacted new legislation repealing the Canada Corporations Act, Part II - the Canada Not-for-Profit Corporations Act. This Act was last amended on 10 October 2011 and the act was current till 4 March 2013. It allows for incorporation as of right, by Articles of Incorporation; does away with the ultra vires doctrine for nonprofits; establishes them as legal persons; and substantially updates the governance provisions for nonprofits. Ontario also overhauled its legislation, adopting the Ontario Not-for-Profit Corporations Act during 2010; pending the outcome of an anticipated election during October 2011,[dated info] the new Act is expected to be in effect as of 1 July 2013. When does Ontario expect the Canada Not-for-Profits Corpaoations Act to go into effect?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1-Jul-13",
+            "B. 2011",
+            "C. 16th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Which statement is more typical in terms of time? A: 'Most people have a breakfast routine in the morning before starting their day.' or B: 'Most people have a breakfast routine in the late evening before starting their day.'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Most people have a breakfast routine in the morning before starting their day.",
+            "B. Most people have a breakfast routine in the late evening before starting their day.",
+            "C. Neither statement is typical."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"Accession of Abu Bakr as first Caliph.\" occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 632",
+            "B. 634",
+            "C. 629"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The Treaty of Guadalupe Hidalgo, signed on February 2, 1848, by American diplomat Nicholas Trist and Mexican plenipotentiary representatives Luis G. Cuevas, Bernardo Couto, and Miguel Atristain, ended the war, gave the U.S. undisputed control of Texas, and established the U.S.-Mexican border of the Rio Grande. As news of peace negotiations reached the state, new call to arms began to flare among the people of the state. But as the Mexican officials in Chihuahua heard that General Price was heading back to Mexico with a large force comprising several companies of infantry and three companies of cavalry and one division of light artillery from Santa Fe on February 8, 1848, Ángel Trías sent a message to Sacramento Pass to ask for succession of the area as they understood the war had concluded. General Price, misunderstanding this as a deception by the Mexican forces, continued to advance towards the state capital. On March 16, 1848 Price began negotiations with Ángel Trías, but the Mexican leader responded with an ultimatum to General Price. The American forces engaged with the Mexican forces near Santa Cruz de los Rosales on March 16, 1848. The Battle of Santa Cruz de los Rosales was the last battle of the Mexican-American War and it occurred after the peace treaty was signed. The American forces maintained control over the state capital for three months after the confirmation of the peace treaty. The American presence served to delay the possible succession of the state which had been discussed at the end of 1847, and the state remained under United States occupation until May 22, 1848. In which year was the treaty signed?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1848",
+            "B. 28-Jun-14",
+            "C. 2000"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928. This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria. Though others had taken up this idea, their research was short lived and inconclusive. Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations. But the objective was not merely to answer Pasteur's question but also to produce the germ free animal as a new tool for biological and medical research. This objective was reached and for years Lobund was a unique center for the study and production of germ free animals and for their use in biological and medical investigations. Today the work has spread to other universities. In the beginning it was under the Department of Biology and a program leading to the master's degree accompanied the research program. In the 1940s Lobund achieved independent status as a purely research organization and in 1950 was raised to the status of an Institute. In 1958 it was brought back into the Department of Biology as integral part of that department, but with its own program leading to the degree of PhD in Gnotobiotics. In what year did Lobund at Notre Dame become an Institute?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1950",
+            "B. October 31, 1517",
+            "C. 2016"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "On February 7, 1987, dozens of political prisoners were freed in the first group release since Khrushchev's \"thaw\" in the mid-1950s. On May 6, 1987, Pamyat, a Russian nationalist group, held an unsanctioned demonstration in Moscow. The authorities did not break up the demonstration and even kept traffic out of the demonstrators' way while they marched to an impromptu meeting with Boris Yeltsin, head of the Moscow Communist Party and at the time one of Gorbachev's closest allies. On July 25, 1987, 300 Crimean Tatars staged a noisy demonstration near the Kremlin Wall for several hours, calling for the right to return to their homeland, from which they were deported in 1944; police and soldiers merely looked on. When were the prisoners set free?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8th century",
+            "B. 2020",
+            "C. February 7, 1987,"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "But early in the 16th century, a brilliant new red appeared in Europe. When the Spanish conquistador Hernán Cortés and his soldiers conquered the Aztec Empire in 1519-1521, they discovered slowly that the Aztecs had another treasure beside silver and gold; they had the tiny cochineal, a parasitic scale insect which lived on cactus plants, which, when dried and crushed, made a magnificent red. The cochineal in Mexico was closely related to the Kermes varieties of Europe, but unlike European Kermes, it could be harvested several times a year, and it was ten times stronger than the Kermes of Poland. It worked particularly well on silk, satin and other luxury textiles. In 1523 Cortes sent the first shipment to Spain. Soon cochineal began to arrive in European ports aboard convoys of Spanish galleons. During what years was the Aztec Empire conquered?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1988",
+            "B. 1519-1521",
+            "C. 1980"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"The Portuguese send a major (and last) expeditionary force from Malacca which succeeded in reimposing a degree of Portuguese control.\" occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1607",
+            "B. 1602",
+            "C. 1605"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Which statement is more typical in terms of time? A: 'Children usually have a bedtime in the late afternoon.' or B: 'Children usually have a bedtime in the early to late evening.'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Children usually have a bedtime in the late afternoon.",
+            "B. Children usually have a bedtime in the early to late evening.",
+            "C. Neither statement is typical."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 63,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"Mozilla Firefox is released.\" occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2000",
+            "B. 2002",
+            "C. 2005"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 64,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"Independence declared in the West Ukrainian People's Republic.\" occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1919",
+            "B. 1918",
+            "C. 1922"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 65,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "On 28 September 1961, secessionist army units launched a coup in Damascus, declaring Syria's secession from the UAR. In response, pro-union army units in northern Syria revolted and pro-Nasser protests occurred in major Syrian cities. Nasser sent Egyptian special forces to Latakia to bolster his allies, but withdrew them two days later, citing a refusal to allow inter-Arab fighting. Addressing the UAR's breakup on 5 October, Nasser accepted personal responsibility and declared that Egypt would recognize an elected Syrian government. He privately blamed interference by hostile Arab governments. According to Heikal, Nasser suffered something resembling a nervous breakdown after the dissolution of the union; he began to smoke more heavily and his health began to deteriorate. In what year did Syria leave the UAR?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1999",
+            "B. 1961",
+            "C. 2019"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 66,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"Africa is declared free of wild polio, the second virus to be eradicated from the continent since smallpox 40 years previously.\" occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2022",
+            "B. 2015",
+            "C. 2020"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 67,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Walpole always denied that he was \"prime minister\", and throughout the 18th century parliamentarians and legal scholars continued to deny that any such position was known to the Constitution. George II and George III made strenuous efforts to reclaim the personal power of the monarch, but the increasing complexity and expense of government meant that a minister who could command the loyalty of the Commons was increasingly necessary. The long tenure of the wartime prime minister William Pitt the Younger (1783-1801), combined with the mental illness of George III, consolidated the power of the post. The title was first referred to on government documents during the administration of Benjamin Disraeli but did not appear in the formal British Order of precedence until 1905. When was the position of prime minister finally formalized?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1905",
+            "B. 1967",
+            "C. 13th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 68,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The Sumerians were a non-Semitic caucasoid people, and spoke a language isolate; a number of linguists believed they could detect a substrate language beneath Sumerian, because names of some of Sumer's major cities are not Sumerian, revealing influences of earlier inhabitants. However, the archaeological record shows clear uninterrupted cultural continuity from the time of the early Ubaid period (5300 - 4700 BC C-14) settlements in southern Mesopotamia. The Sumerian people who settled here farmed the lands in this region that were made fertile by silt deposited by the Tigris and the Euphrates rivers. When were settlements started in southern Mesopotamia?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1996",
+            "B. 15th century",
+            "C. early Ubaid period"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 69,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Montpellier was among the most important of the 66 \"villes de sûreté\" that the Edict of 1598 granted to the Huguenots. The city's political institutions and the university were all handed over to the Huguenots. Tension with Paris led to a siege by the royal army in 1622. Peace terms called for the dismantling of the city's fortifications. A royal citadel was built and the university and consulate were taken over by the Catholic party. Even before the Edict of Alès (1629), Protestant rule was dead and the ville de sûreté was no more.[citation needed] When was this proclamation issued?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2011",
+            "B. 1988",
+            "C. 1629"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Some scholars note that Tibetan leaders during the Ming frequently engaged in civil war and conducted their own foreign diplomacy with neighboring states such as Nepal. Some scholars underscore the commercial aspect of the Ming-Tibetan relationship, noting the Ming dynasty's shortage of horses for warfare and thus the importance of the horse trade with Tibet. Others argue that the significant religious nature of the relationship of the Ming court with Tibetan lamas is underrepresented in modern scholarship. In hopes of reviving the unique relationship of the earlier Mongol leader Kublai Khan (r. 1260-1294) and his spiritual superior Drogön Chögyal Phagpa (1235-1280) of the Sakya school of Tibetan Buddhism, the Yongle Emperor (r. 1402-1424) made a concerted effort to build a secular and religious alliance with Deshin Shekpa (1384-1415), the Karmapa of the Karma Kagyu school. However, the Yongle Emperor's attempts were unsuccessful. During what years did the Mongol leader Kublai Khan rule?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1402-1424",
+            "B. 2001",
+            "C. 1993"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 71,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "As in the rest of the former Confederacy, North Carolina had become a one-party state, dominated by the Democratic Party. Impoverished by the Civil War, the state continued with an economy based on tobacco, cotton and agriculture. Towns and cities remained few in the east. A major industrial base emerged in the late 19th century in the western counties of the Piedmont, based on cotton mills established at the fall line. Railroads were built to connect the new industrializing cities. The state was the site of the first successful controlled, powered and sustained heavier-than-air flight, by the Wright brothers, near Kitty Hawk on December 17, 1903. In the first half of the 20th century, many African Americans left the state to go North for better opportunities, in the Great Migration. Their departure changed the demographic characteristics of many areas. When did a major industrial base appear in North Carolina?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. late 19th century",
+            "B. 1970",
+            "C. 2014"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 72,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"Samudragupta becomes the emperor of the Gupta empire.\" occur?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 332",
+            "B. 340",
+            "C. 335"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 73,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In 2010 and 2011, state and federal funds were awarded to Connecticut (and Massachusetts) to construct the Hartford Line, with a southern terminus at New Haven's Union Station and a northern terminus at Springfield's Union Station. According to the White House, \"This corridor [currently] has one train per day connecting communities in Connecticut and Massachusetts to the Northeast Corridor and Vermont. The vision for this corridor is to restore the alignment to its original route via the Knowledge Corridor in western Massachusetts, improving trip time and increasing the population base that can be served.\" Set for construction in 2013, the \"Knowledge Corridor high speed intercity passenger rail\" project will cost approximately $1 billion, and the ultimate northern terminus for the project is reported to be Montreal in Canada. Train speeds between will reportedly exceed 110 miles per hour (180 km/h) and increase both cities' rail traffic exponentially. When does the Knowledge Corridor line begins it's construction?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1977",
+            "B. in 2013",
+            "C. 2010"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 74,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Greece participated in the Eurovision Song Contest 35 times after its debut at the 1974 Contest. In 2005, Greece won with the song \"My Number One\", performed by Greek-Swedish singer Elena Paparizou. The song received 230 points with 10 sets of 12 points from Belgium, Bulgaria, Hungary, the United Kingdom, Turkey, Albania, Cyprus, Serbia & Montenegro, Sweden and Germany and also became a smash hit in different countries and especially in Greece. The 51st Eurovision Song Contest was held in Athens at the Olympic Indoor Hall of the Athens Olympic Sports Complex in Maroussi, with hosted by Maria Menounos and Sakis Rouvas. In what year did Greece win the Eurovision Song Contest?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2005",
+            "B. 11th century",
+            "C. 2016"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 75,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Media requests at the trade show prompted Kondo to consider using orchestral music for the other tracks in the game as well, a notion reinforced by his preference for live instruments. He originally envisioned a full 50-person orchestra for action sequences and a string quartet for more \"lyrical moments\", though the final product used sequenced music instead. Kondo later cited the lack of interactivity that comes with orchestral music as one of the main reasons for the decision. Both six- and seven-track versions of the game's soundtrack were released on November 19, 2006, as part of a Nintendo Power promotion and bundled with replicas of the Master Sword and the Hylian Shield. When was the soundtrack of Twilight Princess made available?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1992",
+            "B. 2014",
+            "C. 19-Nov-06"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 76,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The word gymnastics derives from the common Greek adjective γυμνός (gymnos) meaning \"naked\", by way of the related verb γυμνάζω (gymnazo), whose meaning is to train naked\", \"train in gymnastic exercise\", generally \"to train, to exercise\". The verb had this meaning, because athletes in ancient times exercised and competed without clothing. It came into use in the 1570s, from Latin gymnasticus, from Greek gymnastikos \"fond of or skilled in bodily exercise,\" from gymnazein \"to exercise or train\" (see gymnasium). When did the word come into use?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1997",
+            "B. 1570s",
+            "C. 1966"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 77,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The German materialist and atheist anthropologist Ludwig Feuerbach would signal a new turn in materialism through his book, The Essence of Christianity (1841), which provided a humanist account of religion as the outward projection of man's inward nature. Feuerbach's materialism would later heavily influence Karl Marx. In what year was \"The Essence of Christianity\" written?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1989",
+            "B. 13th century",
+            "C. 1841"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 78,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Because of the distance of Neptune from Earth, its angular diameter only ranges from 2.2 to 2.4 arcseconds, the smallest of the Solar System planets. Its small apparent size makes it challenging to study it visually. Most telescopic data was fairly limited until the advent of Hubble Space Telescope (HST) and large ground-based telescopes with adaptive optics (AO). The first scientifically useful observation of Neptune from ground-based telescopes using adaptive optics, was commenced in 1997 from Hawaii. Neptune is currently entering its spring and summer season and has been shown to be heating up, with increased atmospheric activity and brightness as a consequence. Combined with technological advancements, ground-based telescopes with adaptive optics are recording increasingly more detailed images of this Outer Planet. Both the HST and AO telescopes on Earth has made many new discoveries within the Solar System since the mid-1990s, with a large increase in the number of known satellites and moons around the Outer Planets for example. In 2004 and 2005, five new small satellites of Neptune with diameters between 38 and 61 kilometres were discovered. When was the first useful observation of Neptune from the ground?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1966",
+            "B. 4th century",
+            "C. 1997"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 79,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "As of 2010 the Catholic Church had the highest number of adherents as a single denomination in the Boston-Cambridge-Newton Metro area, with more than two million members and 339 churches, followed by the Episcopal Church with 58,000 adherents in 160 churches. The United Church of Christ had 55,000 members and 213 churches. The UCC is the successor of the city's Puritan religious traditions. Old South Church in Boston is one of the oldest congregations in the United States. It was organized in 1669 by dissenters from the First Church in Boston (1630). Notable past members include Samuel Adams, William Dawes, Benjamin Franklin, Samuel Sewall, and Phillis Wheatley. In 1773, Adams gave the signals from the Old South Meeting House that started the Boston Tea Party. What year was Old South Church organized?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1978",
+            "B. 1-Jan-00",
+            "C. 1669"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 80,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The University of Chicago (UChicago, Chicago, or U of C) is a private research university in Chicago. The university, established in 1890, consists of The College, various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools. Beyond the arts and sciences, Chicago is also well known for its professional schools, which include the Pritzker School of Medicine, the University of Chicago Booth School of Business, the Law School, the School of Social Service Administration, the Harris School of Public Policy Studies, the Graham School of Continuing Liberal and Professional Studies and the Divinity School. The university currently enrolls approximately 5,000 students in the College and around 15,000 students overall. When was the University of Chicago established?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1890",
+            "B. 1993",
+            "C. 1999"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 81,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In the early 1950s, student applications declined as a result of increasing crime and poverty in the Hyde Park neighborhood. In response, the university became a major sponsor of a controversial urban renewal project for Hyde Park, which profoundly affected both the neighborhood's architecture and street plan. During this period the university, like Shimer College and 10 others, adopted an early entrant program that allowed very young students to attend college; in addition, students enrolled at Shimer were enabled to transfer automatically to the University of Chicago after their second year, having taken comparable or identical examinations and courses. In what year did the university first see a drop in applications?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7th century",
+            "B. 1950s",
+            "C. 16th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 82,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Lee modeled the character of Dill on her childhood friend, Truman Capote, known then as Truman Persons. Just as Dill lived next door to Scout during the summer, Capote lived next door to Lee with his aunts while his mother visited New York City. Like Dill, Capote had an impressive imagination and a gift for fascinating stories. Both Lee and Capote were atypical children: both loved to read. Lee was a scrappy tomboy who was quick to fight, but Capote was ridiculed for his advanced vocabulary and lisp. She and Capote made up and acted out stories they wrote on an old Underwood typewriter Lee's father gave them. They became good friends when both felt alienated from their peers; Capote called the two of them \"apart people\". In 1960, Capote and Lee traveled to Kansas together to investigate the multiple murders that were the basis for Capote's nonfiction novel In Cold Blood. What year did Lee and Capote go to Kansas together?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1960",
+            "B. 2014",
+            "C. 6th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 83,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Recent research indicates that the specialized animals that formed complex ecosystems, with high biodiversity, complex food webs and a variety of niches, took much longer to reestablish, recovery did not begin until the start of the mid-Triassic, 4M to 6M years after the extinction and was not complete until 30M years after the Permian-Triassic extinction event. Animal life was then dominated by various archosaurian reptiles: dinosaurs, pterosaurs, and aquatic reptiles such as ichthyosaurs, plesiosaurs, and mosasaurs. When did recovery of these diverse animals begin?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2019",
+            "B. mid-Triassic",
+            "C. 1976"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 84,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"The First Carnatic War is fought between the British, the French, the Marathas, and Mysore in India.\" occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1744-1757",
+            "B. 1744-1748",
+            "C. 1750-1748"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 85,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The Norfolk Island Legislative Assembly decided to hold a referendum on the proposal. On 8 May 2015, voters were asked if Norfolk Islanders should freely determine their political status and their economic, social and cultural development, and to \"be consulted at referendum or plebiscite on the future model of governance for Norfolk Island before such changes are acted upon by the Australian parliament\". 68% out of 912 voters voted in favour. The Norfolk Island Chief Minister, Lisle Snell, said that \"the referendum results blow a hole in Canberra's assertion that the reforms introduced before the Australian Parliament that propose abolishing the Legislative Assembly and Norfolk Island Parliament were overwhelmingly supported by the people of Norfolk Island\". When did the Legislative Assembly of Norfolk Island vote regarding the proposed Australian reforms?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7th century",
+            "B. 8-May-15",
+            "C. 2019"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 86,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In England, the 16th-century European Reformation resulted in a number of executions on charges of heresy. During the thirty-eight years of Henry VIII's reign, about sixty heretics, mainly Protestants, were executed and a rather greater number of Catholics lost their lives on grounds of political offences such as treason, notably Sir Thomas More and Cardinal John Fisher, for refusing to accept the king's supremacy over the Church in England. Under Edward VI, the heresy laws were repealed in 1547 only to be reintroduced in 1554 by Mary I; even so two radicals were executed in Edward's reign (one for denying the reality of the incarnation, the other for denying Christ's divinity). Under Mary, around two hundred and ninety people were burned at the stake between 1555 and 1558 after the restoration of papal jurisdiction. When Elizabeth I came to the throne, the concept of heresy was retained in theory but severely restricted by the 1559 Act of Supremacy and the one hundred and eighty or so Catholics who were executed in the forty-five years of her reign were put to death because they were considered members of \"...a subversive fifth column.\" The last execution of a \"heretic\" in England occurred under James VI and I in 1612. Although the charge was technically one of \"blasphemy\" there was one later execution in Scotland (still at that date an entirely independent kingdom) when in 1697 Thomas Aikenhead was accused, among other things, of denying the doctrine of the Trinity. In what year was the last known person sentenced to death in England for heresy?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2nd century",
+            "B. 2013",
+            "C. 1612"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 87,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Nikola Tesla (Serbian Cyrillic: Никола Тесла; 10 July 1856 - 7 January 1943) was a Serbian American inventor, electrical engineer, mechanical engineer, physicist, and futurist best known for his contributions to the design of the modern alternating current (AC) electricity supply system. When was Nikola Tesla born?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1856",
+            "B. 7-Dec-41",
+            "C. 12th century"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 88,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "Maharaja Ranjit Singh's death in the summer of 1839 brought political chaos and the subsequent battles of succession and the bloody infighting between the factions at court weakened the state. Relationships with neighbouring British territories then broke down, starting the First Anglo-Sikh War; this led to a British official being resident in Lahore and the annexation in 1849 of territory south of the Satluj to British India. After the Second Anglo-Sikh War in 1849, the Sikh Empire became the last territory to be merged into British India. In Jhelum 35 British soldiers of HM XXIV regiment were killed by the local resistance during the Indian Rebellion of 1857.[citation needed] When did Ranjit Singh die?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 15th century",
+            "B. 1988",
+            "C. summer of 1839"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 89,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In the United States, political commentators often refer to the \"red states\", which traditionally vote for Republican candidates in presidential elections, and \"blue states\", which vote for the Democratic candidate. This convention is relatively recent: before the 2000 presidential election, media outlets assigned red and blue to both parties, sometimes alternating the allocation for each election. Fixed usage was established during the 39-day recount following the 2000 election, when the media began to discuss the contest in terms of \"red states\" versus \"blue states\". In what year did the concept of red and blue states become relatively fixed?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2012",
+            "B. 2001",
+            "C. 2000"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 90,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "The reign of the Qianlong Emperor (1735-1796) saw the apogee and initial decline in prosperity and imperial control. The population rose to some 400 million, but taxes and government revenues were fixed at a low rate, virtually guaranteeing eventual fiscal crisis. Corruption set in, rebels tested government legitimacy, and ruling elites did not change their mindsets in the face of changes in the world system. Following the Opium War, European powers imposed unequal treaties, free trade, extraterritoriality and treaty ports under foreign control. The Taiping Rebellion (1850-64) and Dungan Revolt (1862-77) in Central Asia led to the deaths of some 20 million people. In spite of these disasters, in the Tongzhi Restoration of the 1860s, Han Chinese elites rallied to the defense of the Confucian order and the Qing rulers. The initial gains in the Self-Strengthening Movement were destroyed in the First Sino-Japanese War of 1895, in which the Qing lost its influence over Korea and the possession of Taiwan. New Armies were organized, but the ambitious Hundred Days' Reform of 1898 was turned back by Empress Dowager Cixi, a ruthless but capable leader. When, in response to the violently anti-foreign Yihetuan (\"Boxers\"), foreign powers invaded China, the Empress Dowager declared war on them, leading to defeat and the flight of the Imperial Court to Xi'an. When was the first Sino-Japanese War?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9th century",
+            "B. 1895",
+            "C. 1977"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 91,
+        "source": "TRAM:typical_time/Temporal Reasoning",
+        "question": "In what year(s) did \"The Ford Motor Company invents the Model T.\" occur?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1908",
+            "B. 1912",
+            "C. 1910"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    }
+]

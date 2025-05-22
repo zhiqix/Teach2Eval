@@ -1,0 +1,1427 @@
+[
+    {
+        "index": 0,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a rabbit, a dog, two snakes, a frog, a pig, a cow, a mouse, a cat, a duck, and a goat. How many animals do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "11",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 9",
+            "C. 11",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 1,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a donkey, a chicken, a pig, and a snail. How many animals do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "4",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5",
+            "B. 2",
+            "C. 4",
+            "D. 3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 2,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a flute, and an accordion. How many musical instruments do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "2",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2",
+            "B. 1",
+            "C. 3",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a piano, a trombone, a clarinet, a goat, an accordion, and a trumpet. How many musical instruments do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "5",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3",
+            "B. 5",
+            "C. 6",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a trumpet, a clarinet, two trombones, a flute, five violins, and a piano. How many musical instruments do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "11",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11",
+            "B. 9",
+            "C. 12",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have three yams, a lettuce head, an onion, a potato, a cabbage, a carrot, two heads of broccoli, and two stalks of celery. How many vegetables do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "12",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12",
+            "B. 13",
+            "C. 10",
+            "D. 11"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a trumpet, four trombones, an accordion, a clarinet, a violin, and a drum. How many musical instruments do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 7",
+            "C. 8",
+            "D. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 7,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a fish, a snake, a lettuce head, a mouse, four bears, a rabbit, a pig, three goats, a cow, and two snails. How many animals do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "15",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 14",
+            "B. 13",
+            "C. 15",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 8,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a microwave, a lamp, four cars, a stove, a toaster, and a bed. How many objects do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 9",
+            "C. 7",
+            "D. 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 9,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a bed, a fridge, a lamp, a toaster, four chairs, and a table. How many objects do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9",
+            "B. 8",
+            "C. 7",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a fish, a snail, and two rabbits. How many animals do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "4",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2",
+            "B. 5",
+            "C. 3",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a peach, a raspberry, and a nectarine. How many fruits do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 4",
+            "C. 3",
+            "D. 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have an oven, a bed, and a toaster. How many objects do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4",
+            "B. 5",
+            "C. 3",
+            "D. 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 13,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a dog, a chicken, and four snails. How many animals do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "6",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 7",
+            "C. 8",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have two violins, a piano, a drum, two flutes, a trombone, an accordion, a trumpet, a goat, and a clarinet. How many musical instruments do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "10",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 11",
+            "C. 8",
+            "D. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a grape, a plum, two blackberries, a raspberry, and a banana. How many fruits do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "6",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 4",
+            "C. 5",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a stove, two tables, three toasters, a fridge, a lamp, a microwave, three chairs, a bed, a car, and a couch. How many objects do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "15",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 13",
+            "B. 15",
+            "C. 14",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 17,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have three clarinets, a trombone, two pianos, an accordion, and a trumpet. How many musical instruments do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "8",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9",
+            "B. 10",
+            "C. 7",
+            "D. 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have three nectarines, a peach, an apple, a strawberry, three raspberries, a banana, and a plum. How many fruits do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "11",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9",
+            "B. 12",
+            "C. 11",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 19,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a snail, a chair, a duck, a cat, a toaster, a fish, a chicken, two ovens, a cow, two mice, and a rabbit. How many animals do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 7",
+            "C. 11",
+            "D. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have two toasters, a bed, a yam, two onions, and a chair. How many vegetables do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a grape, an apple, a strawberry, a nectarine, a banana, two raspberries, and a plum. How many fruits do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "8",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 9",
+            "C. 7",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have three snakes, a cat, a bear, two goats, a chicken, a donkey, a car, and a fish. How many animals do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "10",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9",
+            "B. 12",
+            "C. 10",
+            "D. 11"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 23,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have two couches, a toaster, two chairs, four microwaves, a table, and a lamp. How many objects do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "11",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11",
+            "B. 8",
+            "C. 12",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have three heads of broccoli, two cauliflowers, a yam, and a lettuce head. How many vegetables do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "7",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5",
+            "B. 6",
+            "C. 8",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a banana, two raspberries, three blackberries, an apple, and an orange. How many fruits do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "8",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 8",
+            "C. 9",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a flute, a trumpet, three accordions, three violins, a drum, three clarinets, and a trombone. How many musical instruments do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "13",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 15",
+            "B. 10",
+            "C. 13",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 27,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have an oven, a bed, a lamp, a chair, a fridge, a microwave, and a toaster. How many objects do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "7",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 7",
+            "C. 8",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a goat, a fish, a piano, a violin, a trombone, a chicken, four clarinets, a drum, and an accordion. How many musical instruments do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9",
+            "B. 8",
+            "C. 6",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a pig, a fish, a mouse, a frog, a dog, a rabbit, a donkey, a chicken, and a duck. How many animals do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7",
+            "B. 9",
+            "C. 10",
+            "D. 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a cow, two dogs, a mouse, a donkey, a snail, a snake, a cat, a pig, a bear, and three rabbits. How many animals do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "13",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 13",
+            "B. 12",
+            "C. 14",
+            "D. 11"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a fridge, a chair, and a microwave. How many objects do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2",
+            "B. 4",
+            "C. 1",
+            "D. 3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 32,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a drum, an accordion, and a violin. How many musical instruments do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4",
+            "B. 2",
+            "C. 1",
+            "D. 3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 33,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a mouse, a frog, two snails, a lettuce head, an onion, a goat, a cat, a fish, a cow, a pig, four ducks, and a rabbit. How many animals do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "14",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 13",
+            "B. 11",
+            "C. 14",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have two blackberries, an apple, a grape, a strawberry, a peach, two oranges, two plums, and two bananas. How many fruits do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "12",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 11",
+            "C. 12",
+            "D. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a cabbage, a stalk of celery, a head of broccoli, a potato, an onion, a cauliflower, two garlics, a yam, and two carrots. How many vegetables do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "11",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12",
+            "B. 11",
+            "C. 9",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 36,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a chair, a stove, a table, two lamps, a bed, a couch, a toaster, a microwave, and a car. How many objects do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "10",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 8",
+            "C. 9",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a toaster, a car, and a table. How many objects do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4",
+            "B. 3",
+            "C. 2",
+            "D. 1"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 38,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have two beds, a stove, a microwave, a table, a fridge, a lamp, and a toaster. How many objects do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "8",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9",
+            "B. 6",
+            "C. 7",
+            "D. 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 39,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a goat, an orange, a nectarine, three plums, and four strawberries. How many fruits do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 9",
+            "C. 10",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 40,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a microwave, a bed, and a couch. How many objects do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4",
+            "B. 1",
+            "C. 3",
+            "D. 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 41,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have an oven, a table, a lamp, three couches, a toaster, a microwave, and a bed. How many objects do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7",
+            "B. 9",
+            "C. 8",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have an orange, a carrot, a head of broccoli, three cabbages, a stalk of celery, a cauliflower, a lettuce head, and a yam. How many vegetables do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 10",
+            "C. 9",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 43,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have two violins, a drum, a flute, a trumpet, and a clarinet. How many musical instruments do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "6",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5",
+            "B. 6",
+            "C. 4",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 44,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have four lamps, a fridge, a bed, a car, a toaster, and a stove. How many objects do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7",
+            "B. 9",
+            "C. 8",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 45,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a garlic, a cabbage, a yam, a carrot, and a stalk of celery. How many vegetables do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "5",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4",
+            "B. 3",
+            "C. 6",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a stove, a bed, five cars, a couch, a toaster, two fridges, a chair, and a lamp. How many objects do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "13",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10",
+            "B. 15",
+            "C. 12",
+            "D. 13"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a blackberry, a plum, and a banana. How many fruits do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4",
+            "B. 2",
+            "C. 3",
+            "D. 1"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have an apple, three bananas, a strawberry, a peach, three oranges, a plum, a raspberry, two grapes, a nectarine, and a blackberry. How many fruits do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "15",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12",
+            "B. 15",
+            "C. 17",
+            "D. 14"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 49,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a donkey, a goat, and a cow. How many animals do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3",
+            "B. 2",
+            "C. 4",
+            "D. 1"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have an apple, a plum, a blackberry, a raspberry, three strawberries, and a banana. How many fruits do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "8",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 9",
+            "C. 7",
+            "D. 6"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a goat, a frog, five pigs, and a bear. How many animals do I have?",
+        "label": [
+            "A"
+        ],
+        "answer": "8",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8",
+            "B. 5",
+            "C. 9",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a carrot, and a head of broccoli. How many vegetables do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "2",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1",
+            "B. 0",
+            "C. 2",
+            "D. 3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a peach, a nectarine, a banana, a raspberry, and a duck. How many fruits do I have?",
+        "label": [
+            "D"
+        ],
+        "answer": "4",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3",
+            "B. 2",
+            "C. 5",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a clarinet, an accordion, a cabbage, two flutes, a piano, a drum, a trombone, a lettuce head, and two violins. How many musical instruments do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "9",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11",
+            "B. 7",
+            "C. 9",
+            "D. 6"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 55,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have an oven, an apple, three bananas, a table, and two grapes. How many fruits do I have?",
+        "label": [
+            "B"
+        ],
+        "answer": "6",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4",
+            "B. 6",
+            "C. 7",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "BBH:object_counting/Logical Reasoning",
+        "question": "I have a table, a strawberry, and three nectarines. How many fruits do I have?",
+        "label": [
+            "C"
+        ],
+        "answer": "4",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    }
+]

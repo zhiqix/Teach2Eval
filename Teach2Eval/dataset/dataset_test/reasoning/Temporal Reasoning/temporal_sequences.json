@@ -1,0 +1,1427 @@
+[
+    {
+        "index": 0,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, James went to the swimming pool. Between what times could they have gone?\nWe know that:\nJames woke up at 5am.\nAshley saw James sitting on a rooftop from 7am to 9am.\nHannah saw James taking photos near the Eiffel Tower from 9am to 7pm.\nWilliam saw James buying cookies at a bakery from 7pm to 8pm.\nLinda saw James waiting at the train station from 8pm to 10pm.\nThe swimming pool was closed after 10pm.\nBetween what times could James have gone to the swimming pool?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7pm to 8pm",
+            "B. 8pm to 10pm",
+            "C. 5am to 7am",
+            "D. 7am to 9am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 1,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Sarah went to the gas station. Between what times could they have gone?\nWe know that:\nSarah woke up at 6am.\nSamantha saw Sarah reading at the library from 6am to 9am.\nMary saw Sarah taking photos near the Eiffel Tower from 9am to 11am.\nSteven saw Sarah buying cookies at a bakery from 11am to 2pm.\nThe gas station was closed after 9pm.\nBetween what times could Sarah have gone to the gas station?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11am to 2pm",
+            "B. 2pm to 9pm",
+            "C. 9am to 11am",
+            "D. 6am to 9am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 2,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Anthony went to the bookstore. Between what times could they have gone?\nWe know that:\nAnthony woke up at 7am.\nDavid saw Anthony working at the office from 7am to 8am.\nLeslie saw Anthony getting a coffee at the cafe from 8am to 11am.\nSarah saw Anthony watching a movie at the theater from 1pm to 9pm.\nThe bookstore was closed after 9pm.\nBetween what times could Anthony have gone to the bookstore?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11am to 1pm",
+            "B. 8am to 11am",
+            "C. 7am to 8am",
+            "D. 1pm to 9pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 3,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Sarah went to the art show. Between what times could they have gone?\nWe know that:\nSarah woke up at 5am.\nKimberly saw Sarah waiting at the airport from 5am to 8am.\nThomas saw Sarah taking photos near the Eiffel Tower from 8am to 1pm.\nHannah saw Sarah fixing their computer at the electronic store from 1pm to 2pm.\nThe art show was closed after 10pm.\nBetween what times could Sarah have gone to the art show?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1pm to 2pm",
+            "B. 5am to 8am",
+            "C. 2pm to 10pm",
+            "D. 8am to 1pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Elizabeth went to the park. Between what times could they have gone?\nWe know that:\nElizabeth woke up at 10am.\nEmily saw Elizabeth buying a bike at the bike shop from 10am to 11am.\nLeslie saw Elizabeth buying lunch at the deli from 11am to 2pm.\nSarah saw Elizabeth playing tennis at the tennis court from 4pm to 8pm.\nThe park was closed after 8pm.\nBetween what times could Elizabeth have gone to the park?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10am to 11am",
+            "B. 11am to 2pm",
+            "C. 4pm to 8pm",
+            "D. 2pm to 4pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 5,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Sean went to the basketball court. Between what times could they have gone?\nWe know that:\nSean woke up at 5am.\nJames saw Sean watching a movie at the theater from 5am to 6am.\nDavid saw Sean buying cookies at a bakery from 6am to 7am.\nSarah saw Sean working out at the gym from 7am to 9am.\nWilliam saw Sean attending class at the school from 11am to 2pm.\nRichard saw Sean taking photos near the Leaning Tower of Pisa from 2pm to 4pm.\nThe basketball court was closed after 4pm.\nBetween what times could Sean have gone to the basketball court?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9am to 11am",
+            "B. 2pm to 4pm",
+            "C. 6am to 7am",
+            "D. 11am to 2pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 6,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Betty went to the bakery. Between what times could they have gone?\nWe know that:\nBetty woke up at 5am.\nJessica saw Betty driving to the water park from 5am to 1pm.\nSusan saw Betty stretching at a yoga studio from 1pm to 4pm.\nLeslie saw Betty buying a phone at the electronics store from 4pm to 9pm.\nThe bakery was closed after 10pm.\nBetween what times could Betty have gone to the bakery?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5am to 1pm",
+            "B. 4pm to 9pm",
+            "C. 1pm to 4pm",
+            "D. 9pm to 10pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 7,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Samantha went to the market. Between what times could they have gone?\nWe know that:\nSamantha woke up at 5am.\nSarah saw Samantha working at the office from 5am to 11am.\nAshley saw Samantha buying a phone at the electronics store from 11am to 1pm.\nLeslie saw Samantha fixing their computer at the electronic store from 5pm to 8pm.\nThe market was closed after 8pm.\nBetween what times could Samantha have gone to the market?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5am to 11am",
+            "B. 5pm to 8pm",
+            "C. 11am to 1pm",
+            "D. 1pm to 5pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 8,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Ashley went to the basketball court. Between what times could they have gone?\nWe know that:\nAshley woke up at 9am.\nJohn saw Ashley taking photos near the Eiffel Tower from 9am to 10am.\nLinda saw Ashley walking in the garden from 10am to 1pm.\nAshley saw Ashley attending class at the school from 1pm to 2pm.\nThe basketball court was closed after 7pm.\nBetween what times could Ashley have gone to the basketball court?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2pm to 7pm",
+            "B. 9am to 10am",
+            "C. 1pm to 2pm",
+            "D. 10am to 1pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Michael went to the clothing store. Between what times could they have gone?\nWe know that:\nMichael woke up at 5am.\nAndrew saw Michael waiting at the train station from 6am to 1pm.\nSarah saw Michael walking towards the Statue of Liberty from 1pm to 3pm.\nMary saw Michael walking in the garden from 3pm to 6pm.\nLisa saw Michael taking photos near the Eiffel Tower from 6pm to 9pm.\nElizabeth saw Michael fixing their computer at the electronic store from 9pm to 10pm.\nThe clothing store was closed after 10pm.\nBetween what times could Michael have gone to the clothing store?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1pm to 3pm",
+            "B. 9pm to 10pm",
+            "C. 6am to 1pm",
+            "D. 5am to 6am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 10,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Leslie went to the soccer field. Between what times could they have gone?\nWe know that:\nLeslie woke up at 5am.\nSarah saw Leslie waiting at the train station from 5am to 12pm.\nHannah saw Leslie sitting on a rooftop from 12pm to 2pm.\nElizabeth saw Leslie buying a bike at the bike shop from 3pm to 4pm.\nEmily saw Leslie working at the office from 4pm to 10pm.\nThe soccer field was closed after 10pm.\nBetween what times could Leslie have gone to the soccer field?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12pm to 2pm",
+            "B. 2pm to 3pm",
+            "C. 4pm to 10pm",
+            "D. 5am to 12pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 11,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Sarah went to the soccer field. Between what times could they have gone?\nWe know that:\nSarah woke up at 5am.\nLinda saw Sarah taking photos near the Leaning Tower of Pisa from 5am to 6am.\nKimberly saw Sarah playing tennis at the tennis court from 8am to 10am.\nJennifer saw Sarah buying cookies at a bakery from 10am to 7pm.\nMichael saw Sarah working at the office from 7pm to 9pm.\nThe soccer field was closed after 9pm.\nBetween what times could Sarah have gone to the soccer field?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5am to 6am",
+            "B. 6am to 8am",
+            "C. 8am to 10am",
+            "D. 7pm to 9pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 12,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, David went to the construction site. Between what times could they have gone?\nWe know that:\nDavid woke up at 7am.\nSarah saw David reading at the library from 7am to 8am.\nRichard saw David buying a bike at the bike shop from 12pm to 3pm.\nJames saw David sitting on a rooftop from 3pm to 4pm.\nAndrew saw David walking towards the Statue of Liberty from 4pm to 6pm.\nJessica saw David working out at the gym from 6pm to 10pm.\nThe construction site was closed after 10pm.\nBetween what times could David have gone to the construction site?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8am to 12pm",
+            "B. 6pm to 10pm",
+            "C. 4pm to 6pm",
+            "D. 3pm to 4pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 13,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Mark went to the art show. Between what times could they have gone?\nWe know that:\nMark woke up at 10am.\nBetty saw Mark buying a bike at the bike shop from 10am to 11am.\nAshley saw Mark watching a movie at the theater from 1pm to 2pm.\nLinda saw Mark working out at the gym from 2pm to 4pm.\nLeslie saw Mark buying a phone at the electronics store from 4pm to 9pm.\nMichael saw Mark waiting at the airport from 9pm to 10pm.\nThe art show was closed after 10pm.\nBetween what times could Mark have gone to the art show?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11am to 1pm",
+            "B. 4pm to 9pm",
+            "C. 10am to 11am",
+            "D. 2pm to 4pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Susan went to the park. Between what times could they have gone?\nWe know that:\nSusan woke up at 7am.\nMary saw Susan fixing their computer at the electronic store from 1pm to 2pm.\nMichael saw Susan getting a coffee at the cafe from 2pm to 3pm.\nRichard saw Susan waiting at the train station from 3pm to 5pm.\nLinda saw Susan taking photos near the Eiffel Tower from 5pm to 6pm.\nThe park was closed after 6pm.\nBetween what times could Susan have gone to the park?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5pm to 6pm",
+            "B. 3pm to 5pm",
+            "C. 7am to 1pm",
+            "D. 2pm to 3pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 15,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Anthony went to the dance studio. Between what times could they have gone?\nWe know that:\nAnthony woke up at 7am.\nKimberly saw Anthony walking in the garden from 7am to 9am.\nLinda saw Anthony waiting at the train station from 10am to 1pm.\nSusan saw Anthony attending class at the school from 1pm to 4pm.\nDavid saw Anthony fixing their computer at the electronic store from 4pm to 7pm.\nTiffany saw Anthony reading at the library from 7pm to 8pm.\nThe dance studio was closed after 8pm.\nBetween what times could Anthony have gone to the dance studio?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7am to 9am",
+            "B. 4pm to 7pm",
+            "C. 9am to 10am",
+            "D. 7pm to 8pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 16,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Elizabeth went to the swimming pool. Between what times could they have gone?\nWe know that:\nElizabeth woke up at 6am.\nNancy saw Elizabeth fixing their computer at the electronic store from 6am to 7am.\nJessica saw Elizabeth attending class at the school from 7am to 11am.\nWilliam saw Elizabeth getting a coffee at the cafe from 11am to 3pm.\nBetty saw Elizabeth taking photos near the Eiffel Tower from 3pm to 6pm.\nThe swimming pool was closed after 7pm.\nBetween what times could Elizabeth have gone to the swimming pool?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11am to 3pm",
+            "B. 6am to 7am",
+            "C. 6pm to 7pm",
+            "D. 7am to 11am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Jason went to the gas station. Between what times could they have gone?\nWe know that:\nJason woke up at 5am.\nSean saw Jason walking in the garden from 5am to 8am.\nDavid saw Jason buying lunch at the deli from 8am to 2pm.\nJennifer saw Jason driving to the water park from 2pm to 5pm.\nLisa saw Jason watching a movie at the theater from 6pm to 7pm.\nMary saw Jason buying cookies at a bakery from 7pm to 10pm.\nThe gas station was closed after 10pm.\nBetween what times could Jason have gone to the gas station?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5pm to 6pm",
+            "B. 2pm to 5pm",
+            "C. 6pm to 7pm",
+            "D. 8am to 2pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 18,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Emily went to the park. Between what times could they have gone?\nWe know that:\nEmily woke up at 5am.\nLeslie saw Emily getting a coffee at the cafe from 5am to 6am.\nKimberly saw Emily walking towards the Statue of Liberty from 6am to 2pm.\nRichard saw Emily waiting at the airport from 4pm to 10pm.\nThe park was closed after 10pm.\nBetween what times could Emily have gone to the park?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6am to 2pm",
+            "B. 4pm to 10pm",
+            "C. 5am to 6am",
+            "D. 2pm to 4pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 19,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Jessica went to the bookstore. Between what times could they have gone?\nWe know that:\nJessica woke up at 6am.\nSusan saw Jessica working out at the gym from 8am to 9am.\nAndrew saw Jessica driving to the water park from 9am to 10am.\nDavid saw Jessica walking towards the Statue of Liberty from 10am to 1pm.\nLinda saw Jessica buying lunch at the deli from 1pm to 8pm.\nJames saw Jessica taking photos near the Eiffel Tower from 8pm to 9pm.\nThe bookstore was closed after 9pm.\nBetween what times could Jessica have gone to the bookstore?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9am to 10am",
+            "B. 6am to 8am",
+            "C. 8pm to 9pm",
+            "D. 8am to 9am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, James went to the beach. Between what times could they have gone?\nWe know that:\nJames woke up at 5am.\nSean saw James walking towards the Statue of Liberty from 5am to 6am.\nMichael saw James driving to the water park from 6am to 7am.\nAnthony saw James reading at the library from 7am to 3pm.\nWilliam saw James getting a coffee at the cafe from 4pm to 9pm.\nThe beach was closed after 9pm.\nBetween what times could James have gone to the beach?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7am to 3pm",
+            "B. 5am to 6am",
+            "C. 4pm to 9pm",
+            "D. 3pm to 4pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 21,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Thomas went to the restaurant. Between what times could they have gone?\nWe know that:\nThomas woke up at 9am.\nLinda saw Thomas waiting at the airport from 9am to 12pm.\nSusan saw Thomas buying lunch at the deli from 5pm to 7pm.\nLisa saw Thomas watching a movie at the theater from 7pm to 10pm.\nThe restaurant was closed after 10pm.\nBetween what times could Thomas have gone to the restaurant?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7pm to 10pm",
+            "B. 9am to 12pm",
+            "C. 5pm to 7pm",
+            "D. 12pm to 5pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 22,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Mark went to the clothing store. Between what times could they have gone?\nWe know that:\nMark woke up at 5am.\nAndrew saw Mark taking photos near the Eiffel Tower from 5am to 6am.\nWilliam saw Mark waiting at the train station from 9am to 6pm.\nAshley saw Mark buying a bike at the bike shop from 6pm to 10pm.\nThe clothing store was closed after 10pm.\nBetween what times could Mark have gone to the clothing store?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5am to 6am",
+            "B. 6am to 9am",
+            "C. 9am to 6pm",
+            "D. 6pm to 10pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 23,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Susan went to the soccer field. Between what times could they have gone?\nWe know that:\nSusan woke up at 5am.\nWilliam saw Susan walking in the garden from 5am to 6am.\nAnthony saw Susan working out at the gym from 6am to 7am.\nBetty saw Susan fixing their computer at the electronic store from 2pm to 6pm.\nLisa saw Susan buying cookies at a bakery from 6pm to 8pm.\nLinda saw Susan playing tennis at the tennis court from 8pm to 9pm.\nThe soccer field was closed after 9pm.\nBetween what times could Susan have gone to the soccer field?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6am to 7am",
+            "B. 5am to 6am",
+            "C. 7am to 2pm",
+            "D. 6pm to 8pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 24,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Andrew went to the park. Between what times could they have gone?\nWe know that:\nAndrew woke up at 5am.\nTiffany saw Andrew reading at the library from 6am to 10am.\nNancy saw Andrew walking in the garden from 10am to 12pm.\nSarah saw Andrew working out at the gym from 12pm to 5pm.\nEmily saw Andrew waiting at the airport from 5pm to 9pm.\nThe park was closed after 9pm.\nBetween what times could Andrew have gone to the park?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12pm to 5pm",
+            "B. 5pm to 9pm",
+            "C. 6am to 10am",
+            "D. 5am to 6am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 25,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Susan went to the art studio. Between what times could they have gone?\nWe know that:\nSusan woke up at 5am.\nKimberly saw Susan waiting at the train station from 5am to 6am.\nLisa saw Susan working out at the gym from 6am to 11am.\nBetty saw Susan reading at the library from 11am to 12pm.\nThe art studio was closed after 1pm.\nBetween what times could Susan have gone to the art studio?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12pm to 1pm",
+            "B. 11am to 12pm",
+            "C. 6am to 11am",
+            "D. 5am to 6am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 26,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Mary went to the dance studio. Between what times could they have gone?\nWe know that:\nMary woke up at 9am.\nSarah saw Mary getting a coffee at the cafe from 9am to 10am.\nMary saw Mary walking in the garden from 12pm to 1pm.\nTiffany saw Mary driving to the water park from 1pm to 10pm.\nThe dance studio was closed after 10pm.\nBetween what times could Mary have gone to the dance studio?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12pm to 1pm",
+            "B. 9am to 10am",
+            "C. 1pm to 10pm",
+            "D. 10am to 12pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 27,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, James went to the coffee shop. Between what times could they have gone?\nWe know that:\nJames woke up at 7am.\nElizabeth saw James waiting at the airport from 7am to 8am.\nKimberly saw James reading at the library from 1pm to 3pm.\nAshley saw James taking photos near the Eiffel Tower from 3pm to 7pm.\nSean saw James stretching at a yoga studio from 7pm to 9pm.\nWilliam saw James attending class at the school from 9pm to 10pm.\nThe coffee shop was closed after 10pm.\nBetween what times could James have gone to the coffee shop?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9pm to 10pm",
+            "B. 7pm to 9pm",
+            "C. 8am to 1pm",
+            "D. 3pm to 7pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 28,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Hannah went to the basketball court. Between what times could they have gone?\nWe know that:\nHannah woke up at 6am.\nJames saw Hannah playing tennis at the tennis court from 6am to 10am.\nAnthony saw Hannah walking in the garden from 10am to 11am.\nJennifer saw Hannah waiting at the train station from 11am to 3pm.\nLinda saw Hannah stretching at a yoga studio from 5pm to 8pm.\nKimberly saw Hannah reading at the library from 8pm to 10pm.\nThe basketball court was closed after 10pm.\nBetween what times could Hannah have gone to the basketball court?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11am to 3pm",
+            "B. 10am to 11am",
+            "C. 8pm to 10pm",
+            "D. 3pm to 5pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 29,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, David went to the gas station. Between what times could they have gone?\nWe know that:\nDavid woke up at 7am.\nMichael saw David waiting at the train station from 7am to 12pm.\nThomas saw David sitting on a rooftop from 12pm to 2pm.\nTiffany saw David getting a coffee at the cafe from 2pm to 3pm.\nJames saw David fixing their computer at the electronic store from 3pm to 5pm.\nMark saw David reading at the library from 5pm to 6pm.\nThe gas station was closed after 8pm.\nBetween what times could David have gone to the gas station?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2pm to 3pm",
+            "B. 6pm to 8pm",
+            "C. 5pm to 6pm",
+            "D. 7am to 12pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 30,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Samantha went to the movies. Between what times could they have gone?\nWe know that:\nSamantha woke up at 5am.\nLisa saw Samantha driving to the water park from 8am to 12pm.\nMary saw Samantha walking in the garden from 12pm to 4pm.\nSamantha saw Samantha reading at the library from 4pm to 6pm.\nThe movies was closed after 6pm.\nBetween what times could Samantha have gone to the movies?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8am to 12pm",
+            "B. 4pm to 6pm",
+            "C. 5am to 8am",
+            "D. 12pm to 4pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 31,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Andrew went to the clothing store. Between what times could they have gone?\nWe know that:\nAndrew woke up at 9am.\nDavid saw Andrew waiting at the train station from 9am to 12pm.\nEmily saw Andrew walking towards the Statue of Liberty from 12pm to 4pm.\nSarah saw Andrew walking in the garden from 4pm to 8pm.\nNancy saw Andrew fixing their computer at the electronic store from 9pm to 10pm.\nThe clothing store was closed after 10pm.\nBetween what times could Andrew have gone to the clothing store?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9am to 12pm",
+            "B. 9pm to 10pm",
+            "C. 12pm to 4pm",
+            "D. 8pm to 9pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 32,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Andrew went to the coffee shop. Between what times could they have gone?\nWe know that:\nAndrew woke up at 8am.\nElizabeth saw Andrew fixing their computer at the electronic store from 11am to 3pm.\nJennifer saw Andrew buying a bike at the bike shop from 3pm to 4pm.\nAnthony saw Andrew buying cookies at a bakery from 4pm to 6pm.\nBetty saw Andrew watching a movie at the theater from 6pm to 8pm.\nThe coffee shop was closed after 8pm.\nBetween what times could Andrew have gone to the coffee shop?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3pm to 4pm",
+            "B. 6pm to 8pm",
+            "C. 8am to 11am",
+            "D. 11am to 3pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 33,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Susan went to the amusement park. Between what times could they have gone?\nWe know that:\nSusan woke up at 5am.\nAnthony saw Susan waiting at the train station from 5am to 8am.\nJames saw Susan watching a movie at the theater from 11am to 5pm.\nMary saw Susan sitting on a rooftop from 5pm to 9pm.\nThe amusement park was closed after 9pm.\nBetween what times could Susan have gone to the amusement park?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8am to 11am",
+            "B. 5am to 8am",
+            "C. 5pm to 9pm",
+            "D. 11am to 5pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 34,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Tiffany went to the clothing store. Between what times could they have gone?\nWe know that:\nTiffany woke up at 6am.\nMichael saw Tiffany buying lunch at the deli from 12pm to 5pm.\nAndrew saw Tiffany playing tennis at the tennis court from 5pm to 6pm.\nJohn saw Tiffany driving to the water park from 6pm to 8pm.\nSarah saw Tiffany watching a movie at the theater from 8pm to 10pm.\nThe clothing store was closed after 10pm.\nBetween what times could Tiffany have gone to the clothing store?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 5pm to 6pm",
+            "B. 6pm to 8pm",
+            "C. 6am to 12pm",
+            "D. 8pm to 10pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Sarah went to the beach. Between what times could they have gone?\nWe know that:\nSarah woke up at 10am.\nAnthony saw Sarah fixing their computer at the electronic store from 10am to 12pm.\nBetty saw Sarah sitting on a rooftop from 1pm to 2pm.\nKimberly saw Sarah playing tennis at the tennis court from 2pm to 3pm.\nLinda saw Sarah taking photos near the Leaning Tower of Pisa from 3pm to 7pm.\nThe beach was closed after 7pm.\nBetween what times could Sarah have gone to the beach?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2pm to 3pm",
+            "B. 12pm to 1pm",
+            "C. 3pm to 7pm",
+            "D. 10am to 12pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 36,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, John went to the art studio. Between what times could they have gone?\nWe know that:\nJohn woke up at 6am.\nThomas saw John reading at the library from 7am to 3pm.\nLisa saw John taking photos near the Eiffel Tower from 3pm to 9pm.\nSteven saw John buying cookies at a bakery from 9pm to 10pm.\nThe art studio was closed after 10pm.\nBetween what times could John have gone to the art studio?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7am to 3pm",
+            "B. 9pm to 10pm",
+            "C. 6am to 7am",
+            "D. 3pm to 9pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Tiffany went to the market. Between what times could they have gone?\nWe know that:\nTiffany woke up at 5am.\nJason saw Tiffany driving to the water park from 5am to 6am.\nSteven saw Tiffany getting a coffee at the cafe from 6am to 12pm.\nJessica saw Tiffany buying lunch at the deli from 12pm to 4pm.\nThomas saw Tiffany working at the office from 5pm to 7pm.\nThe market was closed after 7pm.\nBetween what times could Tiffany have gone to the market?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6am to 12pm",
+            "B. 4pm to 5pm",
+            "C. 5am to 6am",
+            "D. 5pm to 7pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 38,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Hannah went to the beach. Between what times could they have gone?\nWe know that:\nHannah woke up at 5am.\nRichard saw Hannah sitting on a rooftop from 5am to 7am.\nAshley saw Hannah getting a coffee at the cafe from 9am to 7pm.\nJennifer saw Hannah taking photos near the Leaning Tower of Pisa from 7pm to 8pm.\nThe beach was closed after 8pm.\nBetween what times could Hannah have gone to the beach?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7pm to 8pm",
+            "B. 7am to 9am",
+            "C. 9am to 7pm",
+            "D. 5am to 7am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Ashley went to the amusement park. Between what times could they have gone?\nWe know that:\nAshley woke up at 7am.\nKimberly saw Ashley driving to the water park from 7am to 8am.\nLisa saw Ashley buying clothes at the mall from 8am to 10am.\nHannah saw Ashley taking photos near the Eiffel Tower from 10am to 3pm.\nJessica saw Ashley walking in the garden from 3pm to 4pm.\nWilliam saw Ashley getting a coffee at the cafe from 4pm to 7pm.\nThe amusement park was closed after 9pm.\nBetween what times could Ashley have gone to the amusement park?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7am to 8am",
+            "B. 8am to 10am",
+            "C. 4pm to 7pm",
+            "D. 7pm to 9pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 40,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Sarah went to the market. Between what times could they have gone?\nWe know that:\nSarah woke up at 6am.\nJames saw Sarah taking photos near the Eiffel Tower from 6am to 10am.\nBetty saw Sarah buying cookies at a bakery from 10am to 12pm.\nWilliam saw Sarah walking in the garden from 12pm to 1pm.\nJohn saw Sarah working at the office from 1pm to 2pm.\nSteven saw Sarah driving to the water park from 6pm to 7pm.\nThe market was closed after 7pm.\nBetween what times could Sarah have gone to the market?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6pm to 7pm",
+            "B. 1pm to 2pm",
+            "C. 10am to 12pm",
+            "D. 2pm to 6pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 41,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, David went to the art studio. Between what times could they have gone?\nWe know that:\nDavid woke up at 5am.\nLinda saw David watching a movie at the theater from 5am to 7am.\nJames saw David buying lunch at the deli from 9am to 10am.\nMary saw David buying a phone at the electronics store from 10am to 11am.\nLeslie saw David driving to the water park from 11am to 2pm.\nJessica saw David buying a bike at the bike shop from 2pm to 7pm.\nThe art studio was closed after 7pm.\nBetween what times could David have gone to the art studio?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 7am to 9am",
+            "B. 2pm to 7pm",
+            "C. 5am to 7am",
+            "D. 11am to 2pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 42,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Susan went to the coffee shop. Between what times could they have gone?\nWe know that:\nSusan woke up at 7am.\nLinda saw Susan driving to the water park from 7am to 11am.\nJohn saw Susan buying clothes at the mall from 11am to 12pm.\nJessica saw Susan taking photos near the Eiffel Tower from 12pm to 1pm.\nSteven saw Susan buying lunch at the deli from 1pm to 2pm.\nThomas saw Susan reading at the library from 2pm to 6pm.\nThe coffee shop was closed after 9pm.\nBetween what times could Susan have gone to the coffee shop?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6pm to 9pm",
+            "B. 7am to 11am",
+            "C. 1pm to 2pm",
+            "D. 2pm to 6pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Betty went to the coffee shop. Between what times could they have gone?\nWe know that:\nBetty woke up at 8am.\nEmily saw Betty buying a bike at the bike shop from 8am to 10am.\nSusan saw Betty walking in the garden from 10am to 12pm.\nJohn saw Betty working at the office from 1pm to 3pm.\nLisa saw Betty buying cookies at a bakery from 3pm to 4pm.\nMark saw Betty taking photos near the Eiffel Tower from 4pm to 5pm.\nThe coffee shop was closed after 5pm.\nBetween what times could Betty have gone to the coffee shop?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 1pm to 3pm",
+            "B. 8am to 10am",
+            "C. 10am to 12pm",
+            "D. 12pm to 1pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 44,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Emily went to the soccer field. Between what times could they have gone?\nWe know that:\nEmily woke up at 10am.\nLinda saw Emily waiting at the train station from 10am to 12pm.\nAshley saw Emily fixing their computer at the electronic store from 12pm to 1pm.\nJohn saw Emily walking towards the Statue of Liberty from 1pm to 2pm.\nThe soccer field was closed after 8pm.\nBetween what times could Emily have gone to the soccer field?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12pm to 1pm",
+            "B. 10am to 12pm",
+            "C. 2pm to 8pm",
+            "D. 1pm to 2pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 45,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Andrew went to the dance studio. Between what times could they have gone?\nWe know that:\nAndrew woke up at 8am.\nThomas saw Andrew playing tennis at the tennis court from 8am to 11am.\nMary saw Andrew reading at the library from 11am to 1pm.\nMichael saw Andrew fixing their computer at the electronic store from 8pm to 10pm.\nThe dance studio was closed after 10pm.\nBetween what times could Andrew have gone to the dance studio?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8pm to 10pm",
+            "B. 11am to 1pm",
+            "C. 8am to 11am",
+            "D. 1pm to 8pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 46,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, William went to the coffee shop. Between what times could they have gone?\nWe know that:\nWilliam woke up at 6am.\nSusan saw William reading at the library from 6am to 9am.\nLinda saw William waiting at the airport from 9am to 3pm.\nMark saw William playing tennis at the tennis court from 4pm to 6pm.\nSamantha saw William working at the office from 6pm to 9pm.\nAshley saw William working out at the gym from 9pm to 10pm.\nThe coffee shop was closed after 10pm.\nBetween what times could William have gone to the coffee shop?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 3pm to 4pm",
+            "B. 4pm to 6pm",
+            "C. 6pm to 9pm",
+            "D. 9am to 3pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 47,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, James went to the dance studio. Between what times could they have gone?\nWe know that:\nJames woke up at 7am.\nThomas saw James taking photos near the Eiffel Tower from 7am to 12pm.\nMark saw James driving to the water park from 12pm to 2pm.\nAnthony saw James buying a phone at the electronics store from 2pm to 4pm.\nSarah saw James buying lunch at the deli from 5pm to 6pm.\nThe dance studio was closed after 6pm.\nBetween what times could James have gone to the dance studio?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 2pm to 4pm",
+            "B. 7am to 12pm",
+            "C. 4pm to 5pm",
+            "D. 12pm to 2pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 48,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, David went to the clothing store. Between what times could they have gone?\nWe know that:\nDavid woke up at 5am.\nWilliam saw David fixing their computer at the electronic store from 5am to 6am.\nDavid saw David buying a bike at the bike shop from 6am to 9am.\nJohn saw David waiting at the train station from 9am to 10am.\nThe clothing store was closed after 3pm.\nBetween what times could David have gone to the clothing store?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 9am to 10am",
+            "B. 6am to 9am",
+            "C. 5am to 6am",
+            "D. 10am to 3pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 49,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Michael went to the football field. Between what times could they have gone?\nWe know that:\nMichael woke up at 10am.\nJohn saw Michael taking photos near the Eiffel Tower from 12pm to 2pm.\nSamantha saw Michael watching a movie at the theater from 2pm to 4pm.\nThomas saw Michael sitting on a rooftop from 4pm to 8pm.\nThe football field was closed after 8pm.\nBetween what times could Michael have gone to the football field?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12pm to 2pm",
+            "B. 10am to 12pm",
+            "C. 2pm to 4pm",
+            "D. 4pm to 8pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 50,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, David went to the clothing store. Between what times could they have gone?\nWe know that:\nDavid woke up at 6am.\nSarah saw David walking towards the Statue of Liberty from 8am to 9am.\nLeslie saw David watching a movie at the theater from 9am to 11am.\nEmily saw David buying clothes at the mall from 11am to 1pm.\nHannah saw David walking in the garden from 1pm to 3pm.\nSamantha saw David reading at the library from 3pm to 4pm.\nThe clothing store was closed after 4pm.\nBetween what times could David have gone to the clothing store?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 11am to 1pm",
+            "B. 8am to 9am",
+            "C. 6am to 8am",
+            "D. 1pm to 3pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 51,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Andrew went to the art studio. Between what times could they have gone?\nWe know that:\nAndrew woke up at 8am.\nRichard saw Andrew buying a phone at the electronics store from 8am to 10am.\nSamantha saw Andrew fixing their computer at the electronic store from 10am to 2pm.\nMichael saw Andrew reading at the library from 3pm to 4pm.\nSarah saw Andrew buying lunch at the deli from 4pm to 6pm.\nThe art studio was closed after 6pm.\nBetween what times could Andrew have gone to the art studio?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8am to 10am",
+            "B. 2pm to 3pm",
+            "C. 4pm to 6pm",
+            "D. 3pm to 4pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 52,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Jason went to the bakery. Between what times could they have gone?\nWe know that:\nJason woke up at 6am.\nElizabeth saw Jason buying a phone at the electronics store from 6am to 7am.\nJessica saw Jason getting a coffee at the cafe from 7am to 12pm.\nMark saw Jason playing tennis at the tennis court from 4pm to 6pm.\nLinda saw Jason buying lunch at the deli from 6pm to 8pm.\nThe bakery was closed after 8pm.\nBetween what times could Jason have gone to the bakery?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 4pm to 6pm",
+            "B. 6am to 7am",
+            "C. 7am to 12pm",
+            "D. 12pm to 4pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, William went to the art show. Between what times could they have gone?\nWe know that:\nWilliam woke up at 5am.\nBetty saw William attending class at the school from 8am to 1pm.\nLinda saw William working at the office from 1pm to 6pm.\nKimberly saw William getting a coffee at the cafe from 6pm to 7pm.\nSteven saw William waiting at the train station from 7pm to 9pm.\nThe art show was closed after 9pm.\nBetween what times could William have gone to the art show?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 8am to 1pm",
+            "B. 6pm to 7pm",
+            "C. 5am to 8am",
+            "D. 1pm to 6pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 54,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, James went to the market. Between what times could they have gone?\nWe know that:\nJames woke up at 7am.\nDavid saw James taking photos near the Eiffel Tower from 7am to 8am.\nJohn saw James playing tennis at the tennis court from 10am to 1pm.\nElizabeth saw James waiting at the airport from 1pm to 3pm.\nWilliam saw James reading at the library from 3pm to 5pm.\nThe market was closed after 5pm.\nBetween what times could James have gone to the market?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10am to 1pm",
+            "B. 7am to 8am",
+            "C. 3pm to 5pm",
+            "D. 8am to 10am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 55,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, Michael went to the football field. Between what times could they have gone?\nWe know that:\nMichael woke up at 5am.\nKimberly saw Michael stretching at a yoga studio from 5am to 7am.\nWilliam saw Michael walking in the garden from 7am to 8am.\nSarah saw Michael fixing their computer at the electronic store from 8am to 10am.\nNancy saw Michael waiting at the airport from 10am to 12pm.\nSamantha saw Michael working out at the gym from 1pm to 9pm.\nThe football field was closed after 9pm.\nBetween what times could Michael have gone to the football field?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 12pm to 1pm",
+            "B. 10am to 12pm",
+            "C. 7am to 8am",
+            "D. 5am to 7am"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 56,
+        "source": "BBH:temporal_sequences/Temporal Reasoning",
+        "question": "Today, James went to the swimming pool. Between what times could they have gone?\nWe know that:\nJames woke up at 10am.\nRichard saw James taking photos near the Eiffel Tower from 10am to 11am.\nLeslie saw James waiting at the airport from 12pm to 2pm.\nAshley saw James sitting on a rooftop from 2pm to 5pm.\nThomas saw James playing tennis at the tennis court from 5pm to 6pm.\nJennifer saw James walking towards the Statue of Liberty from 6pm to 7pm.\nThe swimming pool was closed after 7pm.\nBetween what times could James have gone to the swimming pool?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 10am to 11am",
+            "B. 12pm to 2pm",
+            "C. 11am to 12pm",
+            "D. 2pm to 5pm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    }
+]

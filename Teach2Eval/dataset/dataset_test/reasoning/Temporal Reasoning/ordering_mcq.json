@@ -1,0 +1,2210 @@
+[
+    {
+        "index": 0,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) In Germany, Otto von Bismarck attacks the privileges of the Catholic Church in the Kulturkampf (\"Culture War\"). (2) Bertie the Brain, one of the first computer games, is released. (3) An Algerian military campaign by Charles V of Spain (Habsburg) is unsuccessful.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (3), (1), (2)",
+            "B. (2), (3), (1)",
+            "C. (1), (3), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 1,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) East Anglian Witch Hunt; catalysed by Matthew Hopkins. (2) Schoolhouse Blizzard devastates the Dakota Territory in the US killing 235 people, many of them children coming home from school",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (2), (1)",
+            "B. None of the options",
+            "C. (1), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 2,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Royal Albert Hall opens in London. (2) Premiere of the science-fiction play R.U.R. (Rossum's Universal Robots), in which the word \"robot\" was first used. (3) Valladolid debate concerning the human rights of the Indigenous people of the Americas.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (2), (1), (3)",
+            "B. (2), (3), (1)",
+            "C. (3), (1), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 3,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Hurricane Sandy causes $70 billion in damage and kills 233 people. (2) Greater Colombia dissolved and the nations of Colombia (including modern-day Panama), Ecuador, and Venezuela took its place. (3) Sultan Iskandar Muda of Aceh sinks a Portuguese fleet off of Bintan Island. (4) The Sony PlayStation 2 releases in Japan. The system became the highest-selling video game console in history. (5) The Warlord Era ends in China.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (4), (1), (2), (5), (3)",
+            "B. (3), (2), (5), (4), (1)",
+            "C. (5), (4), (1), (3), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Russia invades Georgia and incorporates it into the Soviet Union. (2) The Juno spacecraft performs its only flyby of Jupiter's moon Ganymede, the first flyby of the moon by any spacecraft in over 20 years. (3) The Hawkesbury and Nepean Wars, which were a series of incidents between settlers and New South Wales Corps and the Aboriginal Australian clans of the Hawkesbury river in Sydney, Australia. (4) August, Luso-Sundanese Treaty signed between Portugal and Sunda Kingdom granted Portuguese permit to build fortress in Sunda Kelapa.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. FALSE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Sultan Hairun of Ternate (in present-day Indonesia) protests the Portuguese's Christianisation activities in his lands. Hostilities between Ternate and the Portuguese. (2) Manila hostage crisis. (3) Operation Entebbe, a successful counter-terrorist hostage-rescue mission carried out by commandos of the Israel Defense Forces (IDF) at Entebbe Airport in Uganda. (4) Japanese invasion of China, and the beginning of World War II in the Far East.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. Undetermined",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 6,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) William and Mary ascend to the throne over England, Scotland, and Ireland. (2) Agadir Crisis. (3) The Medici family rises to prominence in Florence. (4) Treaty of Wanghia was signed by the United States and China. (5) Richard Arkwright and his partners build the world's first water-powered mill at Cromford.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. TRUE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 7,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "No defendants were ordered to pay more than a $250 fine for violating the court order. What happened after the ruling was issued? Is \"they paid the fine\" possible?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 8,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The Rose Revolution occurs in Georgia. (2) Crazy Horse surrenders and is later killed. (3) Establishment of the French-backed Batavian Republic in present-day Netherlands. (4) The container ship Ever Given obstructs the Suez Canal for six days, costing an estimated $3.6 billion in global trade.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The British Empire annexed Burma (now also called Myanmar) after three Anglo-Burmese Wars. (2) The Rosetta spacecraft's Philae probe becomes the first to successfully land on a comet. (3) King Charles was compelled to summon Parliament due to the revolt of the Scots. (4) Emperor Simeon I becomes ruler of the First Bulgarian Empire in the Balkans. (5) The first edition of the Winter Olympic Games is hosted in Chamonix, France.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. FALSE",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 10,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The Little Ice Age ends around this time. (2) St. Paul's College, Macau, founded by Alessandro Valignano. (3) At least two thousand converted Jews are massacred in a Lisbon riot, Portugal. (4) The Kingdom of the Lombards is founded in Italy. (5) Dominican Civil War: Forces loyal to former President Juan Bosch overthrow current leader Donald Reid Cabral.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. Undetermined",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 11,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) The first wagon train sets out from Missouri. (2) The Internal Macedonian Revolutionary Organisation is formed. (3) The Revolution of 1905 in Russia erupts. (4) George Foreman wins the WBA and IBF World Heavyweight Championships by KO'ing Michael Moorer becoming the oldest heavyweight champion in history. (5) Battle of Bouvines. (6) The Brereton Report into Australian war crimes during the War in Afghanistan is released.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (5), (1), (2), (3), (4), (6)",
+            "B. (5), (4), (3), (2), (1), (6)",
+            "C. (5), (3), (1), (4), (6), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "So how do you know where light will go after it strikes a shiny surface? What does light do after it is reflected? Is \"light travels somewhere else\" possible?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. Undetermined",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 13,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Armenia first to adopt Christianity as state religion. (2) Rana dynasty of Nepal established by Jung Bahadur Rana. (3) Panini standardizes the grammar and morphology of Sanskrit in the text Ashtadhyayi. Panini's standardized Sanskrit is known as Classical Sanskrit. (4) Laws restrict freedom of press, in France. (5) The Armenian–Azerbaijani War begins.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. FALSE",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 14,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The Oresteia by Aeschylus, the only surviving trilogy of ancient Greek plays, is performed. (2) First ascent of Mount Everest. (3) Hugo Chavez becomes President of Venezuela. (4) Guerrilla warfare broke out within the two Kansas governments; President Pierce allied with the proslavery regime.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. FALSE",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The Council of Trent meets for the first time in Trent (in northern Italy). (2) The Suez Canal opens linking the Mediterranean to the Red Sea. (3) Battle of Ellandun. Egbert defeats Mercians.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. FALSE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Louis Renault and his brothers found their manufacturing company in France. (2) Little War against Spanish rule in Cuba leads to rebel defeat. (3) Garfield's first comic strip, originally published locally as Jon in 1976, goes into nationwide syndication. (4) The Second Anglo-Dutch War fought between England and the United Provinces. (5) The Manson Family Murders – Under Charles Manson's orders, his followers, the \"Manson Family\" cult, enter the home of Hollywood actress Sharon Tate and murder her and four others.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Giordano Bruno is burned at the stake for heresy in Rome.Siege of Fiľakovo castle during the Long Turkish War (2) Elizabeth I grants a charter to the British East India Company beginning the English advance in Asia. (3) June, British East India Company's first voyage, commanded by Sir James Lancaster, arrives in Aceh and sails on to Bantam where he is allowed to build trading post which becomes the centre of British trade in Indonesia until 1682. (4) Galileo Galilei arrives in Rome for his trial before the Inquisition. (5) The Hama massacre in Syria, a conflict between Syria and the Muslim Brotherhood, results in a decisive Syrian victory and about 10,000 deaths.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (5), (3), (4), (2), (1)",
+            "B. (1), (2), (3), (4), (5)",
+            "C. (2), (5), (1), (4), (3)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Spanish guerrillas fight in the Peninsular War. (2) Lhamo Dondrub assumes full political powers as the 14th Dalai Lama of Tibet. (3) Founding of Rome (traditional date) (4) Battle of Midway. (5) Battle of Cannae - Rome defeated in major battle in the second Punic War (6) Edward VIII becomes King of the British Commonwealth and Emperor of India.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (4), (3), (6), (1), (5), (2)",
+            "B. (4), (3), (1), (5), (2), (6)",
+            "C. (3), (5), (1), (6), (4), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Kerma culture begins in Nubia (2) The Bohemian Revolt precipitates the Thirty Years' War, which devastates Europe in the years 1618–48. (3) The Lord of the Rings: The Two Towers is released. (4) The Internal Macedonian Revolutionary Organisation is formed.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (2), (4), (3)",
+            "B. (3), (2), (4), (1)",
+            "C. (2), (4), (1), (3)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Launch of the first geostationary satellite, Syncom 2. (2) Assassination of Stephen Bocskay of Transylvania. (3) A breakthrough in nuclear arms control at the Reykjavík Summit. (4) Emperor Taishō dies; his son, the Emperor Shōwa (Hirohito) becomes Emperor of Japan. (5) In Bush v. Gore, the United States Supreme Court declares George W. Bush President of the United States. (6) The Old Kingdom begins in Egypt.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (2), (3), (6), (4), (5)",
+            "B. (3), (2), (1), (5), (6), (4)",
+            "C. (6), (2), (4), (1), (3), (5)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 21,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Fifth outbreak of sweating sickness in England. John Caius of Shrewsbury writes the first full contemporary account of the symptoms of the disease. (2) Saint Valentine's Day Massacre, the murder of seven members and associates of Chicago's North Side Gang. (3) Haile Selassie becomes Emperor of Abyssinia. (4) Emperor Fasilides founds the city of Gondar, which becomes the capital of Ethiopia for the next two centuries.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (2), (4), (3)",
+            "B. (4), (2), (1), (3)",
+            "C. (1), (4), (2), (3)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Theodosius I outlaws all religions other than Catholic Christianity. (2) Adoption of O Canada as the national anthem of Canada.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. TRUE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Africa is declared free of wild polio, the second virus to be eradicated from the continent since smallpox 40 years previously. (2) Kingdom of Croatia and Kingdom of Hungary formed a personal union of two kingdoms united under the Hungarian king. The act of union was deal with Pacta conventa, by which institutions of separate Croatian statehood were maintained through the Sabor (an assembly of Croatian nobles) and the ban (viceroy). In addition, the Croatian nobles retained their lands and titles. (3) Arya Penangsang with the support of his teacher, Sunan Kudus, avenges the death of Raden Kikin by sending an envoy named Rangkud to kill Sunan Prawoto by Keris Kyai Satan Kober (in present-day Indonesia). (4) Minamoto no Yoritomo is appointed Sei-i Taishōgun, or shōgun for short. (5) Battle of Roncevaux Pass.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. FALSE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 24,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The architect Mimar Sinan builds the Süleymaniye Mosque in Istanbul. (2) First Chinese domination of Việtnam in the form of the Nanyue Kingdom.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. FALSE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) After modernizing his army, Abbas I expands the Persian Empire by capturing territory from the Ottomans and the Portuguese. (2) The United States invasion of Panama begins. (3) Upper Canada bans slavery.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. FALSE",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Ellen Johnson Sirleaf becomes President of Liberia, and thus Africa's first elected female head of state. (2) Most of the Latin American colonies free themselves from the Spanish and Portuguese Empires after the Latin American wars of independence. (3) Three Kingdoms period begins in Korea. Herod's Temple is reconstructed. (4) The First Red Scare in the United States. Irish War of Independence begins.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (3), (1), (2), (4)",
+            "B. (3), (4), (1), (2)",
+            "C. (3), (2), (4), (1)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Siege of Leningrad begins. (2) Bartholomew Roberts is killed in a sea battle off the African coast. (3) Launch of Sputnik 1 and the beginning of the Space Age. (4) Sony releases the world's first commercially sold CD player, the Sony CDP-101. (5) North–South States Period begins in Korea. (6) February, The VOC in alliance with Hitu prepare to attack a Portuguese fort in Ambon but the Portuguese surrender.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (2), (4), (5), (6), (3), (1)",
+            "B. (6), (2), (3), (1), (5), (4)",
+            "C. (5), (6), (2), (1), (3), (4)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 28,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Mirza Ghulam Ahmad establishes the Ahmadiyya Muslim Community, a reform sect of Islam. (2) The World Health Organization endorses the first malaria vaccine. (3) Carlist Wars in Spain. (4) Launch of the first geostationary satellite, Syncom 2.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. Undetermined",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) The Halabja chemical attack is carried out by Iraqi government forces, killing thousands. (2) Birmingham campaign. (3) Battle of Alarcos The Almohad Caliphate decisively defeat the Kingdom of Castile.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (3), (2), (1)",
+            "B. (2), (3), (1)",
+            "C. (1), (3), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Second Battle of El Alamein. (2) Emperor Wu of Jin established the First Jin dynasty providing a temporary unity of China after the devastating Three Kingdoms period. (3) Imperial Leather commissioned by Count Orlov. (4) Britain establishes a protectorate over Bechuanaland (modern Botswana). (5) Five former Soviet Union countries form the Eurasian Economic Union. (6) Slavery is abolished in Russia; Peter the Great converts household slaves into house serfs.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (4), (2), (5), (6), (3)",
+            "B. (2), (1), (4), (5), (6), (3)",
+            "C. (2), (6), (3), (4), (1), (5)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 31,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Thomas Jefferson elected President of the United States by the House of Representatives, following a tie in the Electoral College. (2) The Paris Agreement, signed by 195 nations to fight global warming, formally goes into effect. (3) American Broadcasting Company (ABC) founded in New York City. (4) Henry I of England defeats his older brother Robert Curthose, duke of Normandy, at the Battle of Tinchebrai, and imprisons him in Devizes castle; Edgar Atheling and William Clito are also taken prisoner. (5) After a reign shorter than one year, Edward VIII abdicates and hands the throne to his brother, George VI.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. FALSE",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 32,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Canute the Great becomes King of England after the death of Edmund Ironside, with whom he shared the English throne. (2) Emperor Caligula is assassinated by the Roman senate. His uncle Claudius succeeds him. (3) The Warlord Era ends in China.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. TRUE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 33,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) North Korea demolishes the Inter-Korean Liaison Office in Kaesong, established in 2018 to improve relations. (2) Mormon migration to Utah.Liberal and nationalist pressure led to the European revolutions of 1848. (3) Cape Colony becomes part of the British Empire. (4) New Amsterdam founded by the Dutch West India Company in North America. (5) The Stonewall riots in New York City instigate the gay rights movement.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (3), (4), (5), (1), (2)",
+            "B. (4), (3), (2), (1), (5)",
+            "C. (4), (3), (2), (5), (1)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 34,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Zand dynasty is founded in Iran. (2) Kingdom of Aksum forms in the Horn of Africa (3) Mohammed Mossadeq deposed in Iran. (4) Amanirenas, the kandake (Queen) of the Kingdom of Kush, leads Kushite armies against the Romans. (5) Afonso de Albuquerque of Portugal conquers Goa in India.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (4), (2), (5), (1), (3)",
+            "B. (1), (5), (2), (3), (4)",
+            "C. (3), (5), (2), (1), (4)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Eleven members of the royal family of Nepal, including the king and queen, are killed by Crown Prince Dipendra, who wounds himself and dies three days later. (2) Battle of the Coral Sea. (3) The United States gains control of Cuba, Puerto Rico, and the Philippines after the Spanish–American War. (4) Independence of Panama, the Hay–Bunau-Varilla Treaty is signed by the United States and Panama. (5) The Stockton and Darlington Railway, the first public railway in the world, opens in England.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (4), (2), (1), (5), (3)",
+            "B. (5), (3), (4), (2), (1)",
+            "C. (5), (3), (2), (1), (4)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "He also submitted various suggestions as to its initial programs. What happened after he submitted his suggestions? Is \"he joined the army\" possible?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Dandy horse/velocipede bicycle invented. (2) The Irish Civil War ends. (3) The Euromaidan protest begins in Ukraine.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (2), (3)",
+            "B. (3), (2), (1)",
+            "C. (3), (1), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "The fossils that are very distinct at certain times of Earths history are called index fossils. What happened after the fossils were found? Is \"the fossils were put into a gallery\" possible?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. FALSE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 39,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The Vargas Era begins in Brazil. (2) Singapore gains independence. (3) The Byzantines under Basil II conquer Bulgaria after a bitter 50-years struggle.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The Viking Rollo and his tribe settle in what is now Normandy by the terms of the Treaty of Saint-Clair-sur-Epte, founding the Duchy of Normandy. (2) The United Kingdom formally withdraws from the European Union. (3) Salem witch trials in Massachusetts. (4) Haiti gains independence from France and becomes the first black republic.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Roman conquest of Greece, see Roman Greece (2) Monkeypox outbreak.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (2)",
+            "B. (2), (1)",
+            "C. None of the options"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 42,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Charles I of Austria, Spain, and the Low Countries becomes Emperor of Holy Roman Empire as Charles V, Holy Roman Emperor (ruled until 1556). (2) NASA launches Artemis 1, the first uncrewed mission of its Space Launch System, the most powerful rocket ever to reach orbit. (3) Oslo accords end First Intifada between Israel and Palestine. (4) The Ottomans capture Massawa, all but isolating Ethiopia from the rest of the world. (5) Brielle is taken from Habsburg Spain by Protestant Watergeuzen in the Capture of Brielle, in the Eighty Years' War.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. FALSE",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) At least 158 people are killed and another 197 injured in a crowd crush during Halloween festivities in Seoul, South Korea. (2) The First Balkan War begins. (3) Last great Roman–Persian War.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. FALSE",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Roblox was released by David Baszucki. (2) Windows 1.0, the first Microsoft Windows operating system, released. (3) Death and state funeral of Hugo Chavez. (4) The Ninth Crusade occurs.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (3), (2), (1), (4)",
+            "B. (2), (4), (1), (3)",
+            "C. (4), (2), (1), (3)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 45,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Guimaras oil spill. (2) The first Eurovision is held in Switzerland (3) Évariste Galois invents Group theory in mathematics. (4) Dictatus Papae in which Pope Gregory VII defines the powers of the pope. (5) Pu Yi, the last Emperor of China, assumes the throne.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (3), (4), (5), (2)",
+            "B. (4), (3), (5), (2), (1)",
+            "C. (2), (5), (1), (3), (4)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 46,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Spanish Congress of Deputies passes the euthanasia law. (2) Rhodes falls to the Ottomans of Suleiman the Magnificent.Sack of Rome by Charles V forces (3) Guru Nanak is born. (4) Naval Battle of the Downs – Republic of the United Provinces fleet decisively defeats a Spanish fleet in English waters. (5) Establishment of the Seleucid Empire by Seleucus I Nicator. The empire existed until 63 BCE.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (4), (5), (3), (2), (1)",
+            "B. (5), (3), (2), (4), (1)",
+            "C. (5), (3), (4), (1), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 47,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Some government officials were concerned that terrorists would take advantage of such breakdowns. What will the officials do to voice their concern? Is \"hold a meeting to discuss issues\" possible?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. FALSE",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) The International Labour Organization is established. (2) North Korea severs diplomatic ties with Malaysia due to a Malaysian court's ruling that a North Korean citizen could be extradited to the United States to face money-laundering charges. (3) Longshan culture begins in China",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (2), (3), (1)",
+            "B. (3), (1), (2)",
+            "C. (2), (1), (3)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) World's first oil refinery in Romania. (2) Fronde civil war in France. (3) The Warlord Era ends in China. (4) Disintegration of Hittite Empire (5) First Dynasty of Egypt (6) The Third Carnatic War is fought between the British, the French, the Marathas, and Mysore in India.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (4), (2), (5), (1), (6), (3)",
+            "B. (5), (4), (2), (6), (1), (3)",
+            "C. (2), (5), (4), (1), (3), (6)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Blackbeard (Edward Teach) is killed by Robert Maynard in a North Carolina inlet on the inner side of Ocracoke Island. (2) Death of Anne Frank. (3) The samurai class is abolished in Japan.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (2), (3), (1)",
+            "B. (1), (3), (2)",
+            "C. (2), (1), (3)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Panembahan Seda ing Krapyak of Mataram in Central Java attacks Surabaya, a major power on the north coast. (2) The Second Lateran Council declared clerical marriages invalid, regulated clerical dress, and punished attacks on clerics by excommunication.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. None of the options",
+            "B. (2), (1)",
+            "C. (1), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 52,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) At the Battle of Dan no Ura, Minamoto Yoshitsune annihilates the Taira clan. (2) Bonnie and Clyde are shot to death in a police ambush. (3) France and the Russian Empire form a military alliance. (4) The Women's National Basketball Association (WNBA) plays its first game at The Great Western Forum in Los Angeles.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (4), (3), (2)",
+            "B. (1), (3), (2), (4)",
+            "C. (2), (4), (1), (3)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The current Constitution of Spain comes into effect, which for some marks the completion of the Spanish transition to democracy. (2) Gordon (slave) Gordon, or \"Whipped Peter\", was an enslaved African American who escaped from a Louisiana plantation in March 1863. (3) Break-up of the Beatles. (4) Maffeo Barberini is elected Pope Urban VIII at the Papal conclave of 1623.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. TRUE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) The Edict of Nantes ends the French Wars of Religion. (2) Suppression of the Liège Revolution by Austrian forces and re-establishment of the Prince-Bishopric of Liège. (3) Fulani Jihad in Nigeria. (4) Sultan Mehmed IV, advised by Kara Mustafa, decides to disregard the existing peace treaty with Leopold I, due to expire in 1684. (5) Pope John Paul II assassination attempt. (6) The Constitution of India comes into effect.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (4), (2), (3), (6), (5)",
+            "B. (5), (3), (1), (2), (6), (4)",
+            "C. (5), (2), (1), (6), (3), (4)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 55,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The Battle of Killiecrankie is fought between Jacobite and Williamite forces in Highland Perthshire. (2) Franco-Dutch War.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. Undetermined",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Rare century leap year date. (2) John Froelich develops and constructs the first gasoline/petrol-powered tractor. (3) The Mutawakkilite Kingdom of Yemen founded.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Qajar dynasty founded in Iran after replacing the Zand dynasty. (2) Twitter is launched. (3) Bong Joon-ho's Parasite becomes the first South Korean film to receive Academy Award recognitions at the 92nd Academy Awards.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 58,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Inspiration4, launched by SpaceX, becomes the first all-civilian spaceflight, carrying a four-person crew on a three-day orbit of the Earth. (2) Typhoon Haiyan kills nearly 6,150 people in Vietnam and the Philippines. (3) The end of the Kosovo War ends the Yugoslav Wars. (4) church schools",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. Undetermined",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) An explosion caused by unsafely stored ammonium nitrate kills at least 218 people, injures thousands, and severely damages the port in Beirut, Lebanon. (2) Famine in Finland wipes out almost one-third of the population.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. FALSE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Tây Sơn dynasty was established in Vietnam. (2) King Zog I is crowned in Albania. (3) Tipu Sultan is killed in a battle with British forces. (4) TWA Flight 800 crash.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (3), (2), (4)",
+            "B. (1), (4), (3), (2)",
+            "C. (1), (3), (4), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) George Vancouver explores the world during the Vancouver Expedition. (2) Jack Cade's Rebellion (3) A Dutch East India Company attack on Portuguese Malacca is repelled. (4) Johannes Gutenberg invents the printing press.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (3), (1), (4), (2)",
+            "B. (3), (4), (2), (1)",
+            "C. (4), (2), (3), (1)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Premiere of Toy Story, the first computer-animated feature film and the first Pixar Animation Studios film. (2) The Polish–Ukrainian War begins. (3) Anglo-Mysore Wars. (4) After takeoff from Miami, a fire started by improperly handled oxygen canisters in the cargo hold of Atlanta-bound ValuJet Flight 592 causes the Douglas DC-9 to crash in the Florida Everglades, killing all 110 people on board. (5) Chechen insurgency ends with deportation of the entire Chechen population.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (3), (4), (5), (1), (2)",
+            "B. (5), (3), (1), (4), (2)",
+            "C. (3), (2), (5), (1), (4)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 63,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Crimean Tatars attack and sack Moscow, burning everything but the Kremlin. (2) Charles de Gaulle resigns as President of France after a referendum on political reform is voted down. (3) Russian Empire annexes the Crimean Khanate. (4) King William I of Scotland, captured in the Battle of Alnwick by the English, accepts the feudal lordship of the English crown and does ceremonial allegiance at York.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (4), (2), (3), (1)",
+            "B. (4), (1), (3), (2)",
+            "C. (2), (3), (4), (1)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 64,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Vikings attack Paris. (2) Blaise Pascal invents a horse-drawn public bus which has a regular route, schedule, and fare system. (3) John Adams is inaugurated on March 4 as President of the United States following the 1796 United States presidential election. The peaceful transfer of power from the Washington administration to Adams sets a precedent for relinquishing executive power and transferring it to a new administration.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. TRUE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 65,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Henry McCarty (who later becomes Billy the Kid) kills a blacksmith named Francis Cahill who becomes his first murder victim. (2) The Spanish-led Holy League navy destroys the Ottoman Empire navy at the Battle of Lepanto. (3) The Great Plague of Seville. (4) NATO bombing raids in Bosnia end the Bosnian War. (5) Leon Trotsky is exiled. (6) The Continuation War ends.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (4), (3), (2), (6), (5), (1)",
+            "B. (2), (3), (1), (5), (6), (4)",
+            "C. (5), (6), (3), (4), (2), (1)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 66,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) England repulses the Spanish Armada. (2) A Dutch East India Company attack on Portuguese Malacca is repelled.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. TRUE",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 67,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) North and South Yemen unify to form the Republic of Yemen. (2) Smederevo falls under the Turks (3) Brielle is taken from Habsburg Spain by Protestant Watergeuzen in the Capture of Brielle, in the Eighty Years' War.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 68,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Qajar dynasty founded in Iran after replacing the Zand dynasty. (2) Allied bombing of Dresden. (3) War of the Polish Succession. (4) Establishment of Rede Globo, now the largest TV network in Brazil and Latin America and the second-largest in the world after ABC.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (3), (2), (4), (1)",
+            "B. (3), (1), (2), (4)",
+            "C. (3), (2), (1), (4)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 69,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Treaty of Edirne following the Russo-Turkish War of 1828-1829. (2) A Japanese surprise attack on Port Arthur (Lushun) starts the Russo-Japanese War. (3) Barbados becomes a republic on its 55th anniversary of independence while remaining a member of the Commonwealth of Nations. (4) José P. Laurel takes the oath of office as President of the Second Philippine Republic.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. FALSE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) King Afonso I of Kongo wins the battle of Mbanza Kongo, resulting in Catholicism becoming Kongo's state religion.Battle of Cerignola: El Gran Capitan finds the corpse of Louis d'Armagnac, Duke of Nemours (2) Grand Canal in China is fully completed (3) May 20: Launch of the Hubble Space Telescope. (4) Falklands War.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (2), (1), (4), (3)",
+            "B. (1), (4), (2), (3)",
+            "C. (4), (2), (3), (1)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 71,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Release date of Disney's The Lion King. (2) Imam Sheikh Mansur, a Chechen warrior and Muslim mystic, leads a coalition of Muslim Caucasian tribes from throughout the Caucasus in a holy war against Russian settlers and military bases in the Caucasus, as well as against local traditionalists, who followed the traditional customs and common law (Adat) rather than the theocratic Sharia. (3) First Seminole War begins in Florida. (4) Gunfight at the O.K. Corral. Sitting Bull surrenders.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. TRUE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 72,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Eiffel Tower is inaugurated in Paris. (2) The Ottomans defeat the Mamluks and gain control of Egypt, Arabia, and the Levant.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. None of the options",
+            "B. (2), (1)",
+            "C. (1), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 73,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) End of the Salvadorian Civil War. (2) The Third Lateran Council limits papal electees to the cardinals alone, condemns simony, and forbids the promotion of anyone to the episcopate before the age of thirty.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. FALSE",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 74,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) The bankrupt Dutch East India Company (VOC) is formally dissolved and the nationalised Dutch East Indies are established. (2) Nagasaki comes under control of the Jesuits. (3) 1973 Chilean coup d'état. (4) At least 218 people are killed, about 700 are missing and presumed dead, and about 800 shanties are buried in a collapse of a dumpsite, destabilized by torrential rains caused by tropical cyclones, in Payatas, Quezon City. (5) Controversial drawings of Muhammad are printed in the Danish newspaper Jyllands-Posten, sparking outrage and violent riots by Muslims around the world.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (2), (1), (3), (4), (5)",
+            "B. (3), (2), (5), (1), (4)",
+            "C. (1), (2), (3), (4), (5)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 75,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) The University of Prague is founded. (2) The Mexica found the city of Tenochtitlan. (3) Franco-Dutch War.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. TRUE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 76,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Grants of tax-free land over the years had been made to Buddhist temples and members of the court aristocracy. What happened after the grants were issued to the temples? Is \"the temples were thankful for their gift\" possible?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. FALSE",
+            "C. Undetermined"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 77,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Bailey received the award for his three years of volunteer work at Indiana Pro Bono Commission. What happened after Bailey received their award? Is \"bailey was very happy\" possible?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. FALSE",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 78,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Independence of Indonesia proclaimed begin Indonesian National Revolution. (2) A 6.9 Mw  Great Hanshin earthquake strikes the southern Hyōgo Prefecture of Japan with a maximum Shindo of VII, leaving 5,502–6,434 people dead, and 251,301–310,000 displaced.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Undetermined",
+            "B. TRUE",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 79,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Herman Melville publishes Moby-Dick. (2) Galveston Hurricane in Texas kills 8000 people.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (2), (1)",
+            "B. (1), (2)",
+            "C. None of the options"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 80,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Concerning the Georgetown Hoya interview where Heston was asked about Rolland, you write: \"There is no indication that [Heston] recognized Kayla Rolland's case.\" Did the Rolland case initiate before the interview? Is \"yes since the interview was concerning it\" possible?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. Undetermined",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 81,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Manila hostage crisis. (2) Murder of Xerxes I (3) Ukraine declares independence from Russia. (4) Pope Clement XII issues In eminenti apostolatus, prohibiting Catholics from becoming Freemasons. (5) Tahmasp I, Safavid shah, dies.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 82,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Bayerische Flugzeugwerke, later to become BMW, is founded in Germany. (2) Dictatus Papae in which Pope Gregory VII defines the powers of the pope. (3) WHL0137-LS \"Earendel\" imaged by Hubble Space Telescope, the earliest and most distant known star. (4) Japan's government approves the dumping of radioactive water of the Fukushima Daiichi Nuclear Power Plant into the Pacific Ocean over the course of 30 years, with full support of the International Atomic Energy Agency.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (4), (2), (3), (1)",
+            "B. (2), (1), (4), (3)",
+            "C. (3), (4), (2), (1)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 83,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Sesame Street premieres its debut episode. (2) A sudden storm engulfs Mount Everest with several climbing teams high on the mountain, leaving eight people dead. By the end of the month, at least four other climbers die in the worst season of fatalities on the mountain to date. (3) Trial and execution of Nicolae and Elena Ceaușescu in Romania. (4) Fall of the Parthian Empire and Rise of the Sassanian Empire.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 84,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Dwight D. Eisenhower is inaugurated as President of the United States. (2) Nepal and China officially agree on Mount Everest's actual height, which is 8,848.86m. (3) Dispute leads to the execution of Dutchmen in Mataram-controlled Jepara. (4) Independence of Finland.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (1), (4), (3), (2)",
+            "B. (1), (2), (4), (3)",
+            "C. (3), (4), (1), (2)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 85,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) The World's Columbian Exposition was held in Chicago celebrating the 400th anniversary of Christopher Columbus's arrival in the New World. (2) Imperial Japan annexes Korea. (3) Insurgensts seize the Grand Mosque in Mecca. (4) Centennial Olympic Park bombing. (5) South Yemen Civil War.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (3), (1), (4), (5), (2)",
+            "B. (1), (5), (2), (3), (4)",
+            "C. (1), (2), (3), (5), (4)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 86,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) The Anglo-Spanish War is fought on both sides of the Atlantic. (2) Egyptian President Anwar Sadat becomes the first Arab leader to visit Israel in the hopes of establishing peace between the two countries. (3) El Salvador becomes the first country in the world to accept Bitcoin as an official currency.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (3), (2), (1)",
+            "B. (2), (3), (1)",
+            "C. (1), (2), (3)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 87,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Bandung Conference. (2) The compilation of the Domesday Book, a great land and property survey commissioned by William the Conqueror to assess his new possessions. (3) Operation Solomon, a covert Israeli military operation to airlift Ethiopian Jews to Israel. (4) Spanish military embarks on the Villasur expedition, traveling north from Mexico into the Great Plains. (5) Mormon migration to Utah.Liberal and nationalist pressure led to the European revolutions of 1848. (6) Return of Halley's Comet.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (5), (3), (1), (6), (4), (2)",
+            "B. (1), (5), (4), (2), (6), (3)",
+            "C. (2), (4), (5), (1), (6), (3)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 88,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Frederick the Great comes to power in Prussia. (2) 2010 Moscow Metro bombings. (3) Queen Alia of Jordan is killed in helicopter crash. (4) The Portuguese in Ternate depose Sultan Tabariji (or Tabarija) and send him to Portuguese Goa where he converts to Christianity and bequeaths his Portuguese godfather Jordao de Freitas the island of Ambon. Hairun becomes the next sultan.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. TRUE",
+            "B. Undetermined",
+            "C. FALSE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 89,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) Wikipedia's 20th anniversary was noted in the media. (2) James Clerk Maxwell publishes On Physical Lines of Force, formulating the four Maxwell's Equations. (3) North Korea demolishes the Inter-Korean Liaison Office in Kaesong, established in 2018 to improve relations. (4) The Pentagon is completed. (5) Queen Victoria reigns during the apex of the British Empire; this is the Victorian era.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (5), (2), (4), (3), (1)",
+            "B. (5), (3), (1), (4), (2)",
+            "C. (1), (2), (5), (4), (3)"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 90,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Is the following sequence of events in the correct chronological order? (1) Last great Roman–Persian War. (2) The oil tanker Exxon Valdez spills 10.8 million US gallons of crude oil after striking a reef, causing severe damage to the environment. (3) U.S. President Richard M. Nixon makes an unprecedented 8-day visit to the People's Republic of China and meets with Mao Zedong. (4) The Middle Kingdom begins in Egypt (5) Tang Dynasty ends with Emperor Ai deposed.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. FALSE",
+            "B. Undetermined",
+            "C. TRUE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 91,
+        "source": "TRAM:ordering/Temporal Reasoning",
+        "question": "Arrange the following events in chronological order: (1) After Aurangzeb's death, the Mughal Empire enters a long decline and the Maratha Empire slowly replaces it. (2) Charlemagne is crowned Holy Roman Emperor.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. (2), (1)",
+            "B. (1), (2)",
+            "C. None of the options"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    }
+]

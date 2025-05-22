@@ -1,0 +1,2210 @@
+[
+    {
+        "index": 0,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "\"Welcome to Egypt to enjoy the sunshine, especially in the winter, and (we) hope there is sunshine deep in everyone's heart,\" said Omar El Sherif, honorary president of the festival, at the opening ceremony at the Nile-side Cairo Opera House. Egyptian Culture Minister Farouq Hosni inaugurated the festival, where a narrative film about the festival and its 30th edition was screened. What is the relationship between the event 'said' and the event 'inaugurated'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. IMMEDIATELY BEFORE",
+            "C. IDENTITY"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 1,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Many were also implicated directly in the exploitation of children, it added. \"Child sex workers are often compelled to deliver sexual services to Kenyans - beach boys, bar staff, waiters, and others - in order to access tourists. What is the relationship between the event 'added' and the event 'compelled'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. SIMULTANEOUS",
+            "B. BEFORE",
+            "C. DURING"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 2,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Chidambaram drew up the previous United Front government's Indian budget for 1997-98 which is to be approved by parliament this week. What is the relationship between the event 'approved' and the time 'this week'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IDENTITY",
+            "B. INCLUDES",
+            "C. IS_INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 3,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Carlo Ancelotti's Milan restored their two-goal advantage in the 69th minute after a well-taken shot from inside the area by Christian Vieri. What is the relationship between the event 'take' and the event 'take'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. IMMEDIATELY BEFORE",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 4,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The man dashed towards the pupils and their teacher when they were about to cross the street in front of their school in the Xinjiang autonomous region on Wednesday afternoon, Xinhua news agency reported. A man attacked a group of schoolchildren with a knife in northwest China, killing two of them and injuring three others plus their teacher, state media reported Thursday. What is the relationship between the event 'dashed' and the event 'reported'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY AFTER",
+            "B. IMMEDIATELY BEFORE",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 5,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The timetable also indicates that ministers of foreign affairs of the countries will meet on Monday and Tuesday, and the heads of state will arrive on Wednesday. The timetable of the five-day summit, which kicked off here on Sunday in the Nigeria capital Abuja with pre-summit technical meeting of officials, shows that Darfur crisis will engage the African leaders when their visiting colleagues from South America will have left. What is the relationship between the event 'indicates' and the event 'meet'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. DURING",
+            "C. IS-INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 6,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Ford, a Republican president from August 1974 to January 1977, was best known for leading the United States out of the turbulent era after Richard Nixon stepped down in disgrace in 1974 under the Watergate scandal. What is the relationship between the event 'leading' and the time 'January 1977'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. INCLUDES",
+            "B. IS_INCLUDED",
+            "C. BEGUN-BY"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 7,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The accident occurred about 10:00 a.m. (0200 GMT) Saturday when about 100 tourists rode the centenarian tram from the mid-levels in Central District to the 500-meter height Victoria Peak. What is the relationship between the event 'occurred' and the event 'rode'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. BEGUN-BY",
+            "C. IMMEDIATELY AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 8,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Huge golden Christmas decorations remained on display outside the Dah Sing Financial Centre, watched by a large contingent of security guards. \"Everyone is tense, lots of people stay away,\" waitress Maya Thapa told AFP at a Wan Chai cafe. What is the relationship between the event 'remained' and the event 'told'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. INCLUDES",
+            "C. IMMEDIATELY BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 9,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "I am one billion percent sure of that,\" Magdi Farag told AFP. The government weekly Akhbar al-Yom, in a dispatch from Rome, quoted the former Miss Naples identified as Irma Capucci Minitolo, on Saturday as saying \"I was the wife of King Faruq.\" What is the relationship between the event 'told' and the event 'quoted'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. BEGINS",
+            "C. SIMULTANEOUS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 10,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The growth rate was 0.7 percentage points higher than the year-earlier level, the source said, adding that Shanghai continued to rank first among China's provincial regions in terms of farmers' income over the past 10 years or so, the source added. SHANGHAI, Nov. 17 , 2005 (Xinhua). What is the relationship between the event 'said' and the time 'Nov. 17 , 2005'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. INCLUDES",
+            "B. ENDED-BY",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The movie is sure to feature when nominations are announced Tuesday for the Golden Globes, which are seen as a potential bellwether for films which could dominate the Academy Awards. What is the relationship between the event 'feature' and the event 'announced'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. IS-INCLUDED",
+            "C. DURING"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "In the eastern island of Leyte earlier this year, 1,800 were killed when a mudslide caused by heavy rains obliterated the farming community of Guinsaugon. The Philippines is naturally prone to disasters but rising poverty and climate change are making the problem steadily worse, analysts said. What is the relationship between the event 'caused' and the event 'said'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. BEFORE",
+            "C. IMMEDIATELY AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 13,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The convention was tabled in Parliament Wednesday and it is hoped that New Zealand will become a party to the international agreement before the end of the year. This will require that at least 30 countries join before the end of December 2005. What is the relationship between the event 'hoped' and the event 'require'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. INCLUDES",
+            "B. BEFORE",
+            "C. IDENTITY"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 14,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Hirsch hinted in his letter of resignation to Halutz that his superiors should take responsibility for failures made during the war, causing speculation that the comments may be aimed at Halutz himself. During a meeting of the IDF General Staff, Halutz said that some of criticisms by the commission, headed by Major General Doron Almog, were baseless. What is the relationship between the event 'hinted' and the event 'said'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. SIMULTANEOUS",
+            "B. ENDS",
+            "C. INCLUDES"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Virological studies have so far pinpointed to the probability of wild birds spreading the disease, known by its scientific term as Highly Pathogenic Avian Influenza. Severe winters in Europe this year might lead to an increase of wild migratory birds to East Africa. What is the relationship between the event 'pinpointed' and the event 'lead'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IDENTITY",
+            "B. BEFORE",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 16,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Their profit slumps were compounded by fierce price competiton in a shrinking domestic market, analysts said. South Korea's Daewoo Motors Co. said Monday it would beef up its presence in the world market with three new passenger car models this year and more in the future to help it overcome domestic blues. What is the relationship between the event 'compounded' and the event 'said'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ENDS",
+            "B. IMMEDIATELY AFTER",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 17,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Pashiardis made the remarks to the press after a cabinet meeting, as Finland, the rotating EU presidency, is working on a draft proposal, providing for opening of Turkish occupied port of Famagusta under the EU administration for 24 months in combination with the opening of Turkish ports to ships carrying the Cypriot flag and the transfer of Varosha to the UN. What is the relationship between the event 'made' and the event 'providing'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. INCLUDES",
+            "C. ENDS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 18,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "President Le Duc Anh opened Vietnam's National Assembly Wednesday with an attack on individualism, calling it a danger which strikes at the heart of communism and threatens development and national security. \"We must not allow selfish individualism to run counter to the interests of the state,\" the 76-year-old president said in a speech at the opening day of the National Assembly, appearing for the first time in public since suffering a stroke in November. What is the relationship between the event 'opened' and the event 'said'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY AFTER",
+            "B. SIMULTANEOUS",
+            "C. BEGINS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 19,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Fighting erupted early Wednesday, hours after the expiry of an Islamist-imposed ultimatum for Ethiopia to withdraw the thousands of troops the Islamists say Addis Ababa has deployed in the country. What is the relationship between the event 'erupted' and the event 'deployed'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. DURING",
+            "B. AFTER",
+            "C. IDENTITY"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Dr. Lu Xuefeng from CAS, a member of an expedition team in Hoh Xil, said that years of research and observation and a recent expedition found Tibetan antelopes have special habitat. Scientists from Chinese Academy of Sciences (CAS) found that Tibetan antelopes largely inhabit chilly grassland and marshlands areas in Hoh Xil (kekexili) nature reserve, Qinghai-Tibetan Plateau. What is the relationship between the event 'said' and the event 'found'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. ENDED-BY",
+            "C. BEGINS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Founded in 1985, the school has trained nearly 100 acrobats for African countries including Ethiopia, Kenya, Tanzania and Ghana since it was authorized by the Chinese government to recruit international students in 2002, said Qi Zhiye, president of the school. \"It's a dialogue between the two ancient civilizations, as well as an exhibition of China-Africa cultural exchanges,\" said Tang Wenjuan, director of the gala. What is the relationship between the event 'trained' and the event 'said'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IS-INCLUDED",
+            "B. ENDS",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "There has been an increase in the number of bombings blamed on the Taliban, with about 10 suicide attacks since late September which analysts say suggest the militants are adopting some of the techniques used by insurgents in Iraq. \"We're investigating whether it was a remote-controlled bomb or one of those time bombs,\" Noori told AFP. What is the relationship between the event 'increase' and the event 'was'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. IDENTITY",
+            "C. IS-INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Sri Lankan presidential election started Thursday morning as 13.3 million men and women began to cast their ballots to choose their new president from 13 contenders. What is the relationship between the event 'started' and the event 'cast'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. INCLUDES",
+            "B. AFTER",
+            "C. DURING"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Ortega's victory, if confirmed by final results, would give Venezuelan President Hugo Chavez a strong ally in the region. MANAGUA, Nov. 6 , 2006 (Xinhua). What is the relationship between the event 'confirmed' and the time 'Nov. 6 , 2006'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. AFTER",
+            "C. BEGINS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 25,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The comment came after H.D. India's Hindu nationalists said Monday a new coalition forged by its rivals would be \"absurd\" and was doomed to fall within six months. What is the relationship between the event 'came' and the event 'said'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. BEGUN-BY",
+            "C. IDENTITY"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "In Hong Kong, Tung's office issued a \"consultation document\" arguing that Hong Kong faced a legal vacuum after the July 1 handover and was \"extremely vulnerable to external forces\" that required firm laws. What is the relationship between the event 'issued' and the event 'required'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEGINS",
+            "B. AFTER",
+            "C. IMMEDIATELY AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "On Monday, a bipartisan panel, the Iraq Study Group, headed by former secretary of state James A. Baker III, a Republican, and Lee Hamilton, a Democratic former congressman, would meet Bush and members of his foreign policy team to begin its final round of interviews. What is the relationship between the event 'headed' and the event 'meet'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. INCLUDES",
+            "C. ENDED-BY"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Cameron was a virtual unknown six months ago and has spent only four years in parliament. The first test for Cameron comes at 1200 GMT in parliament when Blair, 51, stands before the House of Commons to answer questions from MPs about a range of topics, including the economy, crime, education, health and foreign policy. What is the relationship between the event 'spent' and the event 'comes'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. BEGINS",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 29,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Gujral's rise to power, however, at the head of a virtual carbon-copy of the previous Front administration backed by Congress, ensured the measures would go through. A long-running saga over India's national budget edged towards its climax Monday when India's newly-elected United Front coalition government pledged to push the tax-cutting proposals through at the end of the month. What is the relationship between the event 'ensured' and the event 'go'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEGINS",
+            "B. IMMEDIATELY AFTER",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The traditional friendship between China and Vietnam has entered a new stage of all-round friendly cooperation, Chinese President Hu Jintao said on Tuesday. The peoples of the two countries had profound feelings for each other in history, \" Hu said Mutual respect, understanding, support, trust and cooperation remain the driving force of the development of the Sino-Vietnamese ties and the friendship between the two peoples, he said. What is the relationship between the event 'said' and the event 'development'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. ENDED-BY",
+            "C. DURING"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 31,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The head of the UN nuclear watchdog agency Mohamed ElBaradei Saturday received the 2005 Nobel Peace Prize and called for a world free of atomic weapons, saying existing nuclear states should lead by example. What is the relationship between the event 'received' and the event 'called'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IDENTITY",
+            "B. IMMEDIATELY BEFORE",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 32,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "It is a theory not supported by most mainstream Christian churches. DENVER, Colorado, Dec 14 , 2005. What is the relationship between the event 'supported' and the time 'Dec 14 , 2005'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. SIMULTANEOUS",
+            "C. IMMEDIATELY AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Cyprus Government Spokesman Christodoulos Pashiardis said Wednesday that proximity talks in Helsinki concerning Turkish obligations towards European Union (EU) and Cyprus has not yet be confirmed. Asked if Nicosia objects to the presence of Turkish Cypriots at the possible talks in Helsinki, Pashiardis replied that if there is finally an invitation, the presence of any Turkish Cypriot will be merely to make an impression. What is the relationship between the event 'talks' and the event 'replied'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY AFTER",
+            "B. ENDED-BY",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 34,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The government weekly Akhbar al-Yom, in a dispatch from Rome, quoted the former Miss Naples identified as Irma Capucci Minitolo, on Saturday as saying \"I was the wife of King Faruq.\" CAIRO, April 5 , 1997 (AFP). What is the relationship between the event 'identified' and the time 'April 5 , 1997'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. IS-INCLUDED",
+            "C. ENDS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Turkes, leader of the Nationalist Action Party, a small but influential political group, died here on early Saturday after a heart attack. What is the relationship between the event 'died' and the event 'attack'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ENDS",
+            "B. AFTER",
+            "C. DURING"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 36,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Italian composer Ennio Morricone, who is to receive an honorary Oscar in February, on Thursday said the award was \"a nice surprise\" which made him happy. The Academy of Motion Picture Arts and Sciences said on Wednesday he will be presented with the award at the 2007 Oscars in Hollywood on February 25. What is the relationship between the event 'said' and the event 'presented'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. INCLUDES",
+            "B. IS-INCLUDED",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 37,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The government-in-exile he has since headed in India is not recognized by any country, but the spiritual leader's campaign for Tibetan self- determination has won him international acclaim. What is the relationship between the event 'recognized' and the event 'campaign'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. ENDED-BY",
+            "C. IS-INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "His expose about a sham irrigation project was reported in the Communist Party's main newspaper, the People's Daily, and made television news bulletins, according to the Committee to Protect Journalists. BEIJING, Dec 12 , 2006, 2006. What is the relationship between the event 'according' and the time 'Dec 12 , 2006'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IS_INCLUDED",
+            "B. INCLUDES",
+            "C. IMMEDIATELY AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Ed Deppe, head of access provider Spacestar Communications, said his company received several telephone calls from the group shortly before the suicides seeking to make sure that Spacestar had gotten the maintenance payments. What is the relationship between the event 'said' and the event 'suicides'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY BEFORE",
+            "B. AFTER",
+            "C. IS-INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 40,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Exchanges on governing experience, and socialist theory and practice will also be boosted. HANOI, Nov. 1 , 2005 (Xinhua). What is the relationship between the event 'boosted' and the time 'Nov. 1 , 2005'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. ENDS",
+            "C. IMMEDIATELY AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 41,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Zia said that in the last SAARC summit held in Islamabad in 2004, all member states recognized alleviation of poverty as the overarching goal of all SAARC activities. Terming accelerating economic growth as major SAARC objective, the prime minister said all member states must ensure that the SAFTA (South Asia Free Trade Area) Agreement enters into force as agreed upon with effect from Jan. 1, 2006. What is the relationship between the event 'said' and the event 'ensure'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. IDENTITY",
+            "C. INCLUDES"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "\"March has been a success, but now we have to build on the momentum with a sense of urgency in order to accelerate negotiations,\" the WTO director general said. What is the relationship between the event 'accelerate' and the event 'said'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ENDED-BY",
+            "B. BEFORE",
+            "C. BEGINS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 43,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Two UN investigators met with Lebanese President Emile Lahoud Friday night over the killing of former Prime Minister Rafik Hariri and took a statement from Lahoud, according to the presidential office. What is the relationship between the event 'met' and the event 'killing'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. DURING",
+            "B. AFTER",
+            "C. SIMULTANEOUS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 44,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The miners fought to escape from the shaft while rescuers outside struggled to reopen the pit head, Yan Chenglu, deputy secretary-general of the Lanzhou city government, said at the rescue site. \"We guessed it was a landslide and not a gas blast or flood because there was no water and no smell of gas in the shaft,\" a rescued miner called Wang told Xinhua. What is the relationship between the event 'said' and the event 'told'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. IS-INCLUDED",
+            "C. IDENTITY"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 45,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "According to the newspaper, preliminary results from the post-mortem on Litvinenko's body have shown that he was given more than ten times the lethal dose of polonium-210, large quantities of which were found in his urine. They have not complained publicly, the newspaper added, because of the importance of the case to diplomatic relations between Britain and Russia. What is the relationship between the event 'According' and the event 'complained'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. IDENTITY",
+            "C. SIMULTANEOUS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Press reports in Kinshasa said the \"family\" of oppposition parties, the Political Conclave Force (FPC), was ready to meet Friday to decide whether to replace him. SAPA said officials were locked in \"delicate discussions\" to prepare for the talks between Mobutu's envoy Honore Ngbanda Nzambo and representatives of Kabila. What is the relationship between the event 'said' and the event 'locked'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEGINS",
+            "B. DURING",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 47,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Lawrence said she would stand down from her Labor Party's opposition front bench in Canberra but would not resign from parliament, it added. What is the relationship between the event 'said' and the event 'added'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. SIMULTANEOUS",
+            "B. IMMEDIATELY AFTER",
+            "C. DURING"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 48,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The decision was reached unanimously by a 25-member parliamentary select committee appointed to negotiate consensus on a new charter to replace the post-coup document widely seen as racist. Fiji's political leaders agreed Wednesday to retain more ethnic-based seats than open seats in parliament under a new constitution being negotiated here. What is the relationship between the event 'decision' and the event 'negotiate'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. DURING",
+            "B. IMMEDIATELY BEFORE",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 49,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "England never looked remotely in the hunt and lost wickets at regular intervals. They were dismissed for 188 in 42 overs, with supersub Ian Bell topscoring with 37 not out. What is the relationship between the event 'looked' and the event 'dismissed'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. INCLUDES",
+            "B. BEFORE",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "More than 700 Iraqis living in Turkey cast votes for their homeland's new parliament on Tuesday, according to a representative for the Iraqi electoral commission there. What is the relationship between the event 'cast' and the time '700'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY BEFORE",
+            "B. IDENTITY",
+            "C. IS_INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 51,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Brazilian President Luiz Inacio Lula da Silva has ordered the country's intelligence service, ABIN, to publish dictatorship-era secret files by the end of the year, the official Agencia Brasil news agency reported on Sunday. What is the relationship between the event 'publish' and the time 'the end of the year'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. IS_INCLUDED",
+            "C. IMMEDIATELY BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 52,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Pakistani Prime Minister Shaukat Aziz will leave for New York on Tuesday to attend the meeting of High Level Panel of Secretary General of United Nations working to improve the UN system, state-run APP reported on Monday. Aziz who is among the three cochairs will attend the meeting of UN High Level Panel to develop concrete and comprehensive analysis and finalize recommendations to strengthen the UN operation system in the areas of development, humanitarian assistance and environment. What is the relationship between the event 'attend' and the event 'finalize'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEGINS",
+            "B. AFTER",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The Norwegian oil company Statoil is to take over the oil and gas activities of Norsk Hydro and create the largest offshore production group, the two groups said on Monday. What is the relationship between the event 'take' and the event 'said'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. BEGINS",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 54,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "David, who is seeded to face Chiu again in the final here, defeated the Hong Kong girl to win the gold at the Bangkok Games in 1998. DOHA, Dec 9 , 2006, 2006. What is the relationship between the event 'seeded' and the time 'Dec 9 , 2006'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. INCLUDES",
+            "B. IDENTITY",
+            "C. BEGINS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Leading the poll was centre-right Freedom Alliance candidate Gabriele Albertini while Olive Tree hopeful Aldo Fumagalli came in second, exit polls indicated. The Refounded Communist Party candidate won 9.2 percent. What is the relationship between the event 'indicated' and the event 'won'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY BEFORE",
+            "B. BEFORE",
+            "C. ENDS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 56,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Incumbent conservative President Jacques Chirac then went on to be re-elected by a landslide, backed by thousands of disenfranchised Socialist voters ferociously opposed to Le Pen. Delegates from Chevenement's party on Sunday voted to back Royal in the next elections due in April and May. What is the relationship between the event 'went' and the event 'voted'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. SIMULTANEOUS",
+            "B. ENDS",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Philippine stock prices Monday closed flat as the market consolidated after recent gains in the absence of fresh leads, dealers said. The overall volume stood at 1,390.8 billion shares worth 1.3421 billion Singapore dollars (about 861.8 million U.S. dollars). What is the relationship between the event 'closed' and the event 'stood'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEGUN-BY",
+            "B. AFTER",
+            "C. SIMULTANEOUS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 58,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "In its monthly report, the central bank also said its business climate indicator stood at 106 in November, unchanged from October. INSEE economist Eric Dubois said the stagnation in the French economy in the third quarter was a surprise and should be corrected by growth of 0.9 percent in the final three months of the year, powered by a pickup in the manufacturing industry. What is the relationship between the event 'said' and the event 'growth'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. DURING",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Israel Radio reported that Shujah al-Balawi, 20, was killed in an exchange of fire with Israeli troops. Israeli troops shot dead 17-year-old Bilal Ashaar and wounded another Palestinian in the southern Gaza Strip late Thursday, said Moaweya Hasaneen, chief of emergency in the Palestinian Ministry of Public Health. What is the relationship between the event 'reported' and the event 'wounded'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY AFTER",
+            "B. SIMULTANEOUS",
+            "C. BEGUN-BY"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 60,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "At least 14 Iraqis were killed in a string of bombings and shootings as new US Defence Secretary Robert Gates prepared to take office in Washington amid deepening US divisions about how to handle the crisis in Iraq. What is the relationship between the event 'killed' and the event 'take'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IDENTITY",
+            "B. BEFORE",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The provincial government held a special conference on Monday to strengthen the disaster relief work, adding that an earthquake prevention and disaster relief responsibility system will immediately take effect in Hubei. More than 10,000 soldiers have been mobilized and at least one million yuan (about 123,000 US dollars) will be allocated in the disaster relief in central China's quake-hit areas, said the sources with the provincial governments of Jiangxi and Hubei on Monday. What is the relationship between the event 'conference' and the time 'Monday'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY AFTER",
+            "B. IS_INCLUDED",
+            "C. ENDED-BY"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 62,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The first Thai ambassdor to the World Trade Organization (WTO), Danai Tulalampa, has died of cancer, a foreign ministry official said Thursday. Danai, 61, who died Monday, was appointed in early 1995 as the first Thai ambassdor to the WTO, where he chaired the agriculture committee before retiring at age 60. What is the relationship between the event 'died' and the event 'appointed'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. AFTER",
+            "C. DURING"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 63,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The European Union's budget impasse is fueling growing questions about the entire enlargement process barely 18 months after the \"big bang\" expansion into eastern Europe, officials admit. What is the relationship between the event 'expansion' and the event 'admit'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ENDS",
+            "B. DURING",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 64,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Under Kimberly, rough diamonds are sealed in tamper-resistant containers and required to have forgery-resistant, conflict-free certificates with unique serial numbers each time they cross an international border. Seventy-one countries have now signed on to Kimberley and agree to buy and sell only among fellow members. What is the relationship between the event 'sealed' and the event 'agree'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEGINS",
+            "B. BEFORE",
+            "C. IS-INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 65,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Traders said fresh long-term highs by both gold and platinum were countered by the rand while the market also witnessed some profit-taking. JOHANNESBURG, Nov. 29 , 2005 (Xinhua). What is the relationship between the event 'said' and the time 'Nov. 29 , 2005'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY AFTER",
+            "B. BEGINS",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 66,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "I don't think the people behind this are going to get public opinion on their side -- they certainly won't get mine.\" Stranded office workers waited patiently behind security barriers after bomb scares stopped them from cutting across the central tourist magnet to get to work. What is the relationship between the event 'think' and the event 'get'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. SIMULTANEOUS",
+            "B. IMMEDIATELY BEFORE",
+            "C. IS-INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 67,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Prosecutors put the sum held in the accounts at 200 million euros (262 million dollars) and some of that money may have been used as bribes to obtain contracts abroad. What is the relationship between the event 'put' and the event 'obtain'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IDENTITY",
+            "B. AFTER",
+            "C. SIMULTANEOUS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 68,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Israel had wanted to prevent Haniya entering Gaza with \"tens of millions of dollars\" he was carrying after his fund-raising trip because, according to an Israeli source, it believed the money would be used to finance terrorism. What is the relationship between the event 'wanted' and the event 'finance'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. DURING",
+            "B. IDENTITY",
+            "C. SIMULTANEOUS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 69,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Judge Gerald Bruce Lee, in the federal court in Washington, ruled that only evidence that related directly to Abu Ali's interrogation would be admissible, thus denying the defence the opportunity to present relevant contextual evidence. What is the relationship between the event 'ruled' and the event 'present'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. IMMEDIATELY BEFORE",
+            "C. ENDS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 70,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The much awaited 13th summit of the South Asian Association for Regional Cooperation (SAARC) opened here Saturday with a vision to address major issues of the region, including poverty alleviation, environmental hazards, disaster prevention and terrorism. What is the relationship between the event 'awaited' and the event 'opened'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. BEFORE",
+            "C. IS-INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 71,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Malaysia is China's friendly neighbor and an important member of the ASEAN, and Wen's visit is of significance to furthering bilateral good-neighborly relationship and the strategic partnership between China and the ASEAN, he noted. BEIJING, Nov. 30 (Xinhua)-- Senior Chinese diplomats said Chinese Premier Wen Jiabao's impending visit to five countries in Europe and Asia will further improve the mutual understanding and trust between China and the five countries, highlighting the visit as \"of great significance\". What is the relationship between the event 'noted' and the event 'said'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. INCLUDES",
+            "B. SIMULTANEOUS",
+            "C. IS-INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 72,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The allegations were \"an attempt to again escalate atmospheres in the region and further deteriorate Syria's relation with Lebanon more than ever,\" said Syria's foreign ministry in a letter to UN Secretary General Kofi Annan and President of the Security Council. What is the relationship between the event 'attempt' and the event 'said'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. IMMEDIATELY BEFORE",
+            "C. IS-INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 73,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Roh and Bush have agreed to meet in the country's southeastern city of Gyeongju on Nov. 17, ahead of the Nov. 18-19 leaders' meeting of the Asia-Pacific Economic Cooperation (APEC) forum, South Korea's Yonhap News Agency said. What is the relationship between the event 'meeting' and the time 'Nov. 18-19'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ENDS",
+            "B. AFTER",
+            "C. IS_INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 74,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Around them, a group of dancers dance to the music, spreading out butterfly-shaped silk fans that line out a scene of festivity. BEIJING, Nov. 4 , 2006 (Xinhua). What is the relationship between the event 'dance' and the time 'Nov. 4 , 2006'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IDENTITY",
+            "B. ENDS",
+            "C. INCLUDES"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 75,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "This creates difficulties for the tax authorities and leaves space for loopholes. BEIJING, Nov. 9 , 2006 (Xinhua). What is the relationship between the event 'creates' and the time 'Nov. 9 , 2006'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. INCLUDES",
+            "B. IMMEDIATELY AFTER",
+            "C. DURING"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 76,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "\"The benefits which easy travel gives to developing economic and other contacts, and the importance of demonstrating confidence in Hong Kong's future, suggest that freer access to the EU would be in the interests of both the EU and of Hong Kong.\" Although Britain has the biggest connections with Hong Kong, it is not the only one with a vested interest in its future prosperity. What is the relationship between the event 'suggest' and the event 'has'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. SIMULTANEOUS",
+            "B. DURING",
+            "C. IMMEDIATELY BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 77,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "After voting on Sunday, Chavez insisted Venezuela wanted the best relations with all countries, \"including the United States,\" and hailed as a good signal a statement by a US State Department official recognizing that the South American country waged its political battles through democratic institutions. What is the relationship between the event 'insisted' and the event 'wanted'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY BEFORE",
+            "B. AFTER",
+            "C. ENDS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 78,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "A futher 15 countries have abolished the death penalty except for extraordinary crimes, and 27 countries with the penalty still in their legislation have suspended all executions for 10 years. GENEVA, April 4 , 1997, (AFP). What is the relationship between the event 'abolished' and the time 'April 4 , 1997'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. IMMEDIATELY AFTER",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 79,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Britain's new licensing laws which allow pubs to apply for 24-hour drinking in some areas come into force at midnight Wednesday. LONDON, Nov. 23 , 2005 (Xinhua). What is the relationship between the event 'come' and the time 'Nov. 23 , 2005'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. DURING",
+            "B. IDENTITY",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 80,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Consumption is expected to rise 1.5 percent this year and 2 percent in 2006. What is the relationship between the event 'rise' and the time 'this year'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. INCLUDES",
+            "C. IS_INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 81,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "\"It establishes Chapter 7, which to my mind is the most important element here,\" she said. Rice said she was \"optimistic\" the resolution aimed at persuading Iran to suspend uranium enrichment would pass soon, though she stopped short of predicting a final vote before the end of the year. What is the relationship between the event 'establishes' and the event 'said'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. AFTER",
+            "B. BEFORE",
+            "C. IMMEDIATELY BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 82,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "\"Even as winter threatens people's health and safety, the race is not lost - it is just more difficult. What is the relationship between the event 'threatens' and the event 'lost'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. IS-INCLUDED",
+            "C. INCLUDES"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 83,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Business inventories in September were estimated at an end-of- month level of 1,282.1 billion dollars, up 0.5 percent from the previous month and up 4.3 percent from the same month last year. Inventories held by US businesses on shelves and backlots increased by 0.5 percent in September, marking the largest gain in eight months, the Commerce Department reported Wednesday. What is the relationship between the event 'estimated' and the time 'September'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEGINS",
+            "B. ENDS",
+            "C. IS_INCLUDED"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 84,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The three-man panel of judges--comprising Healey Potani, Edward Twea and Frank Kapanda--told the packed court that after examining the affidavit sworn by Solicitor-General Alexander Maluza, it found that the plea for appeal had no basis. What is the relationship between the event 'packed' and the event 'examining'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IS-INCLUDED",
+            "B. AFTER",
+            "C. SIMULTANEOUS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 85,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Share prices on the Colombo Stock Exchange closed lower on Friday, with the key Colombo All Share Price Index decreasing by 15.14 points to close at 2,564.81 points. What is the relationship between the event 'closed' and the event 'close'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY BEFORE",
+            "B. AFTER",
+            "C. ENDS"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 86,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Some 31,000 black gibbons disappear each year, making it \"extremely important ... to coordinate their breeding programmes,\" the National Zoological Gardens of South Africa said in a statement. What is the relationship between the event 'coordinate' and the event 'said'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. SIMULTANEOUS",
+            "B. BEFORE",
+            "C. INCLUDES"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 87,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "At present, political figures of both countries should more firmly abide by the principle of taking history as a mirror and facing toward the future, and properly handle historical issues with a right attitude, in an effort to push forward China-Japan relationship and return it to the track of healthy and stable development, Tang said. Political figures in China and Japan should make more efforts to turn China-Japan relationship to the track of healthy and stable development, Chinese State Councilor Tang Jiaxuan said here Wednesday. What is the relationship between the event 'abide' and the event 'said'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IMMEDIATELY BEFORE",
+            "B. IS-INCLUDED",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 5
+    },
+    {
+        "index": 88,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "The Composite Stock Index on the Shanghai Stock Exchange opened at 1804.37 last week and closed at 1866.36 on Friday, peaking at 1873.66 on Friday. What is the relationship between the event 'opened' and the event 'closed'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IDENTITY",
+            "B. IMMEDIATELY BEFORE",
+            "C. BEFORE"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 89,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Three men released from Guantanamo Bay, the U.S. navy base in Cuba, have arrived in Albania, a government spokesman said on Monday. What is the relationship between the event 'said' and the time 'Monday'?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. IS_INCLUDED",
+            "B. SIMULTANEOUS",
+            "C. DURING"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 90,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "In neighboring Yala province, six gunmen burst into a local government office earlier in the day and opened fire, killing two Buddhist engineers and seriously injuring a woman. What is the relationship between the event 'opened' and the time 'the day'?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. BEFORE",
+            "B. IS_INCLUDED",
+            "C. IMMEDIATELY AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 91,
+        "source": "TRAM:relation/Temporal Reasoning",
+        "question": "Rasmussen told parliament that he felt it was a \"disgrace\" that the international community had done little to prevent violence in the region. What is the relationship between the event 'told' and the event 'prevent'?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ENDED-BY",
+            "B. IDENTITY",
+            "C. AFTER"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following multiple-choice questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    }
+]

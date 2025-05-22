@@ -1,0 +1,2762 @@
+[
+    {
+        "index": 0,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Tim has saved 2000 cents from selling lemonade.  How many dollars does Tim have?",
+        "answer": "20.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "2000/100=x"
+        ],
+        "options": [
+            "A. 2.0",
+            "B. 20.0",
+            "C. 2000.0",
+            "D. 200.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 54 scissors in the drawer. Keith placed 22 more  scissors in the drawer. How many scissors are now there in all ?",
+        "answer": "76.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "54+22=x"
+        ],
+        "options": [
+            "A. 54",
+            "B. 76",
+            "C. 78",
+            "D. 32"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Scarlett made a fruit salad with 0.25 of a pound of melon and 0.375 of a pound of berries. How many pounds of fruit did Scarlett use in all?",
+        "answer": "0.625",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.25 + 0.375 = x"
+        ],
+        "options": [
+            "A. 0.525",
+            "B. 0.600",
+            "C. 0.750",
+            "D. 0.625"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "On Saturday, Sara spent $10.62 each on 2 tickets to a movie theater. Sara also rented a movie for $1.59, and bought a movie for $13.95. How much money in total did Sara spend on movies?",
+        "answer": "36.78",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "(2*10.62)+1.59+13.59=x"
+        ],
+        "options": [
+            "A. 26.16",
+            "B. 35.16",
+            "C. 36.78",
+            "D. 25.78"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sally bought 4 dozen eggs from the grocery store to bake some cakes.  How many eggs did Sally buy ?",
+        "answer": "48.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "4*12=x"
+        ],
+        "options": [
+            "A. 60",
+            "B. 24",
+            "C. 36",
+            "D. 48"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "58 children are taking a bus to the zoo. They sit 2 children in every seat. How many seats will the children need in all?",
+        "answer": "29.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "58/2=x"
+        ],
+        "options": [
+            "A. 29.0",
+            "B. 30",
+            "C. 27",
+            "D. 58"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 6,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "The mini library also has a section for the classics. If Jack has a collection of 6 classic authors, with each author having 33 books, how many books does he have in the classics section?",
+        "answer": "198.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "6*33=x"
+        ],
+        "options": [
+            "A. 198",
+            "B. 204",
+            "C. 192",
+            "D. 189"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Mary had 7 nickels in her bank. Her dad gave her 5 more nickels. How many nickels does Mary have now ?",
+        "answer": "12.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "7+5=x"
+        ],
+        "options": [
+            "A. 10",
+            "B. 12",
+            "C. 11",
+            "D. 13"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sara picked 45 pears and Sally picked 11 pears from the pear tree. How many pears were picked in total ?",
+        "answer": "56.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "45+11=x"
+        ],
+        "options": [
+            "A. 34",
+            "B. 56",
+            "C. 55",
+            "D. 45"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sandy sold half of her comic books and then bought 6 more. She now has 13. How many did she begin with ?",
+        "answer": "14.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "(x/2)+6=13"
+        ],
+        "options": [
+            "A. 10",
+            "B. 20",
+            "C. 14",
+            "D. 18"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree. How many pears were picked in all ?",
+        "answer": "59.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "42+17=x"
+        ],
+        "options": [
+            "A. 69",
+            "B. 57",
+            "C. 59",
+            "D. 49"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 11,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Each day, the polar bear at Richmond's zoo eats 0.2 of a bucket of trout and 0.4 of a bucket of salmon. How many buckets of fish does the polar bear eat daily?",
+        "answer": "0.6",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.2 + 0.4 = x"
+        ],
+        "options": [
+            "A. 0.2",
+            "B. 0.4",
+            "C. 0.6",
+            "D. 0.8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Joan decided to sell all of her old books. She gathered up 33 books to sell. She sold 26 books in a yard sale. How many books does Joan now have ?",
+        "answer": "7.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "33-26=x"
+        ],
+        "options": [
+            "A. 7",
+            "B. 8",
+            "C. 6",
+            "D. 33"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Lizette has 813 stamps. Lizette has 125 more stamps than Minerva. How many stamps does Minerva have?",
+        "answer": "688.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "813-125=x"
+        ],
+        "options": [
+            "A. 668",
+            "B. 688",
+            "C. 713",
+            "D. 938"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sara saw 96 birds in a tree. How many dozen birds did Sara see?",
+        "answer": "8.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "96=x*12"
+        ],
+        "options": [
+            "A. 8",
+            "B. 7",
+            "C. 9",
+            "D. 6"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Stanley ran 0.4 of a mile and walked 0.2 of a mile. How much farther did Stanley run than walk?",
+        "answer": "0.2",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.4 - 0.2 = x"
+        ],
+        "options": [
+            "A. 0.2",
+            "B. 0.3",
+            "C. 0.1",
+            "D. 0.6"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 1,986 books in Oak Grove's public library. In addition, there are 5,106 books in its school libraries. How many books do the libraries in Oak Grove have overall?",
+        "answer": "7092.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "1986+5106=x"
+        ],
+        "options": [
+            "A. 6092",
+            "B. 7092",
+            "C. 7192",
+            "D. 7082"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 17,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Tom found 7 seashells but 4 were broken.  How many unbroken seashells did Tom find ?",
+        "answer": "3.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "7=4+x"
+        ],
+        "options": [
+            "A. 11",
+            "B. 7",
+            "C. 3",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Jessica, Sandy, and Jason each have 8 pencils. How many pencils do they have have in all ?",
+        "answer": "24.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "3*8=x"
+        ],
+        "options": [
+            "A. 20",
+            "B. 16",
+            "C. 24",
+            "D. 32"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "A spaceship traveled 0.5 of a light-year from Earth to Planet X and 0.1 of a light-year from Planet X to Planet Y. Then it traveled 0.1 of a light-year from Planet Y back to Earth. How many light-years did the spaceship travel in all?",
+        "answer": "0.7",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.5 + 0.1 + 0.1 = x"
+        ],
+        "options": [
+            "A. 0.8",
+            "B. 0.5",
+            "C. 0.7",
+            "D. 0.6"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 20,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "It rained 0.2 inches on Saturday and 0.4 inches on Sunday. How much did it rain on Saturday and Sunday combined?",
+        "answer": "0.6",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.2 + 0.4 = x"
+        ],
+        "options": [
+            "A. 0.7",
+            "B. 0.5",
+            "C. 0.6",
+            "D. 0.8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 21,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "The Sumata family took a 5 day vacation by car. Each day they drove 250 miles. How many total miles did they drive?",
+        "answer": "1250.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "5*250=x"
+        ],
+        "options": [
+            "A. 1500.0",
+            "B. 1000.0",
+            "C. 1750.0",
+            "D. 1250.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 96 cupcakes for 8 children to share. How much will each person get if they share the cupcakes equally?",
+        "answer": "12.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "96/8=x"
+        ],
+        "options": [
+            "A. 16",
+            "B. 14",
+            "C. 12",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Benny's high school played 39 baseball games this year. He attended  14 games. How many baseball games did Benny miss ?",
+        "answer": "25.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "39-14=x"
+        ],
+        "options": [
+            "A. 15",
+            "B. 25",
+            "C. 30",
+            "D. 24"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 24,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Tom has 9 yellow balloons. Sara has 8 yellow balloons. How many yellow balloons do they have in total ?",
+        "answer": "17.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "9+8=x"
+        ],
+        "options": [
+            "A. 16",
+            "B. 15",
+            "C. 18",
+            "D. 17"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sally earns $25.00 for each house she cleans. If she cleans 96 houses, how many dozens of dollars will she make?",
+        "answer": "200.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "(25*96)=x*12"
+        ],
+        "options": [
+            "A. 200.0",
+            "B. 150.0",
+            "C. 240.0",
+            "D. 180.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 46 children in the classroom, each student will get 4 dozen pencils. How many pencils will the teacher have to give out ?",
+        "answer": "2208.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "46*(4*12)=x"
+        ],
+        "options": [
+            "A. 1840",
+            "B. 2208",
+            "C. 184",
+            "D. 22080"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Seth bought 20 cartons of ice cream and 2 cartons of yogurt. Each carton of ice cream cost $6 and each carton of yogurt cost $1. How much more did Seth spend on ice cream than on yogurt?",
+        "answer": "118.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "(20*6)-(2*1)=x"
+        ],
+        "options": [
+            "A. 116.0",
+            "B. 114.0",
+            "C. 120.0",
+            "D. 118.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 28,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Brenda, Betty’s sister, wanted to have 3 bracelets with star-shaped stones. She also bought 36 star-shaped stones from the local store and gave it to Betty. How many star-shaped stones will there be in each of the bracelet Betty makes for Brenda?",
+        "answer": "12.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "3*x=36"
+        ],
+        "options": [
+            "A. 14",
+            "B. 12",
+            "C. 10",
+            "D. 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sean has 223 whistles. Sean has 95 more whistles than Charles. How many whistles does Charles have?",
+        "answer": "128.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "223-95=x"
+        ],
+        "options": [
+            "A. 118",
+            "B. 148",
+            "C. 138",
+            "D. 128"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 30,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "A marine biologist measured one fish that was 0.3 of a foot long and a second fish that was 0.2 of a foot long. How much longer was the first fish?",
+        "answer": "0.1",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.3 - 0.2 = x"
+        ],
+        "options": [
+            "A. 0.1",
+            "B. 0.4",
+            "C. 0.2",
+            "D. 0.5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Mary loves eating fruits. Mary paid $11.08 for berries, $14.33 for apples, and $9.31 for peaches. In total, how much money did she spend?",
+        "answer": "34.72",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "11.08+14.33+9.31=x"
+        ],
+        "options": [
+            "A. 33.72",
+            "B. 34.62",
+            "C. 34.72",
+            "D. 35.72"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sara picked 6 pears and Tim picked 5 pears from the pear tree. How many pears were picked in total ?",
+        "answer": "11.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "6+5=x"
+        ],
+        "options": [
+            "A. 12.0",
+            "B. 13.0",
+            "C. 10.0",
+            "D. 11.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Priya needs 54 cupcakes for a birthday party. She already has 15 chocolate cupcakes and 25 vanilla cupcakes. How many more cupcakes should Priya buy?",
+        "answer": "14.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "54-(15+25)=x"
+        ],
+        "options": [
+            "A. 16",
+            "B. 14",
+            "C. 12",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sandy went to the mall to buy clothes. She spent $13.99 on shorts, $12.14 on a shirt, and $7.43 on a jacket. How much money did Sandy spend on clothes?",
+        "answer": "33.56",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "13.99+12.14+7.43=x"
+        ],
+        "options": [
+            "A. 32.56",
+            "B. 35.56",
+            "C. 34.56",
+            "D. 33.56"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Fred earns $12.50 an hour cleaning houses. If he works for 8 hours, how much money will he make ?",
+        "answer": "100.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "12.50*8=x"
+        ],
+        "options": [
+            "A. 95.0",
+            "B. 100.0",
+            "C. 120.0",
+            "D. 80.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Jane’s dad brought home 24 marble potatoes. If Jane’s mom made potato salad for lunch and served an equal amount of potatoes to Jane, herself and her husband, how many potatoes did each of them have?",
+        "answer": "8.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "24/3=x"
+        ],
+        "options": [
+            "A. 8",
+            "B. 7",
+            "C. 6",
+            "D. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Kaleen filled a bucket with 0.75 of a gallon of water. A few minutes later, she realized only 0.5 of a gallon of water remained. How much water had leaked out of the bucket?",
+        "answer": "0.25",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.75 - 0.5 = x"
+        ],
+        "options": [
+            "A. 0.25",
+            "B. 0.50",
+            "C. 0.75",
+            "D. 0.15"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Diane is a beekeeper. Last year, she harvested 2,479 pounds of honey. This year, she bought some new hives and increased her honey harvest by 6,085 pounds. How many pounds of honey did Diane harvest this year?",
+        "answer": "8564.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "2479+6085=x"
+        ],
+        "options": [
+            "A. 8554.0",
+            "B. 8664.0",
+            "C. 8464.0",
+            "D. 8564.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Dan has 64 violet marbles, he gave Mary 14 of the marbles. How many violet marbles does he now have ?",
+        "answer": "50.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "64-14=x"
+        ],
+        "options": [
+            "A. 54",
+            "B. 48",
+            "C. 60",
+            "D. 50"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 40,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Melanie grew 139 turnips. Benny grew 113 turnips. How many turnips did they grow in all ?",
+        "answer": "252.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "139+113=x"
+        ],
+        "options": [
+            "A. 242",
+            "B. 252",
+            "C. 250",
+            "D. 262"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 41,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Nancy grew 6 potatoes. Sandy grew 7 potatoes. How many potatoes did they grow in total ?",
+        "answer": "13.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "6+7=x"
+        ],
+        "options": [
+            "A. 11.0",
+            "B. 13.0",
+            "C. 14.0",
+            "D. 12.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 390 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?",
+        "answer": "13.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "390=30*x"
+        ],
+        "options": [
+            "A. 13.0",
+            "B. 12.0",
+            "C. 15.0",
+            "D. 14.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 8 calories in a candy bar. How many calories are there in 3 candy bars ?",
+        "answer": "24.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "8*3=x"
+        ],
+        "options": [
+            "A. 22",
+            "B. 32",
+            "C. 24",
+            "D. 18"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There were 3409 pieces of candy in a jar. If 145 pieces were red and the rest were blue, how many were blue?",
+        "answer": "3264.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "3409-145=x"
+        ],
+        "options": [
+            "A. 145.0",
+            "B. 3409.0",
+            "C. 3554.0",
+            "D. 3264.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "During a visit to an orchard, Charlie picked 0.16666666666666666 of a bag of Golden Delicious apples, 0.16666666666666666 of a bag of Macintosh apples, and 0.3333333333333333 of a bag of Cortland apples. How many bags of fruit did Charlie pick in total?",
+        "answer": "0.6666666666666666",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.16666666666666666 + 0.16666666666666666 + 0.3333333333333333 = x"
+        ],
+        "options": [
+            "A. 0.6666666666666666",
+            "B. 0.5",
+            "C. 0.8333333333333334",
+            "D. 0.75"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There were a total of 6 soccer games this year. Jessica missed 4 of the games. How many soccer games did Jessica go to in all ?",
+        "answer": "2.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "6=4+x"
+        ],
+        "options": [
+            "A. 6",
+            "B. 4",
+            "C. 8",
+            "D. 2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Fred has 90 cents in his bank.  How many dimes does Fred have ?",
+        "answer": "9.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "90/10=x"
+        ],
+        "options": [
+            "A. 12",
+            "B. 10",
+            "C. 6",
+            "D. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "The first act included 5 clown mobiles, each stuffed with 28 clowns. How many clowns are inside all the clown mobiles combined?",
+        "answer": "140.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "5*28=x"
+        ],
+        "options": [
+            "A. 150.0",
+            "B. 130.0",
+            "C. 120.0",
+            "D. 140.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "The Ferris wheel in Paradise Park has 14 seats. Each seat can hold 6 people. How many people can ride the Ferris wheel at the same time?",
+        "answer": "84.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "14*6=x"
+        ],
+        "options": [
+            "A. 90",
+            "B. 72",
+            "C. 84",
+            "D. 80"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Fred has 40 baseball cards. Keith bought 22 of Fred's  baseball cards. How many baseball cards does Fred have now ?",
+        "answer": "18.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "40-22=x"
+        ],
+        "options": [
+            "A. 62",
+            "B. 18",
+            "C. 12",
+            "D. 22"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "During a school play, Jonah staffed the snack bar. He served 0.25 of a pitcher of lemonade during the first intermission, 0.4166666666666667 of a pitcher during the second, and 0.25 of a pitcher during the third. How many pitchers of lemonade did Jonah pour in all?",
+        "answer": "0.9166666666666666",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.25 + 0.4166666666666667 + 0.25 = x"
+        ],
+        "options": [
+            "A. 1.0",
+            "B. 0.75",
+            "C. 0.8333333333333334",
+            "D. 0.9166666666666666"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 52,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "A 12 ounce can of cranberry juice sells for 84 cents. What is the cost in cents per ounce.",
+        "answer": "7.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "x=84.0/12.0"
+        ],
+        "options": [
+            "A. 8.0",
+            "B. 9.0",
+            "C. 6.0",
+            "D. 7.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 41 pencils in the drawer. Mike placed 30 more  pencils in the drawer. How many pencils are now there in total ?",
+        "answer": "71.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "41+30=x"
+        ],
+        "options": [
+            "A. 81",
+            "B. 61",
+            "C. 71",
+            "D. 70"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 54,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "In March it rained 0.81 inches. It rained 0.35 inches less in April than in March. How much did it rain in April?",
+        "answer": "0.46",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.81 - 0.35 = x"
+        ],
+        "options": [
+            "A. 0.35",
+            "B. 0.46",
+            "C. 0.81",
+            "D. 1.16"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Betty also bought 140 shiny blue round stones. If 14 pieces of this stone is in each bracelet, how many bracelets of blue shiny round stones will there be?",
+        "answer": "10.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "140/14=x"
+        ],
+        "options": [
+            "A. 14",
+            "B. 7",
+            "C. 12",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 56,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Fred has 110 blue marbles. Fred has 22 times more blue marbles than Tim. How many blue marbles does Tim have?",
+        "answer": "5.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "110/22=x"
+        ],
+        "options": [
+            "A. 10",
+            "B. 15",
+            "C. 5",
+            "D. 20"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 57,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Last Saturday, Spencer walked all over town running errands. First, he walked 0.3 of a mile from his house to the library and 0.1 of a mile from the library to the post office. Then he walked 0.4 of a mile from the post office back home. How many miles did Spencer walk in all?",
+        "answer": "0.8",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.3 + 0.1 + 0.4 = x"
+        ],
+        "options": [
+            "A. 0.8",
+            "B. 0.6",
+            "C. 0.7",
+            "D. 0.9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "The sum of three consecutive odd numbers is 69. What is the smallest of the three numbers ?",
+        "answer": "21.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "(3*x)+6=69"
+        ],
+        "options": [
+            "A. 21.0",
+            "B. 22.0",
+            "C. 20.0",
+            "D. 23.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 9 crayons in the drawer. Benny placed 3 more crayons in the drawer. How many crayons are now there in total ?",
+        "answer": "12.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "9+3=x"
+        ],
+        "options": [
+            "A. 12",
+            "B. 15",
+            "C. 6",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "A restaurant sold 8 pies every day for a week. How many pies were sold during the week ?",
+        "answer": "56.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "8*7=x"
+        ],
+        "options": [
+            "A. 56",
+            "B. 64",
+            "C. 48",
+            "D. 72"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "While making desserts for a bake sale, Victor used 0.625 of a scoop of brown sugar as well as 0.25 of a scoop of white sugar. How much more brown sugar did Victor use?",
+        "answer": "0.375",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.625 - 0.25 = x"
+        ],
+        "options": [
+            "A. 0.25",
+            "B. 0.875",
+            "C. 0.375",
+            "D. 0.175"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Connie had some marbles. Connie gave 183 to Juan. Now Connie has 593 marbles left. How many did Connie have to start with?",
+        "answer": "776.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "x-183=593"
+        ],
+        "options": [
+            "A. 780.0",
+            "B. 770.0",
+            "C. 760.0",
+            "D. 776.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 63,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Fred has 5 baseball cards. Melanie bought 3 of Fred's  baseball cards. How many baseball cards does Fred have now ?",
+        "answer": "2.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "5-3=x"
+        ],
+        "options": [
+            "A. 2",
+            "B. 5",
+            "C. 8",
+            "D. 3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 64,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sara goes fishing with Melanie. Sara catches 5 trout. Melanie catches 2 times as many trout as Sara. How many trout did Melanie catch ?",
+        "answer": "10.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "5*2=x"
+        ],
+        "options": [
+            "A. 5",
+            "B. 7",
+            "C. 10",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 65,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Lucy has an aquarium with 212 fish. Lucy wants to buy 68 more fish. How many fish would Lucy have then?",
+        "answer": "280.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "212+68=x"
+        ],
+        "options": [
+            "A. 280",
+            "B. 300",
+            "C. 270",
+            "D. 290"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 66,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Lexie’s younger brother helped pick up all the paper clips in Lexie’s room. He was able to collect 81 paper clips. If he wants to distribute the paper clips in 9 boxes, how many paper clips will each box contain?",
+        "answer": "9.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "81/9=x"
+        ],
+        "options": [
+            "A. 10",
+            "B. 9",
+            "C. 8",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 67,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Mike bought some toys. He bought marbles for $9.05, a football for $4.95, and spent $6.52 on a baseball. In total, how much did Mike spend on toys?",
+        "answer": "20.52",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "9.05+4.95+6.52=x"
+        ],
+        "options": [
+            "A. 19.52",
+            "B. 20.52",
+            "C. 20.42",
+            "D. 21.52"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 68,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Mary found 18 seashells and Jessica found 41 seashells on the beach. How many seashells did they find together ?",
+        "answer": "59.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "18+41=x"
+        ],
+        "options": [
+            "A. 57",
+            "B. 55",
+            "C. 60",
+            "D. 59"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 69,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Karin's science class weighed plastic rings for an experiment. They found that the orange ring weighed 0.08333333333333333 of an ounce, the purple ring weighed 0.3333333333333333 of an ounce, and the white ring weighed 0.4166666666666667 of an ounce. What was the total weight of the plastic rings?",
+        "answer": "0.8333333333333334",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.08333333333333333 + 0.3333333333333333 + 0.4166666666666667 = x"
+        ],
+        "options": [
+            "A. 0.75",
+            "B. 0.9166666666666666",
+            "C. 0.875",
+            "D. 0.8333333333333334"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Tom has 30 violet balloons, he gave Fred 16 of the balloons. How many violet balloons does he now have ?",
+        "answer": "14.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "30-16=x"
+        ],
+        "options": [
+            "A. 14",
+            "B. 12",
+            "C. 18",
+            "D. 16"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 71,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There were 6 roses in the vase. Mary cut some more roses from her flower garden. There are now 16 roses in the vase. How many roses did she cut ?",
+        "answer": "10.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "6+x=16"
+        ],
+        "options": [
+            "A. 10.0",
+            "B. 8.0",
+            "C. 9.0",
+            "D. 12.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 72,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sam went to 14 football games this year. He went to 29 games  last year. How many football games did Sam go to in all ?",
+        "answer": "43.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "14+29=x"
+        ],
+        "options": [
+            "A. 42",
+            "B. 45",
+            "C. 35",
+            "D. 43"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 73,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Alyssa loves eating fruits. Alyssa paid $12.08 for grapes, and $9.85 for cherries. In total, how much money did Alyssa spend?",
+        "answer": "21.93",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "12.08+9.85=x"
+        ],
+        "options": [
+            "A. 22.93",
+            "B. 21.93",
+            "C. 21.83",
+            "D. 20.93"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 74,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Each bag contains 23 pounds of oranges. How many pounds of oranges are in 45 bags?",
+        "answer": "1035.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "23*45=x"
+        ],
+        "options": [
+            "A. 1050",
+            "B. 900",
+            "C. 1035",
+            "D. 1000"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 75,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Shiela has 6 neighbors who like to collect animal drawings. Shiela drew 54 animals on small pieces of paper. If she plans to give the same number of animal drawings to her neighbors, how many will each of them receive?",
+        "answer": "9.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "6*x=54"
+        ],
+        "options": [
+            "A. 8",
+            "B. 10",
+            "C. 11",
+            "D. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 76,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Melanie had 19 dimes in her bank. Her dad gave her 39 dimes and her mother gave her 25 dimes. How many dimes does Melanie have now ?",
+        "answer": "83.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "19+39+25=x"
+        ],
+        "options": [
+            "A. 93",
+            "B. 83",
+            "C. 73",
+            "D. 63"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 77,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "So far, an orchard has sold a combined total of 9,792 pounds of fresh and frozen fruit this season. If they have sold 3,513 pounds of frozen fruit, how many pounds of fresh fruit have been sold so far?",
+        "answer": "6279.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "9792=3513+x"
+        ],
+        "options": [
+            "A. 6279.0",
+            "B. 6289.0",
+            "C. 3513.0",
+            "D. 13305.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 78,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Tyler had 15 dogs. Each dog had 5 puppies. How many puppies does Tyler now have?",
+        "answer": "75.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "15*5=x"
+        ],
+        "options": [
+            "A. 50",
+            "B. 75",
+            "C. 20",
+            "D. 15"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 79,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Some insects called aphids attack a large farm. In response, the farmer releases ladybugs onto the fields. There are 12,170 ladybugs with spots and 54,912 ladybugs without spots. How many ladybugs are there in all?",
+        "answer": "67082.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "12170+54912=x"
+        ],
+        "options": [
+            "A. 67082.0",
+            "B. 67081.0",
+            "C. 67182.0",
+            "D. 67282.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 80,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sally earns $12.50 an hour cleaning houses. If she works for 12 hours, how much money will she make ?",
+        "answer": "150.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "12.50*12=x"
+        ],
+        "options": [
+            "A. 160.0",
+            "B. 125.0",
+            "C. 150.0",
+            "D. 144.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 81,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "A chef bought 0.14 kilograms of almonds and 0.38 kilograms of pecans. How many kilograms of nuts did the chef buy in all?",
+        "answer": "0.52",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.14 + 0.38 = x"
+        ],
+        "options": [
+            "A. 0.52",
+            "B. 0.50",
+            "C. 0.42",
+            "D. 0.62"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 82,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sandy has 10 books, Benny has 24 books, and Tim has  33 books. How many books do they have together ?",
+        "answer": "67.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "10+24+33=x"
+        ],
+        "options": [
+            "A. 87",
+            "B. 77",
+            "C. 57",
+            "D. 67"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 83,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Willy has 1400 crayons. Lucy has 290 crayons. How many more crayons does Willy have then Lucy?",
+        "answer": "1110.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "1400-290=x"
+        ],
+        "options": [
+            "A. 1110",
+            "B. 1100",
+            "C. 1120",
+            "D. 1200"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 84,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "After eating at the restaurant, Sally, Sam, and Alyssa decided to divide the bill evenly. If each person paid 45 dollars, what was the total of the bill ?",
+        "answer": "135.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "45*3=x"
+        ],
+        "options": [
+            "A. 90.0",
+            "B. 150.0",
+            "C. 135.0",
+            "D. 120.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 85,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Kylie was collecting coins. She got 15 coins from her piggy bank and 13 coins from her brother. Her father gave Kylie 8 coins. Kylie gave 21 of the coins to her friend Laura. How many coins did Kylie have left?",
+        "answer": "15.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "((15+13)+8)-21=x"
+        ],
+        "options": [
+            "A. 17",
+            "B. 12",
+            "C. 15",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 86,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Mary, Sam, Keith, and Alyssa each have 6 baseball cards.  How many baseball cards do they have in all ?",
+        "answer": "24.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "4*6=x"
+        ],
+        "options": [
+            "A. 12.0",
+            "B. 18.0",
+            "C. 24.0",
+            "D. 20.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 87,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 115 pencils in the drawer. Sara placed 100 more  pencils in the drawer. How many pencils are now there in all ?",
+        "answer": "215.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "115+100=x"
+        ],
+        "options": [
+            "A. 205",
+            "B. 315",
+            "C. 215",
+            "D. 115"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 88,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 261 fishbowls. Each fishbowl has 23 fish. How many fish are there?",
+        "answer": "6003.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "261*23=x"
+        ],
+        "options": [
+            "A. 5997",
+            "B. 6003",
+            "C. 6000",
+            "D. 6010"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 89,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Harry Hound had a terrible earache yesterday. When I peered into his ears yesterday, I found 36 frisky fleas having a party in his right ear and 85 baby fleas sleeping peacefully in his left ear. I cleaned out Harry Hound's ears. How many fleas perished?",
+        "answer": "121.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "36+85=x"
+        ],
+        "options": [
+            "A. 111",
+            "B. 131",
+            "C. 119",
+            "D. 121"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 90,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 24 bicycles and 14 tricycles in the storage area at Danny's apartment building. Each bicycle has 2 wheels and each tricycle has 3 wheels. How many wheels are there in all?",
+        "answer": "90.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "(24*2)+(14*3)=x"
+        ],
+        "options": [
+            "A. 86",
+            "B. 88",
+            "C. 92",
+            "D. 90"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 91,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Christian and the junior ranger brought a bag of 140 nails as they visited every station assigned to the junior ranger. If they left exactly 7 nails in every station they visited, how many stations did Joline and the junior ranger visit?",
+        "answer": "20.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "140/7=x"
+        ],
+        "options": [
+            "A. 25",
+            "B. 18",
+            "C. 15",
+            "D. 20"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 92,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Maria needs 21 cartons of berries to make a berry cobbler. She already has 4 cartons of strawberries and 8 cartons of blueberries. How many more cartons of berries should Maria buy?",
+        "answer": "9.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "21-(4+8)=x"
+        ],
+        "options": [
+            "A. 9",
+            "B. 12",
+            "C. 7",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 93,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Tim has 22 books. Mike has 20 books.  How many books do they have together ?",
+        "answer": "42.0",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "22+20=x"
+        ],
+        "options": [
+            "A. 44",
+            "B. 40",
+            "C. 42",
+            "D. 38"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 94,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "The next act involved several jugglers. If each juggler is juggling 6 balls at a time, how many balls are needed if there are 378 jugglers putting a show at the same time?",
+        "answer": "2268.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "6*378=x"
+        ],
+        "options": [
+            "A. 2300.0",
+            "B. 2268.0",
+            "C. 2260.0",
+            "D. 2276.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 95,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Lewis then went to see the oranges being harvested. Lewis found out that they harvest 83 sacks per day. How many sacks of oranges will they have after 6 days of harvest?",
+        "answer": "498.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "83*6=x"
+        ],
+        "options": [
+            "A. 498.0",
+            "B. 508.0",
+            "C. 490.0",
+            "D. 488.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 96,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "There are 39 dogwood trees currently in the park. Park workers will plant  41 more dogwood trees today and 20 more dogwood trees tomorrow. How many dogwood trees will the park have when the workers are finished ?",
+        "answer": "100.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "39+41+20=x"
+        ],
+        "options": [
+            "A. 102",
+            "B. 100",
+            "C. 99",
+            "D. 101"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 97,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Shannon, Brenda’s neighbor, joined Brenda in making bracelets. She brought 48 heart-shaped stones and wanted to have 8 of this type of stone in each of the bracelet she makes. How many bracelets with heart-shaped stones can Shannon make?",
+        "answer": "6.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "48/8=x"
+        ],
+        "options": [
+            "A. 6.0",
+            "B. 8.0",
+            "C. 12.0",
+            "D. 4.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 98,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Freeport McMoran projects the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand. What will the world grain demand be?",
+        "answer": "2400000.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "1800000.0=0.75*x"
+        ],
+        "options": [
+            "A. 2400000.0",
+            "B. 1350000.0",
+            "C. 2250000.0",
+            "D. 1800000.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 99,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Manuel opened a savings account with an initial deposit of 177 dollars. If he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars?",
+        "answer": "17.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "177.0+(19.0*x)=500.0"
+        ],
+        "options": [
+            "A. 25.0",
+            "B. 17.0",
+            "C. 15.0",
+            "D. 20.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 100,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Brandy made trail mix for a backpacking trip. She used 0.16666666666666666 of a pound of peanuts, 0.16666666666666666 of a pound of chocolate chips, and 0.08333333333333333 of a pound of raisins. How many pounds of trail mix did Brandy make?",
+        "answer": "0.4166666666666667",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.16666666666666666 + 0.16666666666666666 + 0.08333333333333333 = x"
+        ],
+        "options": [
+            "A. 0.3333333333333333",
+            "B. 0.4583333333333333",
+            "C. 0.5000000000000000",
+            "D. 0.4166666666666667"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 101,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?",
+        "answer": "3.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "5-2=x"
+        ],
+        "options": [
+            "A. 5",
+            "B. 3",
+            "C. 2",
+            "D. 7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 102,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "We ordered 21 pizzas. Each pizza has 8 slices. How many slices of pizza are there altogether?",
+        "answer": "168.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "21*8=x"
+        ],
+        "options": [
+            "A. 176",
+            "B. 154",
+            "C. 184",
+            "D. 168"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 103,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Melanie, Benny, Sally, and Jessica each have 3 baseball cards.  How many baseball cards do they have in all ?",
+        "answer": "12.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "4*3=x"
+        ],
+        "options": [
+            "A. 12",
+            "B. 15",
+            "C. 9",
+            "D. 3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 104,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Sam had 9 dimes in his bank. His dad gave him 7 more dimes. How many dimes does Sam have now ?",
+        "answer": "16.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "9+7=x"
+        ],
+        "options": [
+            "A. 16",
+            "B. 15",
+            "C. 17",
+            "D. 22"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 105,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Nina did a running drill to get in shape for soccer season. First, Nina ran 0.08333333333333333 of a mile. Then she ran 0.08333333333333333 of a mile and 0.6666666666666666 of a mile more. How many miles did Nina run in total?",
+        "answer": "0.8333333333333334",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.08333333333333333 + 0.08333333333333333 + 0.6666666666666666 = x"
+        ],
+        "options": [
+            "A. 0.8333333333333334",
+            "B. 0.75",
+            "C. 0.8833333333333333",
+            "D. 0.8166666666666667"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 106,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Marta picked two pumpkins. The first pumpkin weighed 4 pounds, and the second pumpkin weighed 8.7 pounds. How much did the two pumpkins weigh all together?",
+        "answer": "12.7",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "4 + 8.7 = x"
+        ],
+        "options": [
+            "A. 11.7",
+            "B. 13.7",
+            "C. 12.0",
+            "D. 12.7"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 107,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Kendall is learning to drive, so this weekend she practiced driving 0.16666666666666666 of a mile with her mother and another 0.5 of a mile with her father. How far did Kendall drive in all?",
+        "answer": "0.6666666666666666",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.16666666666666666 + 0.5 = x"
+        ],
+        "options": [
+            "A. 0.65",
+            "B. 0.5666666666666666",
+            "C. 0.6666666666666666",
+            "D. 0.7666666666666666"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 108,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Connie has 323 marbles. Juan has 175 more marbles than Connie. How many marbles does Juan have?",
+        "answer": "498.0",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "323+175=x"
+        ],
+        "options": [
+            "A. 488",
+            "B. 518",
+            "C. 508",
+            "D. 498"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 109,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "When Jake had one cat, he needed to serve 0.5 of a can of cat food each day. Now that Jake has adopted a second cat, he needs to serve a total of 0.9 of a can each day. How much extra food is needed to feed the second cat?",
+        "answer": "0.4",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "0.9 - 0.5 = x"
+        ],
+        "options": [
+            "A. 0.6",
+            "B. 0.5",
+            "C. 0.4",
+            "D. 0.3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 110,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Last year, 90,171 people were born in a country, and 16,320 people immigrated to it. How many new people began living in the country last year?",
+        "answer": "106491.0",
+        "label": [
+            "A"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "90171+16320=x"
+        ],
+        "options": [
+            "A. 106491",
+            "B. 106591",
+            "C. 73851",
+            "D. 106490"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 111,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Irene just bought a new lamp for her bedside table. The old lamp was 1 foot tall and the new lamp is 2.3333333333333335 feet tall. How much taller is the new lamp than the old lamp?",
+        "answer": "1.3333333333333333",
+        "label": [
+            "D"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "2.3333333333333335 - 1 = x"
+        ],
+        "options": [
+            "A. 1.5",
+            "B. 1.25",
+            "C. 1.4",
+            "D. 1.3333333333333333"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 112,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Joan has 9 blue balloons  but lost 2 of them. How many blue balloons does Joan have now ?",
+        "answer": "7.0",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "9-2=x"
+        ],
+        "options": [
+            "A. 11",
+            "B. 7",
+            "C. 5",
+            "D. 9"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 113,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "On Friday, Fred paid $5.92 each on 2 tickets to a movie theater. He also borrowed a movie for $6.79. Fred paid with a $20 bill. How much change did Fred receive?",
+        "answer": "1.37",
+        "label": [
+            "C"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "(2*5.92)+6.79+x=20"
+        ],
+        "options": [
+            "A. 1.27",
+            "B. 1.47",
+            "C. 1.37",
+            "D. 1.57"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 114,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/singleq/SINGLEEQ.json",
+        "question": "Pamela bought 9.8 ounces of sugar, and she spilled 5.2 ounces of it on the floor. How much is left?",
+        "answer": "4.6",
+        "label": [
+            "B"
+        ],
+        "passage": null,
+        "picture": null,
+        "analysis": [
+            "9.8 - 5.2 = x"
+        ],
+        "options": [
+            "A. 4.0",
+            "B. 4.6",
+            "C. 3.6",
+            "D. 5.6"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    }
+]

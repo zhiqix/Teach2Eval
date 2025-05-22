@@ -1,0 +1,5083 @@
+[
+    {
+        "index": 0,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of these natural disasters is least likely to cause major damage to a prairie ecosystem?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a flood",
+            "B. a tornado",
+            "C. a hurricane",
+            "D. an earthquake"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 1,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Use the information to answer the question. Over the last 150 years, the use of fossil fuels has increased, resulting in more carbon dioxide and other greenhouse gases in the atmosphere. Some scientists think that these atmospheric gases will result in global warming. Scientists have recorded data on global temperature changes and have predicted possible changes in sea level that may affect Maryland residents. Using fossil fuels in the United States will most likely contribute to rising sea levels globally by",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. increasing oxygen levels",
+            "B. decreasing oxygen levels",
+            "C. increasing carbon dioxide levels",
+            "D. decreasing carbon dioxide levels"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Work is a product of force and distance. Which of the following is an example of work?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. sitting at a desk",
+            "B. pushing on a wall",
+            "C. riding a bike",
+            "D. reading a book"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 3,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which two properties of a crayon will stay about the same after the crayon is melted?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Shape and physical state",
+            "B. Temperature and hardness",
+            "C. Color and mass",
+            "D. Thickness and texture"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 4,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Both prokaryotes and eukaryotes have small, free-floating organelles. The cell makes these organelles from nucleic acids and amino acids found in food. Without these organelles, the cell could not make proteins. What are these organelles called?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. chloroplasts",
+            "B. mitochondria",
+            "C. ribosomes",
+            "D. vesicles"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What covers most of the Earth's surface?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Water",
+            "B. Bare rock",
+            "C. Farm land",
+            "D. Cities and towns"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Elizabeth uses a specific type of whistle to call her dogs. The noise made by the whistle is heard by the dogs but cannot be heard by the human ear. Which statement best describes why humans cannot hear the sound made by the whistle?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The speed of the sound is too fast.",
+            "B. The amplitude of the sound is too low.",
+            "C. The frequency of the sound is too high.",
+            "D. The wavelength of the sound is too long."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The Moon revolves around the Earth because of a non-contact force. What force of Earth keeps the Moon in orbit?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. electrical force",
+            "B. magnetic force",
+            "C. centripetal force",
+            "D. gravitational force"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What safety procedure should a student follow when a thermometer is broken during a lab experiment?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. tell the teacher immediately",
+            "B. stop the experiment immediately",
+            "C. sweep the glass into a biohazard container",
+            "D. use a paper towel to pick up the pieces"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 9,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Stars form from nebulae of dust and gases. Depending on its properties, a star may become a red, yellow, white, or blue star. Which property determines this star type?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. age",
+            "B. location",
+            "C. mass",
+            "D. shape"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Animals depend on plants for many things, including food. What do plants depend on from animals?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. energy for photosynthesis",
+            "B. pest control",
+            "C. carbon dioxide",
+            "D. oxygen"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 11,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "In animals, female traits are passed down to offspring from",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. sperm.",
+            "B. seeds.",
+            "C. pollen.",
+            "D. eggs."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What is the BEST reason for including fruits and leafy vegetables in a healthy diet?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They have a high water content.",
+            "B. They are the best source of protein.",
+            "C. They are rich in minerals and vitamins.",
+            "D. They are the best source of carbohydrates."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What physical property is characteristic of all of the elements in the group located in the rightmost column of the periodic table?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. very high melting point",
+            "B. gas state at room temperature",
+            "C. good conductor of electric current",
+            "D. extremely brittle solid at room temperature"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 14,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The driver of a car at a railroad crossing hears a change in pitch of the train whistle as the train passes by. This change in pitch is most likely due to",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the Doppler effect.",
+            "B. the Compton effect.",
+            "C. a change in medium.",
+            "D. a change in speed."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of the following happens in our solar system?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Earth revolves around the sun once per day.",
+            "B. The moon revolves around Earth once per day.",
+            "C. Earth revolves around the sun once per year.",
+            "D. The moon revolves around Earth once per year."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of these technologies helps a power company use renewable energy for the production of electricity?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. hydroelectric power",
+            "B. nuclear power plants",
+            "C. natural gas generators",
+            "D. coal-fired power plants"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "When magnesium (Mg) metal is burned in the presence of oxygen (O?), magnesium oxide (MgO) is produced. The properties of magnesium oxide are different than the individual properties of magnesium and oxygen because magnesium oxide is",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a solution.",
+            "B. a mixture.",
+            "C. a compound.",
+            "D. an element."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which is evidence that the universe is expanding?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the presence of dark matter",
+            "B. red shift of light from distant galaxies",
+            "C. constant speed of light from every perspective",
+            "D. emission of high-energy gamma rays by distant objects"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A scientist puts more food than a lab rat can eat in each of 100 cages containing lab rats. She surveys the mass of food each rat eats in one day. To determine the difference between the largest and smallest masses of food eaten, she should find her data's",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. mean.",
+            "B. range.",
+            "C. mode.",
+            "D. median."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Why do two surfaces get warm when they are rubbed together?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The surfaces absorb energy from the air.",
+            "B. Friction changes energy of motion to heat energy.",
+            "C. Moving objects produce heat energy.",
+            "D. Energy is transferred between the two surfaces."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student throws a ball. Which of these best describes the moving ball?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The ball has light energy.",
+            "B. The ball has kinetic energy.",
+            "C. The ball is transferring sound energy to the air.",
+            "D. The ball is transferring light energy to the air."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Canadian physician Sir William Osler once said, \"In Science the credit goes to the man who convinces the world, not to the man to whom the idea first occurred.\" How does this quote apply to scientific knowledge?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Famous scientists have the best ideas.",
+            "B. Ideas must be communicated to the public",
+            "C. In order to be important, ideas must be believable.",
+            "D. The results are less important than the ideas in an experiment."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A large mammal lives in a cold, snowy environment. Which adaptation would best help the mammal survive in low temperatures?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. thick fur",
+            "B. sharp claws",
+            "C. large ears",
+            "D. strong muscles"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 24,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Many scientists are convinced that an increase of certain gases in the atmosphere is affecting global temperatures. What makes this hypothesis difficult to prove?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Trees absorb these gases.",
+            "B. Global temperatures are rising.",
+            "C. Many variables affect global temperatures.",
+            "D. Many human activities produce these gases."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "During the Siberian summer, reindeer graze on young roots, fungi, grass, and other vegetation. In the cold winter months, they migrate south and rely on available, but less nutritious food, such as lichen. Increased snowfall during the entire winter in southern areas would result in reindeer having to",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. return to their summer feeding area.",
+            "B. hibernate until the snows have stopped.",
+            "C. hunt for organisms such as small rodents.",
+            "D. move to other areas to compete for resources."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Carbon dioxide produced by cells is removed from the body primarily by which body system?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. digestive",
+            "B. excretory",
+            "C. immune",
+            "D. respiratory"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of these is a natural resource of Virginia?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A dam",
+            "B. A glacier",
+            "C. A river",
+            "D. A power plant"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Students are conducting an investigation to see how sunlight affects the speed of plant growth. They measure the growth of the plant at the end of two weeks. What would be the best way to communicate the results of this investigation?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. draw a picture",
+            "B. make some notes",
+            "C. make a chart or graph",
+            "D. tell the science teacher"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "How does the Sun power the water cycle?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Energy from the Sun evaporates water.",
+            "B. Energy from the Sun condenses water.",
+            "C. Energy from the Sun precipitates water.",
+            "D. Energy from the Sun collects water."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 30,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of the following is a description of an organism's development?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A sunflower grows toward the Sun.",
+            "B. A Venus's-flytrap plant closes its leaves around a fly.",
+            "C. An egg hatches, grows into a tadpole and then into a frog.",
+            "D. A lizard loses its tail and grows a new one."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Some birds fly south in the fall and return in the spring. This is an example of",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. migration",
+            "B. camouflage",
+            "C. hibernation",
+            "D. growth"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A train travels at a rate of 13 meters per second (m/s). Over the next 60 seconds, the speed of the train increases to speed to 22 m/s. What is the average rate of acceleration of the train?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0.15 m/s^2",
+            "B. 0.21 m/s^2",
+            "C. 0.36 m/s^2",
+            "D. 0.58 m/s^2"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A unicellular organism is best described as being",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a complex organism.",
+            "B. a microorganism.",
+            "C. an organism with specialized cells.",
+            "D. an organism with different types of tissues."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of the following is performed by the quality control division of a company that is manufacturing a chair?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. applying the varnish",
+            "B. assembling the parts",
+            "C. cutting the material",
+            "D. inspecting the finish"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 35,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Research has shown that specialization of stem cells into specific cell types results, in part, from cell shape. What provides a specialized cell with its shape?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. number of mitochondria",
+            "B. presence of a nucleus",
+            "C. structure of the cytoskeleton",
+            "D. salt concentration of cytoplasm"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The ash borer moth looks similar to a wasp, but it does not have the ability to sting. This adaptation most likely helps the moth survive because",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. it makes food easier to find.",
+            "B. predators avoid the moth.",
+            "C. it aids in attracting a mate.",
+            "D. the moth blends in with its surroundings."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of the following is a direct result of Earth's tilt on its axis?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. tides",
+            "B. seasons",
+            "C. weather",
+            "D. gravity"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which would most likely cause a decrease in the number of woodpeckers in an ecosystem?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. draining a spring-fed pond",
+            "B. plowing and planting meadows",
+            "C. destroying all dead trees and stumps",
+            "D. building a road around a small forest"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 39,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A scanning electron microscope is best suited for observing",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. diffraction of light.",
+            "B. tectonic features on planets.",
+            "C. the surfaces of small objects.",
+            "D. topographical features on the ocean floor."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The excessive use of nitrogen-based fertilizers causes runoff that increases the nitrogen content of lakes and bays. These nitrogen compounds directly affect the aquatic ecosystems by",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. interfering with the water cycle.",
+            "B. decreasing the predator population.",
+            "C. increasing the rate of algae growth.",
+            "D. causing aquatic animals to grow larger."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student plans to measure the thermal expansion of a strip of metal as it is heated from 0ºC to 50ºC. Which piece of equipment should he use to measure the expansion?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a ruler",
+            "B. a balance",
+            "C. a compass",
+            "D. a protractor"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "As global temperatures increase, certain organisms will be more affected than others. The changes associated with global warming may result in an increase in sea level. Which organisms will be affected most as a result of the change in sea level?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. birds that eat fish from shallow waters",
+            "B. fish that live in coral reefs in shallow waters",
+            "C. mammals that swim in cold, deep ocean waters",
+            "D. crustaceans at the bottom of deep sea ocean waters"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of the following is responsible for determining the traits of an organism?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. number of phosphates",
+            "B. amount of thymine",
+            "C. sequence of nucleotides",
+            "D. type of bond between bases"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 44,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student viewing a cell with a microscope observes a cell wall, a cell membrane, and a nucleus. The presence of these structures indicates that the student is looking at a cell from a",
+        "label": [
+            "B"
+        ],
+        "answer": "2",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. rabbit",
+            "B. carrot",
+            "C. worm",
+            "D. fly"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 45,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A scientist crosses two different varieties of corn to produce a single variety that has traits from both parents. This technique is an example of",
+        "label": [
+            "C"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. competition",
+            "B. natural selection",
+            "C. selective breeding",
+            "D. ecological succession"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 46,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which observation provides evidence of the existence of planets orbiting other stars?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. periodic dimming of the stars",
+            "B. periodic X-ray bursts from the stars",
+            "C. rapid location changes of the stars",
+            "D. regular spectrum changes from the stars"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 47,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Two fossils of the same species were found on two different continents. The continents are separated by the Atlantic Ocean. Scientists dated the fossils to be 2 million years old. Which is the least likely explanation for these findings?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A great land bridge once connected the continents.",
+            "B. The remains were carried by ocean currents.",
+            "C. A single landmass once existed with both continents.",
+            "D. The animals swam across the ocean."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 48,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which process passes genetic information from plants to their offspring?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. germination",
+            "B. pollination",
+            "C. photosynthesis",
+            "D. adaptation"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Animals and plants are made up of a number of different chemical elements. What happens to all of these elements when animals and plants die?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They die with the animal or plant.",
+            "B. They evaporate into the atmosphere.",
+            "C. They are recycled back into the environment.",
+            "D. They change into different elements."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 50,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A stone arch bridge relies primarily on which of the following for its load strength?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. bending",
+            "B. compression",
+            "C. tension",
+            "D. torsion"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 51,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The electrical charge of the nucleus of an atom is +12. How many electrons does the atom have in its neutral state?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 6",
+            "B. 12",
+            "C. 18",
+            "D. 24"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which would be best seen through a telescope?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a moon",
+            "B. a cell",
+            "C. a light ray",
+            "D. a molecule"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "One unique characteristic of water is that its specific heat",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. can only be measured in calories.",
+            "B. is lower than other common substances.",
+            "C. is higher than other common substances.",
+            "D. requires little energy for a big temperature change."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 54,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "There is a shadow under a tree. Which form of energy must be present for the shadow to occur?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. heat",
+            "B. light",
+            "C. sound",
+            "D. mechanical"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 55,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What does a plant need to make sugar through photosynthesis?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. soil, water, and oxygen",
+            "B. oxygen, sunlight, and soil",
+            "C. carbon dioxide, sunlight, and soil",
+            "D. sunlight, water, and carbon dioxide"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which substance is composed of only one type of atom?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. water",
+            "B. gold",
+            "C. salt",
+            "D. sugar"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Tiny droplets of water seen floating in the air can give scientists a clue about the weather. What are groups of these droplets called?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. hail",
+            "B. rain",
+            "C. a front",
+            "D. a cloud"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 58,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Deer are plants-eaters. A winter storm kills many of the plants deer eat. The storm will most likely result in the deer",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. shedding a lot of fur.",
+            "B. traveling in a herd.",
+            "C. becoming thin.",
+            "D. feeding on meat."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A dietary supplement manufacturer developed a new calcium supplement that appears to increase the bone density in middle-aged women. When tested in a small clinical trial, the supplement was shown to cause a 15% increase in bone density in 8 out of 10 women. Before the supplement is offered to the general public, which step should the manufacturer take next?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. add a variety of vitamins to the supplement",
+            "B. test the supplement on mice in the laboratory",
+            "C. develop packaging that is attractive to women",
+            "D. test the supplement on a larger sample of women"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What is the smallest particle of an element that still exhibits all the properties of that element?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. an electron",
+            "B. an atom",
+            "C. a molecule",
+            "D. a proton"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Soil will pack down over time which decreases the ability of the soil to hold water. Which animals would best help the soil hold water?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. earthworms making tunnels under the surface",
+            "B. cattle making depressions with their hooves",
+            "C. horses making trenches when they gallop",
+            "D. sheep pulling up plants by their roots"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A donkey and a horse can be bred to produce a mule. Which observation is evidence that donkeys and horses are two different species?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They have different body sizes.",
+            "B. A mule is not able to reproduce.",
+            "C. They are found in different environments.",
+            "D. A mule does not resemble either parent."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 63,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A model of Earth would be different from a model of the Moon because the Moon model would be",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. shinier",
+            "B. heavier",
+            "C. smaller",
+            "D. rougher"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 64,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which physical feature exists both on Earth and on the Moon?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. lakes",
+            "B. forests",
+            "C. mountains",
+            "D. clouds"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 65,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Over a long time, oil can form when layers of sediment push down on decomposing",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. trees.",
+            "B. animals.",
+            "C. fungi.",
+            "D. algae."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 66,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The tendency of an element to react chemically is closely related to",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the number of valence electrons.",
+            "B. the ratio of protons to neutrons.",
+            "C. how tightly atoms are packed.",
+            "D. the number of neutrons in atoms."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 67,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The shape of a riverbed changes over time as a result of which gradual process?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. erosion",
+            "B. dissolving",
+            "C. plate shifting",
+            "D. compaction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 68,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Extensive folding of sedimentary rock layers on Earth provides indirect evidence of certain processes occurring throughout Earth's history. Which of these is most likely one of these processes?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. convective heat loss from Earth's mantle",
+            "B. slowing of the rotation of Earth's core",
+            "C. increase in the density of Earth's atmosphere",
+            "D. slow increase in the distance of Earth's orbit"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 69,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Some jet airplanes fly in a layer of the atmosphere where temperature generally increases with altitude. What is this layer of the atmosphere?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. mesosphere",
+            "B. stratosphere",
+            "C. thermosphere",
+            "D. troposphere"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 70,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "On a career day at school, an X-ray technician discusses her daily work with the class. Which equipment would she most likely say she uses on a regular basis to help ensure the safety of patients?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. earplugs",
+            "B. rubber gloves",
+            "C. goggles",
+            "D. lead aprons"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 71,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which is the most important reason for scientists to publish their data and findings that result from a scientific investigation?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. to become famous",
+            "B. to get paid for their research",
+            "C. to allow other scientists to try to replicate their results",
+            "D. to gain respect from their peers in the scientific community"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 72,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of the following characteristics will best prevent a tree from being blown over by high winds during a storm?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. deep roots",
+            "B. long branches",
+            "C. thick bark",
+            "D. wide leaves"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 73,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of these actions causes wind?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. rotation of Earth on its axis",
+            "B. movement of air from water to land",
+            "C. uneven heating of Earth's surface",
+            "D. air passing Earth as it revolves around the Sun"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 74,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A scientist performs an experiment which suggests a new explanation for the digestion of certain proteins in humans. These results should first be communicated to the scientific community by which means?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. submission of an article to a peer-reviewed journal",
+            "B. inclusion of the new explanation in a biology textbook",
+            "C. posting observations and conclusions on the scientist's website",
+            "D. inviting reporters from many organizations to a press conference"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 75,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Every organism in an ecosystem receives energy from another source. Which of these organisms receives its energy directly from the Sun?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. deer",
+            "B. fungus",
+            "C. grass",
+            "D. hawk"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 76,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of these shows the correct order needed for a solar eclipse to happen?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Sun, Earth, Moon",
+            "B. Sun, Moon, Earth",
+            "C. Moon, Sun, Earth",
+            "D. Moon, Earth, Sun"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 77,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The charge of the nucleus of an atom is due to the presence of",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. positive protons.",
+            "B. negative neutrons.",
+            "C. negative protons and positive electrons.",
+            "D. positive protons and negative neutrons."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 78,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Mountains are most likely formed",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. when glaciers melt.",
+            "B. from earthquakes.",
+            "C. when land sinks.",
+            "D. along tectonic plates."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 79,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "In a particular habitat, Animal X has two sources of food. One source is found in the water and the other source is found on land. If the main predator of Animal X is found only on land, what is the most likely structural adaptation that will be selected for in the population of Animal X?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. development of claws",
+            "B. increase in leg strength",
+            "C. increase in visual acuity",
+            "D. development of webbed feet"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 80,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "In which type of rock is the fossil imprint of a fern leaf most likely to be found?",
+        "label": [
+            "C"
+        ],
+        "answer": "3",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. igneous",
+            "B. metamorphic",
+            "C. sedimentary",
+            "D. volcanic"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 81,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Gasoline is a nonrenewable energy resource used in most cars and trucks. Gasoline is made from which source?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. oil",
+            "B. hydrogen",
+            "C. natural gas",
+            "D. water vapor"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 82,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Two high tides and two low tides occur on Earth every",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. day.",
+            "B. hour.",
+            "C. week.",
+            "D. month."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 83,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student conducts an experiment to determine the effect soap has on the growth of radish seeds. He puts 30 seeds in three different dishes: one with water, one with a 1% soap solution, and one with a 10% soap solution. Which type of data should he collect?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. size of seeds and amount of solution used",
+            "B. time of day and number of seeds germinated",
+            "C. type of detergent and amount of solution used",
+            "D. number of seeds germinated and average length of shoot"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 84,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Scientists study fossils to learn about extinct plants and animals. Which of these is the best example of a fossil?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a footprint in a rock",
+            "B. a seashell under water",
+            "C. a leaf in a mudpuddle",
+            "D. a bone on top of a sand pile"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 85,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which process causes the fastest changes to the surface of Earth?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a large glacier forming on a mountain",
+            "B. strong winds wearing away a rock cliff",
+            "C. a major earthquake happening in a mountain range",
+            "D. many waves on a lake moving pebbles onto a beach"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 86,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A scientist found fossils of ocean shells on a mountain top. Based on this find, which statement can be made?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The climate was once colder.",
+            "B. The shells were carried by the wind.",
+            "C. The mountain was covered by water.",
+            "D. The shells once lived on dry land."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 87,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which property would best help a student determine if two substances are made of two different elements?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. mass",
+            "B. shape",
+            "C. density",
+            "D. volume"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 88,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The water cycle is important for recycling the water on Earth. Which of these is the source of most of the water vapor in Earth's atmosphere?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. river flooding",
+            "B. glacier melting",
+            "C. ocean evaporation",
+            "D. plant transpiration"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 89,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Acid rain can damage limestone buildings and marble statues. It can also harm organisms living in ponds and other ecosystems. Which pollutant in the atmosphere causes most of the acid rain?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. fluorocarbons from aerosol spray cans",
+            "B. nitrous oxide from volcanic eruptions",
+            "C. sulfur dioxide from burning fossil fuels",
+            "D. soil particles from the use of farm equipment"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 90,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "As members of a food web, humans are considered to be",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. producers.",
+            "B. consumers.",
+            "C. decomposers.",
+            "D. scavengers."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 91,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which group of energy sources are ALL renewable?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. coal, oil, and natural gas",
+            "B. solar, oil, and geothermal",
+            "C. wind, solar, and tidal",
+            "D. natural gas, solar, and tidal"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 92,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Hector's class is counting the number of ducks in a pond. Hector counts a different number than the rest of the class. Which of the following actions should Hector most likely perform?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. keep the result",
+            "B. change the number he counted",
+            "C. think that the class results are wrong",
+            "D. remove his number from the class result"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 93,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student places a chemical in an insulated container and measures the temperature. A second chemical is added and the container is sealed and the temperature is monitored. What is the student trying to determine?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. What color changes can be observed?",
+            "B. How much precipitate is formed?",
+            "C. Is heat absorbed or released?",
+            "D. How can this reaction be reversed?"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 94,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which process causes water to move from the ocean to the atmosphere during the formation of a hurricane?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. condensation",
+            "B. evaporation",
+            "C. precipitation",
+            "D. runoff"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 95,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Dan knows the Earth is tilted 23.5° on its axis. Which is caused because of this tilt?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. day can become night",
+            "B. different seasons occur",
+            "C. low tide can become high tide",
+            "D. the change in phases of the Moon"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 96,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of the following involves a learned behavior?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. laying eggs to reproduce",
+            "B. having hollow, light-weight bones",
+            "C. avoiding insects that taste bad",
+            "D. having white feathers on the throat"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 97,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A pan containing hot water is left on the counter and becomes cool mainly due to",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. water molecules moving apart.",
+            "B. cold air penetrating the hot water.",
+            "C. heat from the water moving into the cooler air.",
+            "D. hot water reacting with the metal pan."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 98,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Why are diseases transmitted through the bites of infected animals not considered contagious diseases?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The infected animals do not show symptoms.",
+            "B. The person in direct contact is the only one infected.",
+            "C. Humans do not become sick from animal diseases.",
+            "D. The diseases are treatable with antibiotics."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 99,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "All living and nonliving material is composed of",
+        "label": [
+            "B"
+        ],
+        "answer": "2",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. air",
+            "B. elements",
+            "C. water",
+            "D. soil"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 100,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which unit of measurement do astronomers use when measuring the distance between two stars found in the Milky Way?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. meter",
+            "B. light-year",
+            "C. kilometer",
+            "D. astronomical unit"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 101,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Scientists found trilobite and brachiopod index fossils in cliffs a great distance apart from each other. What can scientists infer about the rocks in which these fossils were found?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the age of the rock",
+            "B. the slope of the rock",
+            "C. the density of the rock",
+            "D. the weathering of the rock"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 102,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of these cell parts store genetic instructions for the entire organism and transfers them from one generation to the next?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. chloroplasts",
+            "B. mitochondria",
+            "C. DNA molecules",
+            "D. nuclear membranes"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 103,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "When coal is burned to produce electricity, the electrical energy produced is less than the potential energy in the coal. Which best explains this observation?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. As coal is heated, some of the molecules move so fast that they are destroyed.",
+            "B. Some of the energy in coal is destroyed by the intense heat required to release its potential energy.",
+            "C. Some of the potential energy in coal is converted into forms of energy other than electricity.",
+            "D. The amount of potential energy in fuels is overestimated."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 104,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "When conducting an investigation involving an open flame, it is most important to",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. turn out the lights to see better.",
+            "B. smell the product that is being burned.",
+            "C. work near the sink to put out possible fires.",
+            "D. wear appropriate protective clothing and eyewear."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 105,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Three scientists conducted the same experiment to analyze the effectiveness of a cleaning agent on household bacteria. What is the main advantage of having the experiment repeated?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. More bacteria will be destroyed.",
+            "B. The results will be more reliable.",
+            "C. A scientific journal will publish their work.",
+            "D. The conclusion will lead to new discoveries."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 106,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The width of a pencil lead is most accurately measured in",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. meters.",
+            "B. inches.",
+            "C. millimeters.",
+            "D. feet."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 107,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A helium-filled balloon is released into the atmosphere. As the balloon rises, which would most likely increase and cause the balloon to burst?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the mass of the helium",
+            "B. the density of the helium",
+            "C. the volume of the helium",
+            "D. the temperature of the helium"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 108,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which sequence identifies the levels of organization of body structures in a human from simplest to most complex?",
+        "label": [
+            "D"
+        ],
+        "answer": "4",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. cell -> organ -> tissue -> organ system",
+            "B. organ system -> cell -> tissue -> organ",
+            "C. tissue -> organ -> organ system -> cell",
+            "D. cell -> tissue -> organ -> organ system"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 109,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Having students wash their hands frequently with soap and water will limit the spread of infectious disease by",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. protecting harmless bacterial cells.",
+            "B. changing viral and bacterial nucleic acids.",
+            "C. releasing mutated cells from pores.",
+            "D. removing viruses and bacteria from the skin."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 110,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which organism is a decomposer?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. frog",
+            "B. worm",
+            "C. oak tree",
+            "D. grasshopper"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 111,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of these organisms is classified as a decomposer?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. hawk",
+            "B. mushroom",
+            "C. mouse",
+            "D. grass"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 112,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Scientists today understand how forces work due to Isaac Newton's study of",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. electricity.",
+            "B. magnetism.",
+            "C. atoms.",
+            "D. gravity."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 113,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Sunlight is able to penetrate the top several meters of marine water, where most plant and animal life exists. Which of these systems are interacting in this description?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. solar energy and ocean systems",
+            "B. solar energy and weather systems",
+            "C. weather systems and ocean systems",
+            "D. solar energy, ocean systems, and weather systems"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 114,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A researcher's plan is to place five fish in separate tanks, give them the same amount of food each day, and keep the temperature the same. One fish will be exposed to artificial light for 24 hours each day, while the others will have light for 22 hours and then no light for 2 hours each day. Which is the control for this experiment?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the separate tanks",
+            "B. the amount of food",
+            "C. the fish deprived of light",
+            "D. the fish exposed to light for 24 hours"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 115,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "In the first step of making some ceramic cups, the following manufacturing process is used. Liquid clay is poured into a mold, allowed to solidify, then removed from the mold. What is the name of this manufacturing process?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. casting",
+            "B. milling",
+            "C. finishing",
+            "D. refining"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 116,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Animals get energy from eating food that comes from plants. Plants survive by taking in substances that are released by animals. What substance do animals release that plants take in?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. carbon dioxide",
+            "B. oxygen",
+            "C. salt",
+            "D. sugar"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 117,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A rosebush and a bird are similar because they both",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. are living organisms.",
+            "B. need to search for food.",
+            "C. make their own food.",
+            "D. are non-living organisms."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 118,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The breakfast that a student ate provided energy for bicycling later in the day. Which energy transformation most likely occurred?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. radiant to nuclear",
+            "B. chemical to nuclear",
+            "C. radiant to mechanical",
+            "D. chemical to mechanical"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 119,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What information about stars can be learned by using a spectrometer?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. chemical composition",
+            "B. distance from Earth",
+            "C. size",
+            "D. speed"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 120,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which rankings of trees would most likely useful in a scientific study of fruit production in apple trees?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. date of flowering and the fruit yield",
+            "B. fruit yield and taste of the fruit",
+            "C. taste of the fruit and smell of the flower",
+            "D. date of flowering and smell of the flower"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 121,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "When ocean waters become too warm, some whales travel to colder water. This movement is an example of",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. nest building",
+            "B. hunting",
+            "C. migrating",
+            "D. hibernating"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 122,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which is the best action to help protect water resources in Virginia?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Dispose of pet waste in a stream.",
+            "B. Rinse spilled gasoline with a hose.",
+            "C. Organize a river cleanup program.",
+            "D. Put hazardous waste in with house trash."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 123,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which is a function of the cardiovascular system?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. to move water throughout the body",
+            "B. to provide structural support for the body",
+            "C. to eliminate waste from the body",
+            "D. to transport gases throughout the body"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 124,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which trait is common in gases that contribute to Earth's greenhouse effect?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the ability to trap heat",
+            "B. a tendency to lose electrons",
+            "C. a tendency to exist as diatomic molecules",
+            "D. the ability to bond with multiple other elements"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 125,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A rock formation in a land area contains fossils. Over time, tremendous heat and pressure change the formation to produce a harder rock formation without fossils. Which change in rock type has occurred in this land area?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Igneous rock has turned into sedimentary rock.",
+            "B. Igneous rock has turned into metamorphic rock.",
+            "C. Sedimentary rock has turned into igneous rock.",
+            "D. Sedimentary rock has turned into metamorphic rock."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 126,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The crews of two boats at sea can communicate with each other by shouting. Why is it impossible for the crews of two spaceships a similar distance apart in space to do this?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The sound is reflected more in space.",
+            "B. The pressure is too high inside the spaceships.",
+            "C. The spaceships are traveling faster than sound.",
+            "D. There is no air in space for the sound to travel through."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 127,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "When a rock is placed in a graduated cylinder containing water, the height of the water will",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. decrease",
+            "B. increase",
+            "C. remain the same"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 128,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which process below uses carbon dioxide and the sun's radiant energy to produce chemical energy?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Evaporation",
+            "B. Photosynthesis",
+            "C. Respiration",
+            "D. Decomposition"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 129,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A solar eclipse occurs when",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the Moon blocks the Earth from the Sun.",
+            "B. the first four planets in the solar system are aligned.",
+            "C. Earth blocks the Moon from the Sun.",
+            "D. Earth's shadow falls on the Sun."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 130,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Some types of bacteria can only live where oxygen is not present. These bacteria were well adapted to life on Earth over 2 billion years ago. Which of the following changes caused many of these bacteria to become extinct?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the slow movement of tectonic plates",
+            "B. the varying temperatures of each season",
+            "C. an increase in volcanic activity under the oceans",
+            "D. an increase in the number of photosynthetic organisms"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 131,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which is the best way to help prevent the flu from becoming a pandemic?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. getting a vaccination",
+            "B. taking antibiotics",
+            "C. eating fruits and vegetables",
+            "D. washing hands often"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 132,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Blood is a fluid made up of several different parts. What level of structural organization best describes blood?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a cell",
+            "B. a tissue",
+            "C. an organ",
+            "D. a system"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 133,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "In winter, the arctic fox has white fur. In summer, its fur changes color to brown and gray. The change in fur color helps the arctic fox to ___.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. run",
+            "B. mate",
+            "C. hide",
+            "D. hibernate"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 134,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The appearance of the Moon as observed from Earth changes over time because of the Moon's",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. path around Earth",
+            "B. length of daylight",
+            "C. gravity",
+            "D. temperature"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 135,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The cells of organisms found in the phylum Porifera (sponges) are not organized into tissues. What structures are absent in organisms belonging to the phylum Porifera?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. organelles",
+            "B. cells",
+            "C. genes",
+            "D. organs"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 136,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which statement best compares gravity on the Moon to gravity on Earth?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Gravity on the Moon is greater because it is closer to the Sun.",
+            "B. Gravity on the Moon is less because it is smaller than the Earth.",
+            "C. Gravity on the Moon is less because it has less atmosphere than the Earth.",
+            "D. Gravity on the Moon is greater because it has less mass than the Earth."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 137,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What is the function of the nucleus in a cell?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. provides energy",
+            "B. provides nutrients",
+            "C. controls activity",
+            "D. controls movement"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 138,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Iron oxides, such as rust, form when iron metal reacts with oxygen in the air. What are the chemical symbols for the two elements found in iron oxide?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. I and O",
+            "B. Ir and O",
+            "C. Fe and O",
+            "D. Pb and O"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 139,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of the following correctly lists the organizational hierarchy of organisms from simplest to most complex?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. cells, organs, tissues, organ systems, organisms",
+            "B. cells, tissues, organs, organ systems, organisms",
+            "C. tissues, cells, organs, organ systems, organisms",
+            "D. tissues, organs, cells, organ systems, organisms"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 140,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of the following has a warmer average surface temperature than Earth?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Mars",
+            "B. Moon",
+            "C. Pluto",
+            "D. Venus"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 141,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What is at the center of our solar system?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a medium planet with an atmosphere.",
+            "B. a star composed of carbon and nitrogen.",
+            "C. a black hole that was once a star.",
+            "D. a star composed of hydrogen and helium."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 142,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which characteristic describes the texture of a kitten's fur?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. gray",
+            "B. warm",
+            "C. long",
+            "D. soft"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 143,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Ann makes hats for people. She has each person select the fabric and a hat style before she makes the hat to fit the person's head size. Which type of manufacturing system is Ann most likely using to make hats?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. mass production",
+            "B. custom production",
+            "C. automated production",
+            "D. assembly line production"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 144,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Overgrazing of land by livestock contributes to a major problem. That problem is",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. depletion of ground water",
+            "B. increased pollution",
+            "C. erosion of soil",
+            "D. acid rain"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 145,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Some classrooms have computers. The computer is most useful to the students because it helps them",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. play games.",
+            "B. watch movies.",
+            "C. listen to music.",
+            "D. find information."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 146,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which statement explains why daylight and darkness occur on Earth?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The Earth rotates on its axis.",
+            "B. The Sun rotates on its axis.",
+            "C. The Earth's axis is tilted.",
+            "D. The Earth revolves around the Sun."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 147,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What would be the initial result if a DNA molecule did not replicate accurately?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. infertility of the organism",
+            "B. incorrect protein synthesis",
+            "C. increase in reproduction rate",
+            "D. immediate death of the organism"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 148,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "When two animals live in the same area and depend on the same organism for food, they are",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. competing",
+            "B. decomposing",
+            "C. germinating",
+            "D. hibernating"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 149,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Scientists have discovered that there has been a reduction in the butterfly population in an ecosystem. After much research, they have identified that the carrying capacity for butterflies has been decreased. If the scientists want to increase the butterfly population, which action should they recommend?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. removing primary producers",
+            "B. spraying of insecticides",
+            "C. increasing runoff",
+            "D. planting flowers"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 150,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Parents with freckles often have children with freckles. This occurs because",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. freckles develop from light.",
+            "B. certain foods cause freckles.",
+            "C. certain habits cause freckles.",
+            "D. freckles are an inherited trait."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 151,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "One hot summer, a grassland experienced a drought. Which most likely happened in the ecosystem during this time?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The competition for food among primary consumers increased.",
+            "B. Nutrients cycled through the system at a faster rate.",
+            "C. Less solar radiation was able to enter the system.",
+            "D. Secondary consumers became extinct."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 152,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which best describes what keeps the Moon orbiting around Earth?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. speed",
+            "B. gravity",
+            "C. weight",
+            "D. friction"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 153,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "In an experiment, water and salt are mixed together. What is the best way to separate the salt from the water?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. filter the salt",
+            "B. freeze the mixture",
+            "C. evaporate the water",
+            "D. pour the water out of the container"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 154,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which characteristic of a cold-water upwelling near the coast of Northern California results in a large concentration of marine organisms?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. loss of thermal stability",
+            "B. high nutrient concentration",
+            "C. consistent surface-current flow rate",
+            "D. increased availability of dissolved oxygen"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 155,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which unit of measurement should be used to describe the  mass of an apple?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. gram",
+            "B. liter",
+            "C. minute",
+            "D. meter"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 156,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "In the late 1700s, Antoine Lavoisier performed a series of experiments to find out what happened when a substance burned. In each experiment, he observed that the weight of a container and its contents was the same at the end of the experiment as it had been in the beginning. These observations led him to propose the law of",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. combustion.",
+            "B. fixed proportions.",
+            "C. conservation of mass.",
+            "D. conservation of energy."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 157,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Why is a spacesuit inflated like a balloon?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. to simulate the air pressure of Earth",
+            "B. to help astronauts float in outer space",
+            "C. to protect astronauts from solar radiation",
+            "D. to provide an oxygen supply for breathing"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 158,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Most of the United States is a part of which tectonic plate?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Pacific Plate",
+            "B. Eurasian Plate",
+            "C. North American Plate",
+            "D. South American Plate"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 159,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "To a person standing motionless on the Earth's surface on a day with no wind, in which direction would the rain appear to fall?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. vertically",
+            "B. diagonally",
+            "C. horizontally",
+            "D. circularly"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 160,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "n 1931, Barbara McClintock discovered that genes could change position on a chromosome. In corn plants, if a certain gene was moved next to the gene that controls kernel color, the kernels in an ear of corn were various colors. Which statement best supports McClintock's discovery?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Genes control inherited traits in organisms.",
+            "B. Corn plants can reproduce in laboratory environments.",
+            "C. Chromosomes can move around in the nucleus of a cell.",
+            "D. Genes are able to disappear and reappear in later generations."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 161,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which is a statement of fact?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The Sun is very pretty.",
+            "B. The Sun is fun to study.",
+            "C. The Sun is larger than Earth.",
+            "D. The Sun is more interesting than the Moon."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 162,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The process by which information is encoded, transmitted, stored, decoded, and retrieved is called",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. manufacturing technology.",
+            "B. transportation technology.",
+            "C. construction technology.",
+            "D. communication technology."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 163,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Earth's hydrosphere is a layer of",
+        "label": [
+            "D"
+        ],
+        "answer": "4",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. rock",
+            "B. air",
+            "C. lava",
+            "D. water"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 164,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which source of energy is nonrenewable?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. coal",
+            "B. sunlight",
+            "C. water",
+            "D. wood"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 165,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What property of water best helps aquatic life survive in lakes during the winter?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. water has a high specific heat capacity",
+            "B. water has a high surface tension",
+            "C. water is less dense as a solid than as a liquid",
+            "D. water is a polar molecule"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 166,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "After a rain, a puddle of water remains on a sidewalk. After a day of sunshine, the puddle is gone. Which process is most responsible for the disappearance of the puddle?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. precipitation",
+            "B. transpiration",
+            "C. evaporation",
+            "D. condensation"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 167,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which best describes a scientific theory?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It is still being tested.",
+            "B. It is true, once written.",
+            "C. It is different for each continent.",
+            "D. It is determined in a court of law."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 168,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The ichthyornis was a type of bird that lived over 65 million years ago. It lived near the sea and hunted for fish over the water. Fossils have been found in Kansas, many miles from the present-day ocean. Which cause of extinction is most likely to be found in the fossil record along with ichthyornis fossils?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. changes in the environment",
+            "B. diseases causing illness",
+            "C. changes in the weather",
+            "D. predator animals"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 169,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Seismometers measure quick changes that happen in the crust of our planet. Which of the following is a seismometer used to measure?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. earthquake",
+            "B. erosion",
+            "C. flooding",
+            "D. weathering"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 170,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Many natural resources are found in Maryland and the surrounding area. Some of these natural resources are renewable and some are nonrenewable. People use both kinds of resources in daily activities. Using natural resources often produces waste products. Which of these natural resources found in Maryland is nonrenewable?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. coal",
+            "B. soil",
+            "C. water",
+            "D. wood"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 171,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "At which location does the movement of tectonic plates form isolated volcanic islands, such as Hawaii?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. transform boundary",
+            "B. divergent boundary",
+            "C. subduction zone",
+            "D. hot spot"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 172,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "In a lab, a bacterial strain shows resistance to an antibiotic. The presence of the antibiotic allows an existing variant within the genetic code to help the bacteria survive. The resistance of bacteria due to an existing genetic variant can be best described as which process?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. natural selection",
+            "B. selective breeding",
+            "C. asexual reproduction",
+            "D. behavioral adaptation"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 173,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of these is the BEST way to save animals and trees?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Ride bikes more",
+            "B. Make more farmland",
+            "C. Take care of forests",
+            "D. Move to the city"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 174,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "When rain falls on the land, some of it is absorbed by surface sediment. How porous the surface sediments are controls how much water is absorbed. Which of the following will most likely result in an area where surface sediment is NOT porous?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. flooding",
+            "B. droughts",
+            "C. tornadoes",
+            "D. spring formation"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 175,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which statement best describes the molecules in a sample of water that was heated from a liquid to a gas?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The average size of the molecules decreased.",
+            "B. The average size of the molecules increased.",
+            "C. The average kinetic energy of the molecules decreased.",
+            "D. The average kinetic energy of the molecules increased."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 176,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The Wright Brothers' invention has had the greatest impact on",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. transportation.",
+            "B. communication.",
+            "C. mass production.",
+            "D. space exploration."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 177,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Two samples of gold must have the same",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. mass.",
+            "B. volume.",
+            "C. length.",
+            "D. density."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 178,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The ocean minimum zone, or OMZ, is an area from 200 to 600 meters below the ocean's surface. The OMZ is dark and cold, with oxygen concentrations less than 10% of concentrations in surface water. Oxygen concentrations are so low because of bacterial activity that breaks down organic material falling from surface waters. Given the conditions in the OMZ, which of these dissolved gases would you expect to find in large concentrations in this zone?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. argon",
+            "B. nitrogen",
+            "C. carbon dioxide",
+            "D. carbon monoxide"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 179,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which occurs as a result of the rotation of Earth about its own axis?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the water cycle",
+            "B. seasons of the year",
+            "C. sunrises and sunsets",
+            "D. global climate changes"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 180,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "According to the endosymbiotic theory, the outer membrane of the chloroplast originated from which organelle?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the lysosome of an engulfed prokaryotic cell",
+            "B. the chloroplast of an engulfed prokaryotic cell",
+            "C. the cell membrane of an eukaryotic host cell",
+            "D. the chloroplast of an eukaryotic host cell"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 4
+    },
+    {
+        "index": 181,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "At which location are oceans the deepest?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Mid-ocean ridge",
+            "B. Abyssal plain",
+            "C. Ocean trench",
+            "D. Volcanic island"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 182,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student conducts an investigation testing a material's effectiveness as a heat insulator. Which tool will help the student conduct this investigation safely?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a face mask",
+            "B. plastic gloves",
+            "C. a ventilator hood",
+            "D. insulated gloves"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 183,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What is one way in which workplace automation can have a negative effect on society?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. reducing the number of job-related injuries",
+            "B. producing manufactured objects at a faster rate",
+            "C. displacing skilled workers from manufacturing jobs",
+            "D. decreasing the availability of manufactured products"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 184,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which behavior will best help a student stay healthy?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. watching television five hours a day",
+            "B. sleeping three hours each night",
+            "C. eating fruits and vegetables each day",
+            "D. exercising once a month"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 185,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The wind helps many plants reproduce by ___.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. cooling the plants",
+            "B. giving the plants moisture",
+            "C. spreading the plants' pollen",
+            "D. strengthening the plants' root systems"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 186,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Greenhouse gases in the atmosphere absorb infrared radiation from Earth's surface and re-radiates some of it back to Earth. Which of these gases have the most significant impact on the temperature of Earth's atmosphere?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. nitrogen and argon",
+            "B. oxygen and sulfur dioxide",
+            "C. carbon dioxide and water vapor",
+            "D. hydrochloric acid and hydrogen"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 187,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "All organisms depend on the transfer of energy to survive. Which best shows the energy transfer between animals in a shoreline ecosystem?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Fish -> Plants -> Birds",
+            "B. Plants -> Birds -> Fish",
+            "C. Plants -> Fish -> Birds",
+            "D. Fish -> Birds -> Plants"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 188,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which property of a substance indicates whether the substance is a liquid or a solid at room temperature?",
+        "label": [
+            "A"
+        ],
+        "answer": "1",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. melting point",
+            "B. electrical conductivity",
+            "C. flexibility",
+            "D. solubility"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 189,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student pushes a box to slide it across the floor. Which statement explains why the box begins to move?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The weight of the box is greater than the force of friction.",
+            "B. The weight of the box is less than the force of friction.",
+            "C. The applied force is greater than the force of friction.",
+            "D. The applied force is less than the force of friction."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 190,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which procedure correctly describes materials combining?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Salt and sand are added to hot water and stirred making a mixture.",
+            "B. Oil and water are placed in a sealed bottle and shaken making a compound.",
+            "C. Sugar and water are added to flour and cooked in an oven making an element.",
+            "D. Soil and water are shaken in a container and left to separate forming two elements."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 191,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student performed an experiment to see how long it would take for a cup of water to freeze. Which information would another student most likely need in order to perform the same experiment?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the time to begin",
+            "B. the volume of the cup",
+            "C. the temperature of the ice",
+            "D. the type of thermometer to use"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 192,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What is the primary source of stored thermal energy in oceans?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. sunlight",
+            "B. plankton",
+            "C. volcanoes",
+            "D. hurricanes"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 193,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "How are bacterial cells and human cells alike?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. They allow oxygen through the cell wall.",
+            "B. They allow carbon dioxide through the cell wall.",
+            "C. They allow nutrients through the cell membrane.",
+            "D. They allow nutrients through the nuclear membrane."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 194,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which must be present in order for something to be classified as an organism?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. nucleus",
+            "B. organ",
+            "C. cell",
+            "D. organelle"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 195,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Fossil fuels are formed",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. in shallow areas over short periods of time.",
+            "B. from the remains of organisms.",
+            "C. in underground reservoirs that are relatively cool.",
+            "D. by high winds and temperatures."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 196,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The sum of protons and neutrons in the nucleus of an atom is called the",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. valence.",
+            "B. mass number.",
+            "C. chemical property.",
+            "D. electrical charge."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 197,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What kind of energy conversion occurs after a candle is lit?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. friction to electrical energy",
+            "B. light energy to heat energy",
+            "C. mass to kinetic energy",
+            "D. chemical energy to light energy"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 198,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The need for farmland in Brazil has led to the cutting of the rain forests in the Amazon. Cutting trees in the Amazon rain forest might have a global effect by",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. decreasing the amount of fresh water",
+            "B. increasing the number of animal species",
+            "C. decreasing the average yearly temperatures",
+            "D. increasing carbon dioxide levels in the atmosphere"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 199,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "How is a telephone able to transmit sound?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It conducts vibrations from speaker to receiver.",
+            "B. It magnifies a person's voice.",
+            "C. It carries the sounds through wires.",
+            "D. It converts vibrations to electrical signals."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 200,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "When scientists proposed the Theory of Continental Drift, there were many skeptics. Which discovery confirmed that the continents move on plates?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. deep-sea currents",
+            "B. earthquake formation",
+            "C. spreading of the sea floor",
+            "D. sedimentary rocks"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 201,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Beakers and graduated cylinders are designed to measure",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. mass.",
+            "B. density.",
+            "C. volume.",
+            "D. viscosity."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 202,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A scientist wants to collect several bird eggs on an island. She needs a case that will protect the eggs she collects. Which of the following cases would best protect the eggs?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a hard metal case with flexible foam lining",
+            "B. a flexible metal case with smooth plastic lining",
+            "C. a strong wooden case with lightweight plastic lining",
+            "D. a lightweight wooden case with strong aluminum lining"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 203,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What remains in the same location in the sky of the Northern Hemisphere each night?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. the Sun",
+            "B. the Little Dipper",
+            "C. the North Star",
+            "D. the Moon"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 204,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A brown bear eats a variety of foods including berries, insects, and small animals. Which best describes a brown bear?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. producer",
+            "B. herbivore",
+            "C. carnivore",
+            "D. omnivore"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 205,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Water vapor sometimes condenses into stratus clouds that are in contact with the ground. What forms as a result of this process?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. ozone",
+            "B. methane",
+            "C. fog",
+            "D. smoke"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 206,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which explains how the epithelium offers protection to land-dwelling vertebrates?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Epithelium provides a rigid shell to prevent punctures.",
+            "B. Epithelium has capillaries to resist iron deficiency.",
+            "C. Epithelium insulates the vertebrate from hypothermia.",
+            "D. Epithelium prevents dehydration in vertebrates."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 207,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "An electrical component that has a continuous path for electrons to flow is called",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. a closed circuit.",
+            "B. an open circuit.",
+            "C. a filament.",
+            "D. a battery."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 208,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of these best demonstrates the characteristics of science?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. One student lifts a rock and skips it across a stream.",
+            "B. One student thinks about rocks and writes down his opinion.",
+            "C. Two students study a rock and then compare their observations.",
+            "D. Two students remove rocks from a garden and then plant flowers."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 209,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The surface of Earth is covered mostly by",
+        "label": [
+            "D"
+        ],
+        "answer": "4",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. solid rock",
+            "B. molten rock",
+            "C. ice",
+            "D. water"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 210,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A light year is used to measure",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. time.",
+            "B. distance.",
+            "C. luminosity.",
+            "D. temperature."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 211,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What repeating cycle is responsible for the four seasons that occur on Earth?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. rotation of the moon",
+            "B. rotation of the Sun",
+            "C. revolution of the sun in the galaxy",
+            "D. revolution of the earth about the sun"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 212,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What change would occur if Earth's rate of rotation significantly increased?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The year would be shorter.",
+            "B. The year would be longer.",
+            "C. The day would be shorter.",
+            "D. The day would be longer."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 213,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Refrigerators were invented to keep food cold. This is helpful in",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. growing food.",
+            "B. cleaning food.",
+            "C. keeping food dry.",
+            "D. keeping food fresh."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 214,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Katie has a mixture of iron filings and sand. She wants to separate them. How can she do this?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Shake the mixture, and the iron filings will rise to the surface.",
+            "B. Add water to the mixture, and the sand will dissolve in the water.",
+            "C. Put the mixture through a sieve, and the sand will remain in the sieve.",
+            "D. Pass a magnet over the mixture, and the magnet will attract the iron fillings."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 215,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student observes different characteristics of a rock. Which observation best describes a fact about the rock?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It has a nice surface.",
+            "B. It has an interesting shape.",
+            "C. It is made of several layers.",
+            "D. It feels warm when touched."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 216,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Snowy owls live in very cold areas. Which adaptation is most likely a result of living in this type of environment?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. sharp claws",
+            "B. curved beaks",
+            "C. large, yellow eyes",
+            "D. thick, white feathers"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 217,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A puddle of water on a concrete driveway will disappear after a few hours during a sunny day. Where does the water go as it disappears?",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It goes into the air.",
+            "B. Animals drink it.",
+            "C. It soaks into the concrete.",
+            "D. It becomes a different substance."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 218,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student is trying to model an ocean environment. What is the most important factor the student should add to the aquarium in order to make sure that the model is accurate?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. starfish",
+            "B. seaweed",
+            "C. salt water",
+            "D. coral reef"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 219,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "The Statue of Liberty was built in France and then taken apart into 350 pieces for shipping. When the pieces arrived in New York, the statue was put together. Which statement describes the relationship between the mass of the 350 pieces and the mass of the whole statue?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. The mass of the pieces is greater than the mass of the statue.",
+            "B. The mass of the pieces is the same as the mass of the statue.",
+            "C. The mass of the statue is greater than the mass of the pieces.",
+            "D. The mass of the statue is not related to the mass of the pieces."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 220,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Indigo buntings are birds that nest in Florida during the summer. Male buntings are bright blue in color while females are a dull brown. How does the dull brown color of the female buntings help the species survive?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. It helps male birds find a mate.",
+            "B. It helps the birds find food more easily.",
+            "C. It helps hide the birds while they sit on their nests.",
+            "D. It helps the birds find the flock when migrating."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 221,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "As seen from Earth, the appearance of the Moon changes throughout the month. What causes the appearance of the Moon to change?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. Earth rotating on its axis",
+            "B. the Moon rotating on its axis",
+            "C. Earth revolving around the Sun",
+            "D. the Moon revolving around Earth"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 222,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of the following makes up the smallest region in the electromagnetic spectrum?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. radio waves",
+            "B. infrared light",
+            "C. visible light",
+            "D. gamma rays"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 223,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Research in which of these areas has the greatest impact on the environment?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. irradiating food",
+            "B. organic fertilizers",
+            "C. bacteria to clean up oil spills",
+            "D. developing larger, sweeter strawberries"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 224,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A screwdriver is used to pry the lid off a paint can. The resistance arm is 0.5 centimeters. The effort arm is 20 centimeters. What is the mechanical advantage of the screwdriver?",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. 0.025",
+            "B. 10",
+            "C. 19.5",
+            "D. 40"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 225,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Ocean currents, like the Gulf Stream, affect world climate by",
+        "label": [
+            "D"
+        ],
+        "answer": "D",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. spreading plant and animal life over a wider area.",
+            "B. ensuring ocean density is not the same globally.",
+            "C. carrying sediment from rivers and inland basins.",
+            "D. transferring heat to and from various regions."
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 226,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "What kind of force do brakes use to stop a moving bicycle?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. gravity",
+            "B. friction",
+            "C. magnetic",
+            "D. push"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 227,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which type of model best shows the location of underwater ocean ridges?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. world globe",
+            "B. satellite map",
+            "C. topographic map",
+            "D. nautical chart"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 6
+    },
+    {
+        "index": 228,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "Which of these is a waste product of plant cells?",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. minerals",
+            "B. oxygen",
+            "C. heat",
+            "D. water"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 229,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "A student prepared the following list of characteristics about a cellular organelle. present in animal cells present in plant cells helps make energy available to the cell Which of the following cellular structures is the student describing?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. cell wall",
+            "B. chloroplast",
+            "C. mitochondrion",
+            "D. nucleus"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 230,
+        "source": "knowledge/STEM/ARC-E/ARC-Easy-Test.csv",
+        "question": "When chemicals in the atmosphere dissolve in water droplets, they precipitate with the water and pollute water reservoirs on Earth. The pollutants enter the food chain when aquatic organisms absorb them. Which of these pollutants eventually contaminates fish after coal is burned?",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. lead",
+            "B. arsenic",
+            "C. mercury",
+            "D. aluminum"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    }
+]

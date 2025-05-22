@@ -1,0 +1,1520 @@
+[
+    {
+        "index": 0,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 49 g of colors to paint them. If the feathers require 288 g of wax and right now he just needs 260 gHow many grams of wax does he already have?",
+        "label": [
+            "D"
+        ],
+        "answer": 28.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 288.0 - 260.0 )",
+        "options": [
+            "A. 49.0",
+            "B. 288.0",
+            "C. 260.0",
+            "D. 28.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 1,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Dan has $ 4. He bought a candy bar for $ 7 and a chocolate for $ 6.How much money did he spend buying the candy bar and chocolate?",
+        "label": [
+            "B"
+        ],
+        "answer": 13.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 7.0 + 6.0 )",
+        "options": [
+            "A. 12",
+            "B. 13",
+            "C. 10",
+            "D. 11"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 2,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "There are 11 different books and 17 different movies in the ' crazy silly school ' series. If you read 7 of the books and watched 21 of the moviesHow many more movies than books have you read?",
+        "label": [
+            "A"
+        ],
+        "answer": 14.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 21.0 - 7.0 )",
+        "options": [
+            "A. 14.0",
+            "B. 12.0",
+            "C. 7.0",
+            "D. 10.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "The Razorback shop makes $ 192 dollars off each t-shirt and $ 34 off each jersey. During the Arkansas and Texas tech game they sold 157 t-shirts and 19 jerseys.How much more does a t-shirt cost than a jersey?",
+        "label": [
+            "D"
+        ],
+        "answer": 158.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 192.0 - 34.0 )",
+        "options": [
+            "A. 154.0",
+            "B. 160.0",
+            "C. 156.0",
+            "D. 158.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 16 sacks per day and that each sack containes 57 oranges.How many days will it take to harvest 80 sacks of oranges?",
+        "label": [
+            "A"
+        ],
+        "answer": 5.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 80.0 / 16.0 )",
+        "options": [
+            "A. 5.0",
+            "B. 4.0",
+            "C. 6.0",
+            "D. 4.5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Rebecca wants to split a collection of eggs into 3 groups. Rebecca has 4 marbles and 15 eggs.How many eggs will each group have?",
+        "label": [
+            "A"
+        ],
+        "answer": 5.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 15.0 / 3.0 )",
+        "options": [
+            "A. 5.0",
+            "B. 15.0",
+            "C. 4.0",
+            "D. 3.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Paige raised 15 goldfish in the pond but stray cats loved eating them. 5 were eaten.How many goldfish remained?",
+        "label": [
+            "B"
+        ],
+        "answer": 10.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 15.0 - 5.0 )",
+        "options": [
+            "A. 15",
+            "B. 10",
+            "C. 20",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 7,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Rachel has 3 apple trees. She picked 8 apples from each of her trees. Now the trees have a total 9 apples still on them.How many apples were there on all trees initially?",
+        "label": [
+            "A"
+        ],
+        "answer": 33.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 3.0 * 8.0 ) + 9.0 )",
+        "options": [
+            "A. 33",
+            "B. 30",
+            "C. 41",
+            "D. 24"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 8,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "During summer break 907611 kids from Lawrence county stay home and the other 455682 kids go to camp.About how many kids are in Lawrence county?",
+        "label": [
+            "C"
+        ],
+        "answer": 1363293.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 455682.0 + 907611.0 )",
+        "options": [
+            "A. 1263293.0",
+            "B. 1463293.0",
+            "C. 1363293.0",
+            "D. 1353293.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 9,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Jerry had 2 action figures and 10 books on a shelf in his room. Later he added 4 more action figures to the shelf.How many more books than action figures were on his shelf?",
+        "label": [
+            "A"
+        ],
+        "answer": 4.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 10.0 - ( 2.0 + 4.0 ) )",
+        "options": [
+            "A. 4",
+            "B. 6",
+            "C. 2",
+            "D. 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 10,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 31 cookies yesterday 270 cookies this morning and 419 cookies the day before yesterday.How many cookies did Helen bake till last night?",
+        "label": [
+            "C"
+        ],
+        "answer": 450.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 31.0 + 419.0 )",
+        "options": [
+            "A. 689",
+            "B. 341",
+            "C. 450",
+            "D. 710"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 5
+    },
+    {
+        "index": 11,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Debby bought 200 water bottles and 256 soda bottles when they were on sale. If she drank 312 water bottles and 4 soda bottles a dayHow many days would the soda bottles last?",
+        "label": [
+            "D"
+        ],
+        "answer": 64.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 256.0 / 4.0 )",
+        "options": [
+            "A. 70.0",
+            "B. 80.0",
+            "C. 50.0",
+            "D. 64.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 12,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 57 g of colors to paint them. He needs 22 g of wax more. If the feathers require a total of 353 g of waxHow many grams of wax does he already have?",
+        "label": [
+            "D"
+        ],
+        "answer": 331.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 353.0 - 22.0 )",
+        "options": [
+            "A. 311.0",
+            "B. 330.0",
+            "C. 353.0",
+            "D. 331.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 13,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "In Haley's class some boys love to play marbles. If Haley has 10 marbles and she gave 5 marbles to each boyHow many boys did she give the marbles to?",
+        "label": [
+            "D"
+        ],
+        "answer": 2.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 10.0 / 5.0 )",
+        "options": [
+            "A. 3.0",
+            "B. 5.0",
+            "C. 1.0",
+            "D. 2.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "5 red peaches and 11 green peaches are in the basket.How many more green peaches than red peaches are in the basket?",
+        "label": [
+            "A"
+        ],
+        "answer": 6.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 11.0 - 5.0 )",
+        "options": [
+            "A. 6.0",
+            "B. 16.0",
+            "C. 4.0",
+            "D. 5.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Jessie currently weighs 27 kilograms. After she started to go jogging everyday she lost 101 kilograms.How much did she weigh before starting to jog?",
+        "label": [
+            "B"
+        ],
+        "answer": 128.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 27.0 + 101.0 )",
+        "options": [
+            "A. 134.0",
+            "B. 128.0",
+            "C. 104.0",
+            "D. 117.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Jerry had some action figures on a shelf in his room. Later he added 2 more action figures to the shelf and removed 7 of the old ones. If there are 10 action figures on his shelf nowHow many action figures did he have initially on the shelf?",
+        "label": [
+            "B"
+        ],
+        "answer": 15.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 10.0 + 7.0 ) - 2.0 )",
+        "options": [
+            "A. 17",
+            "B. 15",
+            "C. 12",
+            "D. 10"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies.How many more cookies did he eat than those he gave to his friend?",
+        "label": [
+            "A"
+        ],
+        "answer": 9.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 18.0 - 9.0 )",
+        "options": [
+            "A. 9",
+            "B. 5",
+            "C. 27",
+            "D. 18"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 18,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Frank put some pieces of candy equally into 2 bags. If he had 16 pieces of candyHow many pieces of candy are in each bag?",
+        "label": [
+            "D"
+        ],
+        "answer": 8.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 16.0 / 2.0 )",
+        "options": [
+            "A. 4",
+            "B. 32",
+            "C. 16",
+            "D. 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Jake has 6 fewer peaches than Steven. Steven has 18 more peaches than Jill. If jill has 5 peachesHow many peaches does Jake have?",
+        "label": [
+            "C"
+        ],
+        "answer": 17.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 18.0 + 5.0 ) - 6.0 )",
+        "options": [
+            "A. 24",
+            "B. 9",
+            "C. 17",
+            "D. 11"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Baker made 155 cakes. If his friend bought 140 cakes from himHow many cakes would baker still have?",
+        "label": [
+            "C"
+        ],
+        "answer": 15.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 155.0 - 140.0 )",
+        "options": [
+            "A. 20",
+            "B. 10",
+            "C. 15",
+            "D. 140"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 21,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "An industrial machine can make 3 shirts per minute. It made 6 shirts in all.How many minutes was the machine working?",
+        "label": [
+            "C"
+        ],
+        "answer": 2.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 6.0 / 3.0 )",
+        "options": [
+            "A. 4.0",
+            "B. 1.5",
+            "C. 2.0",
+            "D. 3.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Faye was placing her pencils into rows with 22 pencils in each row. She had 6 packs of pencils each one having 14 pencils.How many pencils does she have?",
+        "label": [
+            "A"
+        ],
+        "answer": 84.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 6.0 * 14.0 )",
+        "options": [
+            "A. 84.0",
+            "B. 154",
+            "C. 66",
+            "D. 132"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Ed had 2 more marbles than Doug. Doug lost some of his marbles at the playground. Now Ed has 19 more marbles than doug.How many marbles did Doug lose?",
+        "label": [
+            "B"
+        ],
+        "answer": 17.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 19.0 - 2.0 )",
+        "options": [
+            "A. 19.0",
+            "B. 17.0",
+            "C. 16.0",
+            "D. 15.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 24,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 22 pounds. On the way back Marco ' dad found 30 more pounds of strawberries. Marco's strawberries now weighed 36 pounds.How much did his dad's strawberries weigh now?",
+        "label": [
+            "D"
+        ],
+        "answer": 16.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 22.0 - 36.0 ) + 30.0 )",
+        "options": [
+            "A. 30",
+            "B. 22",
+            "C. 56",
+            "D. 16"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 25,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Debby bought 88 water bottles and 13 soda bottles when they were on sale. If she drank 4 water bottles and 87 soda bottles a dayHow many days would the water bottles last?",
+        "label": [
+            "C"
+        ],
+        "answer": 22.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 88.0 / 4.0 )",
+        "options": [
+            "A. 20.0",
+            "B. 24.0",
+            "C. 22.0",
+            "D. 21.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 26,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Paul sold some books in a garage sale leaving him with 27 books. If he had 136 books initiallyHow many books did he sell?",
+        "label": [
+            "D"
+        ],
+        "answer": 109.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 136.0 - 27.0 )",
+        "options": [
+            "A. 113",
+            "B. 111",
+            "C. 107",
+            "D. 109"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Paco had 9 sweet cookies and 6 salty cookies. He ate 36 sweet cookies and 3 salty cookies.How many salty cookies did Paco have left?",
+        "label": [
+            "C"
+        ],
+        "answer": 3.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 6.0 - 3.0 )",
+        "options": [
+            "A. 9",
+            "B. 6",
+            "C. 3",
+            "D. 0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "In a school there are 315 girls and 309 boys. There are also 772 teachersHow many people are there in that school?",
+        "label": [
+            "C"
+        ],
+        "answer": 1396.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 315.0 + 309.0 ) + 772.0 )",
+        "options": [
+            "A. 1406",
+            "B. 1386",
+            "C. 1396",
+            "D. 1376"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "For the walls of the house he would use 12 large planks of wood and 10 small planks. If large planks together need 15 pieces of nails to be secured and small planks together need 5 nails.How many nails does John need for the house wall?",
+        "label": [
+            "C"
+        ],
+        "answer": 20.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 15.0 + 5.0 )",
+        "options": [
+            "A. 15",
+            "B. 10",
+            "C. 20",
+            "D. 25"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 30,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase.How many more roses did she throw away than those she cut from her garden?",
+        "label": [
+            "D"
+        ],
+        "answer": 6.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 21.0 - 15.0 )",
+        "options": [
+            "A. 18.0",
+            "B. 12.0",
+            "C. 9.0",
+            "D. 6.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 31,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Josh had 15 marbles in his collection. He found 9 marbles while he lost 23 marbles.How many more marbles did he lose than those he found?",
+        "label": [
+            "A"
+        ],
+        "answer": 14.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 23.0 - 9.0 )",
+        "options": [
+            "A. 14",
+            "B. 8",
+            "C. 10",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 32,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf.How many more books than action figures were on his shelf?",
+        "label": [
+            "B"
+        ],
+        "answer": 6.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 2.0 + 9.0 ) - 5.0 )",
+        "options": [
+            "A. 7",
+            "B. 6",
+            "C. 5",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 33,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Paige was helping her mom plant flowers and together they planted 45 seeds in 9 flowerbeds. If they put same number of seeds in each flower bedHow many seeds did they plant in each flowerbed?",
+        "label": [
+            "A"
+        ],
+        "answer": 5.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 45.0 / 9.0 )",
+        "options": [
+            "A. 5.0",
+            "B. 4.0",
+            "C. 3.0",
+            "D. 6.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Ed had 24 more marbles than Doug. Doug lost 27 of his marbles at the playground while Ed found 9 more marbles.How many more marbles did Ed have than Doug then?",
+        "label": [
+            "B"
+        ],
+        "answer": 60.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 24.0 + 27.0 ) + 9.0 )",
+        "options": [
+            "A. 51",
+            "B. 60",
+            "C. 33",
+            "D. 45"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 35,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "There were 16 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 7 orchids and 13 roses in the vase.How many orchids did she cut?",
+        "label": [
+            "A"
+        ],
+        "answer": 4.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 7.0 - 3.0 )",
+        "options": [
+            "A. 4.0",
+            "B. 5",
+            "C. 2",
+            "D. 3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 36,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "The Ferris wheel in paradise park has 3 small seats and 7 large seats. Each small seat can hold 16 people and large seat can hold 12 people.How many people can ride the Ferris wheel on large seats?",
+        "label": [
+            "C"
+        ],
+        "answer": 84.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 7.0 * 12.0 )",
+        "options": [
+            "A. 60",
+            "B. 72",
+            "C. 84",
+            "D. 96"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 37,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "They decided to hold the party in their backyard. They have some sets of tables, each having the 3 chairs. If there are a total of 9 chairs in the backyardHow many sets of tables do they have?",
+        "label": [
+            "A"
+        ],
+        "answer": 3.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 9.0 / 3.0 )",
+        "options": [
+            "A. 3.0",
+            "B. 2.0",
+            "C. 6.0",
+            "D. 4.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 38,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Rachel had to complete 5 pages of math homework and 2 pages of reading homework.How many more pages of math homework than reading homework did she have?",
+        "label": [
+            "B"
+        ],
+        "answer": 3.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 5.0 - 2.0 )",
+        "options": [
+            "A. 2.0",
+            "B. 3.0",
+            "C. 5.0",
+            "D. 7.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes.How many more cakes did baker make than those he sold?",
+        "label": [
+            "D"
+        ],
+        "answer": 184.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 144.0 + 111.0 ) - 71.0 )",
+        "options": [
+            "A. 144",
+            "B. 111",
+            "C. 73",
+            "D. 184"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 40,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "There are 20 different books in the ' crazy silly school ' series. If you are yet to read 5 of the booksHow many books have you already read?",
+        "label": [
+            "B"
+        ],
+        "answer": 15.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 20.0 - 5.0 )",
+        "options": [
+            "A. 10.0",
+            "B. 15.0",
+            "C. 5.0",
+            "D. 20.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Bobby ate 17 pieces of candy. Then he ate 15 more. If he initially had 36 pieces of candyHow many pieces of candy does he still have left?",
+        "label": [
+            "B"
+        ],
+        "answer": 4.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 36.0 - ( 17.0 + 15.0 ) )",
+        "options": [
+            "A. 12",
+            "B. 4",
+            "C. 2",
+            "D. 8"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them.How many more storks than birds are sitting on the fence?",
+        "label": [
+            "B"
+        ],
+        "answer": 1.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 6.0 - ( 3.0 + 2.0 ) )",
+        "options": [
+            "A. 4",
+            "B. 1",
+            "C. 3",
+            "D. 5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 43,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Paco ate 19 cookies and had 35 cookies left.How many cookies did he have in the beginning?",
+        "label": [
+            "D"
+        ],
+        "answer": 54.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 19.0 + 35.0 )",
+        "options": [
+            "A. 50",
+            "B. 44",
+            "C. 64",
+            "D. 54"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 44,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection.How many more bottle caps did danny throw away than those he found at the park?",
+        "label": [
+            "B"
+        ],
+        "answer": 33.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 63.0 - 30.0 )",
+        "options": [
+            "A. 42",
+            "B. 33",
+            "C. 30",
+            "D. 63"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 235 of the pickers that they fill 100 drums of raspberries per day and 221 drums of grapes per day.How many drums of grapes would be filled in 77 days?",
+        "label": [
+            "B"
+        ],
+        "answer": 17017.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 221.0 * 77.0 )",
+        "options": [
+            "A. 16017",
+            "B. 17017",
+            "C. 17117",
+            "D. 18017"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 3
+    },
+    {
+        "index": 46,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Jack received 3 emails and 64 letters in the morning. He then received 5 emails and 54 letters in the afternoon.How many emails did jack receive in the day?",
+        "label": [
+            "C"
+        ],
+        "answer": 8.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 3.0 + 5.0 )",
+        "options": [
+            "A. 11",
+            "B. 12",
+            "C. 8",
+            "D. 67"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 47,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Winter is almost here and most animals are migrating to warmer countries. 27 bird families flew away for the winter from near a mountain. If there were 41 bird families living near the mountain initiallyHow many bird families were left near the mountain?",
+        "label": [
+            "D"
+        ],
+        "answer": 14.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 41.0 - 27.0 )",
+        "options": [
+            "A. 17",
+            "B. 10",
+            "C. 24",
+            "D. 14"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 48,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Julia played tag with 14 kids on monday, 2 kids on tuesday and 8 kids on wednesday.How many more kids did she play with on monday than on wednesday?",
+        "label": [
+            "B"
+        ],
+        "answer": 6.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 14.0 - 8.0 )",
+        "options": [
+            "A. 4.0",
+            "B. 6.0",
+            "C. 12.0",
+            "D. 8.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 49,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "7 red peaches, 15 yellow peaches and 8 green peaches are in the basket.How many peaches are in the basket?",
+        "label": [
+            "A"
+        ],
+        "answer": 30.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 7.0 + 15.0 ) + 8.0 )",
+        "options": [
+            "A. 30",
+            "B. 25",
+            "C. 32",
+            "D. 28"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "The ring toss game at the carnival made 144 dollars per day. They were at the carnival for 22 days.How much money did they make?",
+        "label": [
+            "D"
+        ],
+        "answer": 3168.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 144.0 * 22.0 )",
+        "options": [
+            "A. 3200.0",
+            "B. 3180.0",
+            "C. 3150.0",
+            "D. 3168.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 51,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Paul got a box of some crayons for his birthday. During the school year he gave 52 crayons to his friends while he lost 535 crayons. If he only had 492 crayons leftHow many crayons had been lost or given away?",
+        "label": [
+            "A"
+        ],
+        "answer": 587.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 52.0 + 535.0 )",
+        "options": [
+            "A. 587",
+            "B. 585",
+            "C. 578",
+            "D. 597"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "He then went to see the oranges being harvested. He found out that they harvested 56 sacks of oranges.How many sacks did they harvest per day if they harvested for a total of 14 days?",
+        "label": [
+            "A"
+        ],
+        "answer": 4.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 56.0 / 14.0 )",
+        "options": [
+            "A. 4.0",
+            "B. 5.0",
+            "C. 4.5",
+            "D. 3.5"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Jesse's rooms are 19 feet long and 18 feet wide. If she has 20 rooms in allHow much carpet does she need to cover the floors of all rooms?",
+        "label": [
+            "C"
+        ],
+        "answer": 6840.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 19.0 * 18.0 ) * 20.0 )",
+        "options": [
+            "A. 3420.0",
+            "B. 3600.0",
+            "C. 6840.0",
+            "D. 7200.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "An industrial machine made 13 shirts yesterday and 3 shirts today. It can make 8 shirts a minute.How many minutes did the machine work in all?",
+        "label": [
+            "D"
+        ],
+        "answer": 2.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 13.0 + 3.0 ) / 8.0 )",
+        "options": [
+            "A. 1.75",
+            "B. 2.5",
+            "C. 1.5",
+            "D. 2.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 55,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Debby drinks 6 bottles a day. If she bought a total of 12 water bottlesHow many days would they last her?",
+        "label": [
+            "A"
+        ],
+        "answer": 2.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 12.0 / 6.0 )",
+        "options": [
+            "A. 2",
+            "B. 1.5",
+            "C. 4",
+            "D. 3"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 56,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each packHow much do you have to pay to buy each pack?",
+        "label": [
+            "A"
+        ],
+        "answer": 51.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 76.0 - 25.0 )",
+        "options": [
+            "A. 51.0",
+            "B. 50.0",
+            "C. 101.0",
+            "D. 76.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 57,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Robin cut off 20 inches of his hair. If his hair is now 10 inches longHow long was his hair before he cut?",
+        "label": [
+            "C"
+        ],
+        "answer": 30.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 20.0 + 10.0 )",
+        "options": [
+            "A. 40.0",
+            "B. 20.0",
+            "C. 30.0",
+            "D. 10.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 58,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "A grocery store had 67 bottles of regular soda and 9 bottles of diet soda.How many more bottles of regular soda than diet soda did they have?",
+        "label": [
+            "D"
+        ],
+        "answer": 58.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 67.0 - 9.0 )",
+        "options": [
+            "A. 76",
+            "B. 52",
+            "C. 67",
+            "D. 58"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 59,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Danny has 12 bottle caps in his collection. He found 53 bottle caps at the park.How many bottle caps does he have now?",
+        "label": [
+            "C"
+        ],
+        "answer": 65.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 12.0 + 53.0 )",
+        "options": [
+            "A. 75",
+            "B. 63",
+            "C. 65",
+            "D. 55"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 60,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 14 invitations in it and she bought 6 packs. Then she bought 11 extra invitations.How many friends can she invite?",
+        "label": [
+            "C"
+        ],
+        "answer": 95.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( ( 14.0 * 6.0 ) + 11.0 )",
+        "options": [
+            "A. 90",
+            "B. 85",
+            "C. 95",
+            "D. 100"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 61,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Paige raised 16 goldfish and 71 catfish in the pond but stray cats loved eating them. Now she has 2 left.How many goldfish disappeared?",
+        "label": [
+            "B"
+        ],
+        "answer": 14.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 16.0 - 2.0 )",
+        "options": [
+            "A. 16",
+            "B. 14",
+            "C. 18",
+            "D. 12"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 62,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Zachary did 15 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 9 push-ups less than David.How many more push-ups did Zachary do than John?",
+        "label": [
+            "B"
+        ],
+        "answer": 30.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 39.0 - 9.0 )",
+        "options": [
+            "A. 15",
+            "B. 30",
+            "C. 24",
+            "D. 39"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 63,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Danny has 21 bottle caps in his collection. He found some more bottle caps at the park. If he has 53 bottle caps nowHow many bottle caps did he find at the park?",
+        "label": [
+            "C"
+        ],
+        "answer": 32.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 53.0 - 21.0 )",
+        "options": [
+            "A. 30",
+            "B. 33",
+            "C. 32",
+            "D. 31"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 64,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "At the arcade Dave had won 18 tickets. If he used 5 to buy some toys and 11 more to buy some clothesHow many tickets did Dave have left?",
+        "label": [
+            "A"
+        ],
+        "answer": 2.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 18.0 - ( 5.0 + 11.0 ) )",
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 1",
+            "D. 4"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 65,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "In a school there are 635 girls and the rest are boys. If there are 510 more boys than girlsHow many boys are there in that school?",
+        "label": [
+            "B"
+        ],
+        "answer": 1145.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 635.0 + 510.0 )",
+        "options": [
+            "A. 1140.0",
+            "B. 1145.0",
+            "C. 1135.0",
+            "D. 1150.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 66,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "6 red peaches, 90 yellow peaches and 16 green peaches are in the basket.How many red and green peaches are in the basket?",
+        "label": [
+            "A"
+        ],
+        "answer": 22.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 6.0 + 16.0 )",
+        "options": [
+            "A. 22",
+            "B. 106",
+            "C. 16",
+            "D. 21"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 1
+    },
+    {
+        "index": 67,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Jake has 13 fewer peaches and 3 more apples than Steven. Steven has 9 peaches and 8 apples.How many apples does Jake have?",
+        "label": [
+            "D"
+        ],
+        "answer": 11.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 3.0 + 8.0 )",
+        "options": [
+            "A. 14",
+            "B. 22",
+            "C. 5",
+            "D. 11"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    },
+    {
+        "index": 68,
+        "source": "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/zhouyuhang-240108540166/dataset/raw_dataset_copy/reasoning/Mathematical Reasoning/svamp/test.json",
+        "question": "Lewis earns a total of $ 1216 during the harvest. If he earns $ 16 each weekHow many weeks did the harvest last?",
+        "label": [
+            "D"
+        ],
+        "answer": 76.0,
+        "passage": null,
+        "picture": null,
+        "analysis": "( 1216.0 / 16.0 )",
+        "options": [
+            "A. 80.0",
+            "B. 72.0",
+            "C. 64.0",
+            "D. 76.0"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {},
+        "level": 2
+    }
+]

@@ -1,0 +1,1372 @@
+[
+    {
+        "index": 0,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The educator was meeting with a student to discuss their grading policy.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It was the educator's grading policy",
+            "B. B. It was the student's grading policy",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 1,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The reporter and the chef discuss her favorite dishes.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. They discuss the reporter's favorite dishes",
+            "B. B. They discuss the chef's favorite dishes",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 2,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but she didn't reply yet.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The secretary didn't reply yet",
+            "B. B. The manager didn't reply yet",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 3,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The carpenter made a desk for the clerk and gave him a discount.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. Gave the carpenter a discount",
+            "B. B. Gave the clerk a discount",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 4,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief thanked the housekeeper and gave them some tips.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. Gave the chief some tips",
+            "B. B. Gave the housekeeper some tips",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 5,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The mechanic called to inform the customer that her car would be ready in the morning.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It was the mechanic's car",
+            "B. B. It was the customer's car",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 6,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The janitor warned the child not to step on the wet floor, otherwise he would have to mop it all over again.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The janitor would have to mop",
+            "B. B. The child would have to mop",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 7,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: After meeting with the producers, Sam goes to their office.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It is Sam's office",
+            "B. B. It is the producers' office",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 8,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The customer and the chef discuss his culinary training.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It is the customer's culinary training",
+            "B. B. It is the chef's culinary training",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 9,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The librarian helped the CEO to find the book because he asked.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The librarian asked",
+            "B. B. The CEO asked",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 10,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Alex did not know Taylor until he sent a letter.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. Alex sent the letter",
+            "B. B. Taylor sent the letter",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 11,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The educator was meeting with a student to discuss her grading policy.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It was the educator's grading policy",
+            "B. B. It was the student's grading policy",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 12,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The pathologist obtained tissue samples from the victim to look at under their microscope.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It was the pathologist's microscope",
+            "B. B. It was the victim's microscope",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 13,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: After meeting with the producers, Sam will go to her office.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It will be the producers' office",
+            "B. B. It will be Sam's office",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 14,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The mechanic greets the receptionist because they were in a good mood.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The mechanic was in a good mood",
+            "B. B. The receptionist was in a good mood",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 15,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The designer collaborated with the carpenter and gave him a blueprint.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. Gave the designer a blueprint",
+            "B. B. Gave the carpenter a blueprint",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 16,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The designer showed the cook a blueprint and asked her for feedback.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. Asked the designer",
+            "B. B. Asked the cook",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 17,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The reporter and the chef will discuss their favorite dishes.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. They will discuss the reporter's favorite dishes",
+            "B. B. They will discuss the chef's favorite dishes",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 18,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The scientist collaborated with the artist, and they shared a story.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The scientist shared a story",
+            "B. B. The artist shared a story",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 19,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The patient was referred to the specialist because they had a rare skin condition.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The patient had a skin condition",
+            "B. B. The specialist had a skin condition",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 20,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that she took the day off.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The chief took the day off",
+            "B. B. The counselor took the day off",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 21,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The worker told the pedestrian that he should avoid the closed portion of the street.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The worker should avoid the closed portion",
+            "B. B. The pedestrian should avoid the closed portion",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 22,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The developer argued with the designer because they liked the design.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The developer liked the design",
+            "B. B. The designer liked the design",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 23,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The nurse was running from the laborer because she smelled awful.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The nurse smelled awful",
+            "B. B. The laborer smelled awful",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 24,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The supervisor gave the employee feedback on her stellar performance.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It was the supervisor's performance",
+            "B. B. It was the employee's performance",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 25,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The developer met with the secretary because he made a mistake.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The developer made a mistake",
+            "B. B. The secretary made a mistake",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 26,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The scientist collaborated with the artist, and she shared a story.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The scientist shared a story",
+            "B. B. The artist shared a story",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 27,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The designer collaborated with the carpenter and gave her a blueprint.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. Gave the designer a blueprint",
+            "B. B. Gave the carpenter a blueprint",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 28,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Alex told us that he could not meet.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. Alex could not meet",
+            "B. B. We could not meet",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 29,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The customer and the chef discuss their culinary training.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It is the customer's culinary training",
+            "B. B. It is the chef's culinary training",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 30,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The assistant asked the physician if he needs any help.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. Asked if the assistant needs help",
+            "B. B. Asked if the physician needs help",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 31,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The technician told the customer that they could pay with cash.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The technician could pay",
+            "B. B. The customer could pay",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 32,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The visitor tells the teacher that they like the cake.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The visitor likes the cake",
+            "B. B. The teacher likes the cake",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 33,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The salesperson tried to fool the writer and sold them some garbage.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. Sold the salesperson some garbage",
+            "B. B. Sold the writer some garbage",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 34,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at her office",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It will be Bailey's office",
+            "B. B. It will be the director's office",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 35,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The visitor tells the teacher that he likes the cake.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The visitor likes the cake",
+            "B. B. The teacher likes the cake",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 36,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The student set up a meeting with the architect to review his blueprints.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The blueprints were the student's",
+            "B. B. The blueprints were the architect's",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 37,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The secretary corrected the developer because he better understood the problem.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The secretary understood the problem",
+            "B. B. The developer understood the problem",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 38,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The reporter and the chef discussed her favorite dishes.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. They discussed the reporter's favorite dishes",
+            "B. B. They discussed the chef's favorite dishes",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 39,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager asked the employee to not forget his car.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It was the manager's car",
+            "B. B. It was the employee's car",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    },
+    {
+        "index": 40,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The hygienist told the patient that he should floss every day.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The hygienist should floss",
+            "B. B. The patient should floss",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 41,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: This story could not be published without the writer and his friends' support.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. They were the writer's friends",
+            "B. B. They were the friends' friends",
+            "C. C. They were the story's friends",
+            "D. D. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 42,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The paralegal forgot to file paperwork for the client so they were fired.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The paralegal was fired",
+            "B. B. The client was fired",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 43,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: This story could not be published without the writer and her friends' support.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. They were the writer's friends",
+            "B. B. They were the friends' friends",
+            "C. C. They were the story's friends",
+            "D. D. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 44,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief encouraged the writer because he wrote a good book.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The chief wrote a good book",
+            "B. B. The writer wrote a good book",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 45,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: After meeting with the producers, Sam went to their office.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The office was the producers' office",
+            "B. B. The office was Sam's office",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 46,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The driver yelled at the tailor after she broke a window.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The driver broke a window",
+            "B. B. The tailor broke a window",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 47,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The visitor told the teacher that she liked the cake.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The visitor liked the cake",
+            "B. B. The teacher liked the cake",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 48,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The investigator wanted to interview the witness in person, but she was too late.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The investigator was too late",
+            "B. B. The witness was too late",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 4
+    },
+    {
+        "index": 49,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The customer asked the salesperson if she could send the prices of each product.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The customer would send the prices",
+            "B. B. The salesperson would send the prices",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 50,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The visitor told the teacher that he liked the cake.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The visitor liked the cake",
+            "B. B. The teacher liked the cake",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 51,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The writer tried to fool the salesperson and told her a fake story.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. Told the writer a fake story",
+            "B. B. Told the salesperson a fake story",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 52,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The pathologist obtained tissue samples from the victim to look at under his microscope.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It was the pathologist's microscope",
+            "B. B. It was the victim's microscope",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 53,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The hygienist told the patient that she should floss every day.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The hygienist should floss",
+            "B. B. The patient should floss",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 1
+    },
+    {
+        "index": 54,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The homeowner asked the inspector if the house he had purchased was structurally sound.",
+        "label": [
+            "A"
+        ],
+        "answer": "A",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The homeowner had purchased",
+            "B. B. The inspector had purchased",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 3
+    },
+    {
+        "index": 55,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The technician told the customer that he could pay with cash.",
+        "label": [
+            "B"
+        ],
+        "answer": "B",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. The technician could pay",
+            "B. B. The customer could pay",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 6
+    },
+    {
+        "index": 56,
+        "source": "BBH:disambiguation_qa/Commonsense Reasoning",
+        "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager asked the employee to not forget their car.",
+        "label": [
+            "C"
+        ],
+        "answer": "C",
+        "passage": null,
+        "picture": null,
+        "analysis": null,
+        "options": [
+            "A. A. It was the manager's car",
+            "B. B. It was the employee's car",
+            "C. C. Ambiguous"
+        ],
+        "type": 0,
+        "is_correct": true,
+        "extra_info": {
+            "instruct": "Please answer the following questions and provide a separate answer in the last line of the output.\n",
+            "hint": ""
+        },
+        "level": 2
+    }
+]
