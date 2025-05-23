@@ -5,7 +5,9 @@ from transformers import AutoTokenizer
 import sys
 sys.path.append("..")
 from utils.check_answer import check_and_extract_answer
-from model import model_path
+from model import model_path, model_use_api
+from utils.get_answer_api import get_answer_api
+from tqdm import tqdm
 
 def get_question(items):
     whole_question_list = []
@@ -54,6 +56,7 @@ def get_answer(data, gpu_ids, model_name, batch_size = 128, max_turn = 3):
     #指定GPU
     os.environ["CUDA_VISIBLE_DEVICES"] = gpu_ids 
     parallel_size = len(gpu_ids) // 2 + 1
+    use_api = model_use_api[model_name]
     #划分batch
     total_batches = (len(data) + batch_size - 1) // batch_size
     start_index_list = []
@@ -93,48 +96,50 @@ def get_answer(data, gpu_ids, model_name, batch_size = 128, max_turn = 3):
         else prompt_multiple_template.format(whole_question = whole_question_list[idx]) 
         for idx in range(len(data))
     ]
-
-    raw_message_student_list = [
-        [{"role": "system", "content": "You are a helpful assistant"}, {"role": "user", "content": prompt_student}]
-        for prompt_student in prompt_student_list
-    ]
-    
-    #加载tokenizer并处理message
-    tokenizer = AutoTokenizer.from_pretrained(model_path[model_name],trust_remote_code=True)
-    tokenizer.padding_side = 'left'
-    tokenizer.pad_token = tokenizer.eos_token
-    stop_tokens = tokenizer.eos_token
-    
-    max_tokens_num = 1024
-        
-    sampling_params = SamplingParams(max_tokens=max_tokens_num, temperature=0.0, stop=stop_tokens)
-    
-    message_student_list = [
-        generate_message(raw_message_student, tokenizer, model_name)
-        for raw_message_student in raw_message_student_list
-    ]
-    
-    #生成回答
-    model = LLM(
-        model = model_path[model_name],
-        tensor_parallel_size = parallel_size,
-        gpu_memory_utilization=0.8,
-        trust_remote_code=True
-        )
-    
     answer_list = []
-
-    
-    #for idx in tqdm(range(total_batches), desc = f"gpu:{gpu_id} turn 0: student"):
-    for idx in range(total_batches):
-        start = start_index_list[idx]
-        end = end_index_list[idx]
-        responses = generate_responses(
-            model = model,
-            sampling_params = sampling_params,
-            messages = message_student_list[start:end]
-        )
-        answer_list.extend(responses)
+    if use_api == True:
+        for idx in tqdm(range(len(data)), desc="Processing", unit="item"):
+            response = get_answer_api(prompt_student_list[idx],model_name)
+            answer_list.append(response)
+    else:
+        raw_message_student_list = [
+            [{"role": "system", "content": "You are a helpful assistant"}, {"role": "user", "content": prompt_student}]
+            for prompt_student in prompt_student_list
+        ]
+        
+        #加载tokenizer并处理message
+        tokenizer = AutoTokenizer.from_pretrained(model_path[model_name],trust_remote_code=True)
+        tokenizer.padding_side = 'left'
+        tokenizer.pad_token = tokenizer.eos_token
+        stop_tokens = tokenizer.eos_token
+        
+        max_tokens_num = 1024
+            
+        sampling_params = SamplingParams(max_tokens=max_tokens_num, temperature=0.0, stop=stop_tokens)
+        
+        message_student_list = [
+            generate_message(raw_message_student, tokenizer, model_name)
+            for raw_message_student in raw_message_student_list
+        ]
+        
+        #生成回答
+        model = LLM(
+            model = model_path[model_name],
+            tensor_parallel_size = parallel_size,
+            gpu_memory_utilization=0.8,
+            trust_remote_code=True
+            )
+        
+        #for idx in tqdm(range(total_batches), desc = f"gpu:{gpu_id} turn 0: student"):
+        for idx in range(total_batches):
+            start = start_index_list[idx]
+            end = end_index_list[idx]
+            responses = generate_responses(
+                model = model,
+                sampling_params = sampling_params,
+                messages = message_student_list[start:end]
+            )
+            answer_list.extend(responses)
 
     del model
     

@@ -7,7 +7,7 @@ from dialogue_student import dialogue_student
 from dialogue_teacher import dialogue_teacher
 import sys
 sys.path.append("..")
-from model import model_gpu_use
+from model import model_gpu_use, model_use_api
 from utils.function import str2bool
 
 def split_numbers(total_gpu, parallel_size):    
@@ -34,14 +34,6 @@ if __name__ == "__main__":
         type=str,
         required=True,
         help="The name of the model to use.",
-        )
-    parser.add_argument(
-        "--strategy",
-        type=str,
-        required=False,
-        help="The name of the strategy to use",
-        default="base",
-        choices=["base", "example", "critique","knowledge","decomposition","socrates","all"]
         )
     parser.add_argument(
         "--can_tell_answer",
@@ -74,15 +66,22 @@ if __name__ == "__main__":
         )
     args = parser.parse_args()
     model_name = args.model_name
-    strategy = args.strategy
     can_tell_answer = args.can_tell_answer
     file_path = args.file_path
     func = args.func
     total_gpu = args.total_gpu
     turn = args.turn
+    use_api = model_use_api[model_name]
     
-    parallel_size = total_gpu // model_gpu_use[model_name]
-    
+    if use_api == True:
+        parallel_size = 64
+        gpu_id_list = range(parallel_size)
+        max_workers=parallel_size
+    else:
+        parallel_size = total_gpu // model_gpu_use[model_name]
+        gpu_id_list = split_numbers(total_gpu, parallel_size)
+        max_workers=total_gpu
+
     file = os.path.join(file_path, "data.json")
     with open(file, 'r', encoding='utf-8') as f:
         dataset = json.load(f)
@@ -94,14 +93,12 @@ if __name__ == "__main__":
         end_index = min((batch_idx + 1) * batch_size, len(dataset))
         split_dataset.append(dataset[start_index: end_index])
     
-    gpu_id_list = split_numbers(total_gpu, parallel_size)
-    
     all_results = []
 
-    with concurrent.futures.ProcessPoolExecutor(max_workers=total_gpu) as executor:
+    with concurrent.futures.ProcessPoolExecutor(max_workers=max_workers) as executor:
         # 提交任务并返回 Future 对象
         futures = [
-            executor.submit(globals()[func], id, split_dataset[id], gpu_id_list[id], model_name, strategy, can_tell_answer, turn)
+            executor.submit(globals()[func], id, split_dataset[id], gpu_id_list[id], model_name, can_tell_answer, turn)
             for id in range(parallel_size)
         ]
         
