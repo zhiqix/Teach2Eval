@@ -9,7 +9,7 @@ from utils.check_answer import check_and_extract_answer
 from model import model_path
 from utils.function import format_conversation, generate_message, generate_responses
 
-def dialogue_student(process_id, data, gpu_ids, model_name, strategy, can_tell_answer, turn, batch_size = 128):
+def dialogue_student(process_id, data, gpu_ids, model_name, can_tell_answer, turn, batch_size = 128):
     
     os.environ["CUDA_VISIBLE_DEVICES"] = gpu_ids 
     tensor_parallel_size = len(gpu_ids) // 2 + 1

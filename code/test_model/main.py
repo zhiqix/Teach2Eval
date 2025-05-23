@@ -4,9 +4,6 @@ import re
 import datetime
 import argparse
 from pipeline import pipeline
-import sys
-sys.path.append("..")
-from model import model_gpu_use
 
 def find_json_files(folder_path):
     json_files = []
@@ -54,7 +51,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
     model_name = args.model_name
     total_gpu = 4
-    parallel_size = total_gpu // model_gpu_use[model_name]
     
     print(f"Testing model: {model_name}")
     
@@ -81,6 +77,6 @@ if __name__ == "__main__":
                 if dataset_name in chosen_data_dict and str(index) in chosen_data_dict[dataset_name]:
                     item['dataset_name'] = dataset_name
                     dataset.append(item)
-    results = pipeline(model_name, dataset, parallel_size)
+    results = pipeline(model_name, dataset, total_gpu)
 
     results_dict = deal_results(results, output_path)

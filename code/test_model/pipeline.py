@@ -1,5 +1,8 @@
 from get_answer import get_answer
 import concurrent.futures
+import sys
+sys.path.append("..")
+from model import model_use_api,model_gpu_use
 
 def split_numbers(total_gpu, parallel_size):    
     if parallel_size > total_gpu:
@@ -18,7 +21,7 @@ def split_numbers(total_gpu, parallel_size):
         start = end
     return result
 
-def pipeline(model_name, dataset, parallel_size, total_gpu=4):
+def pipeline(model_name, dataset, total_gpu):
     split_dataset = []
     all_results = []
         
@@ -27,11 +30,21 @@ def pipeline(model_name, dataset, parallel_size, total_gpu=4):
         start_index = batch_idx * batch_size
         end_index = min((batch_idx + 1) * batch_size, len(dataset))
         split_dataset.append(dataset[start_index: end_index])
-    
+
+    use_api = model_use_api[model_name]
+    if use_api == True:
+        parallel_size = 64
+        gpu_id_list = range(parallel_size)
+        max_workers=parallel_size
+    else:
+        parallel_size = total_gpu // model_gpu_use[model_name]
+        gpu_id_list = split_numbers(total_gpu, parallel_size)
+        max_workers=total_gpu
+        
     gpu_id_list = split_numbers(total_gpu, parallel_size)
     
     # 使用 concurrent.futures.ProcessPoolExecutor 来进行并行处理
-    with concurrent.futures.ProcessPoolExecutor(max_workers=total_gpu) as executor:
+    with concurrent.futures.ProcessPoolExecutor(max_workers=max_workers) as executor:
         # 提交所有任务
         futures = [
             executor.submit(get_answer, split_dataset[id], gpu_id_list[id], model_name)
