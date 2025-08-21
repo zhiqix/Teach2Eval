@@ -3,6 +3,8 @@ import json
 import re
 import datetime
 import argparse
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from pipeline import pipeline
 
 def find_json_files(folder_path):
@@ -61,7 +63,7 @@ if __name__ == "__main__":
     json_files = find_json_files(folder_path)
             
     dataset = []
-    with open("chosen_data_v2.json",'r', encoding='utf-8') as file:
+    with open("chosen_data_half.json",'r', encoding='utf-8') as file:
         chosen_data_dict = json.load(file)
     for json_file in json_files:
         file_name = os.path.basename(json_file)
@@ -74,9 +76,10 @@ if __name__ == "__main__":
                 if is_correct == False:
                     continue
                 index = item['index']
-                if dataset_name in chosen_data_dict and str(index) in chosen_data_dict[dataset_name]:
+                if dataset_name in chosen_data_dict and index in chosen_data_dict[dataset_name]:
                     item['dataset_name'] = dataset_name
                     dataset.append(item)
+    print(f"Total dataset size: {len(dataset)}")
     results = pipeline(model_name, dataset, total_gpu)
 
     results_dict = deal_results(results, output_path)

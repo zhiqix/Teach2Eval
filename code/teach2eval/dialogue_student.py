@@ -5,13 +5,13 @@ from transformers import AutoTokenizer
 from prompt_student import *
 import sys
 sys.path.append("..")
-from utils.check_answer import check_and_extract_answer
+from utilities.check_answer import check_and_extract_answer
 from model import model_path
-from utils.function import format_conversation, generate_message, generate_responses
+from utilities.function import format_conversation, generate_message, generate_responses
 
 def dialogue_student(process_id, data, gpu_ids, model_name, can_tell_answer, turn, batch_size = 128):
-    
-    os.environ["CUDA_VISIBLE_DEVICES"] = gpu_ids 
+    # os.environ["CUDA_VISIBLE_DEVICES"] = gpu_ids 
+    os.environ["CUDA_VISIBLE_DEVICES"] = str(int(gpu_ids)+2)
     tensor_parallel_size = len(gpu_ids) // 2 + 1
     
     total_batches = (len(data) + batch_size - 1) // batch_size

@@ -6,8 +6,8 @@ from prompt_teacher import *
 import sys
 sys.path.append("..")
 from model import model_path, model_use_api
-from utils.function import format_conversation, generate_message, generate_responses
-from utils.get_answer_api import get_answer_api
+from utilities.function import format_conversation, generate_message, generate_responses
+from utilities.get_answer_api import get_answer_api
 from tqdm import tqdm
 
 def dialogue_teacher(process_id, data, gpu_ids, model_name, can_tell_answer, turn, batch_size = 128):
@@ -41,6 +41,7 @@ def dialogue_teacher(process_id, data, gpu_ids, model_name, can_tell_answer, tur
         for idx in range(len(data))
     ]
     if use_api == True:
+        guide_list = []
         for idx in tqdm(range(len(data)), desc="Processing", unit="item"):
             guide = get_answer_api(prompt_teacher_list[idx],model_name)
             guide_list.append(guide)

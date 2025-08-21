@@ -3,10 +3,11 @@ import re
 from vllm import LLM, SamplingParams
 from transformers import AutoTokenizer
 import sys
-sys.path.append("..")
-from utils.check_answer import check_and_extract_answer
+import importlib.util
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from utilities.check_answer import check_and_extract_answer
 from model import model_path, model_use_api
-from utils.get_answer_api import get_answer_api
+from utilities.get_answer_api import get_answer_api
 from tqdm import tqdm
 
 def get_question(items):
@@ -141,7 +142,7 @@ def get_answer(data, gpu_ids, model_name, batch_size = 128, max_turn = 3):
             )
             answer_list.extend(responses)
 
-    del model
+        del model
     
     temp_result_list = [
         check_and_extract_answer(answer_list[idx], label_list[idx], options_list[idx])

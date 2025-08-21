@@ -1,7 +1,6 @@
 {
     "api": {
-      "key": "your_api_key_here",
-      "base_url": "your_base_url_here",
-      "model": "your_model_name_here"
+      "key": "",
+      "base_url": ""
     }
   }

@@ -8,7 +8,7 @@ turn_num=$3
 
 can_tell_answer="True"
 file_path="../../results/main_results/${large_model_name}_teach_${small_model_name}"
-total_gpu=4
+total_gpu=2
 
 echo "${large_model_name} is teaching ${small_model_name}"
 
@@ -31,6 +31,7 @@ python pipeline.py \
 
 for turn in $(seq 1 $turn_num)
 do
+  echo "${turn_num} turns, current turn: ${turn}"
   echo "large_model_name turn ${turn}"
   python pipeline.py \
     --model_name ${large_model_name} \
@@ -38,7 +39,7 @@ do
     --file_path ${file_path} \
     --func "dialogue_teacher" \
     --total_gpu ${total_gpu} \
-    --turn ${turn} \
+    --turn ${turn}
 
   echo "small_model_name turn ${turn}"
   python pipeline.py \

@@ -8,7 +8,7 @@ from dialogue_teacher import dialogue_teacher
 import sys
 sys.path.append("..")
 from model import model_gpu_use, model_use_api
-from utils.function import str2bool
+from utilities.function import str2bool
 
 def split_numbers(total_gpu, parallel_size):    
     if parallel_size > total_gpu:
@@ -73,18 +73,18 @@ if __name__ == "__main__":
     turn = args.turn
     use_api = model_use_api[model_name]
     
+    file = os.path.join(file_path, "data.json")
+    with open(file, 'r', encoding='utf-8') as f:
+        dataset = json.load(f)
+
     if use_api == True:
-        parallel_size = 64
-        gpu_id_list = range(parallel_size)
+        parallel_size = min(16,len(dataset))
+        gpu_id_list = [f'{i}' for i in range(parallel_size)]
         max_workers=parallel_size
     else:
         parallel_size = total_gpu // model_gpu_use[model_name]
         gpu_id_list = split_numbers(total_gpu, parallel_size)
         max_workers=total_gpu
-
-    file = os.path.join(file_path, "data.json")
-    with open(file, 'r', encoding='utf-8') as f:
-        dataset = json.load(f)
     
     split_dataset = []
     batch_size = (len(dataset) - 1) // parallel_size + 1
@@ -108,4 +108,3 @@ if __name__ == "__main__":
 
     with open(file, 'w', encoding='utf-8') as f:
         json.dump(all_results, f, indent=2)
-        
