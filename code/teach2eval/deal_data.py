@@ -70,8 +70,6 @@ if __name__ == "__main__":
 
     input_path = "../../dataset/dataset_test"
     json_files = find_json_files(input_path)
-    with open("chosen_data_half.json",'r', encoding='utf-8') as file:
-        chosen_data_dict = json.load(file)
     dataset = []
 
     for json_file in json_files:
@@ -92,37 +90,37 @@ if __name__ == "__main__":
                 if is_correct == False:
                     continue
                 index = item.get('index',-1)
-                if dataset_name in chosen_data_dict and index in chosen_data_dict[dataset_name]:
-                    question = item.get('question',None)
-                    options = item.get('options',[])
-                    passage = item.get('passage',None)
-                    label = item.get('label',[])
-                    question_type = item.get('type',-1)
-                    if not passage == None:
-                        question = passage + '\n' + question
-                    options_str = "Options:\n   " + "\n   ".join(options)
-                    whole_question = "Question: " + question + "\n" + options_str
-                    whole_question_wo_options = "Question: " + question
-                    answer_large = large_model_results.get(str(index),None)
-                    #answer_small = small_model_results.get(str(index),None)
 
-                    data = {
-                        "dataset_name": dataset_name,
-                        "index": index,
-                        "question": question,
-                        "options": options,
-                        "label": label,
-                        "question_type": question_type,
-                        "strategy": strategy,
-                        "can_tell_answer": can_tell_answer,
-                        "result_large": answer_large,
-                        "whole_question": whole_question,
-                        "whole_question_wo_options": whole_question_wo_options,
-                        "conversation": [],
-                    }
-                    
-                    item['dataset_name'] = dataset_name
-                    dataset.append(data)        
+                question = item.get('question',None)
+                options = item.get('options',[])
+                passage = item.get('passage',None)
+                label = item.get('label',[])
+                question_type = item.get('type',-1)
+                if not passage == None:
+                    question = passage + '\n' + question
+                options_str = "Options:\n   " + "\n   ".join(options)
+                whole_question = "Question: " + question + "\n" + options_str
+                whole_question_wo_options = "Question: " + question
+                answer_large = large_model_results.get(str(index),None)
+                #answer_small = small_model_results.get(str(index),None)
+
+                data = {
+                    "dataset_name": dataset_name,
+                    "index": index,
+                    "question": question,
+                    "options": options,
+                    "label": label,
+                    "question_type": question_type,
+                    "strategy": strategy,
+                    "can_tell_answer": can_tell_answer,
+                    "result_large": answer_large,
+                    "whole_question": whole_question,
+                    "whole_question_wo_options": whole_question_wo_options,
+                    "conversation": [],
+                }
+                
+                item['dataset_name'] = dataset_name
+                dataset.append(data)        
 
 #dataset = random.sample(dataset, 30)
     if not os.path.exists(file_path):

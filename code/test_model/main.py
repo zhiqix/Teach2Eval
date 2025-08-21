@@ -63,8 +63,7 @@ if __name__ == "__main__":
     json_files = find_json_files(folder_path)
             
     dataset = []
-    with open("chosen_data_half.json",'r', encoding='utf-8') as file:
-        chosen_data_dict = json.load(file)
+
     for json_file in json_files:
         file_name = os.path.basename(json_file)
         dataset_name = os.path.splitext(file_name)[0]
@@ -76,9 +75,7 @@ if __name__ == "__main__":
                 if is_correct == False:
                     continue
                 index = item['index']
-                if dataset_name in chosen_data_dict and index in chosen_data_dict[dataset_name]:
-                    item['dataset_name'] = dataset_name
-                    dataset.append(item)
+                dataset.append(item)
     print(f"Total dataset size: {len(dataset)}")
     results = pipeline(model_name, dataset, total_gpu)
 
